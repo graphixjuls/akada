@@ -55,6 +55,8 @@ function Gate({ fontsReady }: { fontsReady: boolean }) {
         <Stack.Screen name="review" />
         <Stack.Screen name="bookmarks" />
         <Stack.Screen name="notifications" />
+        <Stack.Screen name="help" />
+        <Stack.Screen name="about" />
       </Stack.Protected>
     </Stack>
   );

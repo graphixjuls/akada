@@ -16,7 +16,7 @@ export default function Settings() {
       <Stack gap={space[12]}>
         <AkadaText variant="labelMedium">Theme</AkadaText>
         <Row gap={space[8]}>{themes.map(([v, l]) => <Chip key={v} label={l} selected={data.settings.theme === v} onPress={() => setTheme(v)} grow />)}</Row>
-        <AkadaText variant="bodySmall" color="textSecondary">System follows your phone’s setting.</AkadaText>
+        <AkadaText variant="bodySmall" color="textSecondary">System follows your device’s setting.</AkadaText>
       </Stack>
     </Screen>
   );

@@ -18,8 +18,9 @@ export default function Practice() {
   const { data } = useStore();
   const { c } = useTheme();
   const { wide, desktop } = useLayout();
-  const subjects = [ENGLISH_ID, ...data.profile!.subjects];
+  const subjects = data.profile!.subjects;
   const firstTime = data.sessions === 0;
+  const starter = subjects.includes(ENGLISH_ID) ? ENGLISH_ID : subjects[0];
   const others = allSubjects.filter(s => !subjects.includes(s.id));
   const open = (id: string) => router.push({ pathname: '/practice/[subject]', params: { subject: id } });
   const pct = (id: string) => subjectProgress(data.history, bank.questions, id);
@@ -30,9 +31,9 @@ export default function Practice() {
   const quickText = (
     <Stack gap={space[12]} style={wide ? { flex: 1 } : undefined}>
       <AkadaText variant={wide ? 'h2' : 'h3'}>{firstTime ? 'Not sure where to start?' : 'Quick practice'}</AkadaText>
-      <AkadaText variant={wide ? 'bodyLarge' : 'bodyMedium'} color="textSecondary">{firstTime ? 'Start with English. Everyone needs it, and it takes about 5 minutes.' : '10 mixed questions from all your subjects. About 8 minutes.'}</AkadaText>
+      <AkadaText variant={wide ? 'bodyLarge' : 'bodyMedium'} color="textSecondary">{firstTime ? `Start with ${subjectMeta(starter).name}. It takes about 5 minutes.` : '10 mixed questions from all your subjects. About 8 minutes.'}</AkadaText>
       <View style={wide ? { alignSelf: 'flex-start' } : undefined}>
-        <Button label={firstTime ? 'Start with English' : 'Start quick practice'} block={!wide} onPress={() => router.push({ pathname: '/practice/session', params: firstTime ? { subject: ENGLISH_ID, first: '1' } : { quick: '1' } })} />
+        <Button label={firstTime ? `Start with ${subjectMeta(starter).name}` : 'Start quick practice'} block={!wide} onPress={() => router.push({ pathname: '/practice/session', params: firstTime ? { subject: starter, first: '1' } : { quick: '1' } })} />
       </View>
     </Stack>
   );

@@ -21,7 +21,7 @@ export interface Course {
   id: string;
   name: string;
   department: DepartmentId;
-  /** Three subjects (besides English) that suit this course. Students can swap any of them. */
+  /** Subjects that usually suit this course (added to English and Maths). Students can change any of them. */
   suggested: [string, string, string];
   /** Shown under the suggestion, e.g. which subjects are strictly required. */
   note?: string;

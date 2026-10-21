@@ -2,15 +2,16 @@ import { router, useLocalSearchParams } from 'expo-router';
 import { useState } from 'react';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
-import { Chip, SubjectTag, Wrap } from '@/components/Chips';
+import { Chip, Wrap } from '@/components/Chips';
 import { useToast } from '@/components/Feedback';
 import { Screen, Stack } from '@/components/Layout';
 import { SetupHeader } from '@/components/SetupHeader';
-import { courseById, departmentById, subjectById } from '@/data/catalog';
+import { courseById, departmentById, ENGLISH_ID, subjectById, subjects as allSubjects } from '@/data/catalog';
 import { images } from '@/data/images';
 import { useStore } from '@/store/AppStore';
 import { space } from '@/theme/theme';
 
+/** Open choice: any number of subjects, nothing compulsory. The department and course only decide the suggestions. */
 export default function Subjects() {
   const { edit } = useLocalSearchParams<{ edit?: string }>();
   const { data, updateDraft, update } = useStore();
@@ -19,31 +20,30 @@ export default function Subjects() {
   const source = edit && data.profile ? data.profile : data.draft;
   const dept = departmentById(source.department ?? 'science')!;
   const course = source.courseId ? courseById(source.courseId) : undefined;
-  const [picked, setPicked] = useState<string[]>(source.subjects ?? []);
+  // English and Maths are taken by almost every SS student, so they lead the suggestions.
+  const suggested = [...new Set([ENGLISH_ID, 'mathematics', ...(course?.suggested ?? []), ...dept.subjectIds])];
+  const others = allSubjects.map(s => s.id).filter(id => !suggested.includes(id));
+  const [picked, setPicked] = useState<string[]>(source.subjects ?? [ENGLISH_ID, 'mathematics', ...(course?.suggested ?? dept.subjectIds.slice(0, 3))].filter((id, i, a) => a.indexOf(id) === i));
   const save = () => {
     if (edit && data.profile) { update(d => ({ ...d, profile: { ...d.profile!, subjects: picked } })); toast('Subjects updated', 'success'); router.back(); }
     else { updateDraft({ subjects: picked }); router.push('/setup/exam'); }
   };
-  // Show the department's list plus any suggested subject from another department (e.g. Economics for Computer Science).
-  const options = [...new Set([...(course?.suggested ?? []), ...dept.subjectIds])];
-  const toggle = (id: string) => {
-    if (picked.includes(id)) setPicked(picked.filter(s => s !== id));
-    else if (picked.length >= 3) toast('You can pick 3. Unselect one to swap it.', 'error');
-    else setPicked([...picked, id]);
-  };
+  const toggle = (id: string) => setPicked(picked.includes(id) ? picked.filter(s => s !== id) : [...picked, id]);
+  const chips = (ids: string[]) => <Wrap>{ids.map(id => <Chip key={id} label={subjectById(id)?.name ?? id} selected={picked.includes(id)} onPress={() => toggle(id)} />)}</Wrap>;
   const body = course
-    ? `${course.note ?? `Suggested for ${course.name}.`} Tap a subject to swap it, and check your school’s requirements.`
-    : 'Pick 3 subjects to focus on, besides English.';
+    ? `${course.note ?? `Suggested for ${course.name}.`} Add or remove any subject you take at school.`
+    : 'Pick every subject you take at school. You can change them any time.';
+  const count = picked.length;
   return (
-    <Screen width="form" aside={images.science} footer={<Button label={picked.length === 3 ? (edit ? 'Save subjects' : 'Continue') : `Pick ${3 - picked.length} more`} disabled={picked.length !== 3} onPress={save} block />}>
+    <Screen width="form" aside={images.science} footer={<Button label={count ? `${edit ? 'Save' : 'Continue'} · ${count} ${count === 1 ? 'subject' : 'subjects'}` : 'Pick at least one subject'} disabled={!count} onPress={save} block />}>
       <SetupHeader step={edit ? undefined : 3} photo={images.science} title="Your subjects" body={body} />
-      <Stack>
-        <AkadaText variant="labelMedium">Compulsory</AkadaText>
-        <SubjectTag label="English Language" color="english" />
+      <Stack gap={space[12]}>
+        <AkadaText variant="labelMedium">Suggested for {course ? course.name : dept.name}</AkadaText>
+        {chips(suggested)}
       </Stack>
       <Stack gap={space[12]}>
-        <AkadaText variant="labelMedium">{dept.name} subjects · {picked.length} of 3 selected</AkadaText>
-        <Wrap>{options.map(id => <Chip key={id} label={subjectById(id)?.name ?? id} selected={picked.includes(id)} onPress={() => toggle(id)} />)}</Wrap>
+        <AkadaText variant="labelMedium">Other subjects</AkadaText>
+        {chips(others)}
       </Stack>
     </Screen>
   );

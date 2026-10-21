@@ -8,7 +8,7 @@ import { ListRow } from '@/components/ListRow';
 import { Emoji } from '@/components/Emoji';
 import { SetupHeader } from '@/components/SetupHeader';
 import { TextField } from '@/components/TextField';
-import { departmentById, searchCourses, subjectById } from '@/data/catalog';
+import { departmentById, ENGLISH_ID, searchCourses, subjectById } from '@/data/catalog';
 import { images } from '@/data/images';
 import { useStore } from '@/store/AppStore';
 
@@ -22,7 +22,7 @@ export default function Course() {
   const results = useMemo(() => searchCourses(query, query ? undefined : dept), [query, dept]);
   const go = (courseId: string | null) => {
     const course = courseId ? searchCourses('').find(c => c.id === courseId) : null;
-    updateDraft({ courseId, subjects: course ? [...course.suggested] : [] });
+    updateDraft({ courseId, subjects: [...new Set([ENGLISH_ID, 'mathematics', ...(course?.suggested ?? departmentById(dept)!.subjectIds.slice(0, 3))])] });
     router.push('/setup/subjects');
   };
   return (

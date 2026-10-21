@@ -8,7 +8,6 @@ import { Card, Grid, ListCard, Photo, Row, Screen, Stack } from '@/components/La
 import { ListRow } from '@/components/ListRow';
 import { ProgressBar } from '@/components/Progress';
 import { bank, topicsFor } from '@/data/bank';
-import { ENGLISH_ID } from '@/data/catalog';
 import { images } from '@/data/images';
 import { subjectMeta } from '@/data/subjectMeta';
 import { accuracy, streak, weakTopics } from '@/logic/progress';
@@ -22,7 +21,7 @@ export default function Progress() {
   const { desktop } = useLayout();
   // Computers: pairs of cards side by side.
   const pair = desktop ? 2 : 1;
-  const subjects = [ENGLISH_ID, ...data.profile!.subjects];
+  const subjects = data.profile!.subjects;
   const answered = Object.keys(data.history).length;
 
   if (answered === 0) {

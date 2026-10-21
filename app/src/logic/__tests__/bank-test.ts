@@ -63,7 +63,7 @@ describe('picking questions', () => {
   });
   it('builds a mock with a fixed number of questions per subject', () => {
     const ids = buildMock(['physics', 'chemistry', 'biology'], undefined, seeded(6));
-    expect(ids).toHaveLength(4 * MOCK_FORMAT.questionsPerSubject);
+    expect(ids).toHaveLength(3 * MOCK_FORMAT.questionsPerSubject);
     expect(new Set(ids).size).toBe(ids.length);
   });
 });

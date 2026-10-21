@@ -39,9 +39,10 @@ export default function Home() {
   const { c } = useTheme();
   const { size, wide, desktop } = useLayout();
   const p = data.profile!;
-  const subjects = [ENGLISH_ID, ...p.subjects];
+  const subjects = p.subjects;
   const firstTime = data.sessions === 0;
-  const firstCount = Math.min(10, questionsFor(ENGLISH_ID).length);
+  const starter = subjects.includes(ENGLISH_ID) ? ENGLISH_ID : subjects[0];
+  const firstCount = Math.min(10, questionsFor(starter).length);
   const today = localDate();
   const days = streak(data.practiceDays, today);
   const minutes = data.today.date === today ? data.today.minutes : 0;
@@ -72,7 +73,7 @@ export default function Home() {
         {subjects.map(id => {
           const m = subjectMeta(id);
           const prog = subjectProgress(data.history, bank.questions, id);
-          const status = prog === 0 ? (firstTime && id === ENGLISH_ID ? 'Start here' : 'Not started') : `${Math.round(prog * 100)}% complete`;
+          const status = prog === 0 ? (firstTime && id === starter ? 'Start here' : 'Not started') : `${Math.round(prog * 100)}% complete`;
           return <SubjectCard key={id} title={m.name} subtitle={m.topicsLine} color={m.color} emoji={m.emoji} progress={prog} status={status} onPress={() => router.push({ pathname: '/practice/[subject]', params: { subject: id } })} />;
         })}
       </Grid>
@@ -89,9 +90,9 @@ export default function Home() {
       <Stack gap={space[12]} style={wide ? { flex: 1 } : undefined}>
         <AkadaText variant="labelSmall" color="textBrand">START HERE</AkadaText>
         <AkadaText variant={wide ? 'h1' : 'h2'}>Your first practice</AkadaText>
-        <AkadaText variant={wide ? 'bodyLarge' : 'bodyMedium'} color="textSecondary">{firstCount} English questions · about {Math.max(1, Math.round(firstCount * 0.8))} minutes. Every answer comes with an explanation, so you learn as you go.</AkadaText>
+        <AkadaText variant={wide ? 'bodyLarge' : 'bodyMedium'} color="textSecondary">{firstCount} {subjectMeta(starter).name} questions · about {Math.max(1, Math.round(firstCount * 0.8))} minutes. Every answer comes with an explanation, so you learn as you go.</AkadaText>
         <View style={wide ? { alignSelf: 'flex-start' } : undefined}>
-          <Button label="Start your first practice" block={!wide} onPress={() => router.push({ pathname: '/practice/session', params: { subject: ENGLISH_ID, first: '1' } })} />
+          <Button label="Start your first practice" block={!wide} onPress={() => router.push({ pathname: '/practice/session', params: { subject: starter, first: '1' } })} />
         </View>
       </Stack>
     );
@@ -163,7 +164,7 @@ export default function Home() {
     <Card>
       <Photo source={images.cbt} height={desktop ? 160 : 150} rounded="md" />
       <AkadaText variant="h3">Timed mock test</AkadaText>
-      <AkadaText variant="bodyMedium" color="textSecondary">English and your 3 subjects · new random questions every time.</AkadaText>
+      <AkadaText variant="bodyMedium" color="textSecondary">Choose any of your subjects · new random questions every time.</AkadaText>
       <Button label="Start mock test" block onPress={() => router.push('/(tabs)/mock')} />
     </Card>
   );

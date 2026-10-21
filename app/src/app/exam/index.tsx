@@ -11,9 +11,8 @@ import { Dialog, useToast } from '@/components/Feedback';
 import { IconButton } from '@/components/IconButton';
 import { Row, Screen, Stack } from '@/components/Layout';
 import { bank, questionById } from '@/data/bank';
-import { ENGLISH_ID } from '@/data/catalog';
 import { subjectMeta } from '@/data/subjectMeta';
-import { examCounts, examReducer, gradeExam, numberState, type ExamAction } from '@/logic/exam';
+import { examCounts, examReducer, examSubjects, gradeExam, numberState, type ExamAction } from '@/logic/exam';
 import { CRITICAL_MS, remainingMs } from '@/logic/timer';
 import { useStore } from '@/store/AppStore';
 import { useLayout } from '@/theme/responsive';
@@ -39,15 +38,14 @@ export default function Exam() {
     return () => { clearInterval(t); sub.remove(); };
   }, []);
 
-  const subjectsKey = [ENGLISH_ID, ...(data.profile?.subjects ?? [])].join(',');
-  const subjectOrder = subjectsKey.split(',');
+  const subjectOrder = exam ? examSubjects(exam, bank.questions) : [];
   const left = exam ? remainingMs(exam.startedAt, exam.durationMs, now) : 0;
   const submit = useCallback(() => {
     if (!exam || exam.submittedAt !== null) return;
     const done = examReducer(exam, { type: 'submit', at: Date.now() });
     setExam(done);
-    finishExam(gradeExam(done, bank.questions, subjectsKey.split(',')).total);
-  }, [exam, setExam, finishExam, subjectsKey]);
+    finishExam(gradeExam(done, bank.questions, examSubjects(done, bank.questions)).total);
+  }, [exam, setExam, finishExam]);
 
   useEffect(() => {
     if (!exam || exam.submittedAt !== null) return;
@@ -87,10 +85,10 @@ export default function Exam() {
   const goto = (i: number) => dispatch({ type: 'goto', index: i });
   const subjectTabs = subjectOrder.map(sid => {
     const first = exam.questionIds.findIndex(id => questionById(id)?.subjectId === sid);
-    const name = sid === ENGLISH_ID ? 'English' : subjectMeta(sid).name;
+    const name = subjectMeta(sid).name;
     if (first < 0) return null;
-    const chip = <Chip label={desktop ? name : name.length > 9 ? name.slice(0, 8) + '.' : name} selected={sid === q.subjectId} onPress={() => goto(first)} grow={!desktop} />;
-    return desktop ? <View key={sid}>{chip}</View> : <View key={sid} style={{ flex: 1 }}>{chip}</View>;
+    const short = name.replace(' Language', '').replace('Further Mathematics', 'Further Maths');
+    return <View key={sid}><Chip label={desktop ? name : short} selected={sid === q.subjectId} onPress={() => goto(first)} /></View>;
   });
   const summary = (
     <Stack gap={space[4]} style={{ flex: 1 }}>
@@ -158,7 +156,7 @@ export default function Exam() {
       <SafeAreaView style={{ flex: 1, backgroundColor: c.bgCanvas }}>
         <View style={{ flexDirection: 'row', alignItems: 'center', gap: space[16], paddingHorizontal: space[48], paddingVertical: space[16], backgroundColor: c.bgSurface, borderBottomWidth: 1, borderBottomColor: c.borderDefault }}>
           <Timer ms={left} />
-          <View style={{ flexDirection: 'row', gap: space[8] }}>{subjectTabs}</View>
+          <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{ flexShrink: 1 }} contentContainerStyle={{ gap: space[8] }}>{subjectTabs}</ScrollView>
           <View style={{ flex: 1 }} />
           <Button label="Submit" variant="outline" size="small" onPress={() => setConfirm(true)} />
         </View>
@@ -200,7 +198,7 @@ export default function Exam() {
         <View style={{ flex: 1 }} />
         <Button label="Submit" variant="outline" size="small" onPress={() => setConfirm(true)} />
       </Row>
-      <Row gap={space[8]}>{subjectTabs}</Row>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{ flexGrow: 0 }} contentContainerStyle={{ gap: space[8] }}>{subjectTabs}</ScrollView>
       {questionHeader}
       <AkadaText variant="question">{q.text}</AkadaText>
       {options}

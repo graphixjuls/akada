@@ -66,6 +66,12 @@ export function numberState(state: ExamState, index: number): NumberState {
   return 'Unanswered';
 }
 
+/** The subjects in a test, in the order their questions appear. */
+export function examSubjects(state: ExamState, bank: Question[]): string[] {
+  const byId = new Map(bank.map(q => [q.id, q.subjectId]));
+  return [...new Set(state.questionIds.map(id => byId.get(id)).filter((s): s is string => !!s))];
+}
+
 export function gradeExam(state: ExamState, bank: Question[], subjectOrder: string[]) {
   const byId = new Map(bank.map(q => [q.id, q]));
   const results = subjectOrder.map(subjectId => {

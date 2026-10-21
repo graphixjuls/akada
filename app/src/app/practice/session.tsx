@@ -12,7 +12,6 @@ import { IconButton } from '@/components/IconButton';
 import { Card, Row, Screen, Stack } from '@/components/Layout';
 import { ProgressBar } from '@/components/Progress';
 import { pickQuestions, questionsFor, topicsFor } from '@/data/bank';
-import { ENGLISH_ID } from '@/data/catalog';
 import { subjectMeta } from '@/data/subjectMeta';
 import type { Question } from '@/data/types';
 import { initialPractice, optionState, practiceReducer } from '@/logic/practice';
@@ -25,8 +24,7 @@ const SESSION_SIZE = 10;
 
 function sessionQuestions(p: { subject?: string; topic?: string; quick?: string; first?: string }, subjects: string[], answered: (id: string) => boolean): Question[] {
   if (p.quick) return pickQuestions(subjects.flatMap(s => questionsFor(s)), SESSION_SIZE, answered);
-  if (p.first) return pickQuestions(questionsFor(ENGLISH_ID), SESSION_SIZE, answered);
-  return pickQuestions(questionsFor(p.subject ?? ENGLISH_ID, p.topic), SESSION_SIZE, answered);
+  return pickQuestions(questionsFor(p.subject ?? subjects[0], p.topic), SESSION_SIZE, answered);
 }
 
 export default function Session() {
@@ -37,7 +35,7 @@ export default function Session() {
   const { subject, topic: topicId, quick, first } = params;
   const subjectsKey = (data.profile?.subjects ?? []).join(',');
   // Picked once when the session opens: answers saved during the session must not reshuffle it.
-  const [questions] = useState(() => sessionQuestions({ subject, topic: topicId, quick, first }, [ENGLISH_ID, ...subjectsKey.split(',').filter(Boolean)], id => !!data.history[id]));
+  const [questions] = useState(() => sessionQuestions({ subject, topic: topicId, quick, first }, subjectsKey.split(',').filter(Boolean), id => !!data.history[id]));
   const [s, dispatch] = useReducer(practiceReducer, initialPractice);
   const [leaving, setLeaving] = useState(false);
   const [startedAt] = useState(() => Date.now());

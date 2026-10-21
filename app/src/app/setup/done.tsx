@@ -4,7 +4,7 @@ import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { SubjectTag, Wrap } from '@/components/Chips';
 import { Photo, Screen, Stack } from '@/components/Layout';
-import { ENGLISH_ID, subjectById } from '@/data/catalog';
+import { subjectById } from '@/data/catalog';
 import { images } from '@/data/images';
 import { useStore } from '@/store/AppStore';
 import { useLayout } from '@/theme/responsive';
@@ -14,7 +14,7 @@ export default function AllSet() {
   const { height } = useWindowDimensions();
   const { desktop } = useLayout();
   const d = data.draft;
-  const subjects = [ENGLISH_ID, ...(d.subjects ?? [])];
+  const subjects = (d.subjects ?? []);
   return (
     <Screen width="form" aside={images.allSet} footer={<Button label="Start practising" block onPress={() => { completeOnboarding(); router.replace('/(tabs)'); }} />}>
       {!desktop && <Photo source={images.allSet} height={Math.max(240, height * 0.4)} />}

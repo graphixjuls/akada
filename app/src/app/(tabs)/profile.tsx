@@ -5,27 +5,23 @@ import { View } from 'react-native';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { Chip, SubjectTag, Wrap } from '@/components/Chips';
-import { Dialog, useToast } from '@/components/Feedback';
+import { Dialog } from '@/components/Feedback';
 import { Card, Columns, ListCard, Row, Screen, Stack } from '@/components/Layout';
 import { ListRow } from '@/components/ListRow';
-import Constants from 'expo-constants';
-import { bank } from '@/data/bank';
-import { courseById, departmentById, ENGLISH_ID, subjectById } from '@/data/catalog';
+import { courseById, departmentById, subjectById } from '@/data/catalog';
 import { useStore, type ThemeSetting } from '@/store/AppStore';
 import { THIS_DEVICE, useLayout } from '@/theme/responsive';
 import { radius, space, useTheme } from '@/theme/theme';
 
-const APP_VERSION = Constants.expoConfig?.version ?? '1.0.0';
 
 export default function Profile() {
   const { data, resetAll, setTheme } = useStore();
   const { desktop } = useLayout();
   const themes: [ThemeSetting, string][] = [['system', 'System'], ['light', 'Light'], ['dark', 'Dark']];
   const { c } = useTheme();
-  const toast = useToast();
   const [confirm, setConfirm] = useState(false);
   const p = data.profile!;
-  const subjects = [ENGLISH_ID, ...p.subjects];
+  const subjects = p.subjects;
   const course = p.courseId ? courseById(p.courseId)?.name : departmentById(p.department)?.name;
   return (
     <Screen tab>
@@ -52,8 +48,8 @@ export default function Profile() {
         <ListRow label="Settings" icon={GearSixIcon} onPress={() => router.push('/settings')} />
         <ListRow label="Offline access" value="On" icon={DownloadSimpleIcon} onPress={() => router.push('/downloads')} />
         <ListRow label="Bookmarks" value={String(data.bookmarks.length)} icon={BookmarkSimpleIcon} onPress={() => router.push('/bookmarks')} />
-        <ListRow label="Help and feedback" icon={ChatCircleDotsIcon} onPress={() => toast('Help and feedback is coming soon.')} />
-        <ListRow label="About Akada" icon={InfoIcon} last onPress={() => toast(`Akada ${APP_VERSION} · ${bank.questions.length.toLocaleString()} practice questions`)} />
+        <ListRow label="Help and feedback" icon={ChatCircleDotsIcon} onPress={() => router.push('/help')} />
+        <ListRow label="About Akada" icon={InfoIcon} last onPress={() => router.push('/about')} />
       </ListCard>
       {/* Computers have room for the theme choice right here (phones use Settings). */}
       {desktop && (

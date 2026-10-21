@@ -1,5 +1,8 @@
 import { bank, buildMock } from '../../data/bank';
-import { createExam, examCounts, examReducer, gradeExam, numberState } from '../exam';
+import { MOCK_FORMAT } from '../../data/catalog';
+import type { AppData } from '../../store/AppStore';
+import { migrate } from '../../store/migrate';
+import { createExam, examCounts, examReducer, examSubjects, gradeExam, numberState } from '../exam';
 import { initialPractice, optionState, practiceReducer } from '../practice';
 
 describe('practice answer state', () => {
@@ -29,6 +32,11 @@ describe('practice answer state', () => {
     expect(s.selected).toBe(0);
     s = practiceReducer(s, { type: 'next' });
     expect(s).toEqual({ index: 1, selected: null, checked: false, outcomes: [true] });
+  });
+  it('works with any number of subjects and no English', () => {
+    const ids = buildMock(['geography']);
+    expect(ids).toHaveLength(MOCK_FORMAT.questionsPerSubject);
+    expect(examSubjects(createExam(ids, 0, 1), bank.questions)).toEqual(['geography']);
   });
 });
 
@@ -75,9 +83,10 @@ describe('mock exam answer state', () => {
 });
 
 describe('grading a mock test', () => {
-  it('builds English first and grades each subject as a percentage', () => {
-    const ids = buildMock(['physics', 'chemistry', 'biology']);
+  it('keeps the chosen subject order and grades each subject as a percentage', () => {
+    const ids = buildMock(['english', 'physics', 'chemistry', 'biology']);
     expect(bank.questions.find(q => q.id === ids[0])?.subjectId).toBe('english');
+    expect(examSubjects(createExam(ids, 0, 1), bank.questions)).toEqual(['english', 'physics', 'chemistry', 'biology']);
     let s = createExam(ids, 0, 1);
     // answer every English question correctly, nothing else
     for (const q of bank.questions.filter(q => q.subjectId === 'english')) s = examReducer(s, { type: 'select', questionId: q.id, option: q.answerIndex });
@@ -86,5 +95,14 @@ describe('grading a mock test', () => {
     expect(r.perSubject.slice(1).every(x => x.score === 0)).toBe(true);
     expect(r.total).toBe(25);
     expect(r.max).toBe(100);
+  });
+});
+
+describe('open subjects', () => {
+  it('moves English into the subject list once, for students from before schema 2', () => {
+    const old = { draft: {}, profile: { name: 'Ada', department: 'science' as const, courseId: null, subjects: ['physics', 'chemistry', 'biology'], examDate: '', dailyGoalMin: 30 } } as unknown as AppData;
+    const d = migrate(old);
+    expect(d.profile!.subjects).toEqual(['english', 'physics', 'chemistry', 'biology']);
+    expect(migrate(d).profile!.subjects).toEqual(d.profile!.subjects);
   });
 });

@@ -2,6 +2,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import type { DepartmentId } from '../data/types';
 import type { ExamState } from '../logic/exam';
+import { migrate } from './migrate';
 
 const STORAGE_KEY = 'akada:v1';
 
@@ -11,13 +12,15 @@ export interface Profile {
   name: string;
   department: DepartmentId;
   courseId: string | null;
-  /** The 3 subjects besides Use of English. */
+  /** Every subject the student studies, in their order. Any number, none compulsory. */
   subjects: string[];
   examDate: string;
   dailyGoalMin: number;
 }
 
 export interface AppData {
+  /** 2: subjects are open (English is no longer added automatically). */
+  schema?: number;
   profile: Profile | null;
   /** Onboarding answers collected before the profile is complete. */
   draft: Partial<Profile>;
@@ -35,6 +38,7 @@ export interface AppData {
 }
 
 export const initialData: AppData = {
+  schema: 2,
   profile: null,
   draft: {},
   history: {},
@@ -55,7 +59,7 @@ export const localDate = (t = Date.now()) => {
 /** Fills any onboarding answer the student skipped. Everything is stored on the phone only. */
 export const DEFAULT_PROFILE: Profile = {
   name: 'Friend', department: 'science', courseId: null,
-  subjects: ['physics', 'chemistry', 'biology'], examDate: 'Thu, 15 Apr 2027', dailyGoalMin: 30,
+  subjects: ['english', 'mathematics', 'physics', 'chemistry', 'biology'], examDate: 'Thu, 15 Apr 2027', dailyGoalMin: 30,
 };
 
 interface Store {
@@ -82,7 +86,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     AsyncStorage.getItem(STORAGE_KEY)
-      .then(raw => { if (raw) setData({ ...initialData, ...JSON.parse(raw) }); })
+      .then(raw => { if (raw) setData(migrate({ ...initialData, schema: 1, ...JSON.parse(raw) })); })
       .catch(() => { /* corrupted or unavailable storage: start fresh */ })
       .finally(() => setHydrated(true));
   }, []);

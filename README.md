@@ -2,7 +2,9 @@
 
 **Free, offline practice questions for Nigerian senior secondary students (SS1–SS3).**
 
-Akada is an Android app with about 3,000 multiple-choice questions across 15 subjects. Every answer comes with a short explanation. It works fully offline: no account, no sign-in and no data needed after you install it.
+Akada is an Android app with about 3,000 multiple-choice questions across 16 subjects. Every answer comes with a short explanation. It works fully offline: no account, no sign-in and no data needed after you install it.
+
+**Use it in your browser:** https://akada-me-d9de.vercel.app works on phones, tablets and computers, and can be installed to your home screen.
 
 ## Download and install (Android)
 
@@ -17,10 +19,10 @@ To update, download the newer APK from the Releases page and install it over the
 
 ## What's inside
 
-- **15 subjects:** English Language, Mathematics, Further Mathematics, Physics, Chemistry, Biology, Agricultural Science, Geography, Computer Studies, Economics, Government, Commerce, Financial Accounting, CRS, Literature in English and History.
+- **16 subjects:** English Language, Mathematics, Further Mathematics, Physics, Chemistry, Biology, Agricultural Science, Geography, Computer Studies, Economics, Government, Commerce, Financial Accounting, CRS, Literature in English and History.
 - **Topics by class:** every topic is labelled SS1, SS2 or SS3.
 - **Practice:** 10 questions at a time, with instant feedback and an explanation. Questions you haven't answered yet come first.
-- **Timed mock tests:** English plus 3 subjects of your choice, 20 random questions each, scored as percentages.
+- **Timed mock tests:** any of your subjects, 20 random questions each, scored as percentages.
 - **Progress:** streaks, accuracy by subject, weak topics and bookmarks.
 - **Light and dark themes.**
 
