@@ -1,0 +1,851 @@
+@subject english
+
+@topic eng-synonyms | Vocabulary: words nearest in meaning | SS1
+
+Q: Choose the word nearest in meaning to "pleasant" in this sentence: The weather was pleasant all week.
+A: agreeable
+W: harsh
+W: unusual
+W: cloudy
+E: "Pleasant" means enjoyable or nice, which is what "agreeable" means.
+
+Q: Choose the word nearest in meaning to "diligent" in this sentence: Ada is a diligent student.
+A: hardworking
+W: lazy
+W: brilliant
+W: quiet
+E: A diligent person works carefully and steadily, so "hardworking" is closest.
+
+Q: Choose the word nearest in meaning to "commence" in this sentence: The exam will commence at 9 a.m.
+A: begin
+W: end
+W: continue
+W: pause
+E: "Commence" is a formal word for "begin".
+
+Q: Choose the word nearest in meaning to "abundant" in this sentence: Rainfall is abundant in the south.
+A: plentiful
+W: scarce
+W: seasonal
+W: heavy
+E: "Abundant" means existing in large quantities, so "plentiful" is closest.
+
+Q: Choose the word nearest in meaning to "obstinate" in this sentence: The obstinate boy refused to apologise.
+A: stubborn
+W: polite
+W: frightened
+W: honest
+E: An obstinate person refuses to change their mind, which is being stubborn.
+
+Q: Choose the word nearest in meaning to "vital" in this sentence: Water is vital to life.
+A: essential
+W: harmful
+W: common
+W: useless
+E: "Vital" means absolutely necessary, which is what "essential" means.
+
+Q: Choose the word nearest in meaning to "reluctant" in this sentence: Emeka was reluctant to lend his phone.
+A: unwilling
+W: eager
+W: quick
+W: proud
+E: To be reluctant is to be unwilling or hesitant to do something.
+
+@topic eng-antonyms | Vocabulary: words opposite in meaning | SS1
+
+Q: Choose the word opposite in meaning to "generous" in this sentence: Mr Bello is a generous man.
+A: stingy
+W: kind
+W: wealthy
+W: gentle
+E: A generous person gives freely; a stingy person is unwilling to give.
+
+Q: Choose the word opposite in meaning to "ancient" in this sentence: Benin has many ancient walls.
+A: modern
+W: old
+W: historic
+W: broken
+E: "Ancient" means very old, so its opposite is "modern".
+
+Q: Choose the word opposite in meaning to "victory" in this sentence: The team celebrated its victory.
+A: defeat
+W: success
+W: match
+W: trophy
+E: A victory is a win; the opposite is a defeat.
+
+Q: Choose the word opposite in meaning to "permanent" in this sentence: She got a permanent job.
+A: temporary
+W: lasting
+W: difficult
+W: paid
+E: "Permanent" means lasting for a long time; "temporary" means lasting only a short time.
+
+Q: Choose the word opposite in meaning to "humble" in this sentence: Despite his success, Tunde remained humble.
+A: arrogant
+W: modest
+W: poor
+W: quiet
+E: A humble person does not boast; an arrogant person thinks they are better than others.
+
+Q: Choose the word opposite in meaning to "scarce" in this sentence: Fuel was scarce last month.
+A: plentiful
+W: costly
+W: rare
+W: hidden
+E: "Scarce" means in short supply; "plentiful" means available in large amounts.
+
+@topic eng-idioms | Idioms and expressions | SS2
+
+Q: What does "to burn the midnight oil" mean?
+A: to study or work late into the night
+W: to waste fuel
+W: to start a fire at night
+W: to sleep very early
+E: The idiom describes someone working or studying until very late.
+
+Q: What does "a piece of cake" mean?
+A: something very easy
+W: a small gift
+W: a sweet reward
+W: something shared equally
+E: If a task is "a piece of cake", it is very easy to do.
+
+Q: What does "to let the cat out of the bag" mean?
+A: to reveal a secret
+W: to set an animal free
+W: to cause trouble
+W: to tell a lie
+E: The idiom means to reveal information that was meant to be kept secret.
+
+Q: What does "to hit the nail on the head" mean?
+A: to describe something exactly right
+W: to work as a carpenter
+W: to make a serious mistake
+W: to hurt oneself
+E: When you hit the nail on the head, you say exactly the right thing about a situation.
+
+Q: The teacher told the class to "hold their horses". What did she mean?
+A: be patient and wait
+W: ride carefully
+W: hurry up
+W: stop talking
+E: "Hold your horses" means to wait and not rush into something.
+
+Q: What does "once in a blue moon" mean?
+A: very rarely
+W: every month
+W: at night
+W: very often
+E: Something that happens once in a blue moon happens very rarely.
+
+@topic eng-concord | Concord (subject–verb agreement) | SS1
+
+Q: Choose the option that best completes the sentence: Neither the teacher nor the students ___ in the hall.
+A: were
+W: was
+W: is
+W: has been
+E: With "neither … nor", the verb agrees with the nearer subject. "Students" is plural, so "were" is correct.
+
+Q: Choose the option that best completes the sentence: Each of the boys ___ a uniform.
+A: has
+W: have
+W: are having
+W: were having
+E: "Each" is singular, so it takes the singular verb "has".
+
+Q: Choose the option that best completes the sentence: The news ___ very encouraging.
+A: was
+W: were
+W: are
+W: have been
+E: "News" is an uncountable noun and takes a singular verb.
+
+Q: Choose the option that best completes the sentence: Bread and butter ___ my favourite breakfast.
+A: is
+W: are
+W: were
+W: have been
+E: "Bread and butter" is treated as one dish, so it takes a singular verb.
+
+Q: Choose the option that best completes the sentence: The principal, together with his staff, ___ arrived.
+A: has
+W: have
+W: are
+W: were
+E: Phrases like "together with" do not change the subject. The subject "principal" is singular.
+
+Q: Choose the option that best completes the sentence: The number of students in the class ___ increasing.
+A: is
+W: are
+W: were
+W: have been
+E: "The number of" is singular. ("A number of" would take a plural verb.)
+
+@topic eng-tenses | Tenses | SS1
+
+Q: Choose the option that best completes the sentence: By the time we got to the stadium, the match ___.
+A: had started
+W: has started
+W: starts
+W: will start
+E: The past perfect "had started" shows an action completed before another past action.
+
+Q: Choose the option that best completes the sentence: She ___ in Lagos since 2019.
+A: has lived
+W: lives
+W: is living
+W: lived
+E: "Since" with a time that continues to now takes the present perfect.
+
+Q: Choose the option that best completes the sentence: If I were you, I ___ apologise.
+A: would
+W: will
+W: shall
+W: can
+E: An unreal condition ("If I were…") takes "would" in the main clause.
+
+Q: Choose the option that best completes the sentence: Every morning, my father ___ to work.
+A: drives
+W: drove
+W: is driving
+W: has driven
+E: The simple present describes habits and routines.
+
+Q: Choose the option that best completes the sentence: While I was reading, the light ___ out.
+A: went
+W: goes
+W: has gone
+W: was going
+E: A short action interrupting a longer one in the past takes the simple past.
+
+Q: Choose the option that best completes the sentence: Look at those dark clouds! It ___ rain.
+A: is going to
+W: will have
+W: has
+W: was going to
+E: "Going to" is used for predictions based on present evidence.
+
+@topic eng-parts-of-speech | Parts of speech | SS1
+
+Q: What part of speech is "quickly" in this sentence: She ran quickly to the gate.
+A: adverb
+W: adjective
+W: verb
+W: noun
+E: "Quickly" tells us how she ran, so it modifies a verb. It is an adverb.
+
+Q: What part of speech is "beautiful" in this sentence: Calabar is a beautiful city.
+A: adjective
+W: adverb
+W: noun
+W: pronoun
+E: "Beautiful" describes the noun "city", so it is an adjective.
+
+Q: What part of speech is "under" in this sentence: The cat is under the table.
+A: preposition
+W: conjunction
+W: adverb
+W: noun
+E: "Under" shows the relationship between "cat" and "table", so it is a preposition.
+
+Q: What part of speech is "although" in this sentence: Although it rained, we played football.
+A: conjunction
+W: preposition
+W: adverb
+W: pronoun
+E: "Although" joins two clauses, so it is a conjunction.
+
+Q: What part of speech is "honesty" in this sentence: Honesty is the best policy.
+A: noun
+W: adjective
+W: verb
+W: adverb
+E: "Honesty" names a quality, so it is an abstract noun.
+
+Q: What part of speech is "themselves" in this sentence: The girls prepared the meal themselves.
+A: pronoun
+W: noun
+W: adjective
+W: adverb
+E: "Themselves" is a reflexive (emphatic) pronoun.
+
+@topic eng-prepositions | Prepositions and phrasal verbs | SS2
+
+Q: Choose the option that best completes the sentence: She is good ___ Mathematics.
+A: at
+W: in
+W: on
+W: with
+E: The correct expression is "good at" a subject or skill.
+
+Q: Choose the option that best completes the sentence: The students were congratulated ___ their success.
+A: on
+W: for
+W: at
+W: with
+E: We congratulate someone "on" an achievement.
+
+Q: Choose the option that best completes the sentence: Please look ___ the word in your dictionary.
+A: up
+W: for
+W: into
+W: after
+E: To "look up" a word means to search for it in a reference book.
+
+Q: Choose the option that best completes the sentence: The meeting has been put ___ until next week.
+A: off
+W: out
+W: up
+W: on
+E: To "put off" means to postpone.
+
+Q: Choose the option that best completes the sentence: My grandmother looks ___ the children when we travel.
+A: after
+W: over
+W: into
+W: up
+E: To "look after" someone means to take care of them.
+
+Q: Choose the option that best completes the sentence: He was accused ___ stealing the money.
+A: of
+W: for
+W: with
+W: on
+E: The correct expression is "accused of" something.
+
+@topic eng-question-tags | Question tags | SS2
+
+Q: Choose the correct question tag: You are coming to the party, ___?
+A: aren't you
+W: isn't it
+W: are you
+W: don't you
+E: A positive statement takes a negative tag with the same auxiliary: "are" → "aren't you".
+
+Q: Choose the correct question tag: She can't swim, ___?
+A: can she
+W: can't she
+W: does she
+W: isn't it
+E: A negative statement takes a positive tag: "can't" → "can she".
+
+Q: Choose the correct question tag: They went to Abuja yesterday, ___?
+A: didn't they
+W: weren't they
+W: haven't they
+W: did they
+E: The simple past "went" uses the auxiliary "did", so the negative tag is "didn't they".
+
+Q: Choose the correct question tag: Let's start the lesson, ___?
+A: shall we
+W: will you
+W: don't we
+W: isn't it
+E: Sentences beginning with "Let's" take the tag "shall we".
+
+Q: Choose the correct question tag: Nobody called me, ___?
+A: did they
+W: didn't they
+W: did he
+W: didn't he
+E: "Nobody" makes the statement negative, so the tag is positive, and it uses "they".
+
+Q: Choose the correct question tag: I am your friend, ___?
+A: aren't I
+W: amn't I
+W: am I
+W: isn't it
+E: The standard tag for "I am" is "aren't I".
+
+@topic eng-clauses | Phrases and clauses | SS2
+
+Q: Identify the type of clause in brackets: I know [that he is honest].
+A: noun clause
+W: adjective clause
+W: adverbial clause of reason
+W: main clause
+E: The clause is the object of "know", so it does the work of a noun.
+
+Q: Identify the type of clause in brackets: The man [who sold us the car] has travelled.
+A: adjective (relative) clause
+W: noun clause
+W: adverbial clause of time
+W: main clause
+E: The clause describes the noun "man", so it is an adjective (relative) clause.
+
+Q: Identify the type of clause in brackets: We stayed indoors [because it was raining].
+A: adverbial clause of reason
+W: adverbial clause of time
+W: noun clause
+W: adjective clause
+E: The clause tells us why we stayed indoors.
+
+Q: Identify the type of clause in brackets: [When the bell rang], the students left.
+A: adverbial clause of time
+W: adverbial clause of condition
+W: noun clause
+W: adjective clause
+E: The clause tells us when the students left.
+
+Q: Identify the type of clause in brackets: [If you study hard], you will pass.
+A: adverbial clause of condition
+W: adverbial clause of reason
+W: noun clause
+W: main clause
+E: "If" introduces a condition.
+
+Q: What is the grammatical name of "in the morning" in this sentence: We leave in the morning.
+A: adverbial phrase
+W: noun clause
+W: adjectival clause
+W: main clause
+E: It has no finite verb, so it is a phrase. It tells us when, so it is adverbial.
+
+@topic eng-reported | Direct and reported speech | SS2
+
+Q: Choose the correct reported form: He said, "I am tired."
+A: He said that he was tired.
+W: He said that I am tired.
+W: He said that he is being tired.
+W: He said that he had been tiring.
+E: In reported speech, "I" becomes "he" and "am" moves back to "was".
+
+Q: Choose the correct reported form: She said, "I will call you tomorrow."
+A: She said that she would call me the next day.
+W: She said that she will call me tomorrow.
+W: She said that I would call her tomorrow.
+W: She said that she called me the next day.
+E: "Will" becomes "would" and "tomorrow" becomes "the next day".
+
+Q: Choose the correct reported form: The teacher asked, "Have you finished?"
+A: The teacher asked if we had finished.
+W: The teacher asked have we finished.
+W: The teacher asked if we have finished.
+W: The teacher asked that had we finished.
+E: Yes/no questions are reported with "if" or "whether", and "have finished" becomes "had finished".
+
+Q: Choose the correct reported form: Mother said to me, "Close the door."
+A: Mother told me to close the door.
+W: Mother told me that close the door.
+W: Mother said me to close the door.
+W: Mother told me I closed the door.
+E: Commands are reported with "told + person + to + verb".
+
+Q: Choose the correct reported form: Musa said, "I bought this phone yesterday."
+A: Musa said that he had bought that phone the day before.
+W: Musa said that he bought this phone yesterday.
+W: Musa said that I had bought that phone the day before.
+W: Musa said that he has bought this phone yesterday.
+E: The simple past moves back to the past perfect, "this" becomes "that" and "yesterday" becomes "the day before".
+
+Q: Choose the correct reported form: Bisi asked, "Where do you live?"
+A: Bisi asked where I lived.
+W: Bisi asked where do I live.
+W: Bisi asked where did I live.
+W: Bisi asked that where I lived.
+E: In reported questions the word order becomes a statement, and the tense moves back.
+
+@topic eng-voice | Active and passive voice | SS2
+
+Q: Choose the passive form of: The boy kicked the ball.
+A: The ball was kicked by the boy.
+W: The ball is kicked by the boy.
+W: The boy was kicked by the ball.
+W: The ball has been kicking the boy.
+E: The object becomes the subject, and the past tense uses "was" + past participle.
+
+Q: Choose the passive form of: They are building a new school.
+A: A new school is being built.
+W: A new school was built.
+W: A new school is building.
+W: A new school has built.
+E: The present continuous passive is "is being" + past participle.
+
+Q: Choose the passive form of: Someone has stolen my bag.
+A: My bag has been stolen.
+W: My bag was stealing.
+W: My bag is stolen by someone has.
+W: My bag had stolen.
+E: The present perfect passive is "has been" + past participle.
+
+Q: Choose the active form of: The letter was written by Ngozi.
+A: Ngozi wrote the letter.
+W: Ngozi writes the letter.
+W: Ngozi has written the letter.
+W: The letter wrote Ngozi.
+E: The agent "Ngozi" becomes the subject, and the tense stays in the simple past.
+
+Q: Choose the passive form of: The principal will announce the results.
+A: The results will be announced by the principal.
+W: The results will announce the principal.
+W: The results would be announced by the principal.
+W: The results are announced by the principal.
+E: The future passive is "will be" + past participle.
+
+Q: In which sentence is the verb in the passive voice?
+A: The windows were cleaned yesterday.
+W: The cleaners cleaned the windows.
+W: She cleans her room every day.
+W: We are cleaning the class.
+E: "Were cleaned" is "be" + past participle, and the subject receives the action.
+
+@topic eng-vowels | Vowel sounds | SS1
+
+Q: Which word has the same vowel sound as "seat"?
+A: key
+W: sit
+W: set
+W: sat
+E: "Seat" and "key" both have the long vowel /iː/. "Sit" has the short /ɪ/.
+
+Q: Which word has the same vowel sound as "food"?
+A: blue
+W: good
+W: foot
+W: flood
+E: "Food" and "blue" both have /uː/. "Good" and "foot" have /ʊ/, and "flood" has /ʌ/.
+
+Q: Which word has the same vowel sound as "cat"?
+A: man
+W: car
+W: cut
+W: cake
+E: "Cat" and "man" both have /æ/.
+
+Q: Which word contains a diphthong?
+A: boy
+W: bed
+W: book
+W: bus
+E: "Boy" has /ɔɪ/, a glide from one vowel to another. The others have single (pure) vowels.
+
+Q: Which word has the same vowel sound as "bird"?
+A: word
+W: bead
+W: bard
+W: bed
+E: "Bird" and "word" both have the long vowel /ɜː/.
+
+Q: Which word has the same vowel sound as "cup"?
+A: love
+W: cop
+W: cap
+W: cope
+E: "Cup" and "love" both have /ʌ/, even though they are spelt differently.
+
+@topic eng-consonants | Consonant sounds | SS1
+
+Q: Which word begins with the same consonant sound as "think"?
+A: thumb
+W: this
+W: tin
+W: sink
+E: "Think" and "thumb" begin with the voiceless /θ/. "This" begins with the voiced /ð/.
+
+Q: Which word begins with the same consonant sound as "she"?
+A: sugar
+W: see
+W: chair
+W: jeep
+E: "Sugar" begins with /ʃ/, the same sound as "sh" in "she".
+
+Q: In which word is the "ch" pronounced /k/?
+A: chemistry
+W: church
+W: cheap
+W: chair
+E: In "chemistry", "ch" is pronounced /k/. In the others it is /tʃ/.
+
+Q: In which word is the first letter silent?
+A: knee
+W: kite
+W: bread
+W: paper
+E: The "k" in "knee" is not pronounced.
+
+Q: Which word ends with the sound /z/?
+A: dogs
+W: cats
+W: books
+W: bus
+E: The plural "-s" is pronounced /z/ after voiced sounds such as /g/.
+
+Q: Which word contains the sound /ʒ/?
+A: measure
+W: major
+W: mission
+W: message
+E: The "s" in "measure" is /ʒ/, as in "pleasure" and "vision".
+
+@topic eng-stress | Word stress | SS2
+
+Q: Which word is stressed on the second syllable?
+A: begin
+W: table
+W: water
+W: mother
+E: be-GIN is stressed on the second syllable. The others are stressed on the first.
+
+Q: Which word is stressed on the first syllable?
+A: market
+W: about
+W: complete
+W: forget
+E: MAR-ket is stressed on the first syllable.
+
+Q: "Record" can be a noun or a verb. As a verb, which syllable is stressed?
+A: the second syllable: re-CORD
+W: the first syllable: RE-cord
+W: both syllables equally
+W: neither syllable
+E: Many two-syllable words are stressed on the first syllable as nouns and on the second as verbs.
+
+Q: Which word is stressed on the third syllable?
+A: understand
+W: important
+W: beautiful
+W: telephone
+E: un-der-STAND is stressed on the third syllable.
+
+Q: Which word is stressed on the second syllable?
+A: important
+W: hospital
+W: animal
+W: festival
+E: im-POR-tant is stressed on the second syllable. The others are stressed on the first.
+
+Q: Which word has a different stress pattern from the others?
+A: decide
+W: picture
+W: garden
+W: student
+E: de-CIDE is stressed on the second syllable; the other three are stressed on the first.
+
+@topic eng-spelling | Spelling | SS1
+
+Q: Choose the correctly spelt word.
+A: necessary
+W: neccessary
+W: necesary
+W: neccesary
+E: "Necessary" has one "c" and double "s".
+
+Q: Choose the correctly spelt word.
+A: accommodation
+W: acommodation
+W: accomodation
+W: acomodation
+E: "Accommodation" has double "c" and double "m".
+
+Q: Choose the correctly spelt word.
+A: receive
+W: recieve
+W: receeve
+W: resieve
+E: Remember "i before e, except after c": receive.
+
+Q: Choose the correctly spelt word.
+A: separate
+W: seperate
+W: separete
+W: seprate
+E: There is "a rat" in "separate".
+
+Q: Choose the correctly spelt word.
+A: committee
+W: commitee
+W: comittee
+W: committe
+E: "Committee" has double "m", double "t" and double "e".
+
+Q: Choose the correctly spelt word.
+A: occurrence
+W: occurence
+W: ocurrence
+W: occurrance
+E: "Occurrence" has double "c", double "r" and ends in "-ence".
+
+@topic eng-punctuation | Punctuation | SS1
+
+Q: Which sentence is correctly punctuated?
+A: Where are you going?
+W: Where are you going.
+W: where are you going?
+W: Where, are you going?
+E: A question starts with a capital letter and ends with a question mark.
+
+Q: Which sentence uses the apostrophe correctly?
+A: The girls' hostel is new.
+W: The girls hostel's is new.
+W: The girl's' hostel is new.
+W: The girls hostel is' new.
+E: For a plural noun ending in "s", the apostrophe comes after the "s": girls'.
+
+Q: Which option correctly uses "its"?
+A: The dog wagged its tail.
+W: The dog wagged it's tail.
+W: The dog wagged its' tail.
+W: The dog wagged it is tail.
+E: "Its" (no apostrophe) shows possession. "It's" means "it is".
+
+Q: Which sentence uses commas correctly?
+A: I bought rice, beans, yam and oil.
+W: I bought, rice beans yam and oil.
+W: I bought rice beans, yam, and, oil.
+W: I, bought rice beans yam and oil.
+E: Commas separate items in a list.
+
+Q: Which punctuation mark introduces a list after a complete sentence?
+A: colon
+W: semicolon
+W: hyphen
+W: full stop
+E: A colon (:) introduces a list or explanation, e.g. "You need three things: a pen, a ruler and a pencil."
+
+Q: Which sentence is correctly punctuated?
+A: "Come here," said the teacher.
+W: "Come here" said the teacher.
+W: "Come here", said the teacher,
+W: Come here, "said the teacher."
+E: The comma comes inside the closing quotation mark when the quote is followed by the speaker.
+
+@topic eng-figures | Figures of speech | SS3
+
+Q: Identify the figure of speech: The classroom was as quiet as a graveyard.
+A: simile
+W: metaphor
+W: personification
+W: hyperbole
+E: A simile compares two things using "as" or "like".
+
+Q: Identify the figure of speech: Time is a thief.
+A: metaphor
+W: simile
+W: irony
+W: euphemism
+E: A metaphor says one thing is another without using "like" or "as".
+
+Q: Identify the figure of speech: The wind whispered through the trees.
+A: personification
+W: simile
+W: onomatopoeia
+W: antithesis
+E: Giving a human action (whispering) to a non-human thing is personification.
+
+Q: Identify the figure of speech: I have told you a million times!
+A: hyperbole
+W: litotes
+W: metaphor
+W: irony
+E: Hyperbole is deliberate exaggeration for effect.
+
+Q: Identify the figure of speech: The bees buzzed around the flowers.
+A: onomatopoeia
+W: alliteration
+W: simile
+W: oxymoron
+E: "Buzzed" imitates the sound it describes.
+
+Q: Identify the figure of speech: Peter Piper picked a peck of pickled peppers.
+A: alliteration
+W: assonance
+W: onomatopoeia
+W: personification
+E: Alliteration is the repetition of the same consonant sound at the start of nearby words.
+
+Q: Identify the figure of speech: His grandfather passed away last year.
+A: euphemism
+W: hyperbole
+W: irony
+W: metaphor
+E: "Passed away" is a gentler way of saying "died".
+
+@topic eng-registers | Registers (special vocabulary) | SS3
+
+Q: Which group of words belongs to the register of medicine?
+A: diagnosis, prescription, ward, surgeon
+W: plaintiff, verdict, bail, counsel
+W: debit, credit, ledger, invoice
+W: pitch, referee, striker, goal
+E: These words are used in hospitals and health care.
+
+Q: Which group of words belongs to the register of law?
+A: plaintiff, verdict, bail, counsel
+W: diagnosis, prescription, ward, surgeon
+W: harvest, fertiliser, tractor, yield
+W: editor, headline, column, press
+E: These words are used in courts and legal practice.
+
+Q: In which field would you hear "headline", "editor" and "column"?
+A: journalism
+W: banking
+W: agriculture
+W: religion
+E: These are words used by newspapers and the media.
+
+Q: Choose the word that best completes the sentence: The bank charged him interest on the ___ he took to start his business.
+A: loan
+W: deposit
+W: salary
+W: cheque
+E: Interest is charged on money borrowed, which is a loan.
+
+Q: Choose the word that best completes the sentence: The farmer used a ___ to remove the weeds.
+A: hoe
+W: stethoscope
+W: gavel
+W: compass
+E: A hoe is a farming tool used for weeding and digging.
+
+Q: Choose the word that best completes the sentence: After the final whistle, the ___ showed the player a red card.
+A: referee
+W: umpire's clerk
+W: conductor
+W: chairman
+E: In football, the referee controls the match and shows cards.
+
+@topic eng-writing | Letter and essay writing | SS2
+
+Q: Which of these letters needs the writer's address and the receiver's address?
+A: a formal letter
+W: an informal letter to a friend
+W: a text message
+W: a diary entry
+E: A formal (official) letter has two addresses: the writer's and the recipient's.
+
+Q: Which is the best closing for a formal letter that begins "Dear Sir"?
+A: Yours faithfully,
+W: Yours sincerely,
+W: Your loving friend,
+W: Cheers,
+E: "Yours faithfully" is used when the letter begins with "Dear Sir" or "Dear Madam".
+
+Q: Which kind of essay mainly tells a story of events?
+A: a narrative essay
+W: an argumentative essay
+W: an expository essay
+W: a descriptive essay
+E: A narrative essay recounts events, usually in the order they happened.
+
+Q: Which kind of essay tries to persuade the reader to accept one side of an issue?
+A: an argumentative essay
+W: a narrative essay
+W: a descriptive essay
+W: a summary
+E: An argumentative essay presents points for one side to convince the reader.
+
+Q: In an informal letter, where should the date be written?
+A: under the writer's address
+W: at the end of the letter
+W: under the salutation
+W: next to the signature
+E: The date goes directly below the writer's address at the top right.
+
+Q: What is the main purpose of a summary?
+A: to state the main points briefly in your own words
+W: to copy the passage in full
+W: to give your opinion on the passage
+W: to add new examples to the passage
+E: A summary gives only the main points, briefly and in your own words.

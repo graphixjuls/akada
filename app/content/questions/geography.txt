@@ -1,0 +1,485 @@
+@subject geography
+
+@topic geo-earth | The earth and the solar system | SS1
+
+Q: Which planet is closest to the sun?
+A: Mercury
+W: Venus
+W: Earth
+W: Mars
+E: The order from the sun begins Mercury, Venus, Earth, Mars.
+
+Q: The rotation of the earth on its axis causes
+A: day and night
+W: the seasons
+W: eclipses
+W: tides
+E: The earth turns once in about 24 hours, so places face towards and away from the sun.
+
+Q: The revolution of the earth round the sun takes about
+A: 365¼ days
+W: 24 hours
+W: 30 days
+W: 7 days
+E: One revolution is a year. The extra quarter day is added up as a leap day every four years.
+
+Q: The imaginary line at 0° longitude is the
+A: Prime (Greenwich) Meridian
+W: equator
+W: Tropic of Cancer
+W: International Date Line
+E: The Prime Meridian passes through Greenwich in London.
+
+Q: The Tropic of Cancer is at latitude
+A: 23½° N
+W: 23½° S
+W: 66½° N
+W: 0°
+E: The Tropic of Cancer is the furthest north the overhead sun reaches, around 21 June.
+
+Q: Which of these is a result of the revolution of the earth combined with its tilted axis?
+A: changes in the seasons
+W: day and night
+W: the deflection of winds
+W: the daily rising of the sun
+E: The tilt of the axis as the earth orbits gives seasons and changing lengths of day.
+
+@topic geo-maps | Map reading | SS1
+
+Q: A map scale of 1:50 000 means that 1 cm on the map represents
+A: 0.5 km on the ground
+W: 5 km on the ground
+W: 50 km on the ground
+W: 50 m on the ground
+E: 50 000 cm = 500 m = 0.5 km.
+
+Q: Two towns are 4 cm apart on a map with a scale of 1:100 000. What is the actual distance?
+A: 4 km
+W: 40 km
+W: 0.4 km
+W: 400 km
+E: 1 cm = 100 000 cm = 1 km, so 4 cm = 4 km.
+
+Q: Lines on a map joining places of equal height are
+A: contours
+W: isobars
+W: isotherms
+W: isohyets
+E: Contour lines show relief. Isobars join places of equal pressure.
+
+Q: Contour lines that are very close together show
+A: a steep slope
+W: a gentle slope
+W: a flat plain
+W: a river
+E: Height changes quickly over a short distance on a steep slope.
+
+Q: Which method of showing relief uses colours for different heights?
+A: layer tinting
+W: hachures
+W: spot heights
+W: hill shading
+E: Layer tinting uses colours such as green for lowlands and brown for highlands.
+
+Q: Lines joining places with equal rainfall are called
+A: isohyets
+W: isotherms
+W: isobars
+W: contours
+E: Isohyets show rainfall distribution on a map.
+
+@topic geo-rocks | Rocks and landforms | SS1
+
+Q: Rocks formed from cooled magma are
+A: igneous rocks
+W: sedimentary rocks
+W: metamorphic rocks
+W: organic rocks
+E: Granite and basalt are igneous rocks.
+
+Q: Which of these is a metamorphic rock?
+A: marble
+W: granite
+W: sandstone
+W: limestone
+E: Marble forms when limestone is changed by heat and pressure.
+
+Q: Which rock type often contains fossils?
+A: sedimentary
+W: igneous
+W: metamorphic
+W: volcanic
+E: Sedimentary rocks form in layers that can trap the remains of living things.
+
+Q: The breaking down of rocks in place by weather is called
+A: weathering
+W: erosion
+W: deposition
+W: transportation
+E: Weathering happens without the rock being moved. Erosion involves removal.
+
+Q: A large, isolated rock hill rising above a plain, like Zuma Rock, is an
+A: inselberg
+W: escarpment
+W: delta
+W: oasis
+E: Inselbergs are common in northern and central Nigeria.
+
+Q: An area of land almost surrounded by water is a
+A: peninsula
+W: island
+W: plateau
+W: valley
+E: A peninsula is attached to the mainland on one side.
+
+@topic geo-weather | Weather and climate | SS1
+
+Q: The average weather conditions of a place over about 35 years is its
+A: climate
+W: weather
+W: season
+W: humidity
+E: Weather is day-to-day; climate is the long-term average.
+
+Q: Which instrument measures rainfall?
+A: rain gauge
+W: barometer
+W: anemometer
+W: hygrometer
+E: A rain gauge collects rain so the amount can be measured.
+
+Q: Which instrument measures wind speed?
+A: anemometer
+W: wind vane
+W: barometer
+W: thermometer
+E: The anemometer's cups spin faster in stronger winds. The wind vane shows direction.
+
+Q: The dry, dusty wind that blows from the Sahara over West Africa between November and March is the
+A: harmattan
+W: south-west monsoon
+W: sea breeze
+W: trade wind from the Atlantic
+E: The harmattan is the north-east trade wind, cool, dry and dusty.
+
+Q: Relative humidity is measured with a
+A: hygrometer
+W: barometer
+W: rain gauge
+W: Stevenson screen
+E: The wet-and-dry bulb hygrometer measures relative humidity.
+
+Q: Rainfall caused by moist air rising over mountains is
+A: relief (orographic) rainfall
+W: convectional rainfall
+W: frontal rainfall
+W: cyclonic rainfall
+E: Air cools as it rises over high ground and its water vapour condenses.
+
+@topic geo-vegetation | Vegetation and soils | SS2
+
+Q: Which vegetation zone is found in southern Nigeria?
+A: tropical rainforest
+W: Sudan savanna
+W: Sahel savanna
+W: desert
+E: The south has heavy rainfall that supports dense forest.
+
+Q: Which vegetation zone has the shortest grass and is closest to the desert?
+A: Sahel savanna
+W: Guinea savanna
+W: rainforest
+W: mangrove swamp
+E: The Sahel has very low rainfall, short grasses and thorny shrubs.
+
+Q: Mangrove swamps are found mainly
+A: along the coast in salty water
+W: on high plateaus
+W: in the desert
+W: in the Sudan savanna
+E: Mangroves grow in muddy, salty water along coasts and estuaries such as the Niger Delta.
+
+Q: The removal of the topsoil by running water or wind is called
+A: soil erosion
+W: leaching
+W: weathering
+W: crop rotation
+E: Soil erosion removes the fertile top layer.
+
+Q: The washing down of soluble minerals deep into the soil by rain water is
+A: leaching
+W: erosion
+W: sedimentation
+W: evaporation
+E: Leaching makes the topsoil less fertile, especially in heavy rainfall areas.
+
+Q: Which human activity is a major cause of desert encroachment in northern Nigeria?
+A: cutting down trees and overgrazing
+W: building dams
+W: planting trees
+W: crop rotation
+E: Removing vegetation exposes the soil, allowing the desert to spread.
+
+@topic geo-nigeria | Geography of Nigeria | SS2
+
+Q: Nigeria lies between latitudes
+A: 4° N and 14° N
+W: 0° and 10° N
+W: 10° S and 20° N
+W: 20° N and 30° N
+E: Nigeria lies roughly between 4° N and 14° N of the equator.
+
+Q: The two major rivers in Nigeria are
+A: the Niger and the Benue
+W: the Nile and the Congo
+W: the Volta and the Ogun
+W: the Gambia and the Senegal
+E: The Niger and Benue meet at Lokoja, Kogi State.
+
+Q: The rivers Niger and Benue meet at
+A: Lokoja
+W: Onitsha
+W: Jebba
+W: Makurdi
+E: Lokoja is at the confluence of the two rivers.
+
+Q: Which is the highest point in Nigeria?
+A: Chappal Waddi
+W: Zuma Rock
+W: Olumo Rock
+W: Obudu Plateau
+E: Chappal Waddi on the Mambilla Plateau is about 2,419 m high.
+
+Q: Kainji Dam is mainly used to generate
+A: hydroelectric power
+W: oil
+W: coal
+W: solar power
+E: Kainji Dam on the River Niger produces hydroelectricity.
+
+Q: Which of these countries does NOT share a land border with Nigeria?
+A: Ghana
+W: Benin
+W: Niger
+W: Cameroon
+E: Nigeria borders Benin, Niger, Chad and Cameroon. Ghana is further west.
+
+@topic geo-population | Population and settlement | SS2
+
+Q: A settlement where most people are engaged in farming is
+A: a rural settlement
+W: an urban settlement
+W: a city
+W: a conurbation
+E: Rural settlements are small and mainly agricultural.
+
+Q: The movement of people from rural areas to towns is
+A: rural–urban migration
+W: urban–rural migration
+W: emigration
+W: transhumance
+E: People move to towns in search of jobs and better services.
+
+Q: Population density is
+A: the number of people per square kilometre
+W: the total population of a country
+W: the birth rate minus the death rate
+W: the number of towns in a country
+E: Density = population ÷ land area.
+
+Q: Which is a pull factor that attracts people to cities?
+A: job opportunities
+W: poor social amenities
+W: land shortage in the village
+W: natural disasters
+E: Pull factors attract people to a place; push factors drive them away.
+
+Q: The seasonal movement of herders and their animals in search of pasture is
+A: transhumance
+W: urbanisation
+W: emigration
+W: commuting
+E: Fulani herders traditionally move cattle south in the dry season.
+
+Q: A settlement built along a road or river in a long line is
+A: linear (ribbon) settlement
+W: nucleated settlement
+W: dispersed settlement
+W: isolated settlement
+E: Linear settlements follow transport routes or valleys.
+
+@topic geo-economic | Economic activities | SS2
+
+Q: Which mineral is mined at Enugu?
+A: coal
+W: tin
+W: gold
+W: limestone
+E: Enugu, the "Coal City", has been a centre of coal mining.
+
+Q: Crude oil in Nigeria is mainly found in the
+A: Niger Delta
+W: Jos Plateau
+W: Sokoto Basin
+W: Mambilla Plateau
+E: Most oil wells are in the Niger Delta region.
+
+Q: Which crop is grown mainly in the south-west of Nigeria for export?
+A: cocoa
+W: groundnut
+W: cotton
+W: millet
+E: Cocoa grows well in the rainforest areas of the south-west.
+
+Q: Groundnut and cotton are grown mainly in
+A: northern Nigeria
+W: the Niger Delta
+W: the south-east
+W: the mangrove swamp
+E: The savanna of the north suits these crops.
+
+Q: Which mode of transport is best for carrying bulky goods cheaply over long distances?
+A: water transport
+W: air transport
+W: road transport by motorcycle
+W: pipeline only for solids
+E: Ships and barges can carry very heavy loads cheaply, though slowly.
+
+Q: Which industry depends mainly on local raw materials such as limestone?
+A: cement manufacturing
+W: car assembly
+W: electronics
+W: aircraft building
+E: Cement is made from limestone, which is found in places such as Ewekoro and Obajana.
+
+@topic geo-africa | Regional geography of Africa | SS3
+
+Q: The longest river in Africa is the
+A: Nile
+W: Niger
+W: Congo
+W: Zambezi
+E: The Nile flows about 6,650 km through north-eastern Africa.
+
+Q: The largest desert in Africa is the
+A: Sahara
+W: Kalahari
+W: Namib
+W: Sahel
+E: The Sahara covers much of North Africa.
+
+Q: Mount Kilimanjaro, the highest mountain in Africa, is in
+A: Tanzania
+W: Kenya
+W: Uganda
+W: Ethiopia
+E: Kilimanjaro rises to about 5,895 m in north-eastern Tanzania.
+
+Q: The Great Rift Valley is mainly found in
+A: East Africa
+W: West Africa
+W: North Africa
+W: Southern Africa
+E: The Rift Valley runs from Ethiopia through Kenya and Tanzania towards Mozambique.
+
+Q: Which African country is the world's leading producer of cocoa?
+A: Côte d'Ivoire
+W: Nigeria
+W: Kenya
+W: Egypt
+E: Côte d'Ivoire produces the largest share of the world's cocoa.
+
+Q: The Aswan High Dam is built across the River
+A: Nile
+W: Niger
+W: Volta
+W: Congo
+E: The Aswan High Dam in Egypt controls the Nile's floods and produces power.
+
+@topic geo-environment | Environmental resources and hazards | SS3
+
+Q: Which of these is a renewable resource?
+A: solar energy
+W: crude oil
+W: coal
+W: natural gas
+E: Solar energy is not used up. Fossil fuels are non-renewable.
+
+Q: Gully erosion is a serious problem in
+A: south-eastern Nigeria, especially Anambra
+W: the Sahel
+W: the Sahara
+W: Lake Chad
+E: Heavy rain on loose soils has created deep gullies in states such as Anambra and Imo.
+
+Q: Global warming is mainly caused by
+A: an increase in greenhouse gases in the atmosphere
+W: more trees being planted
+W: the rotation of the earth
+W: volcanic rocks
+E: Burning fossil fuels and deforestation add carbon dioxide, which traps heat.
+
+Q: Lake Chad has been shrinking mainly because of
+A: drought, high evaporation and heavy water use
+W: earthquakes
+W: too much rainfall
+W: oil spills
+E: Reduced rainfall and irrigation have greatly reduced the lake's size since the 1960s.
+
+Q: Planting trees on land that has never had forest is called
+A: afforestation
+W: deforestation
+W: reafforestation
+W: shifting cultivation
+E: Reafforestation replants areas that previously had forest.
+
+Q: Oil spills in the Niger Delta mainly harm
+A: farmland, fishing waters and wildlife
+W: the Sahara desert
+W: the ozone layer
+W: only the oil companies
+E: Oil pollution damages soils, rivers and mangroves that people depend on.
+
+@topic geo-world | World regional geography | SS3
+
+Q: The largest ocean in the world is the
+A: Pacific Ocean
+W: Atlantic Ocean
+W: Indian Ocean
+W: Arctic Ocean
+E: The Pacific covers about one-third of the earth's surface.
+
+Q: The largest continent by land area is
+A: Asia
+W: Africa
+W: Europe
+W: North America
+E: Asia is the largest continent in both area and population.
+
+Q: The Ruhr region of Germany is famous for
+A: coal mining and heavy industry
+W: cocoa farming
+W: tourism
+W: rice cultivation
+E: The Ruhr developed iron and steel industries based on its coal fields.
+
+Q: The Amazon rainforest is found mainly in
+A: Brazil
+W: Nigeria
+W: India
+W: Canada
+E: The Amazon basin covers much of northern Brazil.
+
+Q: The prairies of North America are mainly used for
+A: growing wheat and rearing cattle
+W: growing cocoa
+W: mining tin
+W: fishing
+E: The prairies are temperate grasslands famous for large-scale wheat farming.
+
+Q: Which canal links the Mediterranean Sea and the Red Sea?
+A: the Suez Canal
+W: the Panama Canal
+W: the Kiel Canal
+W: the Erie Canal
+E: The Suez Canal in Egypt shortens the sea route between Europe and Asia.

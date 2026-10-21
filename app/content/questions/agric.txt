@@ -1,0 +1,441 @@
+@subject agric
+
+@topic agr-intro | Introduction to agriculture | SS1
+
+Q: Which of these is a major importance of agriculture to Nigeria?
+A: it provides food and employment
+W: it produces crude oil
+W: it builds roads
+W: it prints money
+E: Agriculture feeds the population and employs a large share of workers.
+
+Q: Farming in which the farmer produces mainly to feed the family is
+A: subsistence agriculture
+W: commercial agriculture
+W: plantation farming
+W: mechanised farming
+E: Subsistence farmers produce little surplus for sale.
+
+Q: Which of these is a problem facing agriculture in Nigeria?
+A: poor access to credit
+W: too much rainfall everywhere
+W: lack of land everywhere
+W: too many tractors
+E: Many smallholder farmers cannot get loans for inputs and equipment.
+
+Q: Shifting cultivation is a system in which
+A: the farmer moves to a new piece of land when the soil loses fertility
+W: crops are grown in the same field every year
+W: animals are kept indoors
+W: crops are grown in water
+E: The old land is left to regain its fertility naturally.
+
+Q: Growing two or more crops on the same piece of land at the same time is
+A: mixed cropping
+W: monocropping
+W: crop rotation
+W: bush fallowing
+E: Mixed cropping spreads risk and makes good use of land.
+
+Q: Growing different crops on the same land in a planned sequence over seasons is
+A: crop rotation
+W: mixed cropping
+W: shifting cultivation
+W: mulching
+E: Crop rotation helps maintain fertility and control pests and diseases.
+
+@topic agr-tools | Farm tools and machinery | SS1
+
+Q: Which farm tool is used for clearing grass and bush?
+A: cutlass
+W: hoe
+W: rake
+W: shovel
+E: The cutlass (machete) is used to clear vegetation.
+
+Q: Which tractor implement is used for primary tillage?
+A: plough
+W: harrow
+W: planter
+W: sprayer
+E: Ploughing is the first tillage operation; harrowing breaks the clods afterwards.
+
+Q: Which implement is used to break up clods after ploughing?
+A: harrow
+W: plough
+W: ridger
+W: harvester
+E: Harrowing is secondary tillage that gives a fine tilth.
+
+Q: Which tool is used to spray chemicals on crops?
+A: knapsack sprayer
+W: hoe
+W: watering can
+W: wheelbarrow
+E: The knapsack sprayer is carried on the back and pumped by hand.
+
+Q: Which of these is a routine maintenance practice for farm tools?
+A: cleaning and oiling after use
+W: leaving them in the rain
+W: using them for any job
+W: storing them in water
+E: Cleaning and oiling prevent rust and prolong their life.
+
+Q: Which machine is used for making ridges on a large farm?
+A: ridger
+W: harrow
+W: combine harvester
+W: mower
+E: A tractor-drawn ridger forms ridges for crops such as yam and cassava.
+
+@topic agr-soil | Soil | SS1
+
+Q: Which type of soil is best for most crops?
+A: loamy soil
+W: sandy soil
+W: clay soil
+W: gravel
+E: Loam holds water well, drains well and is rich in nutrients.
+
+Q: Sandy soil is described as
+A: well drained but poor at holding water
+W: waterlogged and sticky
+W: very rich in humus
+W: impossible to till
+E: Large particles leave big pore spaces, so water drains quickly.
+
+Q: Soil texture refers to
+A: the proportion of sand, silt and clay in the soil
+W: the colour of the soil
+W: the depth of the soil
+W: the organisms in the soil
+E: Texture depends on the sizes of the mineral particles.
+
+Q: Decayed plant and animal matter in the soil is called
+A: humus
+W: gravel
+W: silt
+W: laterite
+E: Humus improves soil structure, water retention and fertility.
+
+Q: Which is a method of soil conservation?
+A: planting cover crops
+W: bush burning
+W: overgrazing
+W: cutting down all trees
+E: Cover crops protect the soil from rain splash and erosion.
+
+Q: Which organism improves soil aeration by burrowing?
+A: earthworm
+W: aphid
+W: weaver bird
+W: tsetse fly
+E: Earthworms make tunnels that let air and water into the soil.
+
+@topic agr-fertility | Soil fertility and fertilisers | SS2
+
+Q: Which nutrient mainly promotes leafy growth in plants?
+A: nitrogen
+W: phosphorus
+W: potassium
+W: calcium
+E: Nitrogen is needed for proteins and chlorophyll, giving green, leafy growth.
+
+Q: Which nutrient is especially important for root development?
+A: phosphorus
+W: nitrogen
+W: potassium
+W: sulphur
+E: Phosphorus helps root growth and early development.
+
+Q: The letters NPK on a fertiliser bag stand for
+A: nitrogen, phosphorus and potassium
+W: nitrogen, protein and potash
+W: nickel, phosphate and potassium
+W: nitrogen, phosphorus and calcium
+E: NPK fertilisers supply the three major nutrients.
+
+Q: Lime is added to soil to
+A: reduce soil acidity
+W: increase acidity
+W: kill earthworms
+W: make the soil waterlogged
+E: Liming raises the pH of acidic soils.
+
+Q: Which of these is an organic manure?
+A: poultry droppings
+W: urea
+W: NPK 15:15:15
+W: single superphosphate
+E: Organic manures come from plant and animal remains.
+
+Q: Which crop adds nitrogen to the soil through its root nodules?
+A: cowpea
+W: maize
+W: cassava
+W: sorghum
+E: Legumes such as cowpea host nitrogen-fixing bacteria in their root nodules.
+
+@topic agr-crops | Crop production | SS2
+
+Q: Cassava is propagated mainly by
+A: stem cuttings
+W: seeds
+W: tubers
+W: suckers
+E: Cassava stems are cut into pieces and planted.
+
+Q: Yam is propagated by
+A: setts and minisetts
+W: seeds
+W: stem cuttings
+W: suckers
+E: Pieces of yam tuber are planted to grow new plants.
+
+Q: Maize is classified as a
+A: cereal
+W: legume
+W: root crop
+W: beverage crop
+E: Cereals are grasses grown for their grains, like maize, rice and sorghum.
+
+Q: Which crop is a beverage crop?
+A: cocoa
+W: cassava
+W: rice
+W: groundnut
+E: Cocoa, coffee and tea are beverage crops.
+
+Q: Plantain and banana are propagated by
+A: suckers
+W: seeds
+W: stem cuttings
+W: vines
+E: Suckers grow from the base of the parent plant.
+
+Q: Which of these is an oil crop?
+A: oil palm
+W: yam
+W: sorghum
+W: cassava
+E: The oil palm produces palm oil and palm kernel oil.
+
+@topic agr-pests | Crop pests and diseases | SS2
+
+Q: Cassava mosaic disease is caused by a
+A: virus
+W: fungus
+W: bacterium
+W: nematode
+E: It is spread by whiteflies and infected cuttings.
+
+Q: Black pod disease of cocoa is caused by a
+A: fungus
+W: virus
+W: bacterium
+W: insect
+E: Phytophthora fungus causes cocoa pods to rot and turn black.
+
+Q: The vector of groundnut rosette disease is the
+A: aphid
+W: housefly
+W: termite
+W: weaver bird
+E: Aphids carry the rosette virus from plant to plant.
+
+Q: Which of these is a biological method of pest control?
+A: using natural enemies of the pest
+W: spraying insecticide
+W: burning the farm
+W: hand-picking
+E: Biological control uses predators, parasites or diseases of the pest.
+
+Q: Chemicals used to kill weeds are called
+A: herbicides
+W: insecticides
+W: fungicides
+W: rodenticides
+E: Herbicides control weeds. Insecticides kill insects and fungicides kill fungi.
+
+Q: Which pest attacks stored grains such as maize and beans?
+A: weevil
+W: aphid
+W: locust
+W: earthworm
+E: Weevils bore into and damage stored grains.
+
+@topic agr-animals | Livestock production | SS2
+
+Q: Which cattle breed is tolerant to trypanosomiasis?
+A: N'Dama
+W: White Fulani
+W: Red Bororo
+W: Friesian
+E: N'Dama cattle can survive in tsetse-infested areas.
+
+Q: A castrated male cattle is called a
+A: bullock (steer)
+W: bull
+W: heifer
+W: calf
+E: Castrated males are kept for meat or work.
+
+Q: An adult female pig is called a
+A: sow
+W: boar
+W: gilt
+W: barrow
+E: A sow has given birth. A gilt is a young female that has not yet farrowed.
+
+Q: How long does it take a chicken egg to hatch?
+A: 21 days
+W: 7 days
+W: 28 days
+W: 42 days
+E: Chicken eggs hatch after about 21 days of incubation.
+
+Q: Ruminant animals such as cattle have a stomach with
+A: four compartments
+W: one compartment
+W: two compartments
+W: six compartments
+E: The four parts are the rumen, reticulum, omasum and abomasum.
+
+Q: Which goat breed is common in northern Nigeria and is known for good skin quality?
+A: Red Sokoto
+W: West African Dwarf
+W: Saanen
+W: Boer
+E: The Red Sokoto (Maradi) goat's skin is valued for leather.
+
+@topic agr-animal-health | Animal health | SS2
+
+Q: Newcastle disease affects mainly
+A: poultry
+W: cattle
+W: pigs
+W: fish
+E: Newcastle disease is a viral disease of birds.
+
+Q: Coccidiosis in poultry is caused by
+A: a protozoan
+W: a virus
+W: a bacterium
+W: a worm
+E: Eimeria protozoa damage the intestines and cause bloody droppings.
+
+Q: Trypanosomiasis in cattle is spread by the
+A: tsetse fly
+W: mosquito
+W: housefly
+W: tick
+E: The tsetse fly carries trypanosomes.
+
+Q: Which of these is a sign of ill health in farm animals?
+A: loss of appetite
+W: bright eyes
+W: shiny coat
+W: alertness
+E: Sick animals often stop eating and become dull.
+
+Q: Vaccinating animals helps to
+A: prevent disease
+W: increase body weight directly
+W: cure all diseases instantly
+W: make animals mature faster
+E: Vaccines build immunity before infection.
+
+Q: Ticks are examples of
+A: external parasites
+W: internal parasites
+W: viruses
+W: fungi
+E: Ticks feed on blood from the outside of the body.
+
+@topic agr-fisheries | Fisheries and forestry | SS3
+
+Q: Young fish stocked in a fish pond are called
+A: fingerlings
+W: kids
+W: chicks
+W: calves
+E: Fingerlings are young fish about the size of a finger.
+
+Q: Which fish is commonly farmed in Nigerian ponds?
+A: catfish (Clarias)
+W: shark
+W: salmon
+W: tuna
+E: Catfish and tilapia are the most widely farmed fish in Nigeria.
+
+Q: Growing food crops between young forest trees in the early years of a plantation is the
+A: taungya system
+W: shifting cultivation
+W: plantation system
+W: monocropping
+E: Farmers tend the trees while using the space for food crops.
+
+Q: Which tree is a valuable timber species in Nigeria?
+A: iroko
+W: cassava
+W: maize
+W: guinea grass
+E: Iroko is a hardwood used for furniture and construction.
+
+Q: Replanting trees in a forest that has been cut down is
+A: reafforestation
+W: deforestation
+W: afforestation
+W: bush burning
+E: Reafforestation restores forest cover.
+
+Q: Which of these is a method of preserving fish?
+A: smoking
+W: soaking in water
+W: leaving it uncovered at room temperature
+W: storing it with fertiliser
+E: Smoking, drying, salting and freezing are common methods.
+
+@topic agr-economics | Farm management and marketing | SS3
+
+Q: A record of all the farm's assets such as tools and buildings is the
+A: inventory record
+W: farm diary
+W: sales record
+W: labour record
+E: An inventory lists the farm's property and its value.
+
+Q: The farmer's daily record of activities on the farm is the
+A: farm diary
+W: inventory record
+W: balance sheet
+W: production record
+E: The diary notes operations such as planting, spraying and harvesting.
+
+Q: Agricultural extension services are mainly concerned with
+A: passing new farming knowledge to farmers
+W: selling land
+W: collecting tax
+W: building roads
+E: Extension workers teach farmers about improved methods and research results.
+
+Q: The law of diminishing returns states that as more units of a variable input are added to a fixed input,
+A: the additional output eventually falls
+W: output always doubles
+W: output stays constant
+W: costs always fall
+E: For example, adding more labour to a fixed farm eventually adds less and less output.
+
+Q: Which of these is a problem of agricultural marketing in Nigeria?
+A: poor storage facilities
+W: too many good roads
+W: stable prices
+W: too few farmers
+E: Poor storage leads to waste and forces farmers to sell at low prices.
+
+Q: A cooperative society helps farmers by
+A: pooling resources to buy inputs and sell produce
+W: increasing interest rates
+W: taking their land
+W: banning fertiliser
+E: Cooperatives give farmers bargaining power and access to credit.

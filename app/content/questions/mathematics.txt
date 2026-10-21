@@ -1,0 +1,983 @@
+@subject mathematics
+
+@topic mth-number-bases | Number bases | SS1
+
+Q: Convert 1101₂ to a base 10 number.
+A: 13
+W: 11
+W: 15
+W: 26
+E: 1101₂ = 1×8 + 1×4 + 0×2 + 1×1 = 13.
+
+Q: Convert 25 (base 10) to base 2.
+A: 11001₂
+W: 10011₂
+W: 11010₂
+W: 10101₂
+E: 25 = 16 + 8 + 1, so the binary digits are 1 1 0 0 1.
+
+Q: Convert 213₄ to base 10.
+A: 39
+W: 36
+W: 41
+W: 35
+E: 213₄ = 2×16 + 1×4 + 3×1 = 32 + 4 + 3 = 39.
+
+Q: Add 1011₂ and 110₂.
+A: 10001₂
+W: 10101₂
+W: 10011₂
+W: 10010₂
+E: 1011₂ = 11 and 110₂ = 6. 11 + 6 = 17, and 17 = 10001₂.
+
+Q: If 23ₓ = 13 (base 10), find x.
+A: 5
+W: 4
+W: 6
+W: 7
+E: 23ₓ means 2x + 3. So 2x + 3 = 13, giving x = 5.
+
+Q: Convert 47 (base 10) to base 5.
+A: 142₅
+W: 241₅
+W: 132₅
+W: 214₅
+E: 47 = 1×25 + 4×5 + 2, so the digits are 1, 4, 2.
+
+@topic mth-modular | Modular arithmetic | SS1
+
+Q: Find 17 (mod 5).
+A: 2
+W: 3
+W: 1
+W: 12
+E: 17 = 3×5 + 2, so the remainder is 2.
+
+Q: Evaluate (8 + 9) mod 6.
+A: 5
+W: 3
+W: 2
+W: 1
+E: 8 + 9 = 17, and 17 = 2×6 + 5, so the answer is 5.
+
+Q: Evaluate 7 × 8 (mod 9).
+A: 2
+W: 1
+W: 5
+W: 6
+E: 7 × 8 = 56, and 56 = 6×9 + 2, so the answer is 2.
+
+Q: Solve x + 4 ≡ 2 (mod 7).
+A: x = 5
+W: x = 6
+W: x = 2
+W: x = 3
+E: x ≡ 2 − 4 = −2, and −2 + 7 = 5. Check: 5 + 4 = 9 ≡ 2 (mod 7).
+
+Q: Today is Monday. What day of the week will it be in 30 days?
+A: Wednesday
+W: Tuesday
+W: Thursday
+W: Sunday
+E: 30 = 4×7 + 2, so it is 2 days after Monday: Wednesday.
+
+Q: Solve 3x ≡ 1 (mod 5).
+A: x = 2
+W: x = 1
+W: x = 3
+W: x = 4
+E: 3 × 2 = 6, and 6 ≡ 1 (mod 5).
+
+@topic mth-indices | Indices | SS1
+
+Q: Simplify 2³ × 2⁴.
+A: 2⁷
+W: 2¹²
+W: 4⁷
+W: 4¹²
+E: When multiplying powers of the same base, add the indices: 3 + 4 = 7.
+
+Q: Evaluate 27^(2/3).
+A: 9
+W: 18
+W: 3
+W: 6
+E: The cube root of 27 is 3, and 3² = 9.
+
+Q: Simplify a⁵ ÷ a².
+A: a³
+W: a⁷
+W: a¹⁰
+W: a^(5/2)
+E: When dividing powers of the same base, subtract the indices: 5 − 2 = 3.
+
+Q: Evaluate 5⁰ + 4⁻¹.
+A: 1¼
+W: ¼
+W: 4
+W: 5
+E: Any non-zero number to the power 0 is 1, and 4⁻¹ = ¼. So 1 + ¼ = 1¼.
+
+Q: Solve 2ˣ = 32.
+A: x = 5
+W: x = 4
+W: x = 6
+W: x = 16
+E: 32 = 2⁵, so x = 5.
+
+Q: Solve 3^(x + 1) = 81.
+A: x = 3
+W: x = 4
+W: x = 2
+W: x = 27
+E: 81 = 3⁴, so x + 1 = 4 and x = 3.
+
+Q: Evaluate 16^(−1/2).
+A: ¼
+W: −4
+W: 4
+W: −¼
+E: 16^(1/2) = 4, and the negative index means the reciprocal, so the answer is ¼.
+
+@topic mth-logarithms | Logarithms | SS1
+
+Q: Evaluate log₁₀ 1000.
+A: 3
+W: 2
+W: 4
+W: 100
+E: 10³ = 1000, so log₁₀ 1000 = 3.
+
+Q: Evaluate log₂ 8.
+A: 3
+W: 4
+W: 2
+W: 16
+E: 2³ = 8, so log₂ 8 = 3.
+
+Q: Simplify log₁₀ 5 + log₁₀ 2.
+A: 1
+W: log₁₀ 7
+W: 10
+W: log₁₀ 3
+E: log 5 + log 2 = log (5 × 2) = log₁₀ 10 = 1.
+
+Q: If log₃ x = 4, find x.
+A: 81
+W: 12
+W: 64
+W: 7
+E: log₃ x = 4 means x = 3⁴ = 81.
+
+Q: Evaluate log₂ 32 − log₂ 4.
+A: 3
+W: 28
+W: 8
+W: 5
+E: log₂ 32 − log₂ 4 = log₂ (32 ÷ 4) = log₂ 8 = 3.
+
+Q: Write 2 log 3 + log 4 as a single logarithm.
+A: log 36
+W: log 24
+W: log 10
+W: log 18
+E: 2 log 3 = log 9, and log 9 + log 4 = log (9 × 4) = log 36.
+
+@topic mth-sets | Sets | SS1
+
+Q: If A = {1, 2, 3, 4} and B = {3, 4, 5}, find A ∩ B.
+A: {3, 4}
+W: {1, 2, 3, 4, 5}
+W: {1, 2}
+W: {5}
+E: The intersection contains only the elements found in both sets: 3 and 4.
+
+Q: If A = {1, 2, 3, 4} and B = {3, 4, 5}, find A ∪ B.
+A: {1, 2, 3, 4, 5}
+W: {3, 4}
+W: {1, 2, 5}
+W: {1, 2, 3, 4, 3, 4, 5}
+E: The union contains every element in either set, each written once.
+
+Q: How many subsets does the set {a, b, c} have?
+A: 8
+W: 6
+W: 3
+W: 9
+E: A set with n elements has 2ⁿ subsets. 2³ = 8, including the empty set and the set itself.
+
+Q: In a class of 40 students, 25 offer Physics, 20 offer Chemistry and 10 offer both. How many offer neither?
+A: 5
+W: 15
+W: 10
+W: 0
+E: Students offering at least one = 25 + 20 − 10 = 35. So 40 − 35 = 5 offer neither.
+
+Q: U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A is the set of even numbers in U. Find A′.
+A: {1, 3, 5, 7, 9}
+W: {2, 4, 6, 8, 10}
+W: {1, 3, 5, 7}
+W: {0, 1, 3, 5, 7, 9}
+E: The complement A′ contains the elements of U that are not in A: the odd numbers.
+
+Q: Which of these is an empty set?
+A: {x : x is a whole number between 3 and 4}
+W: {0}
+W: {x : x is a prime number less than 3}
+W: {x : x² = 4}
+E: There is no whole number between 3 and 4. {0} has one element, the prime less than 3 is 2, and x² = 4 gives 2 and −2.
+
+@topic mth-simultaneous | Simultaneous equations | SS1
+
+Q: Solve x + y = 7 and x − y = 1.
+A: x = 4, y = 3
+W: x = 3, y = 4
+W: x = 5, y = 2
+W: x = 6, y = 1
+E: Adding the equations gives 2x = 8, so x = 4. Then y = 7 − 4 = 3.
+
+Q: Solve 2x + y = 10 and x − y = 2.
+A: x = 4, y = 2
+W: x = 2, y = 4
+W: x = 3, y = 4
+W: x = 5, y = 0
+E: Adding gives 3x = 12, so x = 4. Then y = 4 − 2 = 2.
+
+Q: The sum of two numbers is 20 and their difference is 6. Find the numbers.
+A: 13 and 7
+W: 14 and 6
+W: 12 and 8
+W: 10 and 10
+E: x + y = 20 and x − y = 6. Adding gives 2x = 26, so x = 13 and y = 7.
+
+Q: 3 pens and 2 books cost ₦1,300. 1 pen and 2 books cost ₦900. Find the cost of one pen.
+A: ₦200
+W: ₦300
+W: ₦350
+W: ₦400
+E: Subtracting the second equation from the first gives 2 pens = ₦400, so one pen costs ₦200.
+
+Q: Solve y = 2x and x + y = 9.
+A: x = 3, y = 6
+W: x = 6, y = 3
+W: x = 2, y = 4
+W: x = 4, y = 5
+E: Substitute y = 2x: x + 2x = 9, so x = 3 and y = 6.
+
+Q: If 3x + 2y = 12 and x = 2, find y.
+A: 3
+W: 2
+W: 6
+W: 4
+E: 3(2) + 2y = 12, so 2y = 6 and y = 3.
+
+@topic mth-variation | Variation | SS1
+
+Q: y varies directly as x, and y = 12 when x = 4. Find y when x = 7.
+A: 21
+W: 28
+W: 16
+W: 19
+E: y = kx, so k = 12 ÷ 4 = 3. When x = 7, y = 3 × 7 = 21.
+
+Q: y varies inversely as x, and y = 6 when x = 4. Find y when x = 8.
+A: 3
+W: 12
+W: 4
+W: 48
+E: y = k/x, so k = 6 × 4 = 24. When x = 8, y = 24 ÷ 8 = 3.
+
+Q: P varies directly as the square of Q, and P = 18 when Q = 3. Find P when Q = 5.
+A: 50
+W: 30
+W: 25
+W: 45
+E: P = kQ², so k = 18 ÷ 9 = 2. When Q = 5, P = 2 × 25 = 50.
+
+Q: y varies inversely as the square of x, and y = 4 when x = 3. Find y when x = 6.
+A: 1
+W: 2
+W: 8
+W: 16
+E: y = k/x², so k = 4 × 9 = 36. When x = 6, y = 36 ÷ 36 = 1.
+
+Q: Which equation shows joint variation?
+A: z = kxy
+W: z = kx
+W: z = k/x
+W: z = x + k
+E: In joint variation one quantity varies directly as the product of two or more others.
+
+Q: The cost C of hiring a bus is C = a + bd, where d is the distance and a and b are constants. What type of variation is this?
+A: Partial variation
+W: Inverse variation
+W: Joint variation
+W: Direct variation only
+E: Part of the cost is fixed (a) and part varies with distance (bd), so it is partial variation.
+
+@topic mth-quadratic | Quadratic equations | SS1
+
+Q: Solve x² − 5x + 6 = 0.
+A: x = 2 or x = 3
+W: x = −2 or x = −3
+W: x = 1 or x = 6
+W: x = −1 or x = 6
+E: x² − 5x + 6 = (x − 2)(x − 3) = 0, so x = 2 or x = 3.
+
+Q: Solve x² − 9 = 0.
+A: x = 3 or x = −3
+W: x = 3 only
+W: x = 9 or x = −9
+W: x = 0 or x = 9
+E: x² = 9, so x = ±3.
+
+Q: α and β are the roots of 2x² − 7x + 3 = 0. Find α + β.
+A: 7/2
+W: −7/2
+W: 3/2
+W: 3
+E: For ax² + bx + c = 0, the sum of roots is −b/a = 7/2.
+
+Q: Which equation has roots 4 and −1?
+A: x² − 3x − 4 = 0
+W: x² + 3x − 4 = 0
+W: x² − 3x + 4 = 0
+W: x² + 5x − 4 = 0
+E: (x − 4)(x + 1) = x² − 3x − 4.
+
+Q: What are the roots of x² + 4x + 4 = 0 like?
+A: Real and equal
+W: Real and different
+W: Not real
+W: One positive and one negative
+E: The discriminant b² − 4ac = 16 − 16 = 0, so the roots are real and equal (both −2).
+
+Q: Solve x² + 2x − 15 = 0.
+A: x = 3 or x = −5
+W: x = −3 or x = 5
+W: x = 3 or x = 5
+W: x = −3 or x = −5
+E: x² + 2x − 15 = (x + 5)(x − 3) = 0, so x = 3 or x = −5.
+
+@topic mth-trig | Trigonometric ratios | SS1
+
+Q: In a right-angled triangle, the side opposite angle θ is 3 cm and the adjacent side is 4 cm. Find tan θ.
+A: 3/4
+W: 4/3
+W: 3/5
+W: 4/5
+E: tan θ = opposite ÷ adjacent = 3/4.
+
+Q: In a right-angled triangle, the side opposite θ is 3 cm and the hypotenuse is 5 cm. Find sin θ.
+A: 3/5
+W: 4/5
+W: 3/4
+W: 5/3
+E: sin θ = opposite ÷ hypotenuse = 3/5.
+
+Q: What is the value of sin 30°?
+A: 1/2
+W: √3/2
+W: 1
+W: √2/2
+E: sin 30° = 1/2 is a standard value worth memorising.
+
+Q: A 10 m ladder leans against a wall and makes an angle of 60° with the ground. How high up the wall does it reach?
+A: 5√3 m
+W: 5 m
+W: 10√3 m
+W: 20 m
+E: Height = 10 × sin 60° = 10 × √3/2 = 5√3 m.
+
+Q: If cos θ = 5/13 and θ is acute, find tan θ.
+A: 12/5
+W: 5/12
+W: 13/12
+W: 12/13
+E: Adjacent = 5 and hypotenuse = 13, so opposite = √(169 − 25) = 12. tan θ = 12/5.
+
+Q: What is the value of tan 45°?
+A: 1
+W: 0
+W: √3
+W: 1/2
+E: In a right-angled isosceles triangle the opposite and adjacent sides are equal, so tan 45° = 1.
+
+@topic mth-mensuration | Mensuration | SS1
+
+Q: Find the area of a circle of radius 7 cm. (Take π = 22/7.)
+A: 154 cm²
+W: 44 cm²
+W: 49 cm²
+W: 308 cm²
+E: Area = πr² = 22/7 × 7 × 7 = 154 cm².
+
+Q: Find the circumference of a circle of radius 14 cm. (Take π = 22/7.)
+A: 88 cm
+W: 44 cm
+W: 616 cm
+W: 176 cm
+E: Circumference = 2πr = 2 × 22/7 × 14 = 88 cm.
+
+Q: Find the volume of a cuboid measuring 5 cm by 4 cm by 3 cm.
+A: 60 cm³
+W: 47 cm³
+W: 12 cm³
+W: 94 cm³
+E: Volume = length × breadth × height = 5 × 4 × 3 = 60 cm³. (94 cm² would be its surface area.)
+
+Q: Find the volume of a cylinder with radius 7 cm and height 10 cm. (Take π = 22/7.)
+A: 1540 cm³
+W: 440 cm³
+W: 154 cm³
+W: 3080 cm³
+E: Volume = πr²h = 22/7 × 49 × 10 = 1540 cm³.
+
+Q: The parallel sides of a trapezium are 6 cm and 10 cm, and the height is 5 cm. Find its area.
+A: 40 cm²
+W: 80 cm²
+W: 30 cm²
+W: 60 cm²
+E: Area = ½(a + b)h = ½ × 16 × 5 = 40 cm².
+
+Q: Find the length of an arc that subtends 90° at the centre of a circle of radius 14 cm. (Take π = 22/7.)
+A: 22 cm
+W: 44 cm
+W: 154 cm
+W: 11 cm
+E: Arc length = (90/360) × 2πr = ¼ × 88 = 22 cm.
+
+Q: Find the volume of a cone with base radius 3 cm and height 7 cm. (Take π = 22/7.)
+A: 66 cm³
+W: 198 cm³
+W: 132 cm³
+W: 22 cm³
+E: Volume = ⅓πr²h = ⅓ × 22/7 × 9 × 7 = 66 cm³.
+
+@topic mth-commercial | Profit, loss and interest | SS2
+
+Q: Find the simple interest on ₦20,000 at 5% per annum for 3 years.
+A: ₦3,000
+W: ₦1,000
+W: ₦23,000
+W: ₦300
+E: I = PRT/100 = 20,000 × 5 × 3 ÷ 100 = ₦3,000.
+
+Q: A trader buys a bag of rice for ₦800 and sells it for ₦1,000. Find the percentage profit.
+A: 25%
+W: 20%
+W: 80%
+W: 200%
+E: Profit = ₦200. Percentage profit = 200/800 × 100 = 25%. Profit is always measured against the cost price.
+
+Q: ₦10,000 is saved at 10% compound interest per annum. What is the amount after 2 years?
+A: ₦12,100
+W: ₦12,000
+W: ₦11,000
+W: ₦2,100
+E: Year 1: ₦11,000. Year 2: ₦11,000 × 1.1 = ₦12,100.
+
+Q: A shirt marked ₦5,000 is sold at a 20% discount. What is the selling price?
+A: ₦4,000
+W: ₦1,000
+W: ₦4,500
+W: ₦6,000
+E: Discount = 20% of ₦5,000 = ₦1,000, so the price is ₦4,000.
+
+Q: A phone was sold for ₦1,200 at a loss of 20%. Find the cost price.
+A: ₦1,500
+W: ₦1,440
+W: ₦960
+W: ₦1,000
+E: Selling price = 80% of cost price. Cost price = 1,200 ÷ 0.8 = ₦1,500.
+
+Q: Find the 7.5% VAT on an item costing ₦2,000.
+A: ₦150
+W: ₦15
+W: ₦1,500
+W: ₦75
+E: 7.5% of ₦2,000 = 7.5/100 × 2,000 = ₦150.
+
+@topic mth-sequences | Sequences and series | SS2
+
+Q: Find the 10th term of the arithmetic progression 3, 7, 11, …
+A: 39
+W: 43
+W: 40
+W: 35
+E: a = 3 and d = 4. T₁₀ = a + 9d = 3 + 36 = 39.
+
+Q: Find the sum of the first 10 terms of 2, 4, 6, …
+A: 110
+W: 100
+W: 20
+W: 120
+E: Sₙ = n/2 (2a + (n − 1)d) = 5 × (4 + 18) = 110.
+
+Q: Find the common ratio of the geometric progression 2, 6, 18, …
+A: 3
+W: 4
+W: 2
+W: 1/3
+E: r = 6 ÷ 2 = 3.
+
+Q: Find the 6th term of the geometric progression 1, 2, 4, …
+A: 32
+W: 64
+W: 16
+W: 12
+E: Tₙ = arⁿ⁻¹ = 1 × 2⁵ = 32.
+
+Q: Find the sum to infinity of 8 + 4 + 2 + …
+A: 16
+W: 14
+W: 32
+W: It has no sum to infinity
+E: r = ½, so S∞ = a/(1 − r) = 8 ÷ ½ = 16.
+
+Q: Find the nth term of the sequence 5, 8, 11, …
+A: 3n + 2
+W: 3n + 5
+W: 5n + 3
+W: n + 3
+E: a = 5 and d = 3, so Tₙ = 5 + (n − 1)3 = 3n + 2.
+
+@topic mth-inequalities | Linear inequalities | SS2
+
+Q: Solve 2x + 3 > 11.
+A: x > 4
+W: x < 4
+W: x > 7
+W: x > 3
+E: 2x > 8, so x > 4.
+
+Q: Solve −3x ≤ 12.
+A: x ≥ −4
+W: x ≤ −4
+W: x ≥ 4
+W: x ≤ 4
+E: Dividing by a negative number reverses the sign: x ≥ 12 ÷ (−3) = −4.
+
+Q: List the integers that satisfy −2 < x ≤ 1.
+A: −1, 0, 1
+W: −2, −1, 0, 1
+W: −1, 0
+W: −2, −1, 0
+E: −2 is not included (strictly greater than), but 1 is included (less than or equal to).
+
+Q: Solve 5 − x < 2.
+A: x > 3
+W: x < 3
+W: x > −3
+W: x < 7
+E: −x < −3. Multiplying by −1 reverses the sign: x > 3.
+
+Q: Solve x/2 + 1 ≥ 4.
+A: x ≥ 6
+W: x ≥ 3
+W: x ≥ 10
+W: x ≤ 6
+E: x/2 ≥ 3, so x ≥ 6.
+
+Q: Which inequality means "x is at least 18"?
+A: x ≥ 18
+W: x > 18
+W: x ≤ 18
+W: x < 18
+E: "At least 18" includes 18 and every number above it.
+
+@topic mth-statistics | Statistics | SS2
+
+Q: Find the mean of 2, 3, 3, 5 and 7.
+A: 4
+W: 3
+W: 5
+W: 20
+E: Mean = (2 + 3 + 3 + 5 + 7) ÷ 5 = 20 ÷ 5 = 4.
+
+Q: Find the median of 6, 1, 4, 9 and 3.
+A: 4
+W: 3
+W: 6
+W: 4.6
+E: Arrange in order: 1, 3, 4, 6, 9. The middle value is 4. (4.6 is the mean.)
+
+Q: Find the mode of 2, 4, 4, 5, 6, 6, 6, 8.
+A: 6
+W: 4
+W: 5
+W: 8
+E: The mode is the value that occurs most often. 6 appears three times.
+
+Q: Find the range of 12, 5, 18, 9 and 7.
+A: 13
+W: 18
+W: 9
+W: 5
+E: Range = highest − lowest = 18 − 5 = 13.
+
+Q: In a pie chart, a quantity makes up 25% of the total. What angle does its sector have?
+A: 90°
+W: 25°
+W: 45°
+W: 100°
+E: 25% of 360° = 90°.
+
+Q: The mean of five numbers is 8. Four of them are 6, 7, 9 and 10. Find the fifth number.
+A: 8
+W: 6
+W: 10
+W: 12
+E: The total is 5 × 8 = 40. The four numbers add up to 32, so the fifth is 8.
+
+@topic mth-probability | Probability | SS2
+
+Q: A fair die is thrown once. What is the probability of getting an even number?
+A: 1/2
+W: 1/3
+W: 1/6
+W: 2/3
+E: The even numbers are 2, 4 and 6: 3 out of 6 outcomes, which is 1/2.
+
+Q: A bag contains 3 red balls and 5 blue balls. A ball is picked at random. Find the probability that it is red.
+A: 3/8
+W: 3/5
+W: 5/8
+W: 1/3
+E: There are 8 balls and 3 are red, so P(red) = 3/8.
+
+Q: Two fair coins are tossed. What is the probability of getting two heads?
+A: 1/4
+W: 1/2
+W: 3/4
+W: 1/3
+E: The outcomes are HH, HT, TH, TT. Only one is HH, so the probability is 1/4.
+
+Q: The probability that it rains tomorrow is 0.3. What is the probability that it does not rain?
+A: 0.7
+W: 0.3
+W: 1.3
+W: 0.03
+E: P(not A) = 1 − P(A) = 1 − 0.3 = 0.7.
+
+Q: A fair die is thrown twice. What is the probability that the scores add up to 7?
+A: 1/6
+W: 1/12
+W: 7/36
+W: 5/36
+E: There are 6 ways to get 7 (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) out of 36 outcomes: 6/36 = 1/6.
+
+Q: A letter is picked at random from the word LAGOS. What is the probability that it is a vowel?
+A: 2/5
+W: 3/5
+W: 1/5
+W: 2/3
+E: LAGOS has 5 letters and 2 vowels (A and O).
+
+@topic mth-circle | Circle geometry | SS2
+
+Q: The angle that an arc subtends at the centre of a circle is ___ the angle it subtends at the circumference.
+A: twice
+W: equal to
+W: half
+W: three times
+E: This is the circle theorem: the angle at the centre is twice the angle at the circumference.
+
+Q: What is the size of an angle in a semicircle?
+A: 90°
+W: 180°
+W: 45°
+W: 60°
+E: Any angle subtended by a diameter at the circumference is a right angle.
+
+Q: One angle of a cyclic quadrilateral is 110°. What is the size of the opposite angle?
+A: 70°
+W: 110°
+W: 90°
+W: 250°
+E: Opposite angles of a cyclic quadrilateral add up to 180°, so 180° − 110° = 70°.
+
+Q: An arc subtends 140° at the centre of a circle. What angle does it subtend at the circumference?
+A: 70°
+W: 280°
+W: 40°
+W: 140°
+E: The angle at the circumference is half the angle at the centre: 140° ÷ 2 = 70°.
+
+Q: At what angle does a tangent meet the radius at the point of contact?
+A: 90°
+W: 45°
+W: 180°
+W: 60°
+E: A tangent is always perpendicular to the radius drawn to the point of contact.
+
+Q: Angles in the same segment of a circle are
+A: equal
+W: supplementary
+W: complementary
+W: always 90°
+E: Angles subtended by the same arc in the same segment are equal.
+
+@topic mth-bearings | Bearings and distances | SS2
+
+Q: What is the three-figure bearing of due East?
+A: 090°
+W: 000°
+W: 180°
+W: 270°
+E: Bearings are measured clockwise from North. East is a quarter turn: 090°.
+
+Q: What is the three-figure bearing of South-West?
+A: 225°
+W: 135°
+W: 315°
+W: 045°
+E: South is 180°. South-West is a further 45° clockwise: 225°.
+
+Q: The bearing of A from B is 060°. What is the bearing of B from A?
+A: 240°
+W: 120°
+W: 300°
+W: 060°
+E: The back bearing differs by 180°: 060° + 180° = 240°.
+
+Q: A girl walks 3 km due north and then 4 km due east. How far is she from her starting point?
+A: 5 km
+W: 7 km
+W: 1 km
+W: 12 km
+E: By Pythagoras, distance = √(3² + 4²) = √25 = 5 km.
+
+Q: Write N 30° E as a three-figure bearing.
+A: 030°
+W: 300°
+W: 060°
+W: 330°
+E: N 30° E is 30° clockwise from North: 030°.
+
+Q: Write S 40° W as a three-figure bearing.
+A: 220°
+W: 140°
+W: 040°
+W: 320°
+E: Start at South (180°) and turn 40° towards West: 180° + 40° = 220°.
+
+@topic mth-surds | Surds | SS2
+
+Q: Simplify √50.
+A: 5√2
+W: 25√2
+W: 2√5
+W: 10√5
+E: √50 = √(25 × 2) = 5√2.
+
+Q: Simplify √12 + √27.
+A: 5√3
+W: √39
+W: 6√3
+W: 5√6
+E: √12 = 2√3 and √27 = 3√3, so the sum is 5√3.
+
+Q: Rationalise 1/√2.
+A: √2/2
+W: 2√2
+W: √2
+W: 1/2
+E: Multiply top and bottom by √2: √2/(√2 × √2) = √2/2.
+
+Q: Evaluate (√3)² × √4.
+A: 6
+W: 12
+W: 5
+W: 3√2
+E: (√3)² = 3 and √4 = 2, so the answer is 3 × 2 = 6.
+
+Q: Evaluate (2 + √3)(2 − √3).
+A: 1
+W: 7
+W: 4
+W: 2√3
+E: This is a difference of two squares: 2² − (√3)² = 4 − 3 = 1.
+
+Q: Simplify √8 × √2.
+A: 4
+W: √10
+W: 16
+W: 2√2
+E: √8 × √2 = √16 = 4.
+
+@topic mth-matrices | Matrices and determinants | SS3
+
+Q: Find the determinant of the 2 × 2 matrix with rows (2, 1) and (3, 4).
+A: 5
+W: 11
+W: −5
+W: 10
+E: For rows (a, b) and (c, d), the determinant is ad − bc = 2×4 − 1×3 = 5.
+
+Q: A matrix has 2 rows and 3 columns. What is its order?
+A: 2 × 3
+W: 3 × 2
+W: 6
+W: 5
+E: The order is written as rows × columns.
+
+Q: The matrix with rows (x, 2) and (3, 4) has a determinant of 10. Find x.
+A: 4
+W: 2
+W: 1
+W: 5
+E: 4x − 6 = 10, so 4x = 16 and x = 4.
+
+Q: A is the matrix with rows (1, 2) and (3, 4). Find 2A.
+A: Rows (2, 4) and (6, 8)
+W: Rows (3, 4) and (5, 6)
+W: Rows (2, 2) and (6, 4)
+W: Rows (1, 4) and (9, 16)
+E: Multiplying a matrix by a number multiplies every element by that number.
+
+Q: What is a square matrix with a determinant of zero called?
+A: Singular
+W: Identity
+W: Non-singular
+W: Transpose
+E: A singular matrix has a determinant of 0 and has no inverse.
+
+Q: Find the transpose of the matrix with rows (1, 2) and (3, 4).
+A: Rows (1, 3) and (2, 4)
+W: Rows (2, 1) and (4, 3)
+W: Rows (4, 2) and (3, 1)
+W: Rows (4, 3) and (2, 1)
+E: The transpose swaps rows and columns, so the first column (1, 3) becomes the first row.
+
+@topic mth-coordinate | Coordinate geometry | SS3
+
+Q: Find the gradient of the line through (1, 2) and (3, 8).
+A: 3
+W: 1/3
+W: 2
+W: 5
+E: Gradient = (8 − 2) ÷ (3 − 1) = 6 ÷ 2 = 3.
+
+Q: Find the distance between (0, 0) and (6, 8).
+A: 10
+W: 14
+W: 48
+W: 100
+E: Distance = √(6² + 8²) = √100 = 10.
+
+Q: Find the midpoint of (2, 4) and (6, 10).
+A: (4, 7)
+W: (8, 14)
+W: (2, 3)
+W: (4, 6)
+E: Midpoint = ((2 + 6)/2, (4 + 10)/2) = (4, 7).
+
+Q: What is the gradient of the line y = 4x − 7?
+A: 4
+W: −7
+W: 7
+W: −4
+E: In y = mx + c, m is the gradient. Here m = 4.
+
+Q: Find the y-intercept of the line 2y = 6x + 8.
+A: 4
+W: 8
+W: 3
+W: 6
+E: Divide by 2: y = 3x + 4. The y-intercept is 4.
+
+Q: Which line is parallel to y = 2x + 1?
+A: y = 2x − 5
+W: y = −2x + 1
+W: y = ½x + 1
+W: y = −½x + 3
+E: Parallel lines have the same gradient. Only y = 2x − 5 has a gradient of 2.
+
+@topic mth-calculus | Differentiation | SS3
+
+Q: Differentiate x³ with respect to x.
+A: 3x²
+W: x²
+W: 3x³
+W: x⁴/4
+E: d/dx (xⁿ) = nxⁿ⁻¹, so d/dx (x³) = 3x².
+
+Q: Differentiate 5x² + 3x with respect to x.
+A: 10x + 3
+W: 5x + 3
+W: 10x
+W: 10x² + 3
+E: d/dx (5x²) = 10x and d/dx (3x) = 3.
+
+Q: Differentiate 7 with respect to x.
+A: 0
+W: 7
+W: 1
+W: 7x
+E: The derivative of a constant is 0.
+
+Q: Find the gradient of the curve y = x² at x = 3.
+A: 6
+W: 9
+W: 3
+W: 2
+E: dy/dx = 2x. At x = 3, the gradient is 6.
+
+Q: At what value of x does y = x² − 4x have a stationary point?
+A: x = 2
+W: x = 4
+W: x = −2
+W: x = 0
+E: dy/dx = 2x − 4. Setting it to 0 gives x = 2.
+
+Q: Differentiate 1/x with respect to x.
+A: −1/x²
+W: 1/x²
+W: ln x
+W: −1/x
+E: 1/x = x⁻¹, and d/dx (x⁻¹) = −x⁻² = −1/x².
+
+@topic mth-longlat | Longitude and latitude | SS3
+
+Q: What is the latitude of the equator?
+A: 0°
+W: 90° N
+W: 180°
+W: 23½° N
+E: The equator is the starting line for latitude, so it is 0°.
+
+Q: Where do all lines of longitude meet?
+A: At the North and South Poles
+W: At the equator
+W: At Greenwich only
+W: They never meet
+E: Lines of longitude (meridians) run from pole to pole, so they meet at both poles.
+
+Q: Two towns are on the same longitude. One is at 10° N and the other at 30° N. What is their difference in latitude?
+A: 20°
+W: 40°
+W: 10°
+W: 30°
+E: Both are north of the equator, so subtract: 30° − 10° = 20°.
+
+Q: Town A is at (5° N, 20° E) and town B is at (5° N, 50° E). What is their difference in longitude?
+A: 30°
+W: 70°
+W: 25°
+W: 45°
+E: Both are east of Greenwich, so subtract: 50° − 20° = 30°.
+
+Q: As the Earth turns, how much does local time change for every 15° of longitude?
+A: 1 hour
+W: 4 minutes
+W: 15 minutes
+W: 2 hours
+E: The Earth turns 360° in 24 hours, which is 15° per hour (or 4 minutes per degree).
+
+Q: Two towns are at (15° N, 10° E) and (15° N, 40° E). They lie on the same
+A: parallel of latitude
+W: meridian
+W: prime meridian
+W: line of longitude
+E: Places with the same latitude lie on the same parallel (circle) of latitude.

@@ -1,0 +1,361 @@
+@subject economics
+
+@topic eco-utility | Utility and consumer behaviour | SS1
+
+Q: The satisfaction a consumer gets from consuming a good is called
+A: utility
+W: demand
+W: price
+W: elasticity
+E: Utility is the want-satisfying power of a good.
+
+Q: The extra satisfaction from consuming one more unit of a good is
+A: marginal utility
+W: total utility
+W: average utility
+W: consumer surplus
+E: Marginal utility usually falls as more units are consumed.
+
+Q: The law of diminishing marginal utility states that as more units of a good are consumed,
+A: the extra satisfaction from each additional unit falls
+W: total satisfaction falls immediately
+W: the price rises
+W: demand becomes elastic
+E: The third plate of rice satisfies you less than the first.
+
+Q: A consumer is in equilibrium when
+A: the marginal utility per naira is equal for all goods bought
+W: total utility is zero
+W: all income is saved
+W: the price of every good is the same
+E: The consumer cannot increase satisfaction by switching spending between goods.
+
+Q: Consumer surplus is
+A: the difference between what a consumer is willing to pay and what they actually pay
+W: the profit of the seller
+W: the tax on a good
+W: the cost of production
+E: If you would pay ₦500 but pay ₦400, your consumer surplus is ₦100.
+
+Q: When marginal utility is zero, total utility is
+A: at its maximum
+W: at its minimum
+W: zero
+W: negative
+E: Total utility stops rising when the extra unit adds nothing.
+
+@topic eco-agriculture | Agriculture in the Nigerian economy | SS1
+
+Q: Which is a major role of agriculture in Nigeria?
+A: providing raw materials for industries
+W: producing crude oil
+W: printing money
+W: building ships
+E: Agriculture supplies raw materials such as cotton, cocoa and oil palm.
+
+Q: Which of these is a problem of Nigerian agriculture?
+A: inadequate storage facilities
+W: too much modern machinery
+W: excess credit facilities
+W: too many good roads
+E: Poor storage causes large post-harvest losses.
+
+Q: Which programme encouraged Nigerians to farm in the 1970s?
+A: Operation Feed the Nation
+W: Structural Adjustment Programme
+W: Universal Basic Education
+W: Vision 2020
+E: Operation Feed the Nation was launched in 1976.
+
+Q: The use of machines in farming is called
+A: mechanisation
+W: subsistence
+W: specialisation
+W: diversification
+E: Mechanisation can increase output but needs capital and skills.
+
+Q: Cocoa, rubber and groundnut are examples of
+A: cash crops
+W: food crops
+W: minerals
+W: manufactured goods
+E: Cash crops are grown mainly for sale, often for export.
+
+Q: A reason why many young people leave farming is
+A: low income and hard working conditions
+W: very high farm wages
+W: too much farmland in cities
+W: farming needs no skill
+E: Rural–urban migration reduces the farm labour force.
+
+@topic eco-industry | Industrialisation and location of industries | SS2
+
+Q: Which factor most influences the location of a cement factory?
+A: nearness to raw materials (limestone)
+W: nearness to the sea
+W: the colour of the soil
+W: the number of schools nearby
+E: Limestone is bulky and heavy, so cement factories are sited near it.
+
+Q: Import substitution industrialisation aims to
+A: produce locally goods that were formerly imported
+W: import more finished goods
+W: close all factories
+W: export raw materials
+E: It saves foreign exchange and creates local jobs.
+
+Q: The tendency of industries to cluster in one area is called
+A: localisation of industry
+W: delocalisation
+W: nationalisation
+W: privatisation
+E: Industries may cluster near raw materials, markets or skilled labour.
+
+Q: Which of these is an advantage of industrialisation?
+A: creation of employment
+W: increased pollution
+W: overcrowding of cities
+W: depletion of resources
+E: Industries create jobs and increase output.
+
+Q: The Ajaokuta Steel Company is located in
+A: Kogi State
+W: Lagos State
+W: Kano State
+W: Rivers State
+E: Ajaokuta is on the River Niger in Kogi State.
+
+Q: A firm enjoys economies of scale when
+A: its average cost falls as it grows larger
+W: its average cost rises as it grows larger
+W: it produces fewer goods
+W: it closes some factories
+E: Large firms can buy in bulk and use specialised machines.
+
+@topic eco-unemployment | Unemployment and labour | SS3
+
+Q: Unemployment caused by changes in the structure of an economy is
+A: structural unemployment
+W: seasonal unemployment
+W: frictional unemployment
+W: disguised unemployment
+E: For example, workers lose jobs when an industry declines.
+
+Q: Unemployment of farm workers during the dry season is
+A: seasonal unemployment
+W: structural unemployment
+W: cyclical unemployment
+W: voluntary unemployment
+E: Some jobs depend on the season.
+
+Q: Unemployment while workers move between jobs is
+A: frictional unemployment
+W: structural unemployment
+W: seasonal unemployment
+W: technological unemployment
+E: It is temporary and occurs even in healthy economies.
+
+Q: When more workers are employed than are needed, so that some add nothing to output, there is
+A: disguised unemployment
+W: full employment
+W: seasonal unemployment
+W: frictional unemployment
+E: This is common on small family farms.
+
+Q: Which of these can reduce unemployment?
+A: encouraging small and medium enterprises
+W: closing factories
+W: reducing investment
+W: banning skills training
+E: Small businesses create many jobs.
+
+Q: A trade union mainly aims to
+A: improve the wages and working conditions of its members
+W: set the prices of goods
+W: collect taxes
+W: run elections
+E: The Nigeria Labour Congress is an umbrella body for trade unions.
+
+@topic eco-petroleum | Petroleum in the Nigerian economy | SS3
+
+Q: Crude oil was first discovered in commercial quantities in Nigeria at
+A: Oloibiri, in 1956
+W: Lagos, in 1960
+W: Kano, in 1970
+W: Enugu, in 1909
+E: Shell found oil at Oloibiri in present-day Bayelsa State.
+
+Q: Over-dependence on oil exports makes an economy vulnerable to
+A: changes in world oil prices
+W: too much rainfall
+W: low population
+W: too many farms
+E: When oil prices fall, government revenue falls sharply.
+
+Q: Which body regulates the upstream petroleum sector in Nigeria?
+A: Nigerian Upstream Petroleum Regulatory Commission (NUPRC)
+W: Central Bank of Nigeria
+W: Nigerian Ports Authority
+W: Federal Inland Revenue Service
+E: The NUPRC was created under the Petroleum Industry Act of 2021.
+
+Q: The neglect of other sectors because of oil wealth is sometimes called
+A: the "Dutch disease"
+W: inflation
+W: devaluation
+W: the law of demand
+E: Oil booms can make other exports less competitive.
+
+Q: Diversification of the economy means
+A: developing other sectors such as agriculture and manufacturing
+W: depending only on oil
+W: closing all industries
+W: importing more fuel
+E: Diversification reduces dependence on a single source of income.
+
+Q: Which is an environmental problem of oil production in the Niger Delta?
+A: oil spills and gas flaring
+W: desert encroachment
+W: snowfall
+W: earthquakes
+E: Spills and flaring damage farmland, water and health.
+
+@topic eco-tools | Basic economic tools | SS1
+
+Q: In a table of data, the arithmetic mean of 10, 20 and 30 is
+A: 20
+W: 60
+W: 30
+W: 10
+E: (10 + 20 + 30) ÷ 3 = 20.
+
+Q: A diagram in which data are shown as sectors of a circle is a
+A: pie chart
+W: bar chart
+W: line graph
+W: histogram
+E: Each sector's angle is proportional to its value.
+
+Q: Which measure of central tendency is the most frequent value?
+A: mode
+W: mean
+W: median
+W: range
+E: The mode is the value that occurs most often.
+
+Q: A graph that shows how a variable changes over time is best drawn as a
+A: line graph
+W: pie chart
+W: pictogram
+W: map
+E: Line graphs show trends over time clearly.
+
+Q: The middle value of data arranged in order is the
+A: median
+W: mean
+W: mode
+W: range
+E: For 3, 5, 9, the median is 5.
+
+Q: In economics, a function such as Qd = 100 − 2P shows the relationship between
+A: quantity demanded and price
+W: income and taxes
+W: population and land
+W: money and banks
+E: As price P rises, quantity demanded Qd falls.
+
+@topic eco-bop | Balance of payments | SS3
+
+Q: The balance of payments is a record of
+A: all economic transactions between a country and the rest of the world
+W: only visible exports
+W: government revenue and spending
+W: a country's population
+E: It includes trade in goods and services, income and capital flows.
+
+Q: Exports of services such as tourism and shipping are called
+A: invisible exports
+W: visible exports
+W: imports
+W: re-exports
+E: Invisible items are services rather than physical goods.
+
+Q: A balance of payments deficit can be corrected by
+A: reducing imports and encouraging exports
+W: importing more luxury goods
+W: reducing exports
+W: borrowing to buy more imports
+E: Policies include tariffs, export promotion and exchange rate adjustment.
+
+Q: Which account of the balance of payments records trade in goods and services?
+A: current account
+W: capital account
+W: reserve account
+W: savings account
+E: The current account includes visible and invisible trade.
+
+Q: Visible imports are greater than visible exports. The balance of trade is
+A: unfavourable (in deficit)
+W: favourable
+W: balanced
+W: irrelevant
+E: The country spends more on imported goods than it earns from exported goods.
+
+Q: Foreign exchange reserves are held mainly by the
+A: Central Bank
+W: commercial banks
+W: Ministry of Agriculture
+W: stock exchange
+E: The Central Bank manages reserves to support the currency.
+
+@topic eco-money
+Q: Which of these was used as money in pre-colonial West Africa?
+A: cowries
+W: credit cards
+W: cheques
+W: banknotes
+E: Cowrie shells were widely used as a medium of exchange.
+
+Q: Deflation is
+A: a persistent fall in the general price level
+W: a persistent rise in prices
+W: an increase in money supply
+W: a rise in wages
+E: Deflation is the opposite of inflation.
+
+Q: Cost-push inflation is caused by
+A: rising costs of production
+W: excess demand
+W: falling wages
+W: lower taxes on firms
+E: Higher costs, such as wages and raw materials, push prices up.
+
+@topic eco-markets
+Q: Which is a barrier to entry that can create a monopoly?
+A: patents and licences
+W: many small firms
+W: free entry and exit
+W: perfect information
+E: Legal protection can keep competitors out.
+
+Q: Price discrimination means
+A: charging different prices to different buyers for the same good
+W: charging one price to everyone
+W: giving goods away free
+W: lowering quality
+E: For example, lower student prices for the same service.
+
+@topic eco-trade
+Q: Which international body regulates world trade rules?
+A: World Trade Organisation (WTO)
+W: OPEC
+W: ECOWAS
+W: UNICEF
+E: The WTO deals with the rules of trade between nations.
+
+Q: Specialisation in international trade is based mainly on
+A: comparative advantage
+W: equal resources everywhere
+W: identical climates
+W: the same currency
+E: Countries gain by producing what they make at the lowest opportunity cost.

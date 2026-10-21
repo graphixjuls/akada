@@ -1,0 +1,749 @@
+@subject chemistry
+
+@topic chm-separation | Separation techniques | SS1
+
+Q: Which method is best for separating sand from water?
+A: filtration
+W: distillation
+W: sublimation
+W: chromatography
+E: Sand is insoluble, so it stays on the filter paper while water passes through.
+
+Q: Which method is best for obtaining pure water from salt water?
+A: distillation
+W: filtration
+W: decantation
+W: sieving
+E: Distillation boils off the water and condenses it, leaving the salt behind.
+
+Q: Which method separates the different dyes in black ink?
+A: chromatography
+W: filtration
+W: evaporation
+W: magnetic separation
+E: The dyes travel different distances on the paper, so they separate into bands.
+
+Q: Which method separates a mixture of iodine and sand?
+A: sublimation
+W: filtration
+W: distillation
+W: decantation
+E: Iodine sublimes on heating and can be collected on a cold surface, leaving the sand.
+
+Q: Petrol, kerosene and diesel are separated from crude oil by
+A: fractional distillation
+W: filtration
+W: crystallisation
+W: chromatography
+E: The fractions have different boiling ranges, so they condense at different heights in the column.
+
+Q: Which method separates two liquids that do not mix, such as oil and water?
+A: using a separating funnel
+W: filtration
+W: sublimation
+W: evaporation
+E: Immiscible liquids form layers, and the lower layer is run off through the tap of a separating funnel.
+
+@topic chm-matter | Elements, compounds and mixtures | SS1
+
+Q: Which of these is an element?
+A: oxygen
+W: water
+W: salt
+W: air
+E: An element contains only one kind of atom. Water and salt are compounds; air is a mixture.
+
+Q: Which of these is a mixture?
+A: air
+W: water
+W: carbon dioxide
+W: sodium chloride
+E: Air is a mixture of nitrogen, oxygen, carbon dioxide and other gases in no fixed ratio.
+
+Q: Which is a property of a compound?
+A: its elements are combined in a fixed ratio
+W: its parts can be separated by physical means
+W: it has no definite melting point
+W: its properties are the average of its parts
+E: A compound has a fixed composition and can only be separated by chemical means.
+
+Q: Which of these is a physical change?
+A: melting of ice
+W: burning of wood
+W: rusting of iron
+W: souring of milk
+E: Melting changes only the state; no new substance is formed and it can be reversed.
+
+Q: Which of these is a chemical change?
+A: burning of kerosene
+W: dissolving sugar in water
+W: boiling of water
+W: breaking a glass
+E: Burning forms new substances (carbon dioxide and water) and cannot easily be reversed.
+
+Q: What is the chemical symbol for sodium?
+A: Na
+W: So
+W: S
+W: Sd
+E: Sodium's symbol comes from its Latin name, natrium.
+
+@topic chm-atomic | Atomic structure | SS1
+
+Q: An atom has 11 protons and 12 neutrons. What is its mass number?
+A: 23
+W: 11
+W: 12
+W: 1
+E: Mass number = protons + neutrons = 11 + 12 = 23.
+
+Q: Which particle has a negative charge?
+A: electron
+W: proton
+W: neutron
+W: nucleus
+E: Electrons are negative, protons are positive and neutrons have no charge.
+
+Q: Atoms of the same element with different numbers of neutrons are called
+A: isotopes
+W: isomers
+W: allotropes
+W: ions
+E: Isotopes have the same atomic number but different mass numbers, e.g. carbon-12 and carbon-14.
+
+Q: What is the electron configuration of an atom with atomic number 12?
+A: 2, 8, 2
+W: 2, 10
+W: 2, 8, 1
+W: 2, 2, 8
+E: The first shell holds 2 electrons and the second holds 8, leaving 2 in the third shell.
+
+Q: Chlorine has an atomic number of 17. How many electrons are in its outermost shell?
+A: 7
+W: 17
+W: 8
+W: 1
+E: 2, 8, 7: there are 7 electrons in the outer shell.
+
+Q: Who proposed that electrons move round the nucleus in fixed energy levels?
+A: Niels Bohr
+W: John Dalton
+W: J. J. Thomson
+W: Isaac Newton
+E: Bohr's model placed electrons in definite shells (energy levels).
+
+@topic chm-periodic | The periodic table | SS1
+
+Q: Elements in the same group of the periodic table have the same
+A: number of outer-shell electrons
+W: number of neutrons
+W: mass number
+W: number of shells
+E: Elements in a group have the same number of valence electrons, so they react in similar ways.
+
+Q: Which group contains the noble gases?
+A: Group 0 (Group 18)
+W: Group 1
+W: Group 2
+W: Group 7
+E: The noble gases have full outer shells and are very unreactive.
+
+Q: The alkali metals are found in
+A: Group 1
+W: Group 2
+W: Group 7
+W: Group 0
+E: Lithium, sodium and potassium are Group 1 alkali metals with one outer electron.
+
+Q: Which element is a halogen?
+A: chlorine
+W: sodium
+W: neon
+W: calcium
+E: The halogens (Group 7) include fluorine, chlorine, bromine and iodine.
+
+Q: Across a period from left to right, the atomic radius generally
+A: decreases
+W: increases
+W: stays the same
+W: doubles
+E: The increasing nuclear charge pulls the electrons closer, so atoms get smaller across a period.
+
+Q: An element has the electron configuration 2, 8, 3. In which period is it?
+A: Period 3
+W: Period 2
+W: Period 8
+W: Period 1
+E: The period number equals the number of occupied shells. Three shells means Period 3.
+
+@topic chm-bonding | Chemical bonding | SS1
+
+Q: Which type of bond holds the atoms in a water molecule together?
+A: covalent bond
+W: ionic bond
+W: metallic bond
+W: hydrogen bond
+E: Oxygen and hydrogen share electron pairs, which is covalent bonding.
+
+Q: Which type of bond is formed between sodium and chlorine in sodium chloride?
+A: ionic bond
+W: covalent bond
+W: metallic bond
+W: dative bond
+E: Sodium gives an electron to chlorine, forming Na⁺ and Cl⁻ ions held by electrostatic attraction.
+
+Q: Ionic compounds usually
+A: have high melting points
+W: are gases at room temperature
+W: do not conduct electricity when molten
+W: dissolve easily in petrol
+E: Strong attraction between ions gives ionic compounds high melting points.
+
+Q: How many covalent bonds does carbon usually form?
+A: 4
+W: 2
+W: 1
+W: 3
+E: Carbon has 4 outer electrons and shares all four, for example in methane (CH₄).
+
+Q: Metals conduct electricity because they have
+A: free (delocalised) electrons
+W: free ions
+W: no electrons
+W: shared electron pairs between two atoms
+E: In metallic bonding, the outer electrons are free to move through the metal.
+
+Q: In which compound is there a dative (coordinate) bond?
+A: the ammonium ion, NH₄⁺
+W: methane, CH₄
+W: hydrogen chloride, HCl
+W: oxygen, O₂
+E: In NH₄⁺, nitrogen donates both electrons of its lone pair to H⁺.
+
+@topic chm-equations | Formulae and equations | SS1
+
+Q: What is the chemical formula of calcium carbonate?
+A: CaCO₃
+W: CaCO₂
+W: Ca₂CO₃
+W: CaC
+E: Calcium (Ca²⁺) combines with carbonate (CO₃²⁻) in a 1:1 ratio.
+
+Q: What is the valency of oxygen in most of its compounds?
+A: 2
+W: 1
+W: 3
+W: 6
+E: Oxygen gains 2 electrons to complete its outer shell, so its valency is 2.
+
+Q: Balance the equation: H₂ + O₂ → H₂O. What number goes in front of H₂O?
+A: 2
+W: 1
+W: 3
+W: 4
+E: 2H₂ + O₂ → 2H₂O has 4 hydrogen atoms and 2 oxygen atoms on each side.
+
+Q: What is the formula of aluminium oxide?
+A: Al₂O₃
+W: AlO
+W: Al₃O₂
+W: AlO₃
+E: Al³⁺ and O²⁻ combine as 2 × 3 = 3 × 2, giving Al₂O₃.
+
+Q: What does (aq) mean after a formula in an equation?
+A: dissolved in water
+W: a gas
+W: a solid
+W: a pure liquid
+E: (aq) means aqueous: the substance is in solution in water.
+
+Q: What is the name of the compound with the formula H₂SO₄?
+A: sulphuric acid
+W: hydrochloric acid
+W: nitric acid
+W: sulphurous acid
+E: H₂SO₄ is sulphuric(VI) acid. Sulphurous acid is H₂SO₃.
+
+@topic chm-mole | The mole concept | SS2
+
+Q: What is the relative molecular mass of CO₂? (C = 12, O = 16)
+A: 44
+W: 28
+W: 32
+W: 40
+E: 12 + (2 × 16) = 44.
+
+Q: How many moles are in 36 g of water? (H = 1, O = 16)
+A: 2 moles
+W: 1 mole
+W: 18 moles
+W: 0.5 moles
+E: Molar mass of H₂O = 18 g/mol. Moles = 36 ÷ 18 = 2.
+
+Q: What is the molar volume of any gas at s.t.p.?
+A: 22.4 dm³
+W: 24.0 dm³
+W: 11.2 dm³
+W: 1.0 dm³
+E: One mole of any gas occupies 22.4 dm³ at standard temperature and pressure.
+
+Q: How many particles are in one mole of a substance?
+A: 6.02 × 10²³
+W: 6.02 × 10²²
+W: 3.01 × 10²³
+W: 22.4
+E: This is the Avogadro constant.
+
+Q: What mass of sodium hydroxide is needed to make 1 dm³ of a 0.5 mol/dm³ solution? (Na = 23, O = 16, H = 1)
+A: 20 g
+W: 40 g
+W: 10 g
+W: 80 g
+E: Molar mass of NaOH = 40 g/mol. Mass = 0.5 × 40 = 20 g.
+
+Q: What is the empirical formula of a compound whose molecular formula is C₆H₁₂O₆?
+A: CH₂O
+W: C₆H₁₂O₆
+W: C₂H₄O₂
+W: CHO
+E: Divide all subscripts by 6 to get the simplest ratio: CH₂O.
+
+@topic chm-acids | Acids, bases and salts | SS2
+
+Q: What is the pH of a neutral solution at 25 °C?
+A: 7
+W: 0
+W: 1
+W: 14
+E: pH 7 is neutral. Below 7 is acidic and above 7 is alkaline.
+
+Q: What colour does blue litmus paper turn in an acid?
+A: red
+W: blue
+W: green
+W: colourless
+E: Acids turn blue litmus red.
+
+Q: What are the products when an acid reacts with a base?
+A: salt and water
+W: salt and hydrogen
+W: acid and water
+W: oxygen and water
+E: This is neutralisation: acid + base → salt + water.
+
+Q: What gas is produced when zinc reacts with dilute hydrochloric acid?
+A: hydrogen
+W: oxygen
+W: chlorine
+W: carbon dioxide
+E: Zn + 2HCl → ZnCl₂ + H₂.
+
+Q: Which of these is a strong acid?
+A: hydrochloric acid
+W: ethanoic acid
+W: citric acid
+W: carbonic acid
+E: Hydrochloric acid ionises completely in water. The others ionise only partly.
+
+Q: What gas is given off when an acid reacts with a carbonate?
+A: carbon dioxide
+W: hydrogen
+W: oxygen
+W: nitrogen
+E: Acid + carbonate → salt + water + carbon dioxide.
+
+@topic chm-redox | Oxidation and reduction | SS2
+
+Q: Oxidation is defined as
+A: loss of electrons
+W: gain of electrons
+W: gain of hydrogen
+W: loss of oxygen
+E: Remember OIL RIG: Oxidation Is Loss, Reduction Is Gain (of electrons).
+
+Q: What is the oxidation number of manganese in KMnO₄?
+A: +7
+W: +2
+W: +4
+W: −7
+E: K = +1 and 4 O = −8, so Mn + 1 − 8 = 0, giving Mn = +7.
+
+Q: In the reaction CuO + H₂ → Cu + H₂O, which substance is reduced?
+A: copper(II) oxide
+W: hydrogen
+W: copper
+W: water
+E: CuO loses oxygen to become Cu, so it is reduced.
+
+Q: A substance that accepts electrons is called
+A: an oxidising agent
+W: a reducing agent
+W: a catalyst
+W: an indicator
+E: An oxidising agent gains (accepts) electrons and is itself reduced.
+
+Q: What is the oxidation number of sulphur in H₂SO₄?
+A: +6
+W: +4
+W: −2
+W: +2
+E: 2 H = +2 and 4 O = −8, so S = +6.
+
+Q: Rusting of iron is an example of
+A: oxidation
+W: reduction
+W: neutralisation
+W: sublimation
+E: Iron combines with oxygen (in the presence of water) and loses electrons.
+
+@topic chm-electrolysis | Electrolysis | SS2
+
+Q: In electrolysis, the positive electrode is called the
+A: anode
+W: cathode
+W: electrolyte
+W: ion
+E: The anode is positive and attracts negative ions (anions).
+
+Q: During the electrolysis of acidified water, what gas is given off at the cathode?
+A: hydrogen
+W: oxygen
+W: chlorine
+W: nitrogen
+E: Positive H⁺ ions move to the cathode and gain electrons to form hydrogen gas.
+
+Q: Which of these can act as an electrolyte?
+A: molten sodium chloride
+W: solid sodium chloride
+W: sugar solution
+W: kerosene
+E: An electrolyte must contain ions free to move, as in a molten or dissolved ionic compound.
+
+Q: Electroplating a spoon with silver: the spoon should be made the
+A: cathode
+W: anode
+W: electrolyte
+W: salt bridge
+E: Silver ions are deposited as silver metal at the cathode, so the spoon is the cathode.
+
+Q: During the electrolysis of brine, what gas is produced at the anode?
+A: chlorine
+W: hydrogen
+W: oxygen
+W: carbon dioxide
+E: Chloride ions are discharged at the anode as chlorine gas.
+
+Q: What is the name of the law that relates the mass deposited in electrolysis to the quantity of electricity?
+A: Faraday's first law
+W: Boyle's law
+W: Charles's law
+W: Ohm's law
+E: Faraday's first law: the mass of substance deposited is proportional to the quantity of electricity passed.
+
+@topic chm-rates | Rates of reaction and equilibrium | SS2
+
+Q: Which change will increase the rate of reaction between marble chips and acid?
+A: using powdered marble instead of chips
+W: using larger marble chips
+W: cooling the acid
+W: diluting the acid
+E: Powder has a larger surface area, so more particles can collide at once.
+
+Q: A catalyst speeds up a reaction by
+A: lowering the activation energy
+W: raising the temperature
+W: increasing the amount of product at equilibrium
+W: being used up in the reaction
+E: A catalyst provides another pathway with lower activation energy and is not used up.
+
+Q: Why does increasing temperature increase the rate of reaction?
+A: particles move faster and collide more often with enough energy
+W: particles become larger
+W: the activation energy increases
+W: fewer particles collide
+E: More particles have energy equal to or greater than the activation energy.
+
+Q: For the equilibrium N₂ + 3H₂ ⇌ 2NH₃, increasing the pressure will
+A: shift the equilibrium to the right
+W: shift the equilibrium to the left
+W: have no effect
+W: stop the reaction
+E: By Le Chatelier's principle, the equilibrium shifts towards fewer gas molecules (4 on the left, 2 on the right).
+
+Q: An exothermic reaction is one that
+A: gives out heat to the surroundings
+W: takes in heat from the surroundings
+W: needs light to occur
+W: produces no products
+E: Exothermic reactions release heat, so the surroundings get warmer. ΔH is negative.
+
+Q: Which of these is an endothermic process?
+A: dissolving ammonium chloride in water
+W: burning charcoal
+W: neutralising an acid with a base
+W: respiration
+E: Ammonium chloride absorbs heat as it dissolves, so the solution feels cold.
+
+@topic chm-water | Water and solubility | SS2
+
+Q: What causes temporary hardness of water?
+A: dissolved calcium hydrogencarbonate
+W: dissolved calcium sulphate
+W: dissolved sodium chloride
+W: dissolved oxygen
+E: Calcium (or magnesium) hydrogencarbonate causes temporary hardness, which boiling removes.
+
+Q: Temporary hardness can be removed by
+A: boiling
+W: adding sodium chloride
+W: filtration
+W: adding sugar
+E: Boiling decomposes the hydrogencarbonate into insoluble calcium carbonate.
+
+Q: A solution that cannot dissolve any more solute at a given temperature is
+A: saturated
+W: dilute
+W: unsaturated
+W: concentrated but unsaturated
+E: A saturated solution holds the maximum amount of solute at that temperature.
+
+Q: Which substance is added to water in treatment plants to kill germs?
+A: chlorine
+W: alum
+W: sand
+W: sodium chloride
+E: Chlorine is a disinfectant that kills bacteria in water.
+
+Q: Hard water does not lather easily with soap because
+A: calcium and magnesium ions form scum with soap
+W: it contains too much oxygen
+W: it is too acidic
+W: it has no dissolved substances
+E: The ions react with soap to form an insoluble scum instead of lather.
+
+Q: Why is alum (potash alum) added during water treatment?
+A: to make suspended particles clump together and settle
+W: to kill bacteria
+W: to soften the water
+W: to add colour
+E: Alum causes coagulation, so fine particles settle and can be removed.
+
+@topic chm-hydrocarbons | Hydrocarbons | SS3
+
+Q: What is the general formula of the alkanes?
+A: CₙH₂ₙ₊₂
+W: CₙH₂ₙ
+W: CₙH₂ₙ₋₂
+W: CₙHₙ
+E: Alkanes are saturated hydrocarbons with the general formula CₙH₂ₙ₊₂.
+
+Q: Which compound decolourises bromine water quickly?
+A: ethene
+W: ethane
+W: methane
+W: propane
+E: Ethene has a C=C double bond and undergoes addition with bromine. Alkanes do not.
+
+Q: What is the name of CH₃CH₂CH₃?
+A: propane
+W: butane
+W: ethane
+W: propene
+E: Three carbon atoms with only single bonds make propane.
+
+Q: Compounds with the same molecular formula but different structures are called
+A: isomers
+W: isotopes
+W: allotropes
+W: homologues
+E: For example, butane and 2-methylpropane are both C₄H₁₀.
+
+Q: The main constituent of natural gas is
+A: methane
+W: ethene
+W: butane
+W: propane
+E: Natural gas is mostly methane (CH₄).
+
+Q: Ethyne (C₂H₂) is used in oxy-acetylene flames for
+A: welding and cutting metals
+W: making soap
+W: ripening fruit
+W: preserving food
+E: Burning ethyne in oxygen gives a very hot flame used in welding.
+
+@topic chm-functional | Alcohols, acids and esters | SS3
+
+Q: What is the functional group of alcohols?
+A: −OH (hydroxyl)
+W: −COOH (carboxyl)
+W: C=C
+W: −CHO
+E: Alcohols contain the hydroxyl group, as in ethanol, C₂H₅OH.
+
+Q: The production of ethanol from sugar using yeast is called
+A: fermentation
+W: distillation
+W: cracking
+W: saponification
+E: Yeast enzymes convert sugar into ethanol and carbon dioxide.
+
+Q: An alcohol reacts with a carboxylic acid to form
+A: an ester and water
+W: a salt and hydrogen
+W: an alkane
+W: soap and glycerol
+E: This is esterification. Esters often have fruity smells.
+
+Q: Soap is made by heating fats or oils with
+A: sodium hydroxide
+W: hydrochloric acid
+W: ethanol
+W: sulphur
+E: This process is called saponification.
+
+Q: What is the functional group of carboxylic acids?
+A: −COOH
+W: −OH
+W: −NH₂
+W: −CO−O−
+E: Carboxylic acids such as ethanoic acid (vinegar) contain the −COOH group.
+
+Q: Which compound is the main acid in vinegar?
+A: ethanoic acid
+W: citric acid
+W: sulphuric acid
+W: methanoic acid
+E: Vinegar is a dilute solution of ethanoic (acetic) acid.
+
+@topic chm-metals | Metals and their extraction | SS3
+
+Q: Which metal is extracted from bauxite?
+A: aluminium
+W: iron
+W: copper
+W: tin
+E: Bauxite is the main ore of aluminium, which is extracted by electrolysis.
+
+Q: Iron is extracted in the blast furnace by reduction with
+A: carbon monoxide
+W: oxygen
+W: chlorine
+W: hydrogen chloride
+E: Carbon monoxide reduces iron(III) oxide to iron.
+
+Q: Which metal is the most reactive?
+A: potassium
+W: copper
+W: iron
+W: zinc
+E: Potassium is near the top of the reactivity series.
+
+Q: Galvanising protects iron from rusting by coating it with
+A: zinc
+W: copper
+W: paint
+W: tin oxide
+E: Zinc is more reactive, so it corrodes in place of the iron (sacrificial protection).
+
+Q: An alloy of copper and zinc is called
+A: brass
+W: bronze
+W: steel
+W: solder
+E: Brass is copper and zinc. Bronze is copper and tin.
+
+Q: Which ore of tin is mined in Jos, Plateau State?
+A: cassiterite
+W: haematite
+W: bauxite
+W: galena
+E: Cassiterite (tin oxide) has long been mined on the Jos Plateau.
+
+@topic chm-nonmetals | Non-metals and their compounds | SS3
+
+Q: Which gas makes up about 78% of the air?
+A: nitrogen
+W: oxygen
+W: carbon dioxide
+W: argon
+E: Air is about 78% nitrogen and 21% oxygen.
+
+Q: Ammonia is manufactured industrially by the
+A: Haber process
+W: Contact process
+W: Solvay process
+W: Ostwald process
+E: In the Haber process nitrogen and hydrogen combine over an iron catalyst.
+
+Q: Sulphuric acid is manufactured by the
+A: Contact process
+W: Haber process
+W: Solvay process
+W: blast furnace
+E: The Contact process oxidises SO₂ to SO₃ over a vanadium(V) oxide catalyst.
+
+Q: Which test confirms carbon dioxide?
+A: it turns limewater milky
+W: it relights a glowing splint
+W: it burns with a pop
+W: it bleaches damp litmus paper
+E: CO₂ reacts with limewater (calcium hydroxide) to form a white precipitate of calcium carbonate.
+
+Q: Which gas relights a glowing splint?
+A: oxygen
+W: hydrogen
+W: nitrogen
+W: carbon dioxide
+E: Oxygen supports combustion, so a glowing splint bursts into flame.
+
+Q: Which gas bleaches damp litmus paper?
+A: chlorine
+W: oxygen
+W: hydrogen
+W: nitrogen
+E: Chlorine forms an acid with water that bleaches the dye.
+
+@topic chm-environment | Chemistry and the environment | SS3
+
+Q: Which gas is the main cause of acid rain?
+A: sulphur dioxide
+W: oxygen
+W: nitrogen
+W: helium
+E: Sulphur dioxide dissolves in rain water to form acids.
+
+Q: Which gas is the main contributor to the greenhouse effect?
+A: carbon dioxide
+W: oxygen
+W: nitrogen
+W: hydrogen
+E: Carbon dioxide traps heat radiated from the earth's surface.
+
+Q: Carbon monoxide is dangerous because it
+A: combines with haemoglobin and stops it carrying oxygen
+W: makes the air acidic
+W: is very reactive with water
+W: depletes the ozone layer
+E: Carbon monoxide binds strongly to haemoglobin, reducing oxygen transport in the blood.
+
+Q: Gas flaring in the Niger Delta mainly releases
+A: carbon dioxide and other pollutants into the air
+W: pure oxygen into the air
+W: clean drinking water
+W: nitrogen fertiliser into the soil
+E: Burning off gas releases carbon dioxide, soot and other pollutants.
+
+Q: Chlorofluorocarbons (CFCs) are harmful because they
+A: damage the ozone layer
+W: cause hard water
+W: make soil acidic
+W: are very good fuels
+E: CFCs break down ozone, which shields the earth from ultraviolet rays.
+
+Q: Which of these materials is biodegradable?
+A: paper
+W: polythene bags
+W: glass bottles
+W: plastic cups
+E: Paper can be broken down by microorganisms. Most plastics cannot.

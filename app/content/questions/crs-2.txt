@@ -1,0 +1,360 @@
+@subject crs
+
+@topic crs-patriarchs | Abraham, Isaac, Jacob and Joseph | SS1
+
+Q: God called Abram to leave his country and go to a land He would show him. Abram was living in
+A: Haran
+W: Egypt
+W: Jerusalem
+W: Babylon
+E: Abram left Haran for Canaan at God's call (Genesis 12).
+
+Q: God tested Abraham by asking him to sacrifice
+A: Isaac
+W: Ishmael
+W: Jacob
+W: Lot
+E: God provided a ram instead (Genesis 22).
+
+Q: Who sold his birthright to his brother for a meal?
+A: Esau
+W: Jacob
+W: Reuben
+W: Ishmael
+E: Esau sold his birthright to Jacob for bread and lentil stew (Genesis 25).
+
+Q: Jacob's name was changed by God to
+A: Israel
+W: Abraham
+W: Judah
+W: Joseph
+E: After wrestling at Peniel, Jacob was renamed Israel (Genesis 32:28).
+
+Q: Joseph's brothers sold him to
+A: Ishmaelite (Midianite) traders
+W: the Philistines
+W: Pharaoh's officials at the palace
+W: the Babylonians
+E: They sold him for twenty pieces of silver (Genesis 37).
+
+Q: Joseph rose to power in Egypt after he
+A: interpreted Pharaoh's dreams
+W: defeated the Philistines
+W: built the pyramids
+W: led the army against Canaan
+E: He interpreted the dreams of seven years of plenty and seven of famine (Genesis 41).
+
+@topic crs-samuel | Eli, Samuel and the call of leaders | SS1
+
+Q: Samuel's mother, who prayed for a son at Shiloh, was
+A: Hannah
+W: Sarah
+W: Rachel
+W: Ruth
+E: Hannah dedicated Samuel to the Lord (1 Samuel 1).
+
+Q: God called Samuel while he was serving under the priest
+A: Eli
+W: Aaron
+W: Nathan
+W: Zadok
+E: Samuel answered, "Speak, for your servant is listening" (1 Samuel 3).
+
+Q: Eli's sons were condemned because they
+A: treated the Lord's offering with contempt
+W: refused to fight the Philistines
+W: built a golden calf
+W: moved the tabernacle to Egypt
+E: Hophni and Phinehas abused their priestly office (1 Samuel 2).
+
+Q: What happened to the ark of the covenant when Israel was defeated at Aphek?
+A: it was captured by the Philistines
+W: it was burnt
+W: it was hidden in a cave
+W: it was taken to Egypt
+E: The Philistines captured the ark, and Eli died on hearing the news (1 Samuel 4).
+
+Q: The people asked Samuel for a king because they wanted to
+A: be like other nations
+W: return to Egypt
+W: worship Baal
+W: build a temple at once
+E: Samuel warned them about the burdens a king would impose (1 Samuel 8).
+
+Q: Who did Samuel anoint as king in place of Saul?
+A: David
+W: Jonathan
+W: Solomon
+W: Absalom
+E: Samuel anointed David, the youngest son of Jesse, at Bethlehem (1 Samuel 16).
+
+@topic crs-ruth-jonah | Ruth, Jonah and God's universal love | SS1
+
+Q: Ruth was from the land of
+A: Moab
+W: Egypt
+W: Edom
+W: Philistia
+E: Ruth the Moabitess remained loyal to her mother-in-law Naomi.
+
+Q: Ruth married
+A: Boaz
+W: Elimelech
+W: Obed
+W: Jesse
+E: Ruth became the great-grandmother of King David.
+
+Q: God sent Jonah to preach to the people of
+A: Nineveh
+W: Jerusalem
+W: Tarshish
+W: Babylon
+E: Jonah tried to flee to Tarshish instead.
+
+Q: Jonah was in the belly of the great fish for
+A: three days and three nights
+W: seven days
+W: forty days
+W: one night
+E: Jesus referred to this as the "sign of Jonah".
+
+Q: The book of Jonah mainly teaches that
+A: God's mercy extends to all nations
+W: only Israel can be saved
+W: prophets should never preach
+W: God does not forgive
+E: God spared Nineveh when its people repented.
+
+Q: Naomi asked to be called "Mara" because
+A: she felt the Lord had dealt bitterly with her
+W: it was her family name
+W: she had become a queen
+W: she had moved to Egypt
+E: "Mara" means "bitter" (Ruth 1:20).
+
+@topic crs-exile | The exile and the return | SS2
+
+Q: Which empire destroyed Jerusalem and took the people of Judah into exile in 586 BC?
+A: Babylon
+W: Egypt
+W: Rome
+W: Persia
+E: King Nebuchadnezzar of Babylon destroyed the temple.
+
+Q: Daniel was thrown into a den of lions because he
+A: continued to pray to God
+W: stole from the king
+W: refused to work
+W: insulted the queen
+E: Daniel prayed despite the king's decree, and God shut the lions' mouths (Daniel 6).
+
+Q: Which Persian king allowed the Jews to return and rebuild the temple?
+A: Cyrus
+W: Nebuchadnezzar
+W: Pharaoh Neco
+W: Herod
+E: The decree of Cyrus is recorded in Ezra 1.
+
+Q: Who led the rebuilding of the walls of Jerusalem?
+A: Nehemiah
+W: Ezra
+W: Daniel
+W: Jeremiah
+E: Nehemiah, the king's cupbearer, organised the work despite opposition.
+
+Q: Shadrach, Meshach and Abednego were thrown into a fiery furnace because they
+A: refused to worship the golden image
+W: tried to escape from Babylon
+W: stole the king's gold
+W: insulted Daniel
+E: God protected them in the furnace (Daniel 3).
+
+Q: Which Jewish queen saved her people from Haman's plot?
+A: Esther
+W: Jezebel
+W: Deborah
+W: Ruth
+E: Esther risked her life by approaching King Ahasuerus.
+
+@topic crs-teachings | The teachings of Jesus | SS2
+
+Q: The Beatitudes are found in the
+A: Sermon on the Mount
+W: Ten Commandments
+W: Book of Psalms
+W: letter to the Romans
+E: Matthew 5 begins the Sermon on the Mount with the Beatitudes.
+
+Q: According to the Beatitudes, the peacemakers will be called
+A: children of God
+W: kings of the earth
+W: prophets
+W: rich
+E: "Blessed are the peacemakers, for they shall be called sons of God" (Matthew 5:9).
+
+Q: In the parable of the prodigal son, the father's response teaches about
+A: God's forgiveness and love
+W: the importance of wealth
+W: farming methods
+W: the end of the world
+E: The father welcomed his repentant son with joy (Luke 15).
+
+Q: Jesus taught that the greatest commandment is to
+A: love God with all your heart, soul and mind
+W: keep the Sabbath
+W: give a tenth of your income
+W: fast twice a week
+E: The second is to love your neighbour as yourself (Matthew 22:37–39).
+
+Q: The parable of the talents teaches that people should
+A: use their gifts and abilities well
+W: hide their money safely
+W: never trade
+W: avoid hard work
+E: The servant who buried his talent was condemned (Matthew 25).
+
+Q: Jesus taught his disciples to pray the prayer known as
+A: the Lord's Prayer
+W: the Magnificat
+W: the Song of Moses
+W: the Nunc Dimittis
+E: It begins "Our Father, who art in heaven" (Matthew 6:9–13).
+
+@topic crs-miracles | The miracles of Jesus | SS2
+
+Q: How many people did Jesus feed with five loaves and two fish?
+A: about five thousand men
+W: about four hundred
+W: twelve
+W: seventy
+E: Twelve baskets of leftovers were collected (Matthew 14).
+
+Q: Whom did Jesus raise from the dead after four days in the tomb?
+A: Lazarus
+W: Jairus's daughter
+W: the widow's son at Nain
+W: Dorcas
+E: Lazarus was the brother of Martha and Mary (John 11).
+
+Q: When Jesus calmed the storm, he showed his power over
+A: nature
+W: demons
+W: sickness
+W: death
+E: The disciples asked, "Who is this, that even the wind and sea obey him?"
+
+Q: The woman who touched the hem of Jesus' garment had suffered from
+A: bleeding for twelve years
+W: blindness from birth
+W: leprosy for one year
+W: paralysis for thirty-eight years
+E: Jesus told her, "Your faith has made you well" (Mark 5).
+
+Q: Jesus healed blind Bartimaeus near
+A: Jericho
+W: Jerusalem
+W: Capernaum
+W: Nazareth
+E: Bartimaeus cried, "Son of David, have mercy on me!" (Mark 10).
+
+Q: How many lepers did Jesus heal, of whom only one returned to thank him?
+A: ten
+W: twelve
+W: seven
+W: three
+E: The one who returned was a Samaritan (Luke 17).
+
+@topic crs-discipleship | Discipleship and encounters with Jesus | SS2
+
+Q: Which tax collector climbed a sycamore tree to see Jesus?
+A: Zacchaeus
+W: Matthew
+W: Nicodemus
+W: Bartimaeus
+E: Zacchaeus repented and promised to repay those he had cheated (Luke 19).
+
+Q: Jesus told Nicodemus that to see the kingdom of God a person must be
+A: born again
+W: very rich
+W: a priest
+W: a descendant of David
+E: Nicodemus visited Jesus at night (John 3).
+
+Q: Which disciples were brothers and fishermen called first by Jesus?
+A: Peter and Andrew
+W: Matthew and Thomas
+W: Judas and Philip
+W: Paul and Barnabas
+E: Jesus said, "Follow me, and I will make you fishers of men."
+
+Q: Matthew (Levi) was a
+A: tax collector
+W: fisherman
+W: carpenter
+W: tentmaker
+E: Jesus called him from his tax booth (Matthew 9:9).
+
+Q: Jesus met the Samaritan woman at
+A: Jacob's well
+W: the pool of Bethesda
+W: the river Jordan
+W: the temple gate
+E: He spoke to her about living water (John 4).
+
+Q: Jesus said that to be his disciple a person must
+A: deny himself, take up his cross and follow him
+W: become rich first
+W: keep away from all sinners
+W: live in Jerusalem
+E: Discipleship involves self-denial (Mark 8:34).
+
+@topic crs-epistles
+Q: According to 1 Peter, Christians should be ready to give an answer for
+A: the hope that is in them
+W: the wealth they own
+W: their family history
+W: the sins of others
+E: 1 Peter 3:15 encourages believers to explain their faith with gentleness.
+
+Q: Paul wrote to Philemon asking him to receive back
+A: Onesimus, his runaway slave, as a brother
+W: Timothy as a bishop
+W: Silas as a prisoner
+W: Barnabas as a teacher
+E: The letter teaches forgiveness and Christian brotherhood.
+
+Q: In Ephesians 6, the "whole armour of God" includes
+A: the shield of faith
+W: the sword of iron
+W: the crown of gold
+W: the chariot of fire
+E: The armour includes truth, righteousness, faith, salvation and the word of God.
+
+Q: Paul taught the Thessalonians that people who refuse to work should
+A: not eat
+W: be made rich
+W: become leaders
+W: be paid twice
+E: 2 Thessalonians 3:10 condemns idleness.
+
+@topic crs-early-church
+Q: Ananias and Sapphira died because they
+A: lied about the money from the sale of their land
+W: refused to be baptised
+W: persecuted Stephen
+W: worshipped idols
+E: They kept back part of the money and lied to the Holy Spirit (Acts 5).
+
+Q: The seven deacons were chosen in the early church to
+A: oversee the daily distribution of food
+W: write the Gospels
+W: lead the army
+W: build the temple
+E: This freed the apostles for prayer and preaching (Acts 6).
+
+Q: Who was the young man who watched over the clothes of those who stoned Stephen?
+A: Saul
+W: Timothy
+W: John Mark
+W: Silas
+E: Saul later became the apostle Paul (Acts 7:58).

@@ -1,0 +1,265 @@
+@subject geography
+
+@topic geo-landforms | Landforms and processes | SS2
+
+Q: A large fan-shaped deposit of sediment at the mouth of a river is a
+A: delta
+W: gorge
+W: escarpment
+W: plateau
+E: The Niger Delta is one of the largest in Africa.
+
+Q: A deep, narrow valley with steep sides cut by a river is a
+A: gorge
+W: delta
+W: plain
+W: lagoon
+E: Gorges form where rivers cut through hard rock.
+
+Q: A crescent-shaped lake formed when a river meander is cut off is an
+A: ox-bow lake
+W: crater lake
+W: lagoon
+W: estuary
+E: Ox-bow lakes form on flood plains.
+
+Q: A high, flat area of land is called a
+A: plateau
+W: valley
+W: basin
+W: delta
+E: The Jos Plateau is an example.
+
+Q: A sand dune is formed mainly by
+A: wind deposition
+W: river erosion
+W: glacial movement
+W: volcanic activity
+E: Wind piles up sand in deserts and along coasts.
+
+Q: A body of shallow sea water separated from the sea by a sandbar is a
+A: lagoon
+W: delta
+W: gorge
+W: waterfall
+E: The Lagos Lagoon is an example.
+
+@topic geo-volcanoes | Earth movements and volcanoes | SS2
+
+Q: The point inside the earth where an earthquake starts is the
+A: focus
+W: epicentre
+W: crater
+W: vent
+E: The epicentre is the point on the surface directly above the focus.
+
+Q: The instrument used to record earthquakes is the
+A: seismograph
+W: barometer
+W: hygrometer
+W: anemometer
+E: Earthquake strength is often given on the Richter scale.
+
+Q: Molten rock on the earth's surface is called
+A: lava
+W: magma
+W: granite
+W: humus
+E: Magma is molten rock below the surface.
+
+Q: A volcano that has not erupted for a long time but may erupt again is
+A: dormant
+W: active
+W: extinct
+W: fold
+E: An extinct volcano is not expected to erupt again.
+
+Q: Mount Cameroon is an example of
+A: an active volcano
+W: a fold mountain
+W: a block mountain
+W: a residual mountain
+E: Mount Cameroon has erupted several times in recent decades.
+
+Q: Fold mountains are formed when
+A: layers of rock are compressed and buckle upwards
+W: wind deposits sand
+W: rivers deposit silt
+W: lava cools on the surface
+E: The Alps and the Himalayas are fold mountains.
+
+@topic geo-oceans | Oceans, rivers and lakes | SS2
+
+Q: The regular rise and fall of the sea level is called
+A: tides
+W: currents
+W: waves
+W: tsunamis
+E: Tides are caused mainly by the gravitational pull of the moon.
+
+Q: Which ocean current is warm?
+A: the Gulf Stream
+W: the Canary Current
+W: the Benguela Current
+W: the Labrador Current
+E: The Gulf Stream carries warm water across the North Atlantic.
+
+Q: The area drained by a river and its tributaries is its
+A: basin (catchment area)
+W: delta
+W: estuary
+W: source
+E: The Niger basin covers much of West Africa.
+
+Q: The place where a river begins is its
+A: source
+W: mouth
+W: delta
+W: confluence
+E: The River Niger rises in the Guinea Highlands.
+
+Q: The point where two rivers meet is a
+A: confluence
+W: source
+W: meander
+W: tributary
+E: The Niger and Benue meet at Lokoja.
+
+Q: Lake Chad is shared by Nigeria, Niger, Chad and
+A: Cameroon
+W: Ghana
+W: Benin
+W: Mali
+E: The lake lies where the four countries meet.
+
+@topic geo-climates | Climatic regions of the world | SS3
+
+Q: Which climate has high temperatures and rainfall all year round?
+A: equatorial climate
+W: Mediterranean climate
+W: tundra climate
+W: desert climate
+E: Equatorial regions are hot and wet throughout the year.
+
+Q: Hot, dry summers and mild, wet winters describe the
+A: Mediterranean climate
+W: equatorial climate
+W: savanna climate
+W: monsoon climate
+E: This climate is found around the Mediterranean Sea.
+
+Q: The savanna (tropical continental) climate has
+A: a wet season and a dry season
+W: rain every month
+W: snow in winter
+W: no rain at all
+E: Most of Nigeria north of the forest belt has this climate.
+
+Q: Which climate is the coldest?
+A: tundra
+W: equatorial
+W: savanna
+W: Mediterranean
+E: Tundra regions are near the Arctic, with long freezing winters.
+
+Q: The temperature range is the difference between
+A: the highest and lowest temperatures
+W: rainfall and evaporation
+W: day length and night length
+W: humidity and pressure
+E: Desert climates have a large daily temperature range.
+
+Q: Temperature generally falls with increasing
+A: altitude
+W: rainfall
+W: population
+W: soil depth
+E: Temperature drops about 6 °C for every 1,000 m of height.
+
+@topic geo-trade-transport | Trade and transport in West Africa | SS3
+
+Q: Which is the busiest seaport in Nigeria?
+A: Apapa (Lagos)
+W: Calabar
+W: Warri
+W: Onne
+E: Lagos ports handle most of Nigeria's imports.
+
+Q: The Trans-West African Coastal Highway links Lagos with
+A: Abidjan and other coastal cities
+W: Cairo
+W: Nairobi
+W: Johannesburg
+E: It is part of the ECOWAS road network along the coast.
+
+Q: A landlocked country in West Africa is
+A: Niger
+W: Ghana
+W: Nigeria
+W: Senegal
+E: Niger, Mali and Burkina Faso have no coastline.
+
+Q: Which is a problem of road transport in Nigeria?
+A: poor maintenance of roads
+W: too many railways
+W: too little traffic
+W: excess bridges
+E: Potholes and congestion increase transport costs.
+
+Q: Which mineral is mined at Itakpe for iron and steel?
+A: iron ore
+W: tin
+W: gold
+W: coal
+E: Itakpe iron ore supplies the Ajaokuta steel plant.
+
+Q: Cocoa from Ghana and Nigeria is mainly exported to
+A: Europe and other industrial countries
+W: the Sahara
+W: Antarctica
+W: landlocked neighbours
+E: Cocoa is processed into chocolate in industrial countries.
+
+@topic geo-weather
+Q: The temperature at which air becomes saturated and dew forms is the
+A: dew point
+W: boiling point
+W: freezing point
+W: melting point
+E: When air cools to its dew point, water vapour condenses.
+
+Q: Which type of rainfall is most common in the tropics?
+A: convectional rainfall
+W: frontal rainfall
+W: snow
+W: hail
+E: Strong heating causes air to rise, cool and form clouds.
+
+Q: The Stevenson screen is used to house
+A: thermometers and hygrometers
+W: rain gauges
+W: wind vanes
+W: telescopes
+E: It shields instruments from direct sunlight and rain.
+
+@topic geo-nigeria
+Q: Which is the most populous city in Nigeria?
+A: Lagos
+W: Abuja
+W: Kano
+W: Ibadan
+E: Lagos is Nigeria's largest city and commercial centre.
+
+Q: The Obudu Plateau, a tourist centre, is in
+A: Cross River State
+W: Plateau State
+W: Kano State
+W: Ogun State
+E: The Obudu Mountain Resort is a popular destination.
+
+Q: The Yankari Game Reserve is in
+A: Bauchi State
+W: Oyo State
+W: Lagos State
+W: Enugu State
+E: Yankari is known for elephants and the Wikki warm spring.

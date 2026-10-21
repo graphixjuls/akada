@@ -1,0 +1,661 @@
+@subject economics
+
+@topic eco-concepts | Basic economic concepts | SS1
+
+Q: The basic economic problem arises because
+A: human wants are unlimited while resources are scarce
+W: money is not available
+W: there are too many people
+W: prices are always rising
+E: Scarcity of resources relative to wants forces people to make choices.
+
+Q: Opportunity cost is
+A: the next best alternative given up
+W: the money price of a good
+W: the cost of production
+W: the total cost of all wants
+E: If you buy a textbook instead of shoes, the shoes are the opportunity cost.
+
+Q: Bola has ₦2,000. She can buy a novel or a pair of slippers, and she chooses the novel. What is her opportunity cost?
+A: the pair of slippers
+W: the novel
+W: ₦2,000
+W: nothing
+E: Opportunity cost is the alternative forgone, which is the slippers.
+
+Q: Arranging wants in order of importance is called a
+A: scale of preference
+W: production possibility curve
+W: demand schedule
+W: budget
+E: A scale of preference lists wants from the most to the least pressing.
+
+Q: Which of these is a free good?
+A: air
+W: bread
+W: petrol
+W: electricity
+E: Air is not scarce and has no price, so it is a free good.
+
+Q: A production possibility curve shows
+A: the combinations of two goods an economy can produce with its resources
+W: the prices of goods over time
+W: the demand for one good
+W: the population of a country
+E: Points on the curve show efficient use of all available resources.
+
+@topic eco-demand | Demand | SS1
+
+Q: The law of demand states that, other things being equal,
+A: the higher the price, the lower the quantity demanded
+W: the higher the price, the higher the quantity demanded
+W: price has no effect on demand
+W: demand always equals supply
+E: Price and quantity demanded move in opposite directions.
+
+Q: A demand curve normally slopes
+A: downwards from left to right
+W: upwards from left to right
+W: horizontally
+W: vertically
+E: As price falls, more is demanded, giving a downward slope.
+
+Q: An increase in consumers' income will usually cause the demand curve for a normal good to
+A: shift to the right
+W: shift to the left
+W: stay the same
+W: become vertical
+E: Higher income increases demand at every price for normal goods.
+
+Q: Goods that are demanded together, such as cars and petrol, are called
+A: complementary goods
+W: substitute goods
+W: inferior goods
+W: free goods
+E: Complementary goods are used together (joint demand).
+
+Q: Tea and coffee are examples of
+A: substitute goods
+W: complementary goods
+W: inferior goods
+W: Giffen goods
+E: Substitutes can be used in place of each other.
+
+Q: A movement along a demand curve is caused by a change in
+A: the price of the good itself
+W: consumers' income
+W: tastes and fashion
+W: the price of substitutes
+E: Only a change in the good's own price causes a movement along the curve.
+
+@topic eco-supply | Supply and price determination | SS1
+
+Q: The law of supply states that, other things being equal,
+A: the higher the price, the higher the quantity supplied
+W: the higher the price, the lower the quantity supplied
+W: supply is fixed
+W: price does not affect supply
+E: Producers offer more for sale when prices are higher.
+
+Q: The price at which quantity demanded equals quantity supplied is the
+A: equilibrium price
+W: minimum price
+W: maximum price
+W: reserve price
+E: At equilibrium there is no shortage and no surplus.
+
+Q: If the government fixes a maximum price below the equilibrium price, the result is
+A: a shortage
+W: a surplus
+W: no change
+W: lower demand
+E: At the lower price more is demanded and less is supplied, so there is a shortage.
+
+Q: A minimum price set above the equilibrium price leads to
+A: a surplus
+W: a shortage
+W: black markets
+W: no effect
+E: Producers supply more and consumers buy less, so there is excess supply.
+
+Q: A good harvest of tomatoes will most likely cause
+A: a fall in the price of tomatoes
+W: a rise in the price of tomatoes
+W: no change in price
+W: a fall in supply
+E: Supply increases, the supply curve shifts right and price falls.
+
+Q: Which of these will shift the supply curve of a good to the left?
+A: an increase in the cost of production
+W: improved technology
+W: a fall in the price of raw materials
+W: a government subsidy
+E: Higher costs mean producers supply less at each price.
+
+@topic eco-production | Production | SS1
+
+Q: Which of these are the factors of production?
+A: land, labour, capital and entrepreneur
+W: money, banks, land and labour
+W: goods, services, money and land
+W: demand, supply, price and profit
+E: These four factors are combined to produce goods and services.
+
+Q: The reward for land is
+A: rent
+W: wages
+W: interest
+W: profit
+E: Land earns rent, labour earns wages, capital earns interest and the entrepreneur earns profit.
+
+Q: The reward for the entrepreneur is
+A: profit
+W: rent
+W: interest
+W: wages
+E: The entrepreneur takes risks and earns profit (or bears losses).
+
+Q: Division of labour means
+A: breaking production into stages, each done by different workers
+W: dividing workers into unions
+W: sharing profit among workers
+W: reducing the number of workers
+E: Specialisation in one stage increases speed and skill.
+
+Q: Which of these is an example of primary production?
+A: fishing
+W: baking bread
+W: banking
+W: teaching
+E: Primary production takes resources directly from nature: farming, fishing, mining.
+
+Q: Which of these is a service (tertiary) occupation?
+A: nursing
+W: mining
+W: farming
+W: furniture making
+E: Tertiary production provides services rather than goods.
+
+@topic eco-business | Business organisations | SS1
+
+Q: A business owned and controlled by one person is called a
+A: sole proprietorship
+W: partnership
+W: public limited company
+W: cooperative society
+E: The sole proprietor provides the capital and takes all the profit and risk.
+
+Q: The liability of shareholders in a limited liability company is
+A: limited to the amount of their shares
+W: unlimited
+W: shared equally among all citizens
+W: paid by the government
+E: Shareholders can only lose the money they invested.
+
+Q: The maximum number of partners in an ordinary partnership is usually
+A: 20
+W: 2
+W: 7
+W: 50
+E: An ordinary partnership has 2 to 20 partners.
+
+Q: A business owned and run by government is a
+A: public corporation
+W: sole proprietorship
+W: private limited company
+W: partnership
+E: Public corporations are set up by law and financed by the government.
+
+Q: Which business organisation is based on "one member, one vote"?
+A: cooperative society
+W: public limited company
+W: sole proprietorship
+W: private limited company
+E: In a cooperative, each member has one vote regardless of shares held.
+
+Q: Shares of a public limited company can be bought and sold on the
+A: stock exchange
+W: commodity market
+W: Central Bank
+W: local market
+E: Public company shares are traded on the stock exchange.
+
+@topic eco-population | Population and labour | SS1
+
+Q: A country whose population is too small to make the best use of its resources is
+A: underpopulated
+W: overpopulated
+W: at optimum population
+W: depopulated
+E: Underpopulation means there are too few people to exploit the resources fully.
+
+Q: The population that gives the highest income per head is the
+A: optimum population
+W: maximum population
+W: working population
+W: dependent population
+E: At the optimum, resources and people are in the best balance.
+
+Q: Who are the dependent population?
+A: people too young or too old to work
+W: all workers
+W: people in government jobs
+W: farmers
+E: Children and the elderly depend on the working population.
+
+Q: Who put forward the theory that population grows faster than food supply?
+A: Thomas Malthus
+W: Adam Smith
+W: John Maynard Keynes
+W: David Ricardo
+E: Malthus argued population grows geometrically and food arithmetically.
+
+Q: The movement of workers from one job or place to another is called
+A: mobility of labour
+W: division of labour
+W: efficiency of labour
+W: supply of labour
+E: Labour can be geographically or occupationally mobile.
+
+Q: A census is
+A: an official count of the population
+W: a tax on income
+W: a list of companies
+W: a survey of prices
+E: A census gives data on population size, age, sex and distribution.
+
+@topic eco-elasticity | Elasticity | SS2
+
+Q: When the price of a good rises by 10% and quantity demanded falls by 20%, demand is
+A: elastic
+W: inelastic
+W: perfectly inelastic
+W: unitary
+E: PED = 20% ÷ 10% = 2. A value greater than 1 means demand is elastic.
+
+Q: Demand for salt is likely to be
+A: inelastic
+W: perfectly elastic
+W: elastic
+W: unitary elastic
+E: Salt is a necessity, takes a small part of income and has few substitutes.
+
+Q: If price elasticity of demand is exactly 1, demand is
+A: unitary elastic
+W: perfectly inelastic
+W: perfectly elastic
+W: elastic
+E: A unitary elasticity means the percentage change in quantity equals the percentage change in price.
+
+Q: Price rises from ₦100 to ₦120 and quantity demanded falls from 50 to 45. What is the price elasticity of demand?
+A: 0.5
+W: 2
+W: 1
+W: 0.1
+E: % change in quantity = 10%; % change in price = 20%. PED = 10 ÷ 20 = 0.5.
+
+Q: Which of these makes demand for a good more elastic?
+A: the good has many close substitutes
+W: the good is a necessity
+W: the good takes a tiny part of income
+W: the good is habit-forming
+E: When substitutes are available, buyers switch easily when price rises.
+
+Q: A vertical demand curve shows demand that is
+A: perfectly inelastic
+W: perfectly elastic
+W: unitary elastic
+W: fairly elastic
+E: Quantity demanded does not change at all when price changes.
+
+@topic eco-costs | Costs and revenue | SS2
+
+Q: Costs that do not change with output in the short run are called
+A: fixed costs
+W: variable costs
+W: marginal costs
+W: average costs
+E: Rent and insurance are fixed costs; they are paid even at zero output.
+
+Q: Total cost is
+A: fixed cost plus variable cost
+W: fixed cost minus variable cost
+W: average cost times price
+W: revenue minus profit
+E: TC = TFC + TVC.
+
+Q: A firm produces 10 units at a total cost of ₦500. What is its average cost?
+A: ₦50
+W: ₦5,000
+W: ₦510
+W: ₦490
+E: AC = TC ÷ output = 500 ÷ 10 = ₦50.
+
+Q: The additional cost of producing one more unit is
+A: marginal cost
+W: average cost
+W: fixed cost
+W: total cost
+E: Marginal cost is the change in total cost from one extra unit.
+
+Q: A firm sells 20 units at ₦30 each. What is its total revenue?
+A: ₦600
+W: ₦50
+W: ₦10
+W: ₦1.50
+E: TR = price × quantity = 30 × 20 = ₦600.
+
+Q: A firm maximises profit where
+A: marginal cost equals marginal revenue
+W: average cost is highest
+W: total revenue is lowest
+W: fixed cost is zero
+E: Profit is highest where MC = MR.
+
+@topic eco-markets | Market structures | SS2
+
+Q: A market with only one seller is called a
+A: monopoly
+W: perfect competition
+W: oligopoly
+W: duopoly
+E: A monopolist is the sole supplier, with no close substitutes.
+
+Q: In perfect competition, firms are
+A: price takers
+W: price makers
+W: monopolists
+W: government-owned
+E: Each firm is too small to affect the market price.
+
+Q: A market dominated by a few large sellers is
+A: an oligopoly
+W: a monopoly
+W: perfect competition
+W: monopsony
+E: The mobile phone network industry is an example of an oligopoly.
+
+Q: Which is a feature of perfect competition?
+A: homogeneous (identical) products
+W: one seller
+W: barriers to entry
+W: product differentiation through branding
+E: Under perfect competition, all firms sell identical products.
+
+Q: A market with only one buyer is called
+A: monopsony
+W: monopoly
+W: oligopoly
+W: duopoly
+E: Monopsony is a single buyer, such as one company buying all of a crop.
+
+Q: Monopolistic competition is characterised by
+A: many sellers with differentiated products
+W: a single seller
+W: two sellers
+W: identical products with no advertising
+E: Many firms sell similar but branded products, e.g. hair salons or restaurants.
+
+@topic eco-money | Money and inflation | SS2
+
+Q: Which function of money removes the need for a double coincidence of wants?
+A: medium of exchange
+W: store of value
+W: unit of account
+W: standard of deferred payment
+E: Money is accepted in exchange for goods, so barter is no longer needed.
+
+Q: A persistent rise in the general price level is called
+A: inflation
+W: deflation
+W: devaluation
+W: recession
+E: Inflation reduces the purchasing power of money.
+
+Q: Inflation caused by too much money chasing too few goods is
+A: demand-pull inflation
+W: cost-push inflation
+W: imported inflation
+W: deflation
+E: Excess demand pulls prices up.
+
+Q: Which of these is a good quality of money?
+A: durability
+W: perishability
+W: being very heavy
+W: being easy to forge
+E: Money should be durable, portable, divisible, homogeneous and hard to forge.
+
+Q: People who are hurt most by inflation are
+A: people on fixed incomes
+W: debtors
+W: owners of property
+W: traders with stock
+E: Fixed incomes buy less as prices rise.
+
+Q: The value of money is measured by its
+A: purchasing power
+W: weight
+W: colour
+W: serial number
+E: The value of money is what it can buy.
+
+@topic eco-banks | Financial institutions | SS2
+
+Q: Which institution issues the naira in Nigeria?
+A: the Central Bank of Nigeria
+W: commercial banks
+W: the Federal Ministry of Finance
+W: the Nigerian Exchange
+E: The Central Bank has sole authority to issue the national currency.
+
+Q: The Central Bank is described as the "lender of last resort" because
+A: it lends to commercial banks when they cannot get funds elsewhere
+W: it lends only to individuals
+W: it lends to farmers only
+W: it never lends money
+E: The Central Bank supports banks in difficulty to keep the system stable.
+
+Q: Which is a function of commercial banks?
+A: accepting deposits and granting loans
+W: issuing currency
+W: controlling the money supply for the nation
+W: banker to the government
+E: Commercial banks keep customers' money and lend to businesses and individuals.
+
+Q: A bank account on which cheques can be drawn is a
+A: current account
+W: savings account
+W: fixed deposit account
+W: domiciliary account
+E: Current accounts are used for day-to-day transactions and cheques.
+
+Q: The capital market deals in
+A: long-term funds
+W: short-term funds only
+W: foreign currency
+W: food crops
+E: The capital market provides long-term finance, for example through shares and bonds.
+
+Q: Which tool does the Central Bank use to reduce money supply?
+A: raising the monetary policy rate
+W: printing more money
+W: reducing taxes
+W: lowering reserve requirements
+E: Higher interest rates make borrowing more expensive, reducing money in circulation.
+
+@topic eco-national-income | National income | SS2
+
+Q: Gross Domestic Product (GDP) is the total value of
+A: goods and services produced within a country in a year
+W: imports
+W: money printed in a year
+W: taxes collected
+E: GDP measures output within the country's borders.
+
+Q: GNP is equal to GDP plus
+A: net income from abroad
+W: depreciation
+W: taxes
+W: imports
+E: GNP adds income earned by citizens abroad and subtracts income paid to foreigners.
+
+Q: Per capita income is
+A: national income divided by population
+W: population divided by national income
+W: total wages in a country
+W: government income
+E: It shows average income per person.
+
+Q: Which method of measuring national income adds up all incomes earned?
+A: income approach
+W: expenditure approach
+W: output approach
+W: tax approach
+E: The income approach sums wages, rent, interest and profit.
+
+Q: Net National Product is GNP minus
+A: depreciation
+W: taxes
+W: subsidies
+W: exports
+E: Depreciation (capital consumption) is the wear and tear of capital goods.
+
+Q: Which problem can make national income figures inaccurate?
+A: many activities are not recorded, such as subsistence farming
+W: there are too many banks
+W: people pay taxes
+W: prices are always stable
+E: Unrecorded informal and subsistence output leads to underestimation.
+
+@topic eco-public-finance | Public finance | SS3
+
+Q: A tax whose rate rises as income rises is a
+A: progressive tax
+W: regressive tax
+W: proportional tax
+W: poll tax
+E: Personal income tax in many countries is progressive.
+
+Q: Which of these is an indirect tax?
+A: value added tax (VAT)
+W: personal income tax
+W: company income tax
+W: capital gains tax
+E: Indirect taxes are paid on goods and services, not directly on income.
+
+Q: When government expenditure is greater than revenue, the budget is in
+A: deficit
+W: surplus
+W: balance
+W: profit
+E: A deficit budget spends more than it earns and is often financed by borrowing.
+
+Q: The incidence of a tax refers to
+A: who finally bears the burden of the tax
+W: the rate of the tax
+W: who collects the tax
+W: when the tax is paid
+E: A tax on a seller may be passed on to buyers through higher prices.
+
+Q: Which is a canon (principle) of taxation?
+A: certainty
+W: secrecy
+W: inequality
+W: inconvenience
+E: Adam Smith's canons include certainty, convenience, economy and equality.
+
+Q: Money borrowed by the government from its own citizens is called
+A: internal (domestic) debt
+W: external debt
+W: foreign aid
+W: tax revenue
+E: Domestic debt is raised within the country, for example through treasury bills and bonds.
+
+@topic eco-trade | International trade | SS3
+
+Q: The theory of comparative cost advantage was developed by
+A: David Ricardo
+W: Adam Smith
+W: Thomas Malthus
+W: Karl Marx
+E: Ricardo showed that countries gain by specialising where their opportunity cost is lowest.
+
+Q: The balance of trade is the difference between
+A: the value of visible exports and visible imports
+W: all receipts and payments
+W: government revenue and expenditure
+W: savings and investment
+E: Balance of trade covers only goods (visible items).
+
+Q: A tax placed on imported goods is called a
+A: tariff
+W: quota
+W: subsidy
+W: embargo
+E: Tariffs make imports more expensive to protect local industries.
+
+Q: A complete ban on trade with a country is called
+A: an embargo
+W: a quota
+W: a tariff
+W: devaluation
+E: An embargo prohibits trade entirely.
+
+Q: Devaluation of the naira makes Nigerian exports
+A: cheaper for foreign buyers
+W: more expensive for foreign buyers
+W: illegal
+W: unchanged in price
+E: Foreigners get more naira for their currency, so Nigerian goods cost them less.
+
+Q: Terms of trade measure
+A: the ratio of export prices to import prices
+W: the number of trading partners
+W: the volume of exports
+W: tariffs charged on goods
+E: Terms of trade = (index of export prices ÷ index of import prices) × 100.
+
+@topic eco-development | Economic development and organisations | SS3
+
+Q: ECOWAS was established in
+A: 1975
+W: 1960
+W: 1963
+W: 1999
+E: The Economic Community of West African States was formed by the Treaty of Lagos in 1975.
+
+Q: Nigeria is a member of OPEC because it is a major
+A: oil exporter
+W: cocoa importer
+W: car manufacturer
+W: gold producer
+E: OPEC is the Organisation of the Petroleum Exporting Countries.
+
+Q: Which is a common feature of developing economies?
+A: dependence on primary production
+W: very high income per head
+W: advanced technology everywhere
+W: very low population growth
+E: Many developing economies rely on agriculture and raw material exports.
+
+Q: Economic development differs from economic growth because development includes
+A: improvements in living standards and welfare
+W: only an increase in GDP
+W: only an increase in population
+W: only higher prices
+E: Growth is a rise in output; development also considers health, education and welfare.
+
+Q: The International Monetary Fund (IMF) mainly helps countries with
+A: balance of payments problems
+W: building roads
+W: running schools
+W: farming
+E: The IMF provides short-term support to stabilise countries' external payments.
+
+Q: Which sector currently earns Nigeria most of its foreign exchange?
+A: crude oil and gas
+W: cocoa
+W: groundnuts
+W: textiles
+E: Petroleum exports have dominated Nigeria's foreign exchange earnings since the 1970s.

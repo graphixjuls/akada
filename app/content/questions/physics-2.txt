@@ -1,0 +1,391 @@
+@subject physics
+
+@topic phy-friction | Friction | SS1
+
+Q: Friction always acts
+A: to oppose motion between surfaces in contact
+W: in the direction of motion
+W: only in liquids
+W: only on moving objects in space
+E: Friction resists sliding or the tendency to slide.
+
+Q: Which of these is an advantage of friction?
+A: it lets us walk without slipping
+W: it wears out machine parts
+W: it wastes energy as heat
+W: it makes engines hot
+E: Without friction our feet would slip on the ground.
+
+Q: Which method reduces friction in machines?
+A: lubricating with oil
+W: making surfaces rougher
+W: increasing the load
+W: removing ball bearings
+E: Oil, grease and ball bearings reduce friction between moving parts.
+
+Q: A 40 N block needs a horizontal force of 10 N to slide it steadily. What is the coefficient of friction?
+A: 0.25
+W: 4
+W: 0.4
+W: 30
+E: μ = friction ÷ normal reaction = 10 ÷ 40 = 0.25.
+
+Q: Friction in fluids such as air and water is called
+A: viscosity (fluid friction or drag)
+W: static friction
+W: rolling friction
+W: tension
+E: Objects moving through fluids experience drag.
+
+Q: Why do car tyres have treads?
+A: to increase grip on the road
+W: to reduce the weight of the car
+W: to make the car faster on ice
+W: to save fuel by removing friction
+E: Treads channel water away and increase friction with the road.
+
+@topic phy-energy-sources | Sources of energy | SS1
+
+Q: Which of these is a renewable source of energy?
+A: wind
+W: coal
+W: crude oil
+W: natural gas
+E: Wind, solar, hydro and biomass are renewable.
+
+Q: Biogas is produced mainly from
+A: decaying animal and plant waste
+W: crude oil
+W: uranium
+W: sand
+E: Bacteria break down waste without air to produce methane-rich biogas.
+
+Q: The main gas in biogas is
+A: methane
+W: oxygen
+W: nitrogen
+W: hydrogen sulphide
+E: Biogas is mostly methane, which burns as a fuel.
+
+Q: A hydroelectric power station changes
+A: the energy of falling water into electrical energy
+W: sunlight into electrical energy
+W: chemical energy into sound
+W: nuclear energy into light directly
+E: Falling water turns turbines connected to generators, as at Kainji.
+
+Q: Which device converts sunlight directly into electricity?
+A: solar (photovoltaic) cell
+W: dry cell
+W: transformer
+W: electric motor
+E: Solar cells use semiconductors to produce a voltage when light falls on them.
+
+Q: Why is it important to use renewable energy?
+A: it will not run out and causes less pollution
+W: it is always cheaper to install
+W: it works only at night
+W: it increases greenhouse gases
+E: Fossil fuels are limited and release carbon dioxide when burnt.
+
+@topic phy-equilibrium | Moments and equilibrium | SS2
+
+Q: The moment of a force is defined as
+A: force × perpendicular distance from the pivot
+W: force ÷ distance
+W: mass × acceleration
+W: force × time
+E: Moments measure the turning effect of a force, in N m.
+
+Q: A child of weight 300 N sits 2 m from the pivot of a see-saw. How far from the pivot must a 400 N child sit on the other side to balance it?
+A: 1.5 m
+W: 2.67 m
+W: 2 m
+W: 1 m
+E: 300 × 2 = 400 × d, so d = 600 ÷ 400 = 1.5 m.
+
+Q: The principle of moments states that for a body in equilibrium
+A: clockwise moments equal anticlockwise moments
+W: all forces act in the same direction
+W: the body must be moving
+W: the weight is zero
+E: There is no net turning effect when the body is balanced.
+
+Q: A body whose centre of gravity rises when it is slightly tilted is in
+A: stable equilibrium
+W: unstable equilibrium
+W: neutral equilibrium
+W: no equilibrium
+E: It falls back to its original position when released.
+
+Q: Why are racing cars built low and wide?
+A: a low centre of gravity and wide base make them more stable
+W: to make them lighter
+W: to increase friction with the air
+W: to raise the centre of gravity
+E: Stable objects have a low centre of gravity and a wide base.
+
+Q: A cone resting on its side is in
+A: neutral equilibrium
+W: stable equilibrium
+W: unstable equilibrium
+W: no equilibrium
+E: When rolled, its centre of gravity stays at the same height.
+
+@topic phy-elasticity | Elasticity | SS2
+
+Q: Hooke's law states that the extension of a spring is
+A: directly proportional to the load, up to the elastic limit
+W: inversely proportional to the load
+W: independent of the load
+W: proportional to the square of the load
+E: F = ke, as long as the elastic limit is not exceeded.
+
+Q: A spring stretches 2 cm under a load of 4 N. What load will stretch it 5 cm?
+A: 10 N
+W: 8 N
+W: 20 N
+W: 1.6 N
+E: k = 4 ÷ 2 = 2 N/cm, so load = 2 × 5 = 10 N.
+
+Q: Beyond the elastic limit, a stretched material
+A: does not return to its original length
+W: always breaks immediately
+W: obeys Hooke's law exactly
+W: becomes shorter
+E: It undergoes permanent (plastic) deformation.
+
+Q: The energy stored in a stretched spring is
+A: elastic potential energy
+W: kinetic energy
+W: nuclear energy
+W: sound energy
+E: The work done in stretching the spring is stored as elastic potential energy.
+
+Q: A spring has a force constant of 50 N/m. What force stretches it by 0.1 m?
+A: 5 N
+W: 500 N
+W: 0.002 N
+W: 50 N
+E: F = ke = 50 × 0.1 = 5 N.
+
+Q: The ratio of stress to strain is called
+A: Young's modulus
+W: the force constant
+W: density
+W: pressure
+E: Young's modulus measures the stiffness of a material.
+
+@topic phy-lenses | Lenses and optical instruments | SS2
+
+Q: A converging lens is also called a
+A: convex lens
+W: concave lens
+W: plane lens
+W: diverging lens
+E: A convex lens bends parallel rays to meet at a focus.
+
+Q: An object is 30 cm from a converging lens of focal length 10 cm. Where is the image?
+A: 15 cm from the lens
+W: 30 cm from the lens
+W: 10 cm from the lens
+W: 7.5 cm from the lens
+E: 1/v = 1/f − 1/u = 1/10 − 1/30 = 2/30, so v = 15 cm.
+
+Q: The power of a lens of focal length 0.5 m is
+A: 2 dioptres
+W: 0.5 dioptres
+W: 5 dioptres
+W: 50 dioptres
+E: Power = 1/f (in metres) = 1 ÷ 0.5 = 2 D.
+
+Q: Long-sightedness is corrected with a
+A: converging (convex) lens
+W: diverging (concave) lens
+W: plane mirror
+W: prism
+E: A convex lens helps focus near objects onto the retina.
+
+Q: Which instrument uses lenses to make distant objects appear closer?
+A: telescope
+W: microscope
+W: periscope
+W: kaleidoscope
+E: A telescope gathers light from distant objects and magnifies the image.
+
+Q: A magnifying glass is a
+A: converging lens used with the object inside its focal length
+W: diverging lens
+W: plane mirror
+W: concave mirror
+E: It forms an upright, magnified, virtual image.
+
+@topic phy-electrostatics | Electrostatics and capacitors | SS3
+
+Q: When a plastic comb is rubbed with dry hair, it becomes
+A: charged by friction
+W: magnetised
+W: radioactive
+W: hotter than boiling water
+E: Electrons are transferred by rubbing, leaving both objects charged.
+
+Q: Like charges
+A: repel each other
+W: attract each other
+W: have no effect on each other
+W: cancel to form magnets
+E: Two positive or two negative charges push each other apart.
+
+Q: Which instrument detects and tests electric charge?
+A: gold-leaf electroscope
+W: ammeter
+W: thermometer
+W: hygrometer
+E: The leaves spread apart when the electroscope is charged.
+
+Q: The SI unit of capacitance is the
+A: farad
+W: coulomb
+W: volt
+W: ohm
+E: Capacitance C = Q/V, measured in farads.
+
+Q: A capacitor of 2 µF is charged to 50 V. What charge does it store?
+A: 100 µC
+W: 25 µC
+W: 52 µC
+W: 0.04 µC
+E: Q = CV = 2 µF × 50 V = 100 µC.
+
+Q: Why are tall buildings fitted with lightning conductors?
+A: to conduct the charge from lightning safely to the earth
+W: to attract rain
+W: to generate electricity
+W: to make the building taller
+E: The pointed rod discharges charge and carries lightning safely to the ground.
+
+@topic phy-photoelectric | Photoelectric effect and X-rays | SS3
+
+Q: The emission of electrons from a metal surface when light falls on it is the
+A: photoelectric effect
+W: thermionic emission
+W: radioactivity
+W: nuclear fission
+E: Light of high enough frequency gives electrons the energy to escape.
+
+Q: Who explained the photoelectric effect using the idea of photons?
+A: Albert Einstein
+W: Isaac Newton
+W: Michael Faraday
+W: Robert Hooke
+E: Einstein received the Nobel Prize in Physics for this work.
+
+Q: The energy of a photon depends on its
+A: frequency
+W: amplitude
+W: speed
+W: colour of the metal
+E: E = hf, where h is Planck's constant.
+
+Q: X-rays are produced when
+A: fast-moving electrons hit a metal target
+W: light passes through glass
+W: a magnet is moved near a coil
+W: sound waves are reflected
+E: The sudden stopping of fast electrons produces X-rays.
+
+Q: X-rays are used in hospitals because they
+A: pass through soft tissue but are absorbed by bone
+W: are completely harmless
+W: are a type of sound
+W: can be seen with the naked eye
+E: Bones show up as shadows on an X-ray image.
+
+Q: The emission of electrons from a heated metal surface is called
+A: thermionic emission
+W: photoelectric effect
+W: electrolysis
+W: induction
+E: Heat gives electrons enough energy to leave the metal.
+
+@topic phy-vectors
+Q: A quantity that has only magnitude and no direction is a
+A: scalar
+W: vector
+W: resultant
+W: component
+E: Mass, time, speed and energy are scalars.
+
+Q: Which pair are both vector quantities?
+A: velocity and force
+W: speed and mass
+W: time and distance
+W: energy and power
+E: Both velocity and force have direction.
+
+@topic phy-motion
+Q: A body moving in a circle at constant speed is accelerating because
+A: its direction keeps changing
+W: its speed keeps increasing
+W: it has no velocity
+W: no force acts on it
+E: Velocity includes direction, so changing direction means acceleration towards the centre.
+
+Q: The force that keeps a body moving in a circle acts
+A: towards the centre of the circle
+W: away from the centre
+W: along the direction of motion
+W: in no particular direction
+E: This is the centripetal force.
+
+@topic phy-light
+Q: Total internal reflection is used in
+A: optical fibres
+W: plane mirrors
+W: magnifying glasses
+W: electric bells
+E: Light is trapped inside the fibre by repeated total internal reflection.
+
+Q: The critical angle is the angle of incidence in the denser medium for which the angle of refraction is
+A: 90°
+W: 0°
+W: 45°
+W: 180°
+E: Above the critical angle, all the light is reflected back.
+
+@topic phy-sound
+Q: Bats find their way in the dark using
+A: echoes of high-frequency sound
+W: infrared light
+W: magnetism
+W: X-rays
+E: Bats send out ultrasound and listen for echoes (echolocation).
+
+Q: Sound waves with frequencies above 20,000 Hz are called
+A: ultrasound
+W: infrasound
+W: audible sound
+W: microwaves
+E: Humans cannot hear ultrasound, but dogs and bats can.
+
+@topic phy-electricity
+Q: Electrical energy is commercially measured in
+A: kilowatt-hours
+W: volts
+W: amperes
+W: ohms
+E: Electricity bills charge for energy in kWh.
+
+Q: The e.m.f. of a cell is measured in
+A: volts
+W: amperes
+W: watts
+W: ohms
+E: Electromotive force is the energy supplied per unit charge.
+
+Q: Which wire in a three-pin plug is connected to the metal case of an appliance for safety?
+A: earth wire
+W: live wire
+W: neutral wire
+W: fuse wire
+E: The earth wire carries current safely to the ground if the case becomes live.

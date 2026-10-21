@@ -1,0 +1,543 @@
+@subject biology
+
+@topic bio-organisation | Levels of organisation | SS1
+
+Q: Which is the correct order of organisation from simplest to most complex?
+A: cell, tissue, organ, system, organism
+W: tissue, cell, organ, system, organism
+W: organ, cell, tissue, organism, system
+W: cell, organ, tissue, system, organism
+E: Cells form tissues, tissues form organs, organs form systems, and systems make up the organism.
+
+Q: A group of similar cells performing the same function is a
+A: tissue
+W: organ
+W: system
+W: colony
+E: For example, muscle tissue is made of muscle cells working together.
+
+Q: Which of these is an organ?
+A: the heart
+W: blood
+W: a red blood cell
+W: the circulatory system
+E: An organ is made of several tissues working together. Blood is a tissue; the circulatory system is an organ system.
+
+Q: Volvox is an example of organisms living as a
+A: colony
+W: tissue
+W: single cell
+W: organ system
+E: Volvox cells live together in a colony but each can survive on its own.
+
+Q: Which organism is unicellular?
+A: Amoeba
+W: Spirogyra
+W: Hydra
+W: Earthworm
+E: Amoeba is made of only one cell. Spirogyra is filamentous; Hydra and the earthworm are multicellular.
+
+Q: Which is a disadvantage of being a large multicellular organism?
+A: cells deep inside the body cannot get materials by diffusion alone
+W: cells can specialise
+W: the organism can grow larger
+W: tissues can share work
+E: Large organisms need transport systems because diffusion is too slow over long distances.
+
+@topic bio-plant-structure | Structure of flowering plants | SS1
+
+Q: Which part of a plant absorbs water and mineral salts from the soil?
+A: root hairs
+W: leaves
+W: flowers
+W: stomata
+E: Root hairs give a large surface area for absorbing water and minerals.
+
+Q: A plant with parallel leaf veins and a fibrous root system is a
+A: monocotyledon
+W: dicotyledon
+W: gymnosperm
+W: fern
+E: Monocots such as maize and grasses have parallel veins and fibrous roots.
+
+Q: A plant with net veins and a tap root system is a
+A: dicotyledon
+W: monocotyledon
+W: moss
+W: fungus
+E: Dicots such as beans and mango have net-veined leaves and a main tap root.
+
+Q: The point on a stem where a leaf is attached is the
+A: node
+W: internode
+W: petiole
+W: lamina
+E: The section of stem between two nodes is the internode.
+
+Q: Which modified stem stores food underground?
+A: tuber of Irish potato
+W: tap root of carrot
+W: tendril of pumpkin
+W: spine of cactus
+E: An Irish potato is a stem tuber; it has nodes ("eyes"). Carrot is a root.
+
+Q: The flat, broad part of a leaf is called the
+A: lamina (leaf blade)
+W: petiole
+W: midrib
+W: node
+E: The lamina provides a large surface for photosynthesis.
+
+@topic bio-cycles | Nutrient cycling in nature | SS1
+
+Q: Which process returns carbon dioxide to the atmosphere?
+A: respiration
+W: photosynthesis
+W: transpiration
+W: nitrogen fixation
+E: Respiration, burning and decay release carbon dioxide; photosynthesis removes it.
+
+Q: The conversion of atmospheric nitrogen into nitrogen compounds by bacteria is called
+A: nitrogen fixation
+W: denitrification
+W: nitrification
+W: ammonification
+E: Bacteria such as Rhizobium in legume nodules fix nitrogen.
+
+Q: Bacteria that convert nitrates back into nitrogen gas carry out
+A: denitrification
+W: nitrogen fixation
+W: nitrification
+W: photosynthesis
+E: Denitrifying bacteria live in waterlogged, poorly aerated soil.
+
+Q: Which bacteria convert ammonium compounds into nitrites?
+A: Nitrosomonas
+W: Nitrobacter
+W: Rhizobium
+W: Azotobacter
+E: Nitrosomonas makes nitrites; Nitrobacter then converts nitrites to nitrates.
+
+Q: In the water cycle, water vapour turning into droplets in the clouds is
+A: condensation
+W: evaporation
+W: transpiration
+W: infiltration
+E: Cooling water vapour condenses to form clouds.
+
+Q: Lightning helps the nitrogen cycle by
+A: combining nitrogen and oxygen to form oxides that dissolve in rain
+W: killing bacteria in the soil
+W: removing nitrogen from the air permanently
+W: breaking down proteins
+E: The energy of lightning makes nitrogen oxides, which form nitrates in the soil.
+
+@topic bio-food-tests | Food tests and enzymes | SS2
+
+Q: Which reagent is used to test for reducing sugars?
+A: Benedict's solution
+W: iodine solution
+W: Millon's reagent
+W: Sudan III
+E: On heating, a brick-red precipitate shows a reducing sugar such as glucose.
+
+Q: Which reagent turns violet (purple) in the presence of protein?
+A: Biuret reagent
+W: iodine solution
+W: Benedict's solution
+W: limewater
+E: The Biuret test gives a violet colour with proteins.
+
+Q: Which test is used for fats and oils?
+A: the grease-spot (translucent paper) test
+W: the iodine test
+W: the Benedict's test
+W: the Biuret test
+E: Fat leaves a translucent spot on paper. Sudan III also stains fat red.
+
+Q: Enzymes are made of
+A: proteins
+W: carbohydrates
+W: fats
+W: minerals
+E: Enzymes are protein catalysts, which is why high temperatures denature them.
+
+Q: Why do most enzymes stop working at high temperatures?
+A: they are denatured
+W: they become more active
+W: they turn into fats
+W: they leave the cell
+E: Heat changes the shape of the enzyme's active site permanently.
+
+Q: Pepsin works best in
+A: acidic conditions in the stomach
+W: alkaline conditions in the mouth
+W: neutral conditions in the blood
+W: the large intestine
+E: Hydrochloric acid in the stomach gives pepsin the low pH it needs.
+
+@topic bio-microorganisms | Microorganisms | SS2
+
+Q: Which of these is a useful activity of microorganisms?
+A: making yoghurt and bread
+W: causing cholera
+W: spoiling food
+W: causing tooth decay
+E: Bacteria make yoghurt and yeast makes bread rise.
+
+Q: Which organism is used in brewing and baking?
+A: yeast
+W: Plasmodium
+W: Amoeba
+W: Spirogyra
+E: Yeast ferments sugar into alcohol and carbon dioxide.
+
+Q: Which of these is a viral disease?
+A: HIV/AIDS
+W: tuberculosis
+W: cholera
+W: ringworm
+E: HIV is a virus. TB and cholera are bacterial; ringworm is a fungal infection.
+
+Q: Antibiotics are used to treat infections caused by
+A: bacteria
+W: viruses
+W: all diseases
+W: vitamins deficiency
+E: Antibiotics kill bacteria or stop them growing. They do not work against viruses.
+
+Q: The process of heating milk to kill harmful microorganisms is called
+A: pasteurisation
+W: fermentation
+W: sterilisation of soil
+W: vaccination
+E: Named after Louis Pasteur, it kills most germs without boiling the milk.
+
+Q: Ringworm of the skin is caused by a
+A: fungus
+W: worm
+W: virus
+W: protozoan
+E: Despite its name, ringworm is a fungal infection.
+
+@topic bio-senses | Sense organs | SS2
+
+Q: Which part of the eye controls the amount of light entering it?
+A: iris
+W: retina
+W: lens
+W: cornea
+E: The iris changes the size of the pupil.
+
+Q: Light-sensitive cells in the eye are found in the
+A: retina
+W: cornea
+W: iris
+W: sclera
+E: Rods and cones in the retina detect light.
+
+Q: Short-sightedness can be corrected with
+A: a concave (diverging) lens
+W: a convex (converging) lens
+W: a plane mirror
+W: a prism
+E: In short sight, light focuses in front of the retina; a concave lens spreads it out first.
+
+Q: Which part of the ear is concerned with balance?
+A: semicircular canals
+W: eardrum
+W: ossicles
+W: pinna
+E: Fluid in the semicircular canals detects movement of the head.
+
+Q: The three small bones of the middle ear are called the
+A: ossicles
+W: vertebrae
+W: alveoli
+W: cochlea
+E: The hammer, anvil and stirrup pass vibrations from the eardrum to the inner ear.
+
+Q: Which cells in the retina are responsible for colour vision?
+A: cones
+W: rods
+W: neurons of the skin
+W: taste buds
+E: Cones work in bright light and detect colour; rods work in dim light.
+
+@topic bio-ecological-factors | Ecological factors and habitats | SS2
+
+Q: Which of these is an abiotic factor?
+A: temperature
+W: predators
+W: parasites
+W: competition
+E: Abiotic factors are non-living: temperature, light, rainfall, pH and so on.
+
+Q: Which of these is a biotic factor?
+A: predation
+W: rainfall
+W: soil pH
+W: wind
+E: Biotic factors come from living things.
+
+Q: Which instrument is used to measure the intensity of light in a habitat?
+A: light meter (photometer)
+W: hygrometer
+W: anemometer
+W: rain gauge
+E: A light meter measures how bright it is.
+
+Q: A quadrat is used to
+A: estimate the number of plants in an area
+W: catch flying insects
+W: measure rainfall
+W: measure wind speed
+E: A quadrat is a square frame placed at random to sample organisms.
+
+Q: Which method is used to estimate the population of moving animals such as grasshoppers?
+A: capture, mark and recapture
+W: using a quadrat
+W: counting every animal
+W: using a rain gauge
+E: The number marked and recaptured is used to estimate the total population.
+
+Q: Which habitat is described as aquatic?
+A: a freshwater pond
+W: a savanna
+W: a forest floor
+W: a desert
+E: Aquatic habitats are water habitats, either fresh water or marine.
+
+@topic bio-pollution | Pollution and its control | SS2
+
+Q: Which pollutant is released mainly from car exhausts?
+A: carbon monoxide
+W: oxygen
+W: nitrogen gas
+W: water vapour
+E: Incomplete burning of fuel in engines produces carbon monoxide.
+
+Q: Excess fertiliser washed into lakes causes rapid algae growth. This is called
+A: eutrophication
+W: desertification
+W: sedimentation
+W: transpiration
+E: When the algae die, decomposers use up the oxygen and fish die.
+
+Q: Which disease is linked to drinking water contaminated by sewage?
+A: typhoid
+W: sickle cell anaemia
+W: diabetes
+W: night blindness
+E: Typhoid bacteria spread through food and water contaminated by faeces.
+
+Q: Noise pollution can lead to
+A: hearing loss
+W: improved sleep
+W: better eyesight
+W: stronger bones
+E: Long exposure to loud noise damages the inner ear.
+
+Q: Which is a good way to reduce land pollution by plastics?
+A: reducing, reusing and recycling plastics
+W: burning plastics in the open
+W: dumping plastics in drains
+W: burying plastics near wells
+E: The 3Rs reduce the waste that reaches the environment.
+
+Q: Lead in the environment is harmful mainly because it
+A: damages the nervous system
+W: makes plants grow faster
+W: purifies water
+W: increases oxygen in the air
+E: Lead is a toxic heavy metal that harms the brain and nerves, especially in children.
+
+@topic bio-blood | Blood and immunity | SS2
+
+Q: Which blood group is called the universal donor?
+A: O
+W: AB
+W: A
+W: B
+E: Group O blood has no A or B antigens on its red cells.
+
+Q: Which blood group is called the universal recipient?
+A: AB
+W: O
+W: A
+W: B
+E: Group AB plasma has no anti-A or anti-B antibodies.
+
+Q: The liquid part of the blood is called
+A: plasma
+W: serum
+W: lymph
+W: haemoglobin
+E: Plasma is mostly water carrying dissolved food, hormones, salts and wastes.
+
+Q: White blood cells mainly help the body to
+A: fight infection
+W: carry oxygen
+W: clot blood
+W: digest food
+E: Phagocytes engulf germs and lymphocytes make antibodies.
+
+Q: Sickle cell anaemia is
+A: an inherited disorder of haemoglobin
+W: caused by a virus
+W: caused by mosquitoes
+W: caused by eating too much sugar
+E: It is passed from parents to children through genes (genotype SS).
+
+Q: Which genotypes, if they marry, could have a child with sickle cell anaemia?
+A: AS and AS
+W: AA and AA
+W: AA and AS
+W: AA and SS
+E: Two AS carriers each have a 1 in 2 chance of passing S, so 1 in 4 of their children could be SS.
+
+@topic bio-transport
+Q: Which blood vessel carries blood from the lungs to the heart?
+A: pulmonary vein
+W: pulmonary artery
+W: aorta
+W: vena cava
+E: The pulmonary vein is the only vein that carries oxygenated blood.
+
+Q: Which blood vessel carries deoxygenated blood from the heart to the lungs?
+A: pulmonary artery
+W: pulmonary vein
+W: aorta
+W: hepatic vein
+E: The pulmonary artery is the only artery carrying deoxygenated blood.
+
+Q: Valves in veins
+A: prevent blood flowing backwards
+W: pump blood
+W: make red blood cells
+W: filter out germs
+E: Blood in veins is at low pressure, so valves keep it moving towards the heart.
+
+Q: Food made in the leaves is carried to other parts of the plant through the
+A: phloem
+W: xylem
+W: root hairs
+W: stomata
+E: The movement of food in the phloem is called translocation.
+
+@topic bio-respiration
+Q: Which muscle contracts and flattens when we breathe in?
+A: the diaphragm
+W: the heart
+W: the biceps
+W: the tongue
+E: When the diaphragm and intercostal muscles contract, the chest volume increases and air flows in.
+
+Q: Which gas is present in a higher percentage in exhaled air than in inhaled air?
+A: carbon dioxide
+W: oxygen
+W: nitrogen
+W: hydrogen
+E: Exhaled air has about 4% carbon dioxide compared with about 0.04% in inhaled air.
+
+Q: Fish obtain oxygen from water through their
+A: gills
+W: lungs
+W: spiracles
+W: skin
+E: Water passes over the gill filaments, where oxygen diffuses into the blood.
+
+@topic bio-coordination
+Q: Which hormone prepares the body for "fight or flight"?
+A: adrenaline
+W: insulin
+W: thyroxine
+W: oestrogen
+E: Adrenaline raises the heart rate and blood sugar in an emergency.
+
+Q: Lack of iodine in the diet causes
+A: goitre
+W: rickets
+W: scurvy
+W: kwashiorkor
+E: Iodine is needed to make thyroxine; lack of it makes the thyroid gland swell.
+
+Q: The growth of roots downwards in response to gravity is
+A: positive geotropism
+W: negative geotropism
+W: phototropism
+W: hydrotropism
+E: Roots grow towards gravity; shoots grow away from it.
+
+@topic bio-genetics
+Q: The physical appearance of an organism is its
+A: phenotype
+W: genotype
+W: allele
+W: chromosome
+E: The genotype is the genetic make-up; the phenotype is what you can see.
+
+Q: Different forms of the same gene are called
+A: alleles
+W: chromosomes
+W: phenotypes
+W: nuclei
+E: For example, the gene for height may have a tall allele and a short allele.
+
+Q: How many chromosomes are in a normal human body cell?
+A: 46
+W: 23
+W: 44
+W: 92
+E: Body cells have 23 pairs (46). Sex cells have 23.
+
+Q: Which type of cell division produces sex cells (gametes)?
+A: meiosis
+W: mitosis
+W: binary fission
+W: budding
+E: Meiosis halves the chromosome number.
+
+@topic bio-reproduction-health | Reproductive health | SS3
+
+Q: Which of these is a sexually transmitted infection?
+A: gonorrhoea
+W: malaria
+W: cholera
+W: measles
+E: Gonorrhoea is a bacterial infection passed on through sexual contact.
+
+Q: Menstruation is the
+A: monthly shedding of the lining of the uterus
+W: release of sperm
+W: growth of the foetus
+W: formation of the placenta
+E: If no fertilisation occurs, the thickened uterine lining breaks down and is shed.
+
+Q: Ovulation is the release of
+A: an egg from the ovary
+W: sperm from the testis
+W: a baby from the uterus
+W: hormones from the pituitary
+E: Ovulation usually happens about the middle of the menstrual cycle.
+
+Q: Which method can prevent both pregnancy and the spread of HIV?
+A: using a condom
+W: taking antibiotics
+W: using a contraceptive pill
+W: drinking plenty of water
+E: Condoms form a barrier against sperm and many infections.
+
+Q: Which hormone maintains the thick lining of the uterus during pregnancy?
+A: progesterone
+W: testosterone
+W: insulin
+W: adrenaline
+E: Progesterone keeps the uterine lining ready to support the embryo.
+
+Q: Identical twins are formed when
+A: one fertilised egg splits into two
+W: two eggs are fertilised by two sperms
+W: one egg is fertilised by two sperms
+W: two eggs join together
+E: Identical twins share the same genes because they come from one zygote.

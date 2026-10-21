@@ -1,0 +1,199 @@
+@subject accounts
+
+@topic acc-documents | Source documents and books of original entry | SS1
+
+Q: Which source document is used to record a credit sale?
+A: sales invoice
+W: receipt
+W: cheque counterfoil
+W: petty cash voucher
+E: The sales invoice is entered in the sales day book.
+
+Q: Returns from customers are first recorded in the
+A: returns inwards (sales returns) day book
+W: purchases day book
+W: cash book
+W: returns outwards day book
+E: Credit notes sent to customers are the source documents.
+
+Q: The general journal is used to record
+A: unusual items such as corrections and opening entries
+W: all cash sales
+W: all credit purchases
+W: petty expenses
+E: It records transactions not entered in other books of original entry.
+
+Q: Which document supports an entry for a small payment from petty cash?
+A: petty cash voucher
+W: sales invoice
+W: debit note
+W: bank statement
+E: Each petty payment should have a signed voucher.
+
+Q: A debit note is sent by a buyer to a supplier to
+A: claim a reduction for goods returned or overcharges
+W: order goods
+W: pay for goods
+W: advertise goods
+E: The supplier responds with a credit note.
+
+Q: The book of original entry for credit purchases of goods is the
+A: purchases day book
+W: sales day book
+W: cash book
+W: ledger
+E: Only credit purchases of goods for resale go into it.
+
+@topic acc-ledger | Ledger accounts and balancing | SS1
+
+Q: Accounts of debtors are kept in the
+A: sales ledger (receivables ledger)
+W: purchases ledger
+W: general ledger
+W: cash book
+E: Each credit customer has a personal account.
+
+Q: Accounts of expenses and incomes, such as rent and commission, are
+A: nominal accounts
+W: real accounts
+W: personal accounts
+W: memorandum accounts
+E: Real accounts are for assets; personal accounts are for people and firms.
+
+Q: An account for machinery is a
+A: real account
+W: nominal account
+W: personal account
+W: suspense account
+E: Real accounts record assets.
+
+Q: A debit balance on a customer's account means the customer
+A: owes the business money
+W: is owed money by the business
+W: has paid in advance
+W: has left the business
+E: Debtors have debit balances.
+
+Q: The balance brought down at the start of a new period is shown as
+A: balance b/d
+W: balance c/d
+W: total
+W: drawings
+E: The balance carried down (c/d) becomes the balance brought down (b/d).
+
+Q: Rent paid by cheque is recorded as
+A: debit rent, credit bank
+W: debit bank, credit rent
+W: debit rent, credit cash
+W: debit capital, credit rent
+E: The expense increases (debit) and the bank balance falls (credit).
+
+@topic acc-public | Public sector accounting | SS3
+
+Q: The account into which all federal government revenue is paid is the
+A: Consolidated Revenue Fund
+W: petty cash fund
+W: sinking fund
+W: suspense account
+E: Spending from it requires approval by the legislature.
+
+Q: The officer responsible for auditing federal government accounts is the
+A: Auditor-General for the Federation
+W: Accountant-General
+W: Chief Justice
+W: Minister of Information
+E: The Auditor-General reports to the National Assembly.
+
+Q: The officer responsible for the accounts and payments of the federal government is the
+A: Accountant-General of the Federation
+W: Auditor-General
+W: Senate President
+W: Central Bank Governor
+E: The Accountant-General prepares government accounts.
+
+Q: Public sector accounting differs from private accounting mainly because it focuses on
+A: accountability for public funds rather than profit
+W: maximising profit
+W: paying dividends
+W: selling shares
+E: Governments must account for how public money is spent.
+
+Q: A document showing the government's estimated revenue and spending for a year is the
+A: budget (appropriation)
+W: balance sheet
+W: trial balance
+W: cash book
+E: The Appropriation Act authorises the spending.
+
+Q: Which fund is set aside to repay a long-term loan when it falls due?
+A: sinking fund
+W: petty cash
+W: suspense account
+W: drawings account
+E: Regular amounts are invested so the loan can be repaid.
+
+@topic acc-ratios | Accounting ratios | SS3
+
+Q: The current ratio is calculated as
+A: current assets ÷ current liabilities
+W: current liabilities ÷ current assets
+W: net profit ÷ sales
+W: capital ÷ assets
+E: It shows a firm's ability to pay short-term debts.
+
+Q: Current assets are ₦300,000 and current liabilities are ₦150,000. What is the current ratio?
+A: 2 : 1
+W: 1 : 2
+W: 3 : 1
+W: 1.5 : 1
+E: 300,000 ÷ 150,000 = 2, so the ratio is 2 : 1.
+
+Q: Gross profit of ₦50,000 on sales of ₦200,000 gives a gross profit margin of
+A: 25%
+W: 40%
+W: 4%
+W: 50%
+E: 50,000 ÷ 200,000 × 100 = 25%.
+
+Q: Working capital is
+A: current assets minus current liabilities
+W: fixed assets plus current assets
+W: capital minus drawings
+W: sales minus purchases
+E: It is the money available for day-to-day operations.
+
+Q: Rate of stock turnover is calculated as
+A: cost of sales ÷ average stock
+W: sales ÷ capital
+W: net profit ÷ sales
+W: closing stock ÷ purchases
+E: It shows how many times stock is sold in a period.
+
+Q: The quick (acid test) ratio excludes which item from current assets?
+A: stock (inventory)
+W: cash
+W: debtors
+W: bank balance
+E: Stock may not be quickly turned into cash.
+
+@topic acc-intro
+Q: The accounting concept that requires expenses to be matched with the revenue they help earn is
+A: accruals (matching) concept
+W: entity concept
+W: money measurement concept
+W: going concern concept
+E: Expenses are recorded in the period in which the related income is earned.
+
+Q: Only transactions that can be expressed in money are recorded. This is the
+A: money measurement concept
+W: prudence concept
+W: consistency concept
+W: realisation concept
+E: Staff morale, for example, cannot be recorded in the books.
+
+Q: The people who use accounting information include
+A: owners, lenders and tax authorities
+W: only the bookkeeper
+W: only customers
+W: nobody outside the business
+E: Many groups rely on financial statements.

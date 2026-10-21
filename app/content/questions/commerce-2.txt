@@ -1,0 +1,243 @@
+@subject commerce
+
+@topic com-warehousing | Warehousing and tourism | SS2
+
+Q: A warehouse is mainly used to
+A: store goods until they are needed
+W: produce goods
+W: advertise goods
+W: insure goods
+E: Warehousing bridges the gap between production and consumption.
+
+Q: A warehouse where imported goods are kept until customs duty is paid is a
+A: bonded warehouse
+W: private warehouse
+W: cold room
+W: retail store
+E: Duty is paid only when the goods are released.
+
+Q: Which type of warehouse is best for storing fish and meat?
+A: cold storage warehouse
+W: bonded warehouse
+W: open yard
+W: grain silo
+E: Low temperatures keep perishable goods fresh.
+
+Q: Warehousing helps to stabilise prices by
+A: releasing goods when supply is low
+W: destroying excess goods
+W: increasing demand
+W: removing middlemen
+E: Stored goods can be sold during scarcity.
+
+Q: Tourism contributes to an economy by
+A: earning foreign exchange and creating jobs
+W: reducing all trade
+W: closing hotels
+W: increasing imports
+E: Visitors spend money on hotels, transport and attractions.
+
+Q: Which body promotes tourism in Nigeria?
+A: Nigerian Tourism Development Authority (now Corporation)
+W: Nigerian Ports Authority
+W: Central Bank of Nigeria
+W: Nigeria Customs Service
+E: It promotes and regulates tourism.
+
+@topic com-capital-market | The stock exchange and capital market | SS3
+
+Q: The stock exchange is a market for
+A: buying and selling shares and bonds
+W: buying food items
+W: exchanging foreign currency
+W: buying land
+E: In Nigeria it is called the Nigerian Exchange (NGX).
+
+Q: A person who buys and sells shares on behalf of clients is a
+A: stockbroker
+W: auctioneer
+W: wholesaler
+W: commission agent for goods
+E: Stockbrokers are licensed dealers on the exchange.
+
+Q: A speculator who buys shares expecting their prices to rise is called a
+A: bull
+W: bear
+W: stag
+W: lame duck
+E: A bear expects prices to fall; a stag buys new issues to sell quickly.
+
+Q: A speculator who sells shares expecting prices to fall is a
+A: bear
+W: bull
+W: stag
+W: broker
+E: The bear hopes to buy back later at a lower price.
+
+Q: The body that regulates the capital market in Nigeria is the
+A: Securities and Exchange Commission (SEC)
+W: Corporate Affairs Commission
+W: Central Bank of Nigeria
+W: Nigerian Ports Authority
+E: The SEC protects investors and supervises the market.
+
+Q: A government bond is a
+A: loan to the government that pays interest
+W: share in a private company
+W: type of insurance policy
+W: postal order
+E: Bonds are long-term debt securities.
+
+@topic com-credit | Credit and consumer protection | SS2
+
+Q: Buying goods now and paying later is called buying on
+A: credit
+W: barter
+W: cash
+W: consignment
+E: Credit allows consumers to enjoy goods before paying for them.
+
+Q: Under a credit sale, ownership of the goods passes to the buyer
+A: immediately
+W: after the last instalment
+W: never
+W: after one year
+E: Unlike hire purchase, ownership passes at once.
+
+Q: Which body sets standards for products made or sold in Nigeria?
+A: Standards Organisation of Nigeria (SON)
+W: Nigerian Ports Authority
+W: INEC
+W: Central Bank of Nigeria
+E: SON checks that products meet quality standards.
+
+Q: The body that regulates food and drugs in Nigeria is
+A: NAFDAC
+W: SON only for drugs
+W: NIPOST
+W: FIRS
+E: NAFDAC registers and controls food, drugs and cosmetics.
+
+Q: Which is a right of consumers?
+A: the right to safe products
+W: the right to free goods
+W: the right to fix prices
+W: the right to avoid all taxes
+E: Consumers are entitled to safety, information and redress.
+
+Q: A disadvantage of buying on credit is that
+A: the buyer may get into debt
+W: goods are received immediately
+W: it is convenient
+W: it increases sales
+E: Easy credit can lead people to overspend.
+
+@topic com-entrepreneurship | Entrepreneurship | SS1
+
+Q: An entrepreneur is a person who
+A: organises resources and takes risks to start a business
+W: works only for the government
+W: never makes decisions
+W: only buys goods for personal use
+E: Entrepreneurs combine land, labour and capital to produce goods or services.
+
+Q: Which is a common source of capital for a small business?
+A: personal savings
+W: the stock exchange for small traders
+W: foreign aid
+W: tax refunds
+E: Many small businesses start with savings, family loans or cooperatives.
+
+Q: A business plan is important because it
+A: sets out the goals, costs and strategy of a business
+W: guarantees profit
+W: replaces the need for capital
+W: is required by law for all hawkers
+E: A plan helps the owner and lenders understand the business.
+
+Q: Which of these is an entrepreneurial skill?
+A: risk-taking and creativity
+W: avoiding all decisions
+W: waiting for jobs to come
+W: refusing to learn
+E: Successful entrepreneurs spot opportunities and take calculated risks.
+
+Q: "Ajo" or "esusu" is an example of
+A: a traditional rotating savings scheme
+W: a stock exchange
+W: an insurance company
+W: a commercial bank
+E: Members contribute regularly and each takes the pot in turn.
+
+Q: Which body supports small and medium enterprises in Nigeria?
+A: SMEDAN
+W: INEC
+W: NAFDAC
+W: NPA
+E: The Small and Medium Enterprises Development Agency of Nigeria helps small businesses.
+
+@topic com-retail
+Q: A chain of shops owned by one company selling the same goods is called a
+A: multiple (chain) store
+W: kiosk
+W: open market
+W: mobile shop
+E: Chain stores benefit from bulk buying.
+
+Q: Which retailer usually offers personal service and credit to regular customers?
+A: the small-scale neighbourhood shop
+W: the supermarket
+W: the vending machine
+W: the mail-order house
+E: Small shopkeepers know their customers personally.
+
+Q: A trader who sells goods on behalf of another for a commission is a
+A: commission agent
+W: wholesaler
+W: manufacturer
+W: consumer
+E: The agent does not own the goods.
+
+@topic com-banking
+Q: The bank to which a cheque is addressed is the
+A: drawee
+W: drawer
+W: payee
+W: endorsee
+E: The drawee bank pays the payee.
+
+Q: Which banking service allows customers to withdraw cash at any time using a card?
+A: automated teller machine (ATM)
+W: night safe
+W: standing order
+W: bank draft
+E: ATMs give access to cash outside banking hours.
+
+Q: Microfinance banks mainly serve
+A: small businesses and low-income people
+W: only large companies
+W: foreign governments
+W: the Central Bank
+E: They give small loans and savings services.
+
+@topic com-insurance
+Q: The principle that a person must stand to lose financially from the loss of what is insured is
+A: insurable interest
+W: indemnity
+W: subrogation
+W: proximate cause
+E: You cannot insure your neighbour's car for your own benefit.
+
+Q: After paying a claim, the insurer takes over the insured's rights against a third party. This is
+A: subrogation
+W: contribution
+W: indemnity
+W: utmost good faith
+E: The insurer can then recover the loss from whoever caused it.
+
+Q: Life assurance differs from insurance because it covers
+A: an event that is certain to happen, such as death
+W: fire
+W: theft
+W: marine risks
+E: Assurance covers certain events; insurance covers possible risks.

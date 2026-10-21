@@ -1,0 +1,433 @@
+@subject government
+
+@topic gov-democracy | Democracy | SS1
+
+Q: Abraham Lincoln described democracy as government
+A: of the people, by the people, for the people
+W: of the few, by the few, for the few
+W: by the army for the people
+W: of the king, by the king, for the king
+E: Lincoln gave this definition in the Gettysburg Address (1863).
+
+Q: In a direct democracy,
+A: citizens take part in decision-making themselves
+W: the army makes all decisions
+W: only elected officials can vote
+W: a king rules alone
+E: Direct democracy was practised in ancient Greek city-states such as Athens.
+
+Q: Representative democracy is also called
+A: indirect democracy
+W: direct democracy
+W: autocracy
+W: theocracy
+E: Citizens elect representatives to make decisions on their behalf.
+
+Q: Which of these is a feature of democracy?
+A: periodic free and fair elections
+W: rule by decree
+W: a ban on opposition parties
+W: suppression of the press
+E: Democracy depends on regular elections, rule of law and respect for rights.
+
+Q: Rule by religious leaders according to religious law is
+A: theocracy
+W: aristocracy
+W: plutocracy
+W: gerontocracy
+E: In a theocracy, religious authority and political authority are combined.
+
+Q: Government by the elderly is called
+A: gerontocracy
+W: plutocracy
+W: aristocracy
+W: anarchy
+E: Many traditional societies gave great authority to elders.
+
+@topic gov-ideologies | Political ideologies | SS1
+
+Q: An economic system in which the means of production are mainly privately owned is
+A: capitalism
+W: communism
+W: socialism
+W: feudalism
+E: Under capitalism, private individuals and firms own and control resources for profit.
+
+Q: Who is regarded as the father of communism?
+A: Karl Marx
+W: Adam Smith
+W: Montesquieu
+W: John Locke
+E: Marx wrote "The Communist Manifesto" with Friedrich Engels in 1848.
+
+Q: Feudalism was based on the ownership of
+A: land
+W: factories
+W: banks
+W: ships
+E: Lords granted land to vassals in return for service and loyalty.
+
+Q: A political system in which one leader holds total power and suppresses opposition is
+A: totalitarianism
+W: liberal democracy
+W: federalism
+W: constitutional monarchy
+E: Totalitarian states control nearly every part of public and private life.
+
+Q: Fascism was associated with
+A: Benito Mussolini in Italy
+W: Kwame Nkrumah in Ghana
+W: Abraham Lincoln in the USA
+W: Nelson Mandela in South Africa
+E: Mussolini led a fascist government in Italy from 1922.
+
+Q: A mixed economy combines
+A: private and public ownership
+W: only state ownership
+W: only private ownership
+W: barter and money
+E: Nigeria has a mixed economy.
+
+@topic gov-public-service | The civil service and public corporations | SS3
+
+Q: The civil service is described as permanent because
+A: civil servants remain in office when governments change
+W: civil servants are elected for life
+W: it is controlled by the army
+W: it never employs new staff
+E: Civil servants serve whichever government is in power.
+
+Q: Which principle requires civil servants not to take sides in party politics?
+A: political neutrality (anonymity and impartiality)
+W: separation of powers
+W: rule of law
+W: federal character
+E: Civil servants advise and implement policy without partisan bias.
+
+Q: The administrative head of a federal ministry in Nigeria is the
+A: Permanent Secretary
+W: Minister
+W: Senate President
+W: Chief Justice
+E: The Minister is the political head; the Permanent Secretary is the administrative head.
+
+Q: The body that appoints, promotes and disciplines federal civil servants in Nigeria is the
+A: Federal Civil Service Commission
+W: Independent National Electoral Commission
+W: National Assembly
+W: Supreme Court
+E: The commission manages the federal civil service.
+
+Q: Public corporations are set up mainly to
+A: provide essential services to the public
+W: make maximum profit for private owners
+W: replace the legislature
+W: conduct elections
+E: Examples include the Nigerian Ports Authority and the Nigerian Railway Corporation.
+
+Q: Selling government-owned enterprises to private owners is called
+A: privatisation
+W: nationalisation
+W: commercialisation
+W: centralisation
+E: Nationalisation is the opposite: the state takes over private firms.
+
+@topic gov-federalism | Federalism in Nigeria | SS3
+
+Q: How many states does Nigeria have?
+A: 36
+W: 12
+W: 19
+W: 30
+E: Nigeria has 36 states and the Federal Capital Territory, Abuja.
+
+Q: Powers that only the federal government can exercise are listed in the
+A: Exclusive Legislative List
+W: Concurrent Legislative List
+W: Residual List
+W: Local Government List
+E: Defence, currency and foreign affairs are on the Exclusive List.
+
+Q: Powers shared by the federal and state governments are on the
+A: Concurrent Legislative List
+W: Exclusive Legislative List
+W: Residual List
+W: Military List
+E: Examples include agriculture, education and electricity.
+
+Q: Matters not listed on the Exclusive or Concurrent Lists are
+A: residual matters left to the states
+W: handled only by the army
+W: decided by INEC
+W: handled by foreign governments
+E: Residual powers include chieftaincy matters and local markets.
+
+Q: The principle that ensures fair representation of all states in federal appointments is
+A: federal character
+W: separation of powers
+W: rule of law
+W: judicial review
+E: The Federal Character Commission enforces this principle.
+
+Q: The sharing of federally collected revenue among the tiers of government is called
+A: revenue allocation
+W: taxation
+W: budgeting
+W: auditing
+E: Revenue from the Federation Account is shared by a formula.
+
+@topic gov-public-opinion | Public opinion and the mass media | SS2
+
+Q: Public opinion is
+A: the views held by a large part of the population on public issues
+W: the opinion of the president alone
+W: a court judgment
+W: a law passed by parliament
+E: Governments take public opinion into account when making policy.
+
+Q: Which is a means of measuring public opinion?
+A: opinion polls
+W: coups
+W: decrees
+W: curfews
+E: Opinion polls ask a sample of people for their views.
+
+Q: The mass media is sometimes called the
+A: fourth estate of the realm
+W: first estate of the realm
+W: third organ of government
+W: lower house
+E: The press acts as a watchdog on the three organs of government.
+
+Q: Freedom of the press means
+A: the media can publish information without unfair government control
+W: newspapers must be free of charge
+W: only the government may own newspapers
+W: journalists may break the law
+E: Press freedom is essential in a democracy, within the limits of the law.
+
+Q: Which of these can limit freedom of the press?
+A: censorship
+W: free elections
+W: independent courts
+W: literacy
+E: Censorship is official control of what may be published.
+
+Q: Propaganda is
+A: information spread to influence people, often in a one-sided way
+W: a type of election
+W: a court decision
+W: a constitutional amendment
+E: Propaganda may be true or false, but it is designed to persuade.
+
+@topic gov-legislature | The legislature and law-making | SS2
+
+Q: A proposed law before it is passed is called a
+A: bill
+W: act
+W: decree
+W: bye-law
+E: Once passed and assented to, a bill becomes an act (law).
+
+Q: The refusal of the president to sign a bill is called a
+A: veto
+W: impeachment
+W: recall
+W: referendum
+E: In Nigeria, the National Assembly can override a veto with a two-thirds majority.
+
+Q: The process of removing a president or governor from office by the legislature is
+A: impeachment
+W: recall
+W: veto
+W: delegation
+E: Impeachment follows a formal procedure for gross misconduct.
+
+Q: Laws made by local government councils are called
+A: bye-laws
+W: acts
+W: decrees
+W: edicts
+E: Bye-laws apply only within the local government area.
+
+Q: A legislature with two chambers is described as
+A: bicameral
+W: unicameral
+W: federal
+W: unitary
+E: Nigeria's National Assembly has two chambers: the Senate and the House of Representatives.
+
+Q: The presiding officer of the House of Representatives in Nigeria is the
+A: Speaker
+W: Senate President
+W: Chief Justice
+W: Clerk
+E: The Senate is presided over by the Senate President.
+
+@topic gov-executive | The executive and the judiciary | SS2
+
+Q: Which of these is a function of the executive?
+A: implementing laws
+W: interpreting laws
+W: making laws
+W: impeaching judges
+E: The executive carries laws into effect and runs the government.
+
+Q: The independence of the judiciary can be protected by
+A: security of tenure for judges
+W: allowing the president to dismiss judges at will
+W: making judges join political parties
+W: letting the legislature decide court cases
+E: Judges who cannot easily be removed can decide cases without fear.
+
+Q: The power of courts to declare a law unconstitutional is
+A: judicial review
+W: veto
+W: delegated legislation
+W: recall
+E: Judicial review is an important check on the other organs.
+
+Q: Who heads the judiciary in Nigeria?
+A: the Chief Justice of Nigeria
+W: the President
+W: the Attorney-General
+W: the Senate President
+E: The Chief Justice presides over the Supreme Court.
+
+Q: The chief law officer of the federal government is the
+A: Attorney-General
+W: Chief Justice
+W: Inspector-General of Police
+W: Speaker
+E: The Attorney-General of the Federation is also the Minister of Justice.
+
+Q: Delegated legislation means
+A: laws made by bodies other than the legislature, with the legislature's authority
+W: laws made by foreign countries
+W: laws made only by the courts
+W: laws that have been repealed
+E: For example, ministers may make regulations under an act of parliament.
+
+@topic gov-first-republic | The First and Second Republics | SS3
+
+Q: The First Republic ended in
+A: January 1966
+W: October 1960
+W: May 1999
+W: December 1983
+E: The military coup of 15 January 1966 ended the First Republic.
+
+Q: The Second Republic was ended by a military coup in
+A: December 1983
+W: January 1966
+W: July 1975
+W: June 1993
+E: The coup of 31 December 1983 brought General Muhammadu Buhari to power.
+
+Q: The first Governor-General of independent Nigeria who was Nigerian was
+A: Nnamdi Azikiwe
+W: Tafawa Balewa
+W: Obafemi Awolowo
+W: Ahmadu Bello
+E: Azikiwe became Governor-General in 1960 and President in 1963.
+
+Q: Which party controlled the Northern Region during the First Republic?
+A: Northern People's Congress (NPC)
+W: Action Group (AG)
+W: NCNC
+W: Unity Party of Nigeria (UPN)
+E: The NPC was led by Sir Ahmadu Bello.
+
+Q: The Action Group was led by
+A: Obafemi Awolowo
+W: Nnamdi Azikiwe
+W: Ahmadu Bello
+W: Aminu Kano
+E: The Action Group was the main party of the Western Region.
+
+Q: The Mid-Western Region was created in
+A: 1963
+W: 1960
+W: 1967
+W: 1976
+E: It was carved out of the Western Region, making four regions.
+
+@topic gov-concepts
+Q: The ability to make others act in a way they would not otherwise act is
+A: power
+W: legitimacy
+W: sovereignty
+W: culture
+E: Power may rest on force, persuasion or authority.
+
+Q: Delegated authority from a higher body to a lower one is an example of
+A: decentralisation
+W: centralisation
+W: anarchy
+W: coup
+E: Decentralisation moves some decision-making to lower levels.
+
+Q: A nation is best described as
+A: a group of people bound by common history, culture or language
+W: any area with a government
+W: a political party
+W: a court system
+E: A nation may or may not have its own state.
+
+@topic gov-international
+Q: Nigeria hosted the headquarters of which regional body in Abuja?
+A: ECOWAS
+W: the African Union
+W: the Commonwealth
+W: OPEC
+E: The ECOWAS Commission is based in Abuja.
+
+Q: The Commonwealth of Nations is mainly made up of
+A: countries that were formerly part of the British Empire
+W: oil-producing countries
+W: West African countries
+W: French-speaking countries
+E: Nigeria joined the Commonwealth at independence in 1960.
+
+Q: The African Union replaced the OAU in
+A: 2002
+W: 1963
+W: 1975
+W: 1999
+E: The AU was launched in Durban, South Africa, in 2002.
+
+Q: ECOMOG was the
+A: peacekeeping force of ECOWAS
+W: oil cartel of West Africa
+W: Nigerian electoral body
+W: UN agency for food
+E: ECOMOG intervened in Liberia and Sierra Leone in the 1990s.
+
+Q: How many permanent members does the UN Security Council have?
+A: 5
+W: 10
+W: 15
+W: 193
+E: China, France, Russia, the UK and the USA are permanent members with veto power.
+
+@topic gov-elections
+Q: The minimum voting age in Nigeria is
+A: 18 years
+W: 16 years
+W: 21 years
+W: 25 years
+E: Citizens aged 18 and above can register and vote.
+
+Q: Universal adult suffrage means
+A: all adult citizens have the right to vote
+W: only men can vote
+W: only property owners can vote
+W: only educated people can vote
+E: It excludes only those disqualified by law, such as people of unsound mind.
+
+Q: An election in which party members choose their candidates is a
+A: primary election
+W: general election
+W: bye-election
+W: referendum
+E: Parties hold primaries before general elections.

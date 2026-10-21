@@ -1,0 +1,441 @@
+@subject accounts
+
+@topic acc-intro | Introduction to bookkeeping | SS1
+
+Q: Bookkeeping is the
+A: systematic recording of business transactions
+W: preparation of tax laws
+W: auditing of government accounts
+W: selling of books
+E: Bookkeeping records transactions so that accounts can be prepared.
+
+Q: The accounting equation is
+A: Assets = Capital + Liabilities
+W: Assets = Capital − Liabilities
+W: Capital = Assets + Liabilities
+W: Liabilities = Assets + Capital
+E: Everything the business owns is financed by the owner (capital) or by outsiders (liabilities).
+
+Q: A business has assets of ₦500,000 and liabilities of ₦200,000. What is its capital?
+A: ₦300,000
+W: ₦700,000
+W: ₦200,000
+W: ₦500,000
+E: Capital = Assets − Liabilities = 500,000 − 200,000 = ₦300,000.
+
+Q: Which of these is a liability?
+A: a bank loan
+W: cash in hand
+W: a motor van
+W: stock of goods
+E: A liability is an amount the business owes to outsiders.
+
+Q: The concept that a business is treated separately from its owner is the
+A: business entity concept
+W: going concern concept
+W: matching concept
+W: prudence concept
+E: The owner's private affairs are kept separate from the business records.
+
+Q: Which concept assumes that a business will continue operating for the foreseeable future?
+A: going concern
+W: business entity
+W: materiality
+W: realisation
+E: Assets are valued on the basis that the business will keep running.
+
+@topic acc-double-entry | Double entry and the ledger | SS1
+
+Q: The double entry principle states that every transaction has
+A: a debit entry and a corresponding credit entry
+W: two debit entries
+W: two credit entries
+W: only one entry
+E: For every debit there is an equal credit.
+
+Q: When a business buys goods for cash, the entries are
+A: debit purchases, credit cash
+W: debit cash, credit purchases
+W: debit sales, credit cash
+W: debit cash, credit sales
+E: Purchases increase (debit) and cash decreases (credit).
+
+Q: When goods are sold on credit to Ada, the entries are
+A: debit Ada, credit sales
+W: debit sales, credit Ada
+W: debit cash, credit Ada
+W: debit purchases, credit Ada
+E: Ada becomes a debtor (debit) and sales increase (credit).
+
+Q: The owner brings ₦100,000 cash into the business. The entries are
+A: debit cash, credit capital
+W: debit capital, credit cash
+W: debit cash, credit sales
+W: debit drawings, credit cash
+E: Cash increases (debit) and the owner's capital increases (credit).
+
+Q: Goods taken by the owner for personal use are recorded as
+A: debit drawings, credit purchases
+W: debit purchases, credit drawings
+W: debit sales, credit drawings
+W: debit capital, credit sales
+E: Drawings reduce capital; the goods are removed from purchases.
+
+Q: Which book of original entry records credit purchases of goods?
+A: purchases day book (purchases journal)
+W: sales day book
+W: cash book
+W: general journal
+E: Credit purchases are first entered in the purchases day book.
+
+@topic acc-cash-book | Cash book and petty cash | SS1
+
+Q: A cash book that records cash, bank and discount columns is a
+A: three-column cash book
+W: single-column cash book
+W: two-column cash book
+W: petty cash book
+E: The three columns are discount, cash and bank.
+
+Q: In the cash book, discount allowed appears on the
+A: debit side
+W: credit side
+W: both sides equally
+W: nowhere
+E: Discount allowed is given to customers who pay, so it sits with the receipts on the debit side.
+
+Q: The petty cash system in which the cashier is refunded the amount spent is the
+A: imprest system
+W: double entry system
+W: single entry system
+W: slip system
+E: Under the imprest system, the float is restored to the same amount at the end of each period.
+
+Q: A petty cashier has an imprest of ₦20,000 and spends ₦14,500. How much should be reimbursed?
+A: ₦14,500
+W: ₦5,500
+W: ₦20,000
+W: ₦34,500
+E: Under the imprest system, the amount spent is reimbursed to restore the float.
+
+Q: A contra entry in the cash book occurs when
+A: cash is paid into the bank or withdrawn from the bank for office use
+W: goods are sold on credit
+W: the owner takes drawings
+W: a debtor fails to pay
+E: Both sides of the entry are in the cash book (cash and bank columns).
+
+Q: Petty cash is used for
+A: small, everyday expenses
+W: buying fixed assets
+W: paying large suppliers
+W: paying salaries of directors
+E: Examples include postage, transport fares and cleaning materials.
+
+@topic acc-trial-balance | Trial balance and errors | SS1
+
+Q: A trial balance is prepared to
+A: check the arithmetical accuracy of the ledger
+W: show the profit for the year
+W: list the business's customers
+W: record cash sales
+E: If the debit and credit totals agree, the double entry is arithmetically correct.
+
+Q: Which error will NOT be revealed by a trial balance?
+A: error of omission
+W: entering only the debit side of a transaction
+W: adding a column wrongly on one side
+W: entering different amounts on the debit and credit sides
+E: If a transaction is left out completely, both sides are still equal.
+
+Q: Recording a payment to Musa in Moses's account is an
+A: error of commission
+W: error of principle
+W: error of omission
+W: compensating error
+E: The right type of account, but the wrong person's account.
+
+Q: Recording the purchase of a motor van in the purchases account is an
+A: error of principle
+W: error of commission
+W: error of omission
+W: error of original entry
+E: A fixed asset has been treated as a revenue item.
+
+Q: An account opened to make the trial balance agree temporarily is a
+A: suspense account
+W: drawings account
+W: capital account
+W: control account
+E: The difference is placed in a suspense account until the errors are found.
+
+Q: Which balance normally appears on the debit side of the trial balance?
+A: purchases
+W: sales
+W: capital
+W: creditors
+E: Expenses, assets and purchases have debit balances.
+
+@topic acc-bank-rec | Bank reconciliation | SS1
+
+Q: A bank reconciliation statement is prepared to
+A: explain the difference between the cash book and the bank statement balances
+W: calculate profit
+W: record petty cash
+W: list creditors
+E: Timing differences and errors cause the two balances to differ.
+
+Q: Cheques written and sent to suppliers but not yet presented at the bank are
+A: unpresented cheques
+W: dishonoured cheques
+W: uncredited cheques
+W: standing orders
+E: The cash book shows the payment, but the bank has not yet paid it.
+
+Q: Bank charges shown on the bank statement but not in the cash book should be
+A: credited in the cash book
+W: debited in the cash book
+W: ignored
+W: added to capital
+E: Charges reduce the bank balance, so they are credited in the cash book.
+
+Q: Cheques paid into the bank but not yet credited by the bank are
+A: uncredited lodgements
+W: unpresented cheques
+W: dishonoured cheques
+W: direct debits
+E: They appear in the cash book but not yet on the bank statement.
+
+Q: A customer's cheque that the bank refuses to pay is a
+A: dishonoured cheque
+W: crossed cheque
+W: stale cheque
+W: open cheque
+E: The amount must be credited in the cash book and debited back to the customer.
+
+Q: Interest received from the bank that is not yet in the cash book should be
+A: debited in the cash book
+W: credited in the cash book
+W: shown as an expense
+W: ignored
+E: Interest received increases the bank balance.
+
+@topic acc-final-accounts | Final accounts of a sole trader | SS2
+
+Q: Opening stock ₦20,000, purchases ₦80,000 and closing stock ₦15,000. What is the cost of sales?
+A: ₦85,000
+W: ₦115,000
+W: ₦75,000
+W: ₦65,000
+E: Cost of sales = 20,000 + 80,000 − 15,000 = ₦85,000.
+
+Q: Sales are ₦150,000 and cost of sales is ₦90,000. What is the gross profit?
+A: ₦60,000
+W: ₦240,000
+W: ₦90,000
+W: ₦150,000
+E: Gross profit = sales − cost of sales = ₦60,000.
+
+Q: Gross profit is ₦60,000 and expenses are ₦25,000. What is the net profit?
+A: ₦35,000
+W: ₦85,000
+W: ₦25,000
+W: ₦60,000
+E: Net profit = gross profit − expenses = ₦35,000.
+
+Q: Which statement shows the assets, liabilities and capital of a business on a particular date?
+A: statement of financial position (balance sheet)
+W: trading account
+W: income statement
+W: cash book
+E: The balance sheet is a snapshot of the business's financial position.
+
+Q: Carriage inwards is charged to the
+A: trading account
+W: profit and loss account as a selling expense
+W: balance sheet
+W: capital account
+E: Carriage inwards adds to the cost of purchases.
+
+Q: Which of these is a current asset?
+A: trade receivables (debtors)
+W: land and buildings
+W: motor vehicles
+W: long-term loan
+E: Current assets are expected to turn into cash within a year.
+
+@topic acc-adjustments | Adjustments and depreciation | SS2
+
+Q: Rent owing at the end of the year is an example of
+A: an accrued expense
+W: a prepaid expense
+W: income received in advance
+W: a fixed asset
+E: The expense belongs to this year but has not yet been paid.
+
+Q: Insurance paid in advance for next year is shown in the balance sheet as a
+A: current asset
+W: current liability
+W: fixed asset
+W: long-term liability
+E: A prepayment is an amount the business is owed in services.
+
+Q: A machine costs ₦100,000, will last 5 years and has no scrap value. What is the yearly straight-line depreciation?
+A: ₦20,000
+W: ₦5,000
+W: ₦100,000
+W: ₦25,000
+E: Depreciation = (cost − scrap value) ÷ useful life = 100,000 ÷ 5 = ₦20,000.
+
+Q: A van costing ₦400,000 is depreciated at 10% a year on the reducing balance method. What is the depreciation in year 2?
+A: ₦36,000
+W: ₦40,000
+W: ₦32,400
+W: ₦80,000
+E: Year 1: ₦40,000, leaving ₦360,000. Year 2: 10% of ₦360,000 = ₦36,000.
+
+Q: A provision for doubtful debts is created in line with the
+A: prudence concept
+W: business entity concept
+W: money measurement concept
+W: dual aspect concept
+E: Prudence means expected losses are recognised as soon as they are foreseen.
+
+Q: Depreciation is best described as
+A: the loss in value of a non-current asset over its useful life
+W: the profit on selling an asset
+W: an increase in the value of land
+W: cash set aside to buy new assets
+E: It spreads the cost of the asset over the years it is used.
+
+@topic acc-control | Control accounts and incomplete records | SS2
+
+Q: The sales ledger control account is also called the
+A: total debtors (trade receivables) account
+W: total creditors account
+W: cash account
+W: drawings account
+E: It summarises all the individual debtors' accounts.
+
+Q: Which item appears on the credit side of the sales ledger control account?
+A: cash received from debtors
+W: credit sales
+W: dishonoured cheques
+W: opening debit balance
+E: Cash received reduces what debtors owe, so it is credited.
+
+Q: A statement of affairs is prepared to find the
+A: capital of a business with incomplete records
+W: profit of a company
+W: total sales of a partnership
+W: depreciation of assets
+E: Capital = assets − liabilities on a given date.
+
+Q: Opening capital ₦200,000, closing capital ₦260,000, drawings ₦30,000 and no new capital. What is the profit?
+A: ₦90,000
+W: ₦60,000
+W: ₦30,000
+W: ₦230,000
+E: Profit = closing capital − opening capital + drawings = 60,000 + 30,000 = ₦90,000.
+
+Q: Which item appears on the debit side of the purchases ledger control account?
+A: payments to creditors
+W: credit purchases
+W: opening credit balance
+W: interest charged by suppliers
+E: Payments reduce what is owed to creditors, so they are debited.
+
+Q: Single entry is a system of bookkeeping in which
+A: transactions are not fully recorded by double entry
+W: every transaction is recorded twice
+W: only sales are recorded
+W: no records are kept at all
+E: Small traders often keep incomplete records, mainly of cash and personal accounts.
+
+@topic acc-partnership | Partnership accounts | SS3
+
+Q: If there is no partnership agreement, profits are shared
+A: equally
+W: in the ratio of capital
+W: according to age
+W: by the oldest partner's decision
+E: Under the Partnership Act, profits and losses are shared equally when there is no agreement.
+
+Q: Interest on drawings is
+A: charged to partners and added to profit available for sharing
+W: paid to partners as income
+W: an expense in the trading account
+W: ignored
+E: It discourages partners from making large drawings.
+
+Q: Partners A and B share profits in the ratio 3:2. Profit is ₦50,000. What is B's share?
+A: ₦20,000
+W: ₦30,000
+W: ₦25,000
+W: ₦10,000
+E: B's share = 2/5 × 50,000 = ₦20,000.
+
+Q: The account that shows how partnership profit is shared is the
+A: appropriation account
+W: trading account
+W: realisation account
+W: suspense account
+E: It deals with salaries, interest on capital and the sharing of the residual profit.
+
+Q: Goodwill is
+A: the value of a business's reputation and customer connections
+W: a building
+W: cash in the bank
+W: a type of expense
+E: Goodwill is an intangible asset.
+
+Q: The account opened when a partnership is dissolved is the
+A: realisation account
+W: appropriation account
+W: suspense account
+W: control account
+E: Assets are sold and liabilities settled through the realisation account.
+
+@topic acc-companies | Company and manufacturing accounts | SS3
+
+Q: The amount of share capital a company is permitted to issue is its
+A: authorised share capital
+W: issued share capital
+W: called-up capital
+W: paid-up capital
+E: It is stated in the memorandum of association.
+
+Q: A company's undistributed profits kept in the business are
+A: retained earnings (revenue reserves)
+W: debentures
+W: called-up capital
+W: goodwill
+E: Retained earnings belong to the ordinary shareholders.
+
+Q: Direct materials ₦50,000, direct labour ₦30,000 and direct expenses ₦5,000. What is the prime cost?
+A: ₦85,000
+W: ₦80,000
+W: ₦55,000
+W: ₦35,000
+E: Prime cost = direct materials + direct labour + direct expenses.
+
+Q: Factory rent is part of
+A: factory overheads
+W: prime cost
+W: selling expenses
+W: administrative expenses
+E: Indirect factory costs are added to prime cost to give cost of production.
+
+Q: Receipts and payments accounts are prepared by
+A: not-for-profit organisations such as clubs
+W: public limited companies
+W: manufacturing firms
+W: banks
+E: Clubs summarise cash received and paid in a receipts and payments account.
+
+Q: In a not-for-profit organisation, an excess of income over expenditure is called a
+A: surplus
+W: net profit
+W: gross profit
+W: dividend
+E: Clubs do not aim to make profit, so the term "surplus" is used.

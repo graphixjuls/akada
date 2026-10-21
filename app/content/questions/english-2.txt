@@ -1,0 +1,583 @@
+@subject english
+
+@topic eng-synonyms
+Q: Choose the word nearest in meaning to "frugal" in this sentence: My uncle lives a frugal life.
+A: thrifty
+W: wasteful
+W: lavish
+W: happy
+E: A frugal person is careful not to waste money.
+
+Q: Choose the word nearest in meaning to "candid" in this sentence: Thank you for your candid advice.
+A: frank
+W: secret
+W: rude
+W: long
+E: Candid advice is honest and direct.
+
+Q: Choose the word nearest in meaning to "hostile" in this sentence: The crowd was hostile to the visitors.
+A: unfriendly
+W: welcoming
+W: noisy
+W: curious
+E: "Hostile" means showing opposition or dislike.
+
+Q: Choose the word nearest in meaning to "eminent" in this sentence: An eminent surgeon visited our school.
+A: distinguished
+W: young
+W: retired
+W: unknown
+E: An eminent person is famous and respected.
+
+Q: Choose the word nearest in meaning to "meagre" in this sentence: He survives on a meagre salary.
+A: small
+W: generous
+W: monthly
+W: regular
+E: "Meagre" means too small in amount.
+
+Q: Choose the word nearest in meaning to "imminent" in this sentence: The storm is imminent.
+A: about to happen
+W: already over
+W: very far away
+W: imaginary
+E: "Imminent" means likely to happen very soon. Do not confuse it with "eminent".
+
+Q: Choose the word nearest in meaning to "rectify" in this sentence: Please rectify the error in your work.
+A: correct
+W: repeat
+W: hide
+W: increase
+E: To rectify is to put right.
+
+Q: Choose the word nearest in meaning to "ponder" in this sentence: She pondered the question for a while.
+A: thought carefully about
+W: ignored
+W: answered quickly
+W: wrote down
+E: To ponder is to think about something carefully.
+
+@topic eng-antonyms
+Q: Choose the word opposite in meaning to "optimistic" in this sentence: Bisi is optimistic about the result.
+A: pessimistic
+W: hopeful
+W: confident
+W: excited
+E: An optimist expects good outcomes; a pessimist expects bad ones.
+
+Q: Choose the word opposite in meaning to "expand" in this sentence: The company plans to expand.
+A: contract
+W: grow
+W: travel
+W: advertise
+E: To expand is to grow larger; to contract is to become smaller.
+
+Q: Choose the word opposite in meaning to "visible" in this sentence: The mountain was visible from the road.
+A: invisible
+W: clear
+W: beautiful
+W: distant
+E: "Visible" means able to be seen.
+
+Q: Choose the word opposite in meaning to "courageous" in this sentence: The courageous soldier saved his friend.
+A: cowardly
+W: brave
+W: strong
+W: wounded
+E: A courageous person is brave; a cowardly person lacks courage.
+
+Q: Choose the word opposite in meaning to "inferior" in this sentence: This cloth is of inferior quality.
+A: superior
+W: poor
+W: cheap
+W: local
+E: "Inferior" means lower in quality; "superior" means higher.
+
+Q: Choose the word opposite in meaning to "accept" in this sentence: She accepted the gift.
+A: rejected
+W: received
+W: opened
+W: admired
+E: To reject is to refuse to accept.
+
+Q: Choose the word opposite in meaning to "punctual" in this sentence: Femi is always punctual.
+A: late
+W: early
+W: careful
+W: tidy
+E: A punctual person arrives on time.
+
+Q: Choose the word opposite in meaning to "ascend" in this sentence: The climbers ascended the hill.
+A: descended
+W: climbed
+W: crossed
+W: avoided
+E: To ascend is to go up; to descend is to go down.
+
+@topic eng-idioms
+Q: What does "to bury the hatchet" mean?
+A: to make peace after a quarrel
+W: to dig a hole
+W: to hide a weapon
+W: to start a fight
+E: The idiom means to end a disagreement.
+
+Q: What does "to turn over a new leaf" mean?
+A: to change one's behaviour for the better
+W: to read a new book
+W: to plant a tree
+W: to change jobs often
+E: It means to start behaving better.
+
+Q: What does "to beat about the bush" mean?
+A: to avoid saying something directly
+W: to clear a farm
+W: to win a race
+W: to hunt animals
+E: Someone who beats about the bush does not get to the point.
+
+Q: What does "a wet blanket" refer to?
+A: a person who spoils other people's fun
+W: a blanket left in the rain
+W: a generous person
+W: a very tired person
+E: A wet blanket discourages others from enjoying themselves.
+
+Q: What does "at the eleventh hour" mean?
+A: at the last possible moment
+W: at 11 o'clock
+W: very early
+W: in the middle of the day
+E: Something done at the eleventh hour is done just in time.
+
+Q: What does "to have cold feet" mean?
+A: to become nervous and want to back out
+W: to feel cold
+W: to walk barefoot
+W: to be very brave
+E: Someone with cold feet loses courage before an important event.
+
+@topic eng-pronouns | Pronouns and determiners | SS1
+
+Q: Choose the option that best completes the sentence: Between you and ___, the plan will fail.
+A: me
+W: I
+W: myself
+W: mine
+E: After a preposition ("between"), use the object pronoun "me".
+
+Q: Choose the option that best completes the sentence: Everyone should bring ___ own textbook.
+A: their
+W: there
+W: they're
+W: his own's
+E: "Their" shows possession; it is commonly used after "everyone".
+
+Q: Choose the option that best completes the sentence: It was ___ who broke the window.
+A: he
+W: him
+W: his
+W: himself
+E: After "it was", formal English uses the subject pronoun "he".
+
+Q: Choose the option that best completes the sentence: The two friends helped each ___.
+A: other
+W: another
+W: others
+W: one
+E: "Each other" is used for two people; "one another" is often used for more than two.
+
+Q: Choose the option that best completes the sentence: I have ___ money left, so I can't buy lunch.
+A: little
+W: a little
+W: few
+W: many
+E: "Little" (without "a") means almost none; "few" is used with countable nouns.
+
+Q: Choose the option that best completes the sentence: She is ___ honest girl.
+A: an
+W: a
+W: the a
+W: one a
+E: Use "an" before a vowel sound; the "h" in "honest" is silent.
+
+@topic eng-plurals | Plurals and irregular forms | SS1
+
+Q: What is the plural of "child"?
+A: children
+W: childs
+W: childrens
+W: childes
+E: "Child" has an irregular plural, "children".
+
+Q: What is the plural of "criterion"?
+A: criteria
+W: criterions
+W: criterias
+W: criterium
+E: "Criterion" comes from Greek, and its plural is "criteria".
+
+Q: What is the plural of "mother-in-law"?
+A: mothers-in-law
+W: mother-in-laws
+W: mothers-in-laws
+W: mother-ins-law
+E: The main word, "mother", takes the plural ending.
+
+Q: Which of these nouns has no plural form in standard English?
+A: furniture
+W: chair
+W: table
+W: desk
+E: "Furniture" is uncountable: say "pieces of furniture".
+
+Q: What is the plural of "analysis"?
+A: analyses
+W: analysises
+W: analysis
+W: analysi
+E: Nouns ending in "-is" often change to "-es": crisis → crises, thesis → theses.
+
+Q: What is the plural of "phenomenon"?
+A: phenomena
+W: phenomenons
+W: phenomenas
+W: phenomenon
+E: Like "criterion", "phenomenon" changes "-on" to "-a".
+
+@topic eng-silent | Silent letters and spelling sounds | SS1
+
+Q: In which word is the "b" silent?
+A: doubt
+W: bubble
+W: rubber
+W: number
+E: The "b" in "doubt", "debt", "lamb" and "thumb" is not pronounced.
+
+Q: In which word is the "t" silent?
+A: listen
+W: little
+W: winter
+W: water
+E: "Listen", "castle" and "whistle" have a silent "t".
+
+Q: In which word is the "w" silent?
+A: wrist
+W: window
+W: swim
+W: twin
+E: The "w" in "write", "wrist" and "wrong" is silent.
+
+Q: In which word is the "h" silent?
+A: hour
+W: house
+W: hotel
+W: horse
+E: "Hour", "honest" and "heir" begin with a vowel sound.
+
+Q: In which word is the "g" silent?
+A: sign
+W: signal
+W: give
+W: bag
+E: In "sign" the "g" is silent, but in "signal" it is pronounced.
+
+Q: In which word is the "l" silent?
+A: calm
+W: clap
+W: hall
+W: lion
+E: The "l" in "calm", "walk", "talk" and "half" is silent.
+
+@topic eng-rhymes | Rhymes | SS2
+
+Q: Which word rhymes with "bread"?
+A: said
+W: bead
+W: bride
+W: braid
+E: "Bread" and "said" both end in /ed/, despite the different spellings.
+
+Q: Which word rhymes with "gone"?
+A: on
+W: bone
+W: done
+W: one
+E: "Gone" and "on" share the vowel /ɒ/ in British English.
+
+Q: Which word rhymes with "wear"?
+A: chair
+W: fear
+W: near
+W: here
+E: "Wear" and "chair" end with the same sound /eə/.
+
+Q: Which word rhymes with "laugh"?
+A: half
+W: tough
+W: cough
+W: though
+E: "Laugh" and "half" both end in /ɑːf/.
+
+Q: Which word rhymes with "key"?
+A: tea
+W: day
+W: tie
+W: toy
+E: Both end in the long vowel /iː/.
+
+Q: Which word rhymes with "love"?
+A: dove (the bird)
+W: move
+W: stove
+W: grove
+E: "Love" and "dove" share /ʌv/. "Move" has /uː/ and "stove" has /əʊ/.
+
+@topic eng-emphatic | Emphatic stress | SS3
+
+Q: In the sentence "AMAKA bought the red dress", the capital letters show the stressed word. Which question does it answer?
+A: Who bought the red dress?
+W: What colour was the dress?
+W: Did Amaka sell the red dress?
+W: What did Amaka buy?
+E: Stressing "Amaka" shows that the important information is who did it.
+
+Q: In "Amaka bought the RED dress", which question is answered?
+A: Which dress did Amaka buy?
+W: Who bought the red dress?
+W: Did Amaka borrow the red dress?
+W: Did Amaka buy the red shoes?
+E: The stress on "red" contrasts it with dresses of other colours.
+
+Q: In "Amaka BOUGHT the red dress", which question is answered?
+A: Did Amaka borrow the red dress?
+W: Who bought the red dress?
+W: What colour was the dress Amaka bought?
+W: Did Amaka buy the red shoes?
+E: Stressing the verb contrasts buying with another action, such as borrowing.
+
+Q: In "The bus left at SEVEN o'clock", which question is answered?
+A: Did the bus leave at six o'clock?
+W: Did the car leave at seven o'clock?
+W: Did the bus arrive at seven o'clock?
+W: Which bus left at seven?
+E: The stress on "seven" corrects a wrong time.
+
+Q: In "My father drives a TAXI", which question is answered?
+A: Does your father drive a bus?
+W: Does your mother drive a taxi?
+W: Does your father ride a taxi?
+W: Whose father drives a taxi?
+E: Stressing "taxi" contrasts it with another vehicle.
+
+Q: In "We are travelling to Kano TOMORROW", which question is answered?
+A: Are you travelling to Kano today?
+W: Are you travelling to Kaduna tomorrow?
+W: Who is travelling to Kano tomorrow?
+W: Are you flying to Kano tomorrow?
+E: Stressing "tomorrow" shows the important information is the time.
+
+@topic eng-conditionals | Conditional sentences | SS2
+
+Q: Choose the option that best completes the sentence: If it rains tomorrow, we ___ indoors.
+A: will stay
+W: would stay
+W: would have stayed
+W: stayed
+E: A real (first) conditional uses "if + present" with "will".
+
+Q: Choose the option that best completes the sentence: If I had known, I ___ you.
+A: would have told
+W: will tell
+W: would tell
+W: had told
+E: An impossible past (third) conditional uses "had + past participle" and "would have".
+
+Q: Choose the option that best completes the sentence: If water ___ to 100 °C, it boils.
+A: is heated
+W: was heated
+W: would be heated
+W: will be heated
+E: General truths (zero conditional) use the present in both clauses.
+
+Q: Choose the option that best completes the sentence: Unless you hurry, you ___ the bus.
+A: will miss
+W: would miss
+W: missed
+W: had missed
+E: "Unless" means "if not": if you do not hurry, you will miss the bus.
+
+Q: Choose the option that best completes the sentence: Had she studied harder, she ___ the exam.
+A: would have passed
+W: will pass
+W: would pass
+W: passes
+E: "Had she studied" is an inverted form of "If she had studied".
+
+Q: Choose the option that best completes the sentence: If I ___ a bird, I would fly home.
+A: were
+W: am
+W: will be
+W: be
+E: In unreal present conditions, formal English uses "were" for all persons.
+
+@topic eng-word-formation | Prefixes, suffixes and word formation | SS2
+
+Q: Which prefix gives "possible" its opposite meaning?
+A: im-
+W: un-
+W: dis-
+W: in-
+E: "Impossible". Before p, b and m, "in-" usually becomes "im-".
+
+Q: Which prefix gives "agree" its opposite meaning?
+A: dis-
+W: un-
+W: in-
+W: mis-
+E: "Disagree".
+
+Q: Which word is formed by adding a suffix to make a noun from "happy"?
+A: happiness
+W: unhappy
+W: happily
+W: happier
+E: The suffix "-ness" forms a noun; "-ly" forms an adverb.
+
+Q: What is the adjective form of "danger"?
+A: dangerous
+W: endanger
+W: dangerously
+W: dangers
+E: The suffix "-ous" forms an adjective.
+
+Q: What is the verb form of "strength"?
+A: strengthen
+W: strong
+W: strongly
+W: strengthful
+E: The suffix "-en" forms verbs such as "strengthen", "widen" and "shorten".
+
+Q: The prefix "pre-" in "prepaid" means
+A: before
+W: after
+W: against
+W: again
+E: Prepaid means paid in advance.
+
+@topic eng-sentences | Types of sentences | SS1
+
+Q: "Please close the door." What type of sentence is this?
+A: imperative (a command or request)
+W: interrogative
+W: exclamatory
+W: declarative
+E: Imperative sentences give orders, requests or instructions.
+
+Q: "What a beautiful day!" What type of sentence is this?
+A: exclamatory
+W: imperative
+W: interrogative
+W: declarative
+E: Exclamatory sentences express strong feeling and end with an exclamation mark.
+
+Q: A sentence with one main clause and at least one subordinate clause is a
+A: complex sentence
+W: simple sentence
+W: compound sentence
+W: fragment
+E: For example: "I stayed at home because I was ill."
+
+Q: "I wanted to go, but it was raining." What type of sentence is this?
+A: compound sentence
+W: simple sentence
+W: complex sentence
+W: fragment
+E: Two main clauses are joined by the coordinating conjunction "but".
+
+Q: Which of these is a simple sentence?
+A: The dog barked loudly.
+W: The dog barked because it saw a stranger.
+W: The dog barked and the cat ran.
+W: When the dog barked, we woke up.
+E: A simple sentence has only one clause.
+
+Q: "Is the library open today?" What type of sentence is this?
+A: interrogative
+W: declarative
+W: imperative
+W: exclamatory
+E: Interrogative sentences ask questions.
+
+@topic eng-tenses
+Q: Choose the option that best completes the sentence: By next year, I ___ in this school for five years.
+A: will have been
+W: have been
+W: was
+W: am being
+E: The future perfect shows a duration completed by a future time.
+
+Q: Choose the option that best completes the sentence: She ___ her homework before her mother came home.
+A: had finished
+W: has finished
+W: finishes
+W: will finish
+E: The past perfect shows the earlier of two past actions.
+
+Q: Choose the option that best completes the sentence: Water ___ at 100 °C at sea level.
+A: boils
+W: is boiling
+W: boiled
+W: has boiled
+E: Scientific facts use the simple present.
+
+@topic eng-concord
+Q: Choose the option that best completes the sentence: Mathematics ___ my best subject.
+A: is
+W: are
+W: were
+W: have been
+E: Subjects ending in "-ics" such as Mathematics and Physics take a singular verb.
+
+Q: Choose the option that best completes the sentence: A number of students ___ absent today.
+A: are
+W: is
+W: was
+W: has been
+E: "A number of" means "many" and takes a plural verb.
+
+Q: Choose the option that best completes the sentence: The committee ___ divided in their opinions.
+A: are
+W: is
+W: was
+W: has
+E: When the members act as individuals ("their opinions"), the collective noun takes a plural verb.
+
+@topic eng-prepositions
+Q: Choose the option that best completes the sentence: He has been ill ___ Monday.
+A: since
+W: for
+W: from
+W: by
+E: "Since" is used with a point in time; "for" is used with a period of time.
+
+Q: Choose the option that best completes the sentence: The thief broke ___ the house at night.
+A: into
+W: in to
+W: onto
+W: upon
+E: To "break into" a building means to enter it by force.
+
+Q: Choose the option that best completes the sentence: She is married ___ a doctor.
+A: to
+W: with
+W: by
+W: for
+E: The correct expression is "married to".
+
+Q: Choose the option that best completes the sentence: The students were asked to hand ___ their assignments.
+A: in
+W: out
+W: off
+W: down
+E: To "hand in" means to submit.

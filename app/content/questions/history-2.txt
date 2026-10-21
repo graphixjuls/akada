@@ -1,0 +1,353 @@
+@subject history
+
+@topic his-societies | Igbo, Nupe, Jukun and Tiv societies | SS1
+
+Q: The Eze Nri of the Nri kingdom in Igboland was mainly a
+A: priest-king with ritual authority
+W: military general
+W: colonial officer
+W: trans-Saharan trader
+E: Nri's influence rested on religion and ritual rather than force.
+
+Q: The Kwararafa confederacy, which raided Kano and Zaria, is associated with the
+A: Jukun
+W: Yoruba
+W: Efik
+W: Ijaw
+E: The Jukun-led Kwararafa was powerful in the Benue valley.
+
+Q: According to tradition, the Nupe kingdom was founded by
+A: Tsoede (Edegi)
+W: Oduduwa
+W: Bayajidda
+W: Oranmiyan
+E: Tsoede is said to have united the Nupe people.
+
+Q: The Tiv people of the Middle Belt were traditionally organised in
+A: a segmentary (non-centralised) lineage system
+W: a large empire under one king
+W: emirates under an Emir
+W: city-states ruled by Obas
+E: Tiv society was organised around kinship groups and elders.
+
+Q: Age grades in Igbo society were mainly used to
+A: carry out community work and maintain order
+W: collect taxes for the British
+W: choose the Emir
+W: run the trans-Saharan trade
+E: Age grades organised public works, security and social discipline.
+
+Q: According to Yoruba tradition, the ancestor of the Yoruba people is
+A: Oduduwa
+W: Bayajidda
+W: Tsoede
+W: Eri
+E: Ile-Ife is regarded as the spiritual home where Oduduwa founded the Yoruba.
+
+@topic his-delta | The Niger Delta city-states | SS2
+
+Q: The "House" system in Niger Delta states such as Bonny was mainly a
+A: trading and political organisation built around a wealthy head
+W: religious school
+W: farming cooperative
+W: colonial court
+E: Each House was run like a trading firm, with its own canoes and members.
+
+Q: Opobo was founded in 1869 by
+A: Jaja
+W: Nana Olomu
+W: King William Dappa Pepple
+W: Ovonramwen
+E: Jaja left Bonny after a power struggle and founded Opobo.
+
+Q: The Ekpe society was a powerful institution in
+A: Old Calabar (among the Efik)
+W: Kano
+W: Oyo
+W: Sokoto
+E: Ekpe enforced laws and debt payments among traders.
+
+Q: Nana Olomu was a powerful trader and governor of the river among the
+A: Itsekiri
+W: Efik
+W: Ijaw of Bonny
+W: Igala
+E: Nana was exiled by the British in 1894 after the Ebrohimi expedition.
+
+Q: Which city-states were important in the Niger Delta trade?
+A: Bonny, Brass and Kalabari
+W: Kano, Katsina and Zaria
+W: Oyo, Ife and Ilorin
+W: Bida, Lokoja and Idah
+E: These coastal states acted as middlemen between the interior and European traders.
+
+Q: The Niger Delta was known in the 19th century as the "Oil Rivers" because of
+A: the trade in palm oil
+W: crude oil wells
+W: kerosene factories
+W: oil spills
+E: Palm oil was the main export after the slave trade ended.
+
+@topic his-colonial-economy | The colonial economy | SS2
+
+Q: The main aim of the colonial economy in Nigeria was to
+A: supply raw materials to Britain and buy British goods
+W: build heavy industries in Nigeria
+W: end all trade with Europe
+W: make Nigeria self-sufficient in machinery
+E: Nigeria exported cash crops and minerals and imported manufactured goods.
+
+Q: The Lagos–Ibadan railway was completed in
+A: 1901
+W: 1960
+W: 1850
+W: 1945
+E: Railways were built mainly to carry exports to the coast.
+
+Q: The West African Currency Board was set up in
+A: 1912
+W: 1960
+W: 1973
+W: 1885
+E: It issued the West African pound used across British West Africa.
+
+Q: Nigeria changed its currency from the pound to the naira in
+A: 1973
+W: 1960
+W: 1914
+W: 1999
+E: The naira and kobo were introduced on 1 January 1973.
+
+Q: The famous groundnut pyramids were found in
+A: Kano
+W: Lagos
+W: Enugu
+W: Calabar
+E: Groundnuts awaiting export were stacked in pyramids in Kano.
+
+Q: Which cash crop was mainly produced in the Western Region during the colonial period?
+A: cocoa
+W: groundnut
+W: cotton
+W: rubber
+E: Cocoa farming made the Western Region prosperous.
+
+@topic his-wars | Nigeria and the World Wars | SS2
+
+Q: The military force formed in 1900 to serve in British West Africa was the
+A: West African Frontier Force
+W: Nigerian Navy
+W: ECOMOG
+W: Royal Niger Company Police
+E: It later became the Royal West African Frontier Force.
+
+Q: During the Second World War, Nigerian soldiers fought notably in
+A: Burma (Myanmar)
+W: Brazil
+W: Japan's home islands
+W: Australia
+E: Nigerian troops served in East Africa and in the Burma campaign.
+
+Q: During the First World War, Nigerian troops fought against German forces in
+A: Cameroon
+W: Ghana
+W: Egypt
+W: South Africa
+E: Cameroon was then a German colony bordering Nigeria.
+
+Q: One effect of the Second World War on Nigeria was
+A: a rise in nationalist demands for self-government
+W: the end of all trade
+W: the return of the slave trade
+W: the creation of the Sokoto Caliphate
+E: Returning soldiers and the Atlantic Charter encouraged demands for freedom.
+
+Q: The Atlantic Charter (1941) encouraged nationalists because it spoke of
+A: the right of peoples to choose their own government
+W: the end of all wars forever
+W: free cocoa for Britain
+W: building railways in Africa
+E: Nationalists argued the principle should apply to colonies too.
+
+Q: Ex-servicemen who returned from the Second World War often
+A: joined nationalist movements
+W: became colonial governors
+W: stopped all political activity
+W: moved permanently to Europe
+E: Their experiences abroad made many question colonial rule.
+
+@topic his-africa | Decolonisation in Africa | SS3
+
+Q: Which was the first country in sub-Saharan Africa to gain independence from Britain?
+A: Ghana (1957)
+W: Nigeria (1960)
+W: Kenya (1963)
+W: Zambia (1964)
+E: Ghana, formerly the Gold Coast, became independent on 6 March 1957.
+
+Q: Who led Ghana to independence?
+A: Kwame Nkrumah
+W: Jomo Kenyatta
+W: Julius Nyerere
+W: Nelson Mandela
+E: Nkrumah became Ghana's first prime minister and later president.
+
+Q: Apartheid was a policy of racial segregation in
+A: South Africa
+W: Nigeria
+W: Ghana
+W: Egypt
+E: Apartheid was enforced from 1948 until the early 1990s.
+
+Q: Nelson Mandela became the first black president of South Africa in
+A: 1994
+W: 1960
+W: 1976
+W: 2004
+E: He was released from prison in 1990 and elected in 1994.
+
+Q: The Mau Mau uprising against colonial rule took place in
+A: Kenya
+W: Nigeria
+W: Senegal
+W: Ghana
+E: The uprising in the 1950s was a key event on Kenya's road to independence in 1963.
+
+Q: Because of its support for the liberation of southern Africa, Nigeria was regarded as
+A: an honorary "frontline state" in the struggle against apartheid
+W: a colonial power
+W: a member of the Warsaw Pact
+W: a neutral observer
+E: Nigeria gave money and diplomatic support to liberation movements.
+
+@topic his-military-rule | Military regimes in Nigeria | SS3
+
+Q: General Murtala Mohammed came to power in
+A: July 1975
+W: January 1966
+W: December 1983
+W: August 1985
+E: He replaced General Gowon in a bloodless coup on 29 July 1975.
+
+Q: Who succeeded General Murtala Mohammed after his assassination in 1976?
+A: General Olusegun Obasanjo
+W: General Yakubu Gowon
+W: General Ibrahim Babangida
+W: General Sani Abacha
+E: Obasanjo, his deputy, became head of state.
+
+Q: General Ibrahim Babangida came to power in
+A: August 1985
+W: July 1975
+W: December 1983
+W: November 1993
+E: He replaced General Buhari on 27 August 1985.
+
+Q: The Interim National Government of 1993 was headed by
+A: Chief Ernest Shonekan
+W: Chief M. K. O. Abiola
+W: General Sani Abacha
+W: Alhaji Shehu Shagari
+E: It lasted from August to November 1993, when Abacha took over.
+
+Q: Which military head of state handed over to a civilian government in May 1999?
+A: General Abdulsalami Abubakar
+W: General Sani Abacha
+W: General Ibrahim Babangida
+W: General Muhammadu Buhari
+E: Abdulsalami Abubakar organised the transition to the Fourth Republic.
+
+Q: Nigeria's 36-state structure was created in
+A: 1996
+W: 1967
+W: 1976
+W: 1987
+E: Nigeria went from 12 states (1967) to 19 (1976), 21 (1987), 30 (1991) and 36 (1996).
+
+@topic his-modern | Social and cultural history since 1945 | SS3
+
+Q: Nigeria's first university institution, University College Ibadan, was founded in
+A: 1948
+W: 1960
+W: 1914
+W: 1975
+E: It became the University of Ibadan in 1962.
+
+Q: The first television station in Africa, WNTV, began broadcasting in 1959 from
+A: Ibadan
+W: Lagos
+W: Kaduna
+W: Enugu
+E: It was set up by the Western Region government.
+
+Q: FESTAC '77, the World Black and African Festival of Arts and Culture, was held in
+A: Lagos
+W: Accra
+W: Dakar
+W: Abuja
+E: The festival celebrated African culture from around the world.
+
+Q: The National Youth Service Corps (NYSC) was established in
+A: 1973
+W: 1960
+W: 1999
+W: 1914
+E: It was created after the Civil War to promote national unity.
+
+Q: Nigeria became a member of the United Nations in
+A: 1960
+W: 1945
+W: 1963
+W: 1975
+E: Nigeria joined the UN on 7 October 1960, a week after independence.
+
+Q: The oil boom of the 1970s led to
+A: a large increase in government revenue
+W: the end of oil production
+W: the abolition of states
+W: the return of colonial rule
+E: High oil prices brought huge revenues but also over-dependence on oil.
+
+@topic his-states
+Q: The Hausa Bakwai were
+A: the seven original Hausa states
+W: seven Yoruba kings
+W: seven Igbo villages
+W: seven Niger Delta houses
+E: They were Daura, Kano, Katsina, Zazzau, Gobir, Rano and Biram.
+
+Q: The capital of Bornu under the Saifawa was
+A: Ngazargamu
+W: Kano
+W: Sokoto
+W: Ile-Ife
+E: Ngazargamu was founded in the late 15th century.
+
+Q: The Oyo Empire declined in the 19th century partly because of
+A: internal conflicts and the revolt of Ilorin
+W: the arrival of the railway
+W: the discovery of oil
+W: the Second World War
+E: Afonja's revolt and Fulani pressure weakened Oyo, and Old Oyo was abandoned in the 1830s.
+
+Q: Benin bronzes were mainly made by the
+A: guild of brass-casters (Igun Eronmwon)
+W: European traders
+W: Hausa merchants
+W: colonial schools
+E: Benin's royal brass-casters worked for the Oba.
+
+@topic his-trade
+Q: Which trade route linked West Africa to North Africa before European contact?
+A: the trans-Saharan trade routes
+W: the Atlantic slave route
+W: the Suez Canal
+W: the Silk Road through China
+E: Caravans crossed the Sahara for centuries.
+
+Q: Timbuktu was famous in the trans-Saharan trade as a
+A: centre of trade and Islamic learning
+W: European fort
+W: tin mine
+W: cocoa farm
+E: Timbuktu had famous mosques and libraries.

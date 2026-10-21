@@ -1,0 +1,265 @@
+@subject computer
+
+@topic cmp-storage | Storage devices and memory | SS1
+
+Q: Which storage device has no moving parts and is commonly used in modern laptops?
+A: solid-state drive (SSD)
+W: floppy disk
+W: magnetic tape
+W: hard disk with platters
+E: SSDs use flash memory, which is fast and robust.
+
+Q: Which of these is an optical storage medium?
+A: DVD
+W: flash drive
+W: hard disk
+W: RAM
+E: CDs, DVDs and Blu-ray discs are read with a laser.
+
+Q: Memory that holds the instructions needed to start the computer and cannot easily be changed is
+A: ROM
+W: RAM
+W: cache
+W: virtual memory
+E: ROM is non-volatile read-only memory.
+
+Q: Which is the smallest unit of data?
+A: bit
+W: byte
+W: kilobyte
+W: nibble
+E: A bit is a single 0 or 1. A nibble is 4 bits.
+
+Q: How many megabytes are in one gigabyte (in the binary system)?
+A: 1024
+W: 1000
+W: 100
+W: 8
+E: 1 GB = 1024 MB.
+
+Q: Very fast memory close to the CPU that holds frequently used data is
+A: cache memory
+W: hard disk
+W: optical disk
+W: magnetic tape
+E: Cache speeds up processing.
+
+@topic cmp-os | Operating systems | SS2
+
+Q: Which is a function of an operating system?
+A: managing memory and files
+W: typing letters
+W: browsing the internet
+W: playing music
+E: The OS manages hardware, memory, files and running programs.
+
+Q: An operating system with a graphical user interface (GUI) lets users
+A: use icons, windows and a pointer
+W: type commands
+W: use only punched cards
+W: avoid using a screen
+E: Windows, macOS and Android use GUIs.
+
+Q: Which of these is a mobile operating system?
+A: Android
+W: Microsoft Word
+W: Excel
+W: Photoshop
+E: Android and iOS are mobile operating systems.
+
+Q: The process of starting up a computer is called
+A: booting
+W: formatting
+W: compiling
+W: scanning
+E: A cold boot starts from power off; a warm boot restarts a running computer.
+
+Q: Running more than one program at the same time is called
+A: multitasking
+W: booting
+W: formatting
+W: debugging
+E: The OS shares CPU time between programs.
+
+Q: A small program that lets the operating system communicate with a device such as a printer is a
+A: device driver
+W: virus
+W: spreadsheet
+W: browser
+E: Each hardware device needs a driver.
+
+@topic cmp-data-processing | Data processing and information | SS2
+
+Q: The correct order of the data processing cycle is
+A: input, processing, output, storage
+W: output, input, storage, processing
+W: storage, output, processing, input
+W: processing, input, output, storage
+E: Data is collected and entered, processed, presented and stored.
+
+Q: Checking that data is reasonable and within allowed limits before processing is
+A: validation
+W: verification
+W: compilation
+W: encryption
+E: For example, a range check rejects an age of 250.
+
+Q: Checking that data has been copied correctly, such as by double entry, is
+A: verification
+W: validation
+W: compression
+W: formatting
+E: Verification compares the input with the original.
+
+Q: Converting data into a code so that unauthorised people cannot read it is
+A: encryption
+W: compression
+W: validation
+W: backup
+E: Encryption protects data in storage and during transmission.
+
+Q: GIGO stands for
+A: garbage in, garbage out
+W: good input, good output
+W: general input, general output
+W: giga input, giga output
+E: Wrong input data produces wrong results.
+
+Q: Which method of data collection reads marks made on special forms?
+A: optical mark reader (OMR)
+W: keyboard entry
+W: microphone
+W: plotter
+E: OMR is used for multiple-choice exam answer sheets.
+
+@topic cmp-internet-services | Email and internet services | SS3
+
+Q: In the email address student@example.com, "example.com" is the
+A: domain name
+W: username
+W: password
+W: subject
+E: The part after @ identifies the mail server's domain.
+
+Q: Sending a copy of an email to someone without other recipients knowing is
+A: Bcc (blind carbon copy)
+W: Cc
+W: Forward
+W: Reply all
+E: Bcc recipients are hidden from others.
+
+Q: A program used to find information on the web, such as Google, is a
+A: search engine
+W: web server
+W: compiler
+W: operating system
+E: Search engines index web pages.
+
+Q: Which protocol secures websites, shown by a padlock in the browser?
+A: HTTPS
+W: FTP
+W: SMTP
+W: HTTP
+E: HTTPS encrypts data between your browser and the website.
+
+Q: Storing files on servers accessed over the internet is called
+A: cloud storage
+W: local storage
+W: cache memory
+W: ROM
+E: Google Drive and OneDrive are examples.
+
+Q: Downloading means
+A: copying data from the internet to your device
+W: sending a file from your device to a server
+W: deleting a file
+W: printing a file
+E: Uploading is sending data from your device to the internet.
+
+@topic cmp-careers | ICT careers and the digital economy | SS3
+
+Q: A person who writes computer programs is a
+A: programmer (software developer)
+W: data entry clerk
+W: hardware technician
+W: typist
+E: Programmers design, write and test software.
+
+Q: A person who manages a network and keeps it running is a
+A: network administrator
+W: graphic designer
+W: copy typist
+W: web user
+E: They set up and maintain networks and user accounts.
+
+Q: Which ICT job focuses on protecting systems from attacks?
+A: cybersecurity analyst
+W: data entry clerk
+W: hardware salesperson
+W: computer instructor
+E: Cybersecurity specialists defend against hackers and malware.
+
+Q: Using computers and networks to commit fraud is called
+A: cybercrime
+W: e-learning
+W: telemedicine
+W: e-commerce
+E: Nigeria's Cybercrimes Act of 2015 makes such acts offences.
+
+Q: Learning through online courses and digital materials is called
+A: e-learning
+W: e-banking
+W: e-commerce
+W: e-government
+E: E-learning allows study at any time and place.
+
+Q: Artificial intelligence (AI) refers to
+A: computer systems that perform tasks that normally need human intelligence
+W: a type of printer
+W: a storage device
+W: an input device
+E: Examples include speech recognition and translation.
+
+@topic cmp-hardware
+Q: Which device converts printed documents into digital images?
+A: scanner
+W: printer
+W: speaker
+W: projector
+E: Scanners capture images of documents and photos.
+
+Q: Which port is commonly used to connect flash drives?
+A: USB
+W: VGA
+W: HDMI only for video
+W: audio jack
+E: USB stands for Universal Serial Bus.
+
+Q: An uninterruptible power supply (UPS) is used to
+A: keep the computer running briefly during a power failure
+W: increase the speed of the CPU
+W: print documents
+W: store files permanently
+E: A UPS gives time to save work and shut down safely.
+
+@topic cmp-programming
+Q: A named storage location whose value can change while a program runs is a
+A: variable
+W: constant
+W: loop
+W: comment
+E: For example, score = score + 1.
+
+Q: A programming language close to human language, such as Python, is a
+A: high-level language
+W: machine language
+W: assembly language
+W: binary code
+E: High-level languages must be translated into machine code.
+
+Q: Finding and correcting errors in a program is called
+A: debugging
+W: compiling
+W: booting
+W: formatting
+E: The term comes from removing "bugs".

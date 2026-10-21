@@ -1,0 +1,353 @@
+@subject literature
+
+@topic lit-intro | Introduction to literature | SS1
+
+Q: The three main genres of literature are
+A: prose, drama and poetry
+W: novel, short story and essay
+W: comedy, tragedy and farce
+W: myth, legend and folktale
+E: Literature is usually grouped into prose, drama and poetry.
+
+Q: Which of these is a feature of oral literature?
+A: it is passed down by word of mouth
+W: it is always written in books
+W: it has no audience
+W: it is written only in English
+E: Oral literature includes folktales, proverbs and praise songs passed on by speaking.
+
+Q: A short story that teaches a moral, often using animals as characters, is a
+A: fable
+W: epic
+W: sonnet
+W: biography
+E: Fables, such as tortoise stories, use animals to teach lessons.
+
+Q: A story about the origin of the world or of a people, often involving gods, is a
+A: myth
+W: fable
+W: limerick
+W: farce
+E: Myths explain origins and natural events through gods and supernatural beings.
+
+Q: The account of a person's life written by that same person is
+A: an autobiography
+W: a biography
+W: a novel
+W: an elegy
+E: "Auto" means self. A biography is written by someone else.
+
+Q: Literature is best described as
+A: imaginative writing that reflects human experience
+W: any printed document
+W: scientific reports
+W: newspaper advertisements
+E: Literature uses imagination and language to explore human life and feelings.
+
+@topic lit-prose | Elements of prose | SS1
+
+Q: The sequence of events in a story is called the
+A: plot
+W: setting
+W: theme
+W: tone
+E: The plot is the arrangement of events from beginning to end.
+
+Q: The time and place in which a story happens is the
+A: setting
+W: plot
+W: conflict
+W: climax
+E: Setting includes the physical location, the period and the social background.
+
+Q: The main character in a story is the
+A: protagonist
+W: antagonist
+W: foil
+W: chorus
+E: The protagonist is the central character; the antagonist opposes them.
+
+Q: The central idea or message of a literary work is its
+A: theme
+W: plot
+W: setting
+W: diction
+E: Themes are ideas such as love, betrayal, corruption or the clash of cultures.
+
+Q: A story told using "I" by a character in it is told from the
+A: first-person point of view
+W: third-person point of view
+W: omniscient point of view
+W: second-person point of view
+E: A first-person narrator takes part in the story and uses "I".
+
+Q: The turning point of greatest tension in a story is the
+A: climax
+W: exposition
+W: resolution
+W: prologue
+E: The climax is the high point of the conflict, after which events move towards resolution.
+
+@topic lit-drama | Elements of drama | SS1
+
+Q: A play that ends sadly, usually with the downfall of the main character, is a
+A: tragedy
+W: comedy
+W: farce
+W: melodrama
+E: Tragedies, such as Shakespeare's "Macbeth", end in suffering or death.
+
+Q: The flaw in a tragic hero's character that leads to their downfall is called
+A: hamartia (tragic flaw)
+W: catharsis
+W: soliloquy
+W: denouement
+E: For example, Macbeth's ambition leads to his fall.
+
+Q: A speech in which a character alone on stage reveals their thoughts is a
+A: soliloquy
+W: dialogue
+W: aside
+W: chorus
+E: Hamlet's "To be or not to be" is a famous soliloquy.
+
+Q: A remark made by a character to the audience that other characters on stage are not meant to hear is
+A: an aside
+W: a soliloquy
+W: a dialogue
+W: a prologue
+E: An aside lets the audience know a character's private thoughts.
+
+Q: The written instructions in a play telling actors how to move or speak are
+A: stage directions
+W: dialogue
+W: the cast list
+W: the epilogue
+E: Stage directions are usually printed in italics or brackets.
+
+Q: A light, humorous play with a happy ending is a
+A: comedy
+W: tragedy
+W: elegy
+W: epic
+E: Comedies entertain and usually end happily, often with marriages or reconciliations.
+
+@topic lit-poetry | Poetry | SS2
+
+Q: A poem of fourteen lines is called a
+A: sonnet
+W: haiku
+W: limerick
+W: ballad
+E: Sonnets have 14 lines, often in iambic pentameter.
+
+Q: A poem written to mourn the dead is
+A: an elegy
+W: an ode
+W: a ballad
+W: an epic
+E: An elegy is a sad, reflective poem for someone who has died.
+
+Q: A group of lines forming a unit in a poem is a
+A: stanza
+W: paragraph
+W: chapter
+W: scene
+E: A stanza is to a poem what a paragraph is to prose.
+
+Q: Two consecutive lines of poetry that rhyme are called a
+A: couplet
+W: quatrain
+W: tercet
+W: sestet
+E: A couplet is two lines, often rhyming. A quatrain has four lines.
+
+Q: Poetry with no regular rhyme or metre is called
+A: free verse
+W: blank verse
+W: a sonnet
+W: a ballad
+E: Free verse follows the rhythms of natural speech.
+
+Q: Unrhymed lines written in iambic pentameter are called
+A: blank verse
+W: free verse
+W: a couplet
+W: a refrain
+E: Shakespeare wrote much of his drama in blank verse.
+
+@topic lit-devices | Literary devices | SS2
+
+Q: A contradictory phrase such as "deafening silence" is an example of
+A: oxymoron
+W: hyperbole
+W: simile
+W: litotes
+E: An oxymoron joins two opposite ideas.
+
+Q: When the audience knows something that a character does not, this is
+A: dramatic irony
+W: verbal irony
+W: satire
+W: suspense
+E: Dramatic irony creates tension because the audience can see what is coming.
+
+Q: Hints in a story about what will happen later are called
+A: foreshadowing
+W: flashback
+W: climax
+W: digression
+E: Foreshadowing prepares the reader for later events.
+
+Q: A scene that interrupts the story to show events from the past is a
+A: flashback
+W: foreshadowing
+W: prologue
+W: aside
+E: Flashbacks give background information about characters or events.
+
+Q: Writing that uses humour to criticise the follies of society is
+A: satire
+W: elegy
+W: tragedy
+W: lyric
+E: Satire mocks people or institutions to encourage change.
+
+Q: The repetition of vowel sounds in nearby words, as in "the rain in Spain", is
+A: assonance
+W: alliteration
+W: consonance
+W: onomatopoeia
+E: Assonance repeats vowel sounds; alliteration repeats initial consonant sounds.
+
+@topic lit-african | African literature | SS3
+
+Q: Who wrote the novel "Things Fall Apart" (1958)?
+A: Chinua Achebe
+W: Wole Soyinka
+W: Cyprian Ekwensi
+W: Ngũgĩ wa Thiong'o
+E: Achebe's novel tells the story of Okonkwo and the coming of colonial rule to Igboland.
+
+Q: Who was the first African to win the Nobel Prize in Literature?
+A: Wole Soyinka
+W: Chinua Achebe
+W: Ngũgĩ wa Thiong'o
+W: Chimamanda Ngozi Adichie
+E: Soyinka won the Nobel Prize in Literature in 1986.
+
+Q: In "Things Fall Apart", Okonkwo's greatest fear is
+A: being seen as weak like his father, Unoka
+W: losing his farm to the white men
+W: travelling to Umuofia
+W: becoming a priest
+E: Okonkwo's fear of weakness drives many of his harsh actions.
+
+Q: Which Nigerian playwright wrote "The Gods Are Not to Blame"?
+A: Ola Rotimi
+W: Wole Soyinka
+W: J. P. Clark
+W: Femi Osofisan
+E: Ola Rotimi's play is an adaptation of Sophocles' "Oedipus Rex".
+
+Q: Négritude was a literary movement that
+A: celebrated African identity and culture
+W: praised colonial rule
+W: rejected all poetry
+W: was led by European writers
+E: Writers such as Léopold Senghor promoted pride in African heritage.
+
+Q: The title "Things Fall Apart" is taken from a poem by
+A: W. B. Yeats
+W: William Shakespeare
+W: John Keats
+W: Gabriel Okara
+E: The line comes from Yeats's poem "The Second Coming".
+
+@topic lit-shakespeare | Shakespeare and classic drama | SS3
+
+Q: In Shakespeare's "Macbeth", who persuades Macbeth to murder King Duncan?
+A: Lady Macbeth
+W: Banquo
+W: Macduff
+W: Malcolm
+E: Lady Macbeth questions Macbeth's courage and pushes him to kill Duncan.
+
+Q: In "Macbeth", the witches' prophecy first tells Macbeth that he will become
+A: Thane of Cawdor and king
+W: a soldier
+W: king of England
+W: a priest
+E: The witches hail him as Thane of Glamis, Thane of Cawdor and future king.
+
+Q: Shakespeare's "Romeo and Juliet" is best described as a
+A: tragedy
+W: comedy
+W: history play
+W: farce
+E: The young lovers both die at the end.
+
+Q: In "Julius Caesar", who says "Et tu, Brute?"
+A: Julius Caesar
+W: Brutus
+W: Mark Antony
+W: Cassius
+E: Caesar says it as he sees his friend Brutus among his attackers.
+
+Q: Shakespeare's plays were mainly written during the reign of
+A: Queen Elizabeth I and King James I
+W: Queen Victoria
+W: King Henry VIII
+W: King George III
+E: Shakespeare wrote between about 1590 and 1613.
+
+Q: Shakespeare's "Othello" is the story of
+A: a general destroyed by jealousy stirred up by Iago
+W: two young lovers from rival families
+W: a prince who avenges his father
+W: a Scottish king who loses his throne
+E: Iago deceives Othello into believing that Desdemona is unfaithful.
+
+@topic lit-appreciation | Literary appreciation | SS3
+
+Q: The attitude of a writer towards the subject is the
+A: tone
+W: mood
+W: plot
+W: setting
+E: Tone may be angry, humorous, bitter, sympathetic and so on.
+
+Q: The feeling that a work creates in the reader is the
+A: mood
+W: tone
+W: theme
+W: diction
+E: Mood is the atmosphere the reader experiences.
+
+Q: A writer's choice of words is called
+A: diction
+W: imagery
+W: rhythm
+W: plot
+E: Diction can be formal, informal, simple or elevated.
+
+Q: Language that appeals to the senses is called
+A: imagery
+W: diction
+W: rhyme
+W: dialogue
+E: Imagery helps the reader see, hear, smell, taste or feel what is described.
+
+Q: A character who changes and develops during a story is a
+A: round (dynamic) character
+W: flat character
+W: stock character
+W: minor character
+E: Round characters are complex and grow; flat characters stay the same.
+
+Q: The use of an object or person to stand for an idea is
+A: symbolism
+W: alliteration
+W: hyperbole
+W: rhyme
+E: For example, a dove may symbolise peace.

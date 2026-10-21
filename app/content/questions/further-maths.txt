@@ -1,0 +1,441 @@
+@subject further-maths
+
+@topic fmt-functions | Functions and mappings | SS1
+
+Q: If f(x) = 2x + 3, find f(4).
+A: 11
+W: 14
+W: 8
+W: 9
+E: f(4) = 2(4) + 3 = 11.
+
+Q: If f(x) = x² and g(x) = x + 1, find f(g(2)).
+A: 9
+W: 5
+W: 4
+W: 7
+E: g(2) = 3, and f(3) = 9. (g(f(2)) would be 5.)
+
+Q: Find the inverse of f(x) = 3x − 2.
+A: f⁻¹(x) = (x + 2)/3
+W: f⁻¹(x) = (x − 2)/3
+W: f⁻¹(x) = 3x + 2
+W: f⁻¹(x) = 1/(3x − 2)
+E: Let y = 3x − 2. Then x = (y + 2)/3, so f⁻¹(x) = (x + 2)/3.
+
+Q: For what value of x is f(x) = 1/(x − 3) undefined?
+A: x = 3
+W: x = 0
+W: x = −3
+W: x = 1
+E: Division by zero is undefined, and x − 3 = 0 when x = 3.
+
+Q: A function that is both one-to-one and onto is called
+A: bijective
+W: injective only
+W: surjective only
+W: constant
+E: A bijection pairs every element of the domain with exactly one element of the codomain, and vice versa.
+
+Q: f(x) = x² − 1 has domain {−1, 0, 1}. Find its range.
+A: {−1, 0}
+W: {0, 1}
+W: {−1, 0, 1}
+W: {−2, −1, 0}
+E: f(−1) = 0, f(0) = −1 and f(1) = 0, so the range is {−1, 0}.
+
+@topic fmt-logic | Logical reasoning | SS1
+
+Q: What is the negation of "It is raining"?
+A: It is not raining.
+W: It is sunny.
+W: It will rain.
+W: It rained yesterday.
+E: The negation simply denies the statement.
+
+Q: The implication p ⇒ q is false only when
+A: p is true and q is false
+W: p is false and q is true
+W: both p and q are false
+W: both p and q are true
+E: A true condition leading to a false result breaks the implication.
+
+Q: What is the contrapositive of "If it rains, the ground is wet"?
+A: If the ground is not wet, then it did not rain.
+W: If the ground is wet, then it rained.
+W: If it does not rain, the ground is not wet.
+W: It rains and the ground is not wet.
+E: The contrapositive of p ⇒ q is ~q ⇒ ~p. It is equivalent to the original statement.
+
+Q: The conjunction p ∧ q is true when
+A: both p and q are true
+W: either p or q is true
+W: neither p nor q is true
+W: only p is true
+E: "And" requires both parts to be true.
+
+Q: What is the converse of "If a figure is a square, then it is a rectangle"?
+A: If a figure is a rectangle, then it is a square.
+W: If a figure is not a rectangle, then it is not a square.
+W: If a figure is not a square, then it is not a rectangle.
+W: A figure is a square and not a rectangle.
+E: The converse of p ⇒ q is q ⇒ p. Here the converse is false even though the statement is true.
+
+Q: The disjunction p ∨ q is false when
+A: both p and q are false
+W: both p and q are true
+W: only p is true
+W: only q is true
+E: "Or" is true if at least one part is true.
+
+@topic fmt-polynomials | Polynomials | SS1
+
+Q: Find the remainder when x³ − 2x + 5 is divided by x − 1.
+A: 4
+W: 6
+W: 2
+W: 8
+E: By the remainder theorem, the remainder is f(1) = 1 − 2 + 5 = 4.
+
+Q: If x − 2 is a factor of x² + kx − 6, find k.
+A: 1
+W: −1
+W: 2
+W: 3
+E: f(2) = 0, so 4 + 2k − 6 = 0, giving k = 1.
+
+Q: Find the remainder when x² + 3x + 1 is divided by x + 2.
+A: −1
+W: 11
+W: 1
+W: −3
+E: f(−2) = 4 − 6 + 1 = −1.
+
+Q: Factorise x³ − 8.
+A: (x − 2)(x² + 2x + 4)
+W: (x − 2)(x² − 2x + 4)
+W: (x + 2)(x² − 2x + 4)
+W: (x − 2)³
+E: This is a difference of two cubes: a³ − b³ = (a − b)(a² + ab + b²).
+
+Q: Find the sum of the roots of x³ − 6x² + 11x − 6 = 0.
+A: 6
+W: −6
+W: 11
+W: −11
+E: For ax³ + bx² + cx + d = 0, the sum of roots is −b/a = 6.
+
+Q: What is the degree of the polynomial 4x⁵ − 3x² + 7?
+A: 5
+W: 4
+W: 7
+W: 2
+E: The degree is the highest power of x.
+
+@topic fmt-binomial | Binomial expansion | SS2
+
+Q: Find the coefficient of x² in the expansion of (1 + x)⁵.
+A: 10
+W: 5
+W: 20
+W: 25
+E: The coefficient is ⁵C₂ = 10.
+
+Q: How many terms are in the expansion of (a + b)⁶?
+A: 7
+W: 6
+W: 5
+W: 12
+E: (a + b)ⁿ has n + 1 terms.
+
+Q: Find the coefficient of x in the expansion of (2 + x)³.
+A: 12
+W: 6
+W: 8
+W: 3
+E: (2 + x)³ = 8 + 12x + 6x² + x³.
+
+Q: Evaluate ⁶C₂.
+A: 15
+W: 30
+W: 12
+W: 36
+E: ⁶C₂ = 6!/(2! × 4!) = 30/2 = 15.
+
+Q: Find the middle term in the expansion of (x + y)⁴.
+A: 6x²y²
+W: 4x²y²
+W: 6xy
+W: 4x³y
+E: The third of five terms is ⁴C₂x²y² = 6x²y².
+
+Q: Find the term independent of x in the expansion of (x + 1/x)⁴.
+A: 6
+W: 4
+W: 1
+W: 0
+E: The term ⁴C₂x²(1/x)² = 6 has no x.
+
+@topic fmt-permutations | Permutations and combinations | SS2
+
+Q: Evaluate 5!.
+A: 120
+W: 25
+W: 60
+W: 20
+E: 5! = 5 × 4 × 3 × 2 × 1 = 120.
+
+Q: In how many ways can the letters of the word KANO be arranged?
+A: 24
+W: 12
+W: 16
+W: 4
+E: There are 4 different letters, so 4! = 24 arrangements.
+
+Q: Evaluate ⁵P₂.
+A: 20
+W: 10
+W: 25
+W: 7
+E: ⁵P₂ = 5 × 4 = 20.
+
+Q: In how many ways can a committee of 3 be chosen from 7 people?
+A: 35
+W: 210
+W: 21
+W: 42
+E: Order does not matter, so ⁷C₃ = 35.
+
+Q: In how many ways can the letters of the word ABUJA be arranged?
+A: 60
+W: 120
+W: 24
+W: 30
+E: A appears twice, so the number of arrangements is 5!/2! = 60.
+
+Q: How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 if no digit is repeated?
+A: 60
+W: 125
+W: 10
+W: 15
+E: 5 × 4 × 3 = 60.
+
+@topic fmt-statistics | Variance and standard deviation | SS2
+
+Q: Find the variance of 2, 4, 6 and 8.
+A: 5
+W: 20
+W: √5
+W: 4
+E: The mean is 5. The squared deviations are 9, 1, 1, 9, which add up to 20. Variance = 20 ÷ 4 = 5.
+
+Q: Find the standard deviation of 2, 4, 6 and 8.
+A: √5
+W: 5
+W: 20
+W: 2
+E: Standard deviation is the square root of the variance, √5.
+
+Q: If 10 is added to every value in a data set, the standard deviation
+A: stays the same
+W: increases by 10
+W: doubles
+W: decreases by 10
+E: Adding a constant shifts all values but does not change their spread.
+
+Q: If every value in a data set is multiplied by 3, the variance is multiplied by
+A: 9
+W: 3
+W: 6
+W: 1
+E: Variance is multiplied by the square of the factor: 3² = 9.
+
+Q: Which measure is the square root of the variance?
+A: standard deviation
+W: mean deviation
+W: range
+W: median
+E: Standard deviation is in the same units as the data.
+
+Q: Find the variance of 1, 2, 3, 4 and 5.
+A: 2
+W: 3
+W: 10
+W: √2
+E: The mean is 3. The squared deviations are 4, 1, 0, 1, 4, which add up to 10. Variance = 10 ÷ 5 = 2.
+
+@topic fmt-vectors | Vectors | SS2
+
+Q: Find the magnitude of the vector 3i + 4j.
+A: 5
+W: 7
+W: 25
+W: 1
+E: |3i + 4j| = √(3² + 4²) = 5.
+
+Q: If a = 2i + j and b = i − 3j, find a + b.
+A: 3i − 2j
+W: 3i + 4j
+W: i + 4j
+W: 2i − 3j
+E: Add the i parts and the j parts separately: (2 + 1)i + (1 − 3)j.
+
+Q: Find the scalar (dot) product of 2i + 3j and 4i − j.
+A: 5
+W: 11
+W: −5
+W: 8
+E: (2 × 4) + (3 × −1) = 8 − 3 = 5.
+
+Q: Two non-zero vectors are perpendicular if their scalar product is
+A: 0
+W: 1
+W: −1
+W: equal to the product of their magnitudes
+E: a·b = |a||b| cos 90° = 0.
+
+Q: Find the unit vector in the direction of 3i + 4j.
+A: (3i + 4j)/5
+W: 3i + 4j
+W: (4i + 3j)/5
+W: (3i − 4j)/5
+E: Divide the vector by its magnitude, 5.
+
+Q: The vector 2i + kj is parallel to 4i + 6j. Find k.
+A: 3
+W: 6
+W: 4
+W: 12
+E: Parallel vectors are multiples of each other: 4i + 6j = 2(2i + 3j), so k = 3.
+
+@topic fmt-trig | Trigonometric identities | SS3
+
+Q: Simplify sin²θ + cos²θ.
+A: 1
+W: 0
+W: tan²θ
+W: 2
+E: This is the basic Pythagorean identity.
+
+Q: Which is equal to sin 2θ?
+A: 2 sin θ cos θ
+W: 2 sin θ
+W: sin²θ − cos²θ
+W: cos²θ − sin²θ
+E: This is the double-angle formula. cos 2θ = cos²θ − sin²θ.
+
+Q: Which is equal to cos (A + B)?
+A: cos A cos B − sin A sin B
+W: cos A cos B + sin A sin B
+W: sin A cos B + cos A sin B
+W: cos A + cos B
+E: This is the compound-angle formula for cosine.
+
+Q: Find the exact value of sin 15°.
+A: (√6 − √2)/4
+W: (√6 + √2)/4
+W: 1/4
+W: √3/4
+E: sin (45° − 30°) = sin 45° cos 30° − cos 45° sin 30° = (√6 − √2)/4.
+
+Q: Solve 2 sin θ = 1 for 0° ≤ θ ≤ 180°.
+A: θ = 30° or 150°
+W: θ = 30° only
+W: θ = 60° or 120°
+W: θ = 30° or 210°
+E: sin θ = ½ gives 30°, and sine is also positive in the second quadrant: 180° − 30° = 150°.
+
+Q: Which is equal to 1 + tan²θ?
+A: sec²θ
+W: cosec²θ
+W: cot²θ
+W: 1
+E: Divide sin²θ + cos²θ = 1 by cos²θ.
+
+@topic fmt-calculus | Differentiation and integration | SS3
+
+Q: Differentiate (x² + 1)³ with respect to x.
+A: 6x(x² + 1)²
+W: 3(x² + 1)²
+W: 2x(x² + 1)²
+W: 6x(x² + 1)³
+E: By the chain rule: 3(x² + 1)² × 2x = 6x(x² + 1)².
+
+Q: Differentiate x sin x with respect to x.
+A: x cos x + sin x
+W: cos x
+W: x cos x
+W: −x sin x
+E: By the product rule: x × cos x + sin x × 1.
+
+Q: Find ∫ 3x² dx.
+A: x³ + c
+W: 6x + c
+W: 3x³ + c
+W: x³/3 + c
+E: ∫ xⁿ dx = xⁿ⁺¹/(n + 1) + c, so ∫ 3x² dx = 3 × x³/3 + c = x³ + c.
+
+Q: Evaluate the integral of 2x from x = 0 to x = 2.
+A: 4
+W: 2
+W: 8
+W: 0
+E: [x²] from 0 to 2 = 4 − 0 = 4.
+
+Q: Differentiate sin x with respect to x.
+A: cos x
+W: −cos x
+W: sin x
+W: −sin x
+E: d/dx (sin x) = cos x, while d/dx (cos x) = −sin x.
+
+Q: Find the area under y = x² between x = 0 and x = 3.
+A: 9 square units
+W: 27 square units
+W: 3 square units
+W: 6 square units
+E: ∫ x² dx from 0 to 3 = [x³/3] = 27/3 = 9.
+
+@topic fmt-mechanics | Mechanics | SS3
+
+Q: A particle moves with velocity v = 3t² m/s. Find its acceleration at t = 2 s.
+A: 12 m/s²
+W: 6 m/s²
+W: 24 m/s²
+W: 3 m/s²
+E: a = dv/dt = 6t. At t = 2, a = 12 m/s².
+
+Q: The displacement of a particle is s = t³ − 2t metres. Find its velocity at t = 1 s.
+A: 1 m/s
+W: −1 m/s
+W: 3 m/s
+W: 0 m/s
+E: v = ds/dt = 3t² − 2. At t = 1, v = 1 m/s.
+
+Q: Two forces of 5 N and 12 N act at right angles. Find the magnitude of their resultant.
+A: 13 N
+W: 17 N
+W: 7 N
+W: 60 N
+E: √(5² + 12²) = √169 = 13 N.
+
+Q: A ball is thrown vertically upwards at 20 m/s. Find the maximum height reached. (Take g = 10 m/s².)
+A: 20 m
+W: 40 m
+W: 10 m
+W: 2 m
+E: At the top v = 0, so h = u²/(2g) = 400/20 = 20 m.
+
+Q: A ball is thrown vertically upwards at 20 m/s. How long does it take to reach its highest point? (Take g = 10 m/s².)
+A: 2 s
+W: 4 s
+W: 20 s
+W: 1 s
+E: v = u − gt, so 0 = 20 − 10t and t = 2 s.
+
+Q: A force of 10 N acts at a perpendicular distance of 0.5 m from a pivot. Find its moment.
+A: 5 N m
+W: 20 N m
+W: 10.5 N m
+W: 9.5 N m
+E: Moment = force × perpendicular distance = 10 × 0.5 = 5 N m.

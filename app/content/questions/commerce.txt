@@ -1,0 +1,441 @@
+@subject commerce
+
+@topic com-intro | Introduction to commerce | SS1
+
+Q: Commerce is best defined as
+A: all activities involved in the distribution of goods and services
+W: the production of goods in factories
+W: farming and fishing
+W: the study of money
+E: Commerce covers trade and the aids to trade that get goods to consumers.
+
+Q: Which of these is an aid to trade?
+A: banking
+W: mining
+W: manufacturing
+W: farming
+E: Aids to trade include banking, insurance, transport, communication, warehousing and advertising.
+
+Q: Trade between people within the same country is
+A: home (domestic) trade
+W: foreign trade
+W: entrepôt trade
+W: barter
+E: Home trade includes both retail and wholesale trade within a country.
+
+Q: The exchange of goods for goods without using money is
+A: barter
+W: credit
+W: hire purchase
+W: retail
+E: Barter needs a double coincidence of wants.
+
+Q: Which of these is a direct service?
+A: the services of a doctor
+W: the work of a factory worker
+W: the work of a miner
+W: the work of a farmer
+E: Direct services are given personally to people, e.g. doctors, lawyers and teachers.
+
+Q: Which occupation is found in the industrial sector?
+A: manufacturing
+W: banking
+W: insurance
+W: transport
+E: Industry covers extraction, manufacturing and construction.
+
+@topic com-retail | Retail and wholesale trade | SS1
+
+Q: A retailer is a trader who
+A: sells goods in small quantities to final consumers
+W: buys directly from manufacturers in very large quantities
+W: only exports goods
+W: produces goods
+E: The retailer is the last link in the chain of distribution.
+
+Q: Which of these is a function of the wholesaler?
+A: breaking bulk
+W: making goods
+W: printing money
+W: giving loans to banks
+E: The wholesaler buys in bulk from producers and sells in smaller lots to retailers.
+
+Q: A large shop with many departments under one roof is a
+A: department store
+W: kiosk
+W: mobile shop
+W: tied shop
+E: Department stores sell many kinds of goods in separate departments.
+
+Q: Self-service shops that sell mainly food and household goods are called
+A: supermarkets
+W: kiosks
+W: hawkers
+W: mail-order houses
+E: Customers pick their own goods and pay at the checkout.
+
+Q: Hawkers are retailers who
+A: move from place to place selling goods
+W: own large supermarkets
+W: sell only by post
+W: sell only to wholesalers
+E: Hawkers carry their goods around, often on their heads or in wheelbarrows.
+
+Q: The chain of distribution normally runs from
+A: producer to wholesaler to retailer to consumer
+W: consumer to retailer to wholesaler to producer
+W: retailer to producer to consumer
+W: wholesaler to producer to consumer
+E: Goods move from producers through middlemen to consumers.
+
+@topic com-foreign-trade | Foreign trade | SS1
+
+Q: Selling goods to other countries is
+A: export trade
+W: import trade
+W: entrepôt trade
+W: home trade
+E: Exports earn foreign exchange.
+
+Q: Importing goods to re-export them to other countries is
+A: entrepôt trade
+W: import trade
+W: home trade
+W: barter
+E: Entrepôt (re-export) trade is common in ports such as Singapore.
+
+Q: The document an importer sends to an overseas supplier to order goods is an
+A: indent
+W: invoice
+W: receipt
+W: credit note
+E: An indent is an order for goods from abroad.
+
+Q: A bill of lading is a document used in
+A: sea transport of goods
+W: air transport
+W: retail trade
+W: banking
+E: It is a receipt for goods shipped and a document of title.
+
+Q: The government agency that collects import duties in Nigeria is the
+A: Nigeria Customs Service
+W: Nigerian Ports Authority
+W: Central Bank of Nigeria
+W: Nigeria Police Force
+E: The Customs Service collects duties and controls imports and exports.
+
+Q: A limit placed on the quantity of a good that can be imported is a
+A: quota
+W: tariff
+W: subsidy
+W: dividend
+E: Quotas restrict the volume of imports.
+
+@topic com-documents | Business documents | SS2
+
+Q: A document from a seller to a buyer giving details of goods sold and the amount due is an
+A: invoice
+W: enquiry
+W: order
+W: quotation
+E: The invoice tells the buyer how much to pay.
+
+Q: A document sent to a customer to correct an overcharge on an invoice is a
+A: credit note
+W: debit note
+W: receipt
+W: statement of account
+E: A credit note reduces the amount the buyer owes.
+
+Q: A document sent by a buyer to ask about prices and terms is an
+A: enquiry
+W: invoice
+W: receipt
+W: delivery note
+E: An enquiry starts the buying process.
+
+Q: A summary of transactions between a seller and a buyer over a period is a
+A: statement of account
+W: quotation
+W: invoice
+W: catalogue
+E: It shows the balance the buyer owes at the end of the period.
+
+Q: A document given as proof that payment has been made is a
+A: receipt
+W: invoice
+W: debit note
+W: order
+E: A receipt confirms payment.
+
+Q: A reduction in price given for buying in large quantities is a
+A: trade discount
+W: cash discount
+W: commission
+W: dividend
+E: Cash discount is given for prompt payment; trade discount for bulk buying or to traders.
+
+@topic com-banking | Banking | SS2
+
+Q: A cheque that can only be paid into a bank account is a
+A: crossed cheque
+W: open cheque
+W: bearer cheque
+W: stale cheque
+E: Two parallel lines across a cheque mean it must be paid into an account.
+
+Q: A cheque presented more than six months after its date is called
+A: a stale cheque
+W: a crossed cheque
+W: a post-dated cheque
+W: a dishonoured cheque
+E: Banks will not pay a stale cheque.
+
+Q: The person who writes and signs a cheque is the
+A: drawer
+W: drawee
+W: payee
+W: endorser
+E: The drawer orders the bank (drawee) to pay the payee.
+
+Q: Which payment method allows money to be sent instantly through a mobile phone or internet banking?
+A: electronic funds transfer
+W: postal order
+W: crossed cheque
+W: bill of exchange
+E: Electronic transfers move money between accounts almost immediately.
+
+Q: Allowing a current account holder to withdraw more than the balance in the account is
+A: an overdraft
+W: a fixed deposit
+W: a standing order
+W: a dividend
+E: An overdraft is a short-term loan on a current account.
+
+Q: An instruction to a bank to make regular fixed payments on a customer's behalf is a
+A: standing order
+W: overdraft
+W: bank draft
+W: cheque
+E: Standing orders are used for regular payments such as subscriptions.
+
+@topic com-insurance | Insurance | SS2
+
+Q: The principle that the insured must disclose all relevant facts is
+A: utmost good faith (uberrimae fidei)
+W: indemnity
+W: subrogation
+W: contribution
+E: Hiding important facts can make the insurance policy void.
+
+Q: The principle that the insured should be restored to the same position as before the loss is
+A: indemnity
+W: insurable interest
+W: proximate cause
+W: utmost good faith
+E: Indemnity prevents the insured from making a profit from a loss.
+
+Q: Which type of insurance is compulsory for all vehicle owners in Nigeria?
+A: third-party motor insurance
+W: life assurance
+W: fire insurance
+W: marine insurance
+E: Third-party insurance covers injury or damage to other people.
+
+Q: The amount paid regularly by the insured to the insurer is the
+A: premium
+W: claim
+W: dividend
+W: surrender value
+E: The premium is the price of insurance cover.
+
+Q: Insurance covering ships and their cargo is
+A: marine insurance
+W: fire insurance
+W: motor insurance
+W: life assurance
+E: Marine insurance covers risks at sea.
+
+Q: Which risk is NOT insurable?
+A: loss due to poor business decisions
+W: fire damage
+W: theft
+W: accident
+E: Insurers cover risks that can be calculated, not losses from ordinary business decisions.
+
+@topic com-transport | Transport and communication | SS2
+
+Q: Which mode of transport is fastest over long distances?
+A: air
+W: rail
+W: road
+W: water
+E: Air transport is fastest but expensive.
+
+Q: Pipelines are mostly used to transport
+A: liquids and gases such as oil and gas
+W: passengers
+W: livestock
+W: bulky solid goods like timber
+E: Pipelines carry oil, gas and water continuously.
+
+Q: Which mode of transport offers door-to-door service?
+A: road
+W: rail
+W: air
+W: sea
+E: Road vehicles can deliver goods directly to the buyer's door.
+
+Q: Which body manages Nigeria's seaports?
+A: Nigerian Ports Authority
+W: Nigerian Railway Corporation
+W: Federal Airports Authority of Nigeria
+W: Nigeria Customs Service
+E: The NPA manages port operations.
+
+Q: Which means of communication delivers letters and parcels?
+A: postal service (courier)
+W: radio
+W: television
+W: telephone call
+E: Postal and courier services deliver physical mail and parcels.
+
+Q: The main advantage of the internet in commerce is that it
+A: allows buying and selling at any time from anywhere
+W: makes goods heavier
+W: stops trade
+W: is only for entertainment
+E: E-commerce lets customers shop and pay online at any time.
+
+@topic com-advertising | Advertising and marketing | SS3
+
+Q: Advertising aimed at persuading consumers to buy a particular brand is
+A: competitive advertising
+W: informative advertising
+W: generic advertising
+W: public relations
+E: Competitive advertising promotes one brand over its rivals.
+
+Q: The marketing mix is often called the 4 Ps. They are
+A: product, price, place and promotion
+W: profit, people, plant and power
+W: production, packaging, price and payment
+W: planning, policy, price and profit
+E: Firms combine these four elements to market their goods.
+
+Q: Which of these is a sales promotion method?
+A: free samples
+W: taxation
+W: borrowing
+W: closing shops
+E: Free samples, discounts and competitions encourage people to buy.
+
+Q: The body that regulates advertising in Nigeria is the
+A: Advertising Regulatory Council of Nigeria (ARCON)
+W: Central Bank of Nigeria
+W: Nigeria Customs Service
+W: Corporate Affairs Commission
+E: ARCON regulates advertising practice in Nigeria.
+
+Q: A disadvantage of advertising is that it can
+A: mislead consumers
+W: inform consumers about new products
+W: increase sales
+W: create jobs
+E: Some adverts exaggerate or misrepresent products.
+
+Q: Which body protects consumers in Nigeria from unfair trade practices?
+A: Federal Competition and Consumer Protection Commission (FCCPC)
+W: Nigerian Ports Authority
+W: the Nigerian Exchange
+W: Independent National Electoral Commission
+E: The FCCPC handles consumer complaints and unfair trade practices.
+
+@topic com-business-units | Business units and finance | SS3
+
+Q: The document that governs the internal affairs of a company is the
+A: articles of association
+W: memorandum of association
+W: certificate of incorporation
+W: prospectus
+E: The articles cover internal rules such as meetings and directors' powers.
+
+Q: The document that a public company issues to invite the public to buy its shares is the
+A: prospectus
+W: articles of association
+W: invoice
+W: certificate of trading
+E: A prospectus describes the company and the shares on offer.
+
+Q: In Nigeria, companies are registered with the
+A: Corporate Affairs Commission (CAC)
+W: Central Bank of Nigeria
+W: Nigerian Ports Authority
+W: Nigeria Customs Service
+E: The CAC registers and regulates companies.
+
+Q: The part of a company's profit paid to shareholders is the
+A: dividend
+W: interest
+W: premium
+W: commission
+E: Dividends are paid per share from distributable profit.
+
+Q: Holders of debentures receive
+A: fixed interest whether or not a profit is made
+W: dividends only when profit is made
+W: voting rights at every meeting
+W: nothing until the company closes
+E: Debenture holders are creditors who lend money for fixed interest.
+
+Q: Holders of which type of share bear the greatest risk?
+A: ordinary shares
+W: preference shares
+W: debentures
+W: treasury bills
+E: Ordinary shareholders are paid last, but they may receive higher dividends.
+
+@topic com-ecommerce | E-commerce and modern trade | SS3
+
+Q: Buying and selling of goods over the internet is called
+A: e-commerce
+W: barter
+W: hire purchase
+W: hawking
+E: E-commerce includes online shops and market platforms.
+
+Q: Which of these is a risk of online shopping?
+A: fraud and fake sellers
+W: shopping at any time
+W: comparing prices easily
+W: home delivery
+E: Buyers should use trusted platforms and secure payment methods.
+
+Q: A point-of-sale (POS) terminal is used to
+A: accept card payments in shops
+W: print newspapers
+W: transport goods
+W: store crops
+E: POS machines read bank cards and transfer payment electronically.
+
+Q: Hire purchase allows a buyer to
+A: take the goods and pay in instalments, owning them after the last payment
+W: own goods immediately without paying
+W: rent goods forever
+W: pay before seeing the goods
+E: The seller remains the owner until the final instalment is paid.
+
+Q: Which of these protects online payments?
+A: one-time passwords (OTPs) sent to the account holder
+W: sharing your PIN with sellers
+W: writing your card details on social media
+W: using public Wi-Fi for all payments
+E: OTPs and keeping PINs secret help prevent fraud.
+
+Q: Fintech refers to
+A: the use of technology to provide financial services
+W: fishing technology
+W: farm machinery
+W: fixed interest
+E: Mobile banking and payment apps are examples of fintech.

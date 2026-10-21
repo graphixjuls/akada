@@ -1,0 +1,441 @@
+@subject crs
+
+@topic crs-creation | Creation and the fall | SS1
+
+Q: According to Genesis 1, on which day did God create human beings?
+A: the sixth day
+W: the first day
+W: the fourth day
+W: the seventh day
+E: God created man and woman in his image on the sixth day.
+
+Q: What did God do on the seventh day of creation?
+A: he rested
+W: he created light
+W: he created the animals
+W: he created the sun and moon
+E: God rested on the seventh day and blessed it (Genesis 2:2–3).
+
+Q: Who gave names to the animals in the Garden of Eden?
+A: Adam
+W: Eve
+W: Noah
+W: Abel
+E: God brought the animals to Adam to see what he would call them (Genesis 2:19).
+
+Q: Why did God send Adam and Eve out of the Garden of Eden?
+A: they disobeyed God by eating the forbidden fruit
+W: they killed Abel
+W: they built a tower
+W: they refused to work
+E: Their disobedience is known as the fall of man (Genesis 3).
+
+Q: Who killed his brother Abel?
+A: Cain
+W: Seth
+W: Esau
+W: Lamech
+E: Cain killed Abel out of jealousy (Genesis 4:8).
+
+Q: What sign did God give Noah as a promise never again to destroy the earth with a flood?
+A: a rainbow
+W: a dove
+W: a pillar of fire
+W: a burning bush
+E: The rainbow is the sign of God's covenant with Noah (Genesis 9:13).
+
+@topic crs-moses | Moses and the Exodus | SS1
+
+Q: Where did God appear to Moses in a burning bush?
+A: Mount Horeb
+W: Mount Carmel
+W: Mount Zion
+W: Mount of Olives
+E: God appeared to Moses at Horeb, the mountain of God (Exodus 3:1–2).
+
+Q: Who was appointed to speak for Moses before Pharaoh?
+A: Aaron
+W: Joshua
+W: Caleb
+W: Jethro
+E: God made Aaron, Moses's brother, his spokesman (Exodus 4:14–16).
+
+Q: What was the last of the ten plagues on Egypt?
+A: the death of the firstborn
+W: locusts
+W: darkness
+W: frogs
+E: After the death of the firstborn, Pharaoh let the Israelites go (Exodus 12).
+
+Q: The feast that remembers the Israelites' escape from Egypt is the
+A: Passover
+W: Feast of Tabernacles
+W: Pentecost
+W: Feast of Purim
+E: The angel of death "passed over" houses marked with the blood of the lamb.
+
+Q: Where did Moses receive the Ten Commandments?
+A: Mount Sinai
+W: Mount Carmel
+W: Mount Nebo
+W: Mount Hermon
+E: God gave the Law to Moses on Mount Sinai (Exodus 19–20).
+
+Q: Who succeeded Moses as leader of the Israelites?
+A: Joshua
+W: Aaron
+W: Caleb
+W: Samuel
+E: Joshua led the Israelites into Canaan after Moses died.
+
+@topic crs-judges | Joshua and the judges | SS1
+
+Q: How many times did the Israelites march round Jericho on the seventh day?
+A: seven times
+W: once
+W: three times
+W: twelve times
+E: On the seventh day they marched round seven times, and the walls fell (Joshua 6).
+
+Q: Who hid the Israelite spies in Jericho?
+A: Rahab
+W: Deborah
+W: Ruth
+W: Jael
+E: Rahab hid the spies and was spared when Jericho fell (Joshua 2).
+
+Q: Which judge led Israel with Barak against Sisera?
+A: Deborah
+W: Gideon
+W: Samson
+W: Ehud
+E: Deborah, a prophetess, judged Israel and sent Barak against Sisera (Judges 4).
+
+Q: Who killed Sisera with a tent peg?
+A: Jael
+W: Deborah
+W: Delilah
+W: Rahab
+E: Jael killed Sisera while he slept in her tent (Judges 4:21).
+
+Q: With how many men did Gideon defeat the Midianites?
+A: 300
+W: 3,000
+W: 12
+W: 10,000
+E: God reduced Gideon's army to 300 so that Israel would not boast (Judges 7).
+
+Q: Samson's great strength was linked to
+A: his uncut hair as a Nazirite
+W: his sword
+W: his large army
+W: his royal birth
+E: When Delilah had his hair cut, his strength left him (Judges 16).
+
+@topic crs-kings | The kings of Israel | SS2
+
+Q: Who anointed Saul as the first king of Israel?
+A: Samuel
+W: Nathan
+W: Elijah
+W: Eli
+E: Samuel anointed Saul at God's command (1 Samuel 10:1).
+
+Q: Why did God reject Saul as king?
+A: he disobeyed God's command concerning the Amalekites
+W: he killed Goliath
+W: he built the temple
+W: he refused to be anointed
+E: Saul spared King Agag and the best animals instead of destroying them (1 Samuel 15).
+
+Q: Which prophet rebuked David for his sin with Bathsheba?
+A: Nathan
+W: Samuel
+W: Elijah
+W: Isaiah
+E: Nathan told David the parable of the rich man who took a poor man's lamb (2 Samuel 12).
+
+Q: What did Solomon ask God for at Gibeon?
+A: wisdom to govern the people
+W: long life
+W: riches
+W: victory over his enemies
+E: God was pleased and gave him wisdom, riches and honour too (1 Kings 3).
+
+Q: Which king built the first temple in Jerusalem?
+A: Solomon
+W: David
+W: Saul
+W: Rehoboam
+E: Solomon built the temple that David had planned (1 Kings 6).
+
+Q: After Solomon's death, the kingdom divided because
+A: Rehoboam refused to lighten the people's burdens
+W: David sinned with Bathsheba
+W: Saul disobeyed God
+W: the Philistines captured the ark
+E: The ten northern tribes followed Jeroboam (1 Kings 12).
+
+@topic crs-prophets | The prophets | SS2
+
+Q: On which mountain did Elijah challenge the prophets of Baal?
+A: Mount Carmel
+W: Mount Sinai
+W: Mount Zion
+W: Mount Nebo
+E: God answered Elijah by sending fire on the altar (1 Kings 18).
+
+Q: Which king and queen took Naboth's vineyard after having him killed?
+A: Ahab and Jezebel
+W: David and Bathsheba
+W: Solomon and the Queen of Sheba
+W: Saul and Michal
+E: Jezebel arranged false charges against Naboth so Ahab could have his vineyard (1 Kings 21).
+
+Q: Amos is best known for preaching about
+A: social justice
+W: building the temple
+W: the birth of the Messiah
+W: the flood
+E: Amos condemned the oppression of the poor and corruption in Israel.
+
+Q: Hosea's marriage to the unfaithful Gomer illustrated
+A: God's love for unfaithful Israel
+W: the fall of Jericho
+W: the creation story
+W: the giving of the Law
+E: Hosea's faithfulness to Gomer pictured God's continuing love for Israel.
+
+Q: Who succeeded Elijah as prophet?
+A: Elisha
+W: Isaiah
+W: Jeremiah
+W: Amos
+E: Elisha received a double portion of Elijah's spirit (2 Kings 2).
+
+Q: Which prophet spoke of a "new covenant" written on people's hearts?
+A: Jeremiah
+W: Amos
+W: Hosea
+W: Jonah
+E: Jeremiah 31:31–33 speaks of the new covenant.
+
+@topic crs-jesus | The birth and ministry of Jesus | SS2
+
+Q: Where was Jesus born?
+A: Bethlehem
+W: Nazareth
+W: Jerusalem
+W: Capernaum
+E: Jesus was born in Bethlehem of Judea (Matthew 2:1).
+
+Q: Who baptised Jesus in the River Jordan?
+A: John the Baptist
+W: Peter
+W: Andrew
+W: Zechariah
+E: John baptised Jesus, and the Spirit descended like a dove (Matthew 3).
+
+Q: For how many days was Jesus tempted in the wilderness?
+A: 40 days
+W: 7 days
+W: 3 days
+W: 12 days
+E: Jesus fasted 40 days and nights and was tempted by the devil (Matthew 4).
+
+Q: According to John's Gospel, Jesus' first miracle was
+A: turning water into wine at Cana
+W: feeding the five thousand
+W: raising Lazarus
+W: walking on water
+E: John 2:11 calls it the first of Jesus' signs.
+
+Q: The parable of the Good Samaritan teaches
+A: love for one's neighbour, whoever they are
+W: the importance of farming
+W: how to pray
+W: the end of the world
+E: Jesus told it to answer the question "Who is my neighbour?" (Luke 10).
+
+Q: In the parable of the sower, the seed that fell on good soil represents those who
+A: hear the word, understand it and bear fruit
+W: hear the word but forget it
+W: are choked by worries
+W: never hear the word
+E: The good soil produces a crop many times what was sown (Matthew 13).
+
+@topic crs-passion | The death and resurrection of Jesus | SS2
+
+Q: For how much did Judas Iscariot betray Jesus?
+A: thirty pieces of silver
+W: ten pieces of gold
+W: fifty shekels
+W: one talent
+E: Judas agreed to betray Jesus for thirty pieces of silver (Matthew 26:15).
+
+Q: How many times did Peter deny Jesus?
+A: three times
+W: once
+W: twice
+W: seven times
+E: Peter denied Jesus three times before the cock crowed.
+
+Q: Who was the Roman governor who sentenced Jesus to death?
+A: Pontius Pilate
+W: Herod Antipas
+W: Caiaphas
+W: Caesar Augustus
+E: Pilate handed Jesus over to be crucified.
+
+Q: Who helped carry Jesus' cross?
+A: Simon of Cyrene
+W: Simon Peter
+W: Joseph of Arimathea
+W: John
+E: The soldiers forced Simon of Cyrene to carry the cross (Mark 15:21).
+
+Q: Who first saw the risen Jesus according to John's Gospel?
+A: Mary Magdalene
+W: Peter
+W: Thomas
+W: Mary, the mother of Jesus
+E: Jesus appeared to Mary Magdalene at the tomb (John 20).
+
+Q: Which disciple doubted the resurrection until he saw Jesus' wounds?
+A: Thomas
+W: Peter
+W: John
+W: Andrew
+E: Thomas said he would not believe unless he saw and touched the wounds (John 20).
+
+@topic crs-early-church | The early church | SS3
+
+Q: The Holy Spirit came upon the apostles on the day of
+A: Pentecost
+W: Passover
+W: the Sabbath
+W: Atonement
+E: The apostles spoke in other tongues (Acts 2).
+
+Q: About how many people were added to the church after Peter's sermon at Pentecost?
+A: 3,000
+W: 300
+W: 5,000
+W: 12
+E: About three thousand were baptised (Acts 2:41).
+
+Q: Who was the first Christian martyr?
+A: Stephen
+W: James
+W: Peter
+W: Paul
+E: Stephen was stoned to death (Acts 7).
+
+Q: Which disciple explained the scriptures to the Ethiopian eunuch and baptised him?
+A: Philip
+W: Peter
+W: Paul
+W: Barnabas
+E: Philip met the eunuch on the road to Gaza (Acts 8).
+
+Q: Peter raised Tabitha (Dorcas) from the dead at
+A: Joppa
+W: Jerusalem
+W: Antioch
+W: Damascus
+E: Dorcas was known for good works and acts of charity (Acts 9:36–42).
+
+Q: Cornelius, whose household heard Peter preach at Caesarea, was a
+A: Roman centurion
+W: Jewish priest
+W: fisherman
+W: tax collector
+E: Peter preached to Cornelius's household in Caesarea (Acts 10).
+
+@topic crs-paul | Paul and his missionary journeys | SS3
+
+Q: Saul was converted on the road to
+A: Damascus
+W: Jerusalem
+W: Rome
+W: Antioch
+E: A light from heaven blinded Saul, and Jesus spoke to him (Acts 9).
+
+Q: Who restored Saul's sight in Damascus?
+A: Ananias
+W: Peter
+W: Barnabas
+W: Silas
+E: Ananias laid hands on Saul, and his sight returned (Acts 9:17–18).
+
+Q: Who travelled with Paul on his first missionary journey?
+A: Barnabas
+W: Silas
+W: Timothy
+W: Luke
+E: Paul and Barnabas were sent out from Antioch (Acts 13).
+
+Q: The Council of Jerusalem met to decide whether
+A: Gentile believers had to be circumcised
+W: Paul should be stoned
+W: the temple should be rebuilt
+W: Peter should lead the church
+E: The council ruled that Gentiles need not be circumcised (Acts 15).
+
+Q: Where were the disciples first called Christians?
+A: Antioch
+W: Jerusalem
+W: Rome
+W: Corinth
+E: Acts 11:26 records this.
+
+Q: In Philippi, Paul and Silas were set free from prison by
+A: an earthquake
+W: a Roman soldier
+W: an angel at Jerusalem
+W: a flood
+E: An earthquake opened the doors, and the jailer and his household believed (Acts 16).
+
+@topic crs-epistles | Christian living (the epistles) | SS3
+
+Q: According to the Epistle of James, faith without works is
+A: dead
+W: perfect
+W: enough for salvation
+W: unnecessary
+E: James 2:17 says faith without works is dead.
+
+Q: Which chapter of 1 Corinthians is often called the "love chapter"?
+A: chapter 13
+W: chapter 1
+W: chapter 7
+W: chapter 15
+E: 1 Corinthians 13 describes love as patient and kind.
+
+Q: Which of these is a fruit of the Spirit listed in Galatians 5?
+A: patience
+W: wealth
+W: power
+W: fame
+E: The fruit of the Spirit includes love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.
+
+Q: According to Paul, Christians should obey civil authorities because
+A: authority comes from God
+W: rulers are always right
+W: it brings riches
+W: it is the custom of Rome
+E: Romans 13 teaches that governing authorities are established by God.
+
+Q: In 2 Corinthians 9, Paul teaches that God loves
+A: a cheerful giver
+W: a rich giver
+W: a proud giver
+W: one who never gives
+E: Giving should be done willingly, not reluctantly.
+
+Q: Paul taught that believers are justified by
+A: faith in Jesus Christ
+W: keeping the Law alone
+W: circumcision
+W: their ancestry
+E: Romans 5:1 says we are justified by faith.

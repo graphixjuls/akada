@@ -1,0 +1,380 @@
+@subject literature
+
+@topic lit-prose-forms | Forms of prose | SS1
+
+Q: A long work of prose fiction with a complex plot and many characters is a
+A: novel
+W: short story
+W: sonnet
+W: epigram
+E: Novels are book-length works of fiction.
+
+Q: A work of prose fiction longer than a short story but shorter than a novel is a
+A: novella
+W: lyric
+W: ballad
+W: haiku
+E: George Orwell's "Animal Farm" is often described as a novella.
+
+Q: A novel written as a series of letters is called
+A: an epistolary novel
+W: a picaresque novel
+W: a historical novel
+W: a gothic novel
+E: Mariama Bâ's "So Long a Letter" is written as one long letter.
+
+Q: A novel about the adventures of a roguish hero who travels from place to place is
+A: picaresque
+W: epistolary
+W: allegorical
+W: tragic
+E: Picaresque novels follow a lovable rogue through loosely connected episodes.
+
+Q: A story in which characters and events stand for deeper moral or political ideas is
+A: an allegory
+W: a biography
+W: a lyric
+W: a limerick
+E: In "Animal Farm", the animals represent people and events in the Russian Revolution.
+
+Q: The writing technique that presents a character's continuous flow of thoughts is
+A: stream of consciousness
+W: dramatic irony
+W: foreshadowing
+W: rhyme scheme
+E: Writers such as Virginia Woolf used this technique.
+
+@topic lit-poetic-devices | Poetic devices and structure | SS2
+
+Q: The pattern of rhymes at the ends of lines in a poem is its
+A: rhyme scheme
+W: metre
+W: stanza
+W: refrain
+E: Rhyme schemes are shown with letters, e.g. ABAB.
+
+Q: A line or group of lines repeated regularly in a poem or song is a
+A: refrain
+W: couplet
+W: caesura
+W: enjambment
+E: A refrain is like a chorus.
+
+Q: When a sentence runs on from one line of poetry into the next without a pause, this is
+A: enjambment
+W: caesura
+W: end-stopping
+W: rhyme
+E: Enjambment carries meaning across line breaks.
+
+Q: A pause in the middle of a line of poetry is called a
+A: caesura
+W: refrain
+W: stanza
+W: quatrain
+E: A caesura is often marked by punctuation.
+
+Q: A stanza of four lines is called a
+A: quatrain
+W: couplet
+W: tercet
+W: sestet
+E: Quatrains are common in ballads and hymns.
+
+Q: The regular pattern of stressed and unstressed syllables in poetry is called
+A: metre
+W: rhyme
+W: tone
+W: diction
+E: Iambic pentameter has five pairs of unstressed and stressed syllables in each line.
+
+Q: A long narrative poem about the deeds of a hero is
+A: an epic
+W: a sonnet
+W: a limerick
+W: a haiku
+E: Homer's "Iliad" and the Sundiata epic are examples.
+
+Q: A funny five-line poem with an AABBA rhyme scheme is a
+A: limerick
+W: sonnet
+W: elegy
+W: ode
+E: Limericks are humorous and often nonsensical.
+
+@topic lit-drama-types | Types of drama and theatre | SS2
+
+Q: A play that mixes serious and comic elements is a
+A: tragicomedy
+W: farce
+W: tragedy
+W: masque
+E: Tragicomedies combine tragic events with comic moments, often ending happily.
+
+Q: A comedy based on exaggerated situations and physical humour is a
+A: farce
+W: tragedy
+W: melodrama
+W: elegy
+E: Farces aim to make the audience laugh through absurd events.
+
+Q: A play with sensational events and exaggerated emotions is a
+A: melodrama
+W: farce
+W: tragicomedy
+W: satire
+E: Melodramas appeal strongly to the emotions.
+
+Q: The release of emotions that the audience feels at the end of a tragedy is called
+A: catharsis
+W: hamartia
+W: hubris
+W: denouement
+E: Aristotle described catharsis as the purging of pity and fear.
+
+Q: Excessive pride that leads to a tragic hero's downfall is
+A: hubris
+W: catharsis
+W: irony
+W: satire
+E: Hubris is a common tragic flaw in Greek drama.
+
+Q: The final unravelling of the plot in a play is the
+A: denouement
+W: exposition
+W: rising action
+W: prologue
+E: The denouement ties up loose ends after the climax.
+
+@topic lit-african-poetry | African poetry | SS3
+
+Q: Who wrote the poem "Piano and Drums"?
+A: Gabriel Okara
+W: Wole Soyinka
+W: J. P. Clark
+W: Kofi Awoonor
+E: Okara's poem contrasts African traditions with Western influence.
+
+Q: Who wrote the poem "Telephone Conversation"?
+A: Wole Soyinka
+W: Gabriel Okara
+W: Chinua Achebe
+W: Léopold Senghor
+E: The poem satirises racial prejudice through a phone call with a landlady.
+
+Q: Who wrote the poem "Night Rain"?
+A: J. P. Clark-Bekederemo
+W: Wole Soyinka
+W: Gabriel Okara
+W: Niyi Osundare
+E: "Night Rain" describes a night of heavy rain in a village home.
+
+Q: Léopold Sédar Senghor, a leading Négritude poet, was the first president of
+A: Senegal
+W: Ghana
+W: Nigeria
+W: Kenya
+E: Senghor was president of Senegal from 1960 to 1980.
+
+Q: Which Nigerian poet wrote the collection "Songs of the Marketplace"?
+A: Niyi Osundare
+W: Christopher Okigbo
+W: Gabriel Okara
+W: Wole Soyinka
+E: Osundare's poetry often speaks for ordinary people.
+
+Q: Christopher Okigbo, the Nigerian poet, died during the
+A: Nigerian Civil War
+W: First World War
+W: Second World War
+W: Aba Women's Riot
+E: Okigbo was killed in 1967 fighting on the Biafran side.
+
+@topic lit-african-prose | African prose writers | SS3
+
+Q: Who wrote "The Palm-Wine Drinkard"?
+A: Amos Tutuola
+W: Chinua Achebe
+W: Cyprian Ekwensi
+W: Elechi Amadi
+E: Published in 1952, it draws on Yoruba folktales.
+
+Q: Who wrote "Efuru"?
+A: Flora Nwapa
+W: Buchi Emecheta
+W: Chimamanda Ngozi Adichie
+W: Zaynab Alkali
+E: "Efuru" (1966) is one of the first novels in English by a Nigerian woman.
+
+Q: Who wrote "Purple Hibiscus"?
+A: Chimamanda Ngozi Adichie
+W: Flora Nwapa
+W: Buchi Emecheta
+W: Sefi Atta
+E: The novel is narrated by Kambili, a teenage girl in Enugu.
+
+Q: "Weep Not, Child" was written by
+A: Ngũgĩ wa Thiong'o
+W: Chinua Achebe
+W: Ferdinand Oyono
+W: Ayi Kwei Armah
+E: Ngũgĩ is a Kenyan writer; the novel is set during the Mau Mau uprising.
+
+Q: Who wrote "The Concubine"?
+A: Elechi Amadi
+W: Cyprian Ekwensi
+W: Amos Tutuola
+W: Chinua Achebe
+E: The novel tells the story of Ihuoma, believed to be the wife of a sea-god.
+
+Q: Which Chinua Achebe novel continues the story of Okonkwo's family with his grandson Obi?
+A: No Longer at Ease
+W: Arrow of God
+W: A Man of the People
+W: Anthills of the Savannah
+E: "No Longer at Ease" (1960) follows Obi Okonkwo in Lagos.
+
+Q: "The Joys of Motherhood" was written by
+A: Buchi Emecheta
+W: Flora Nwapa
+W: Mariama Bâ
+W: Ama Ata Aidoo
+E: Emecheta's novel explores the life of Nnu Ego in colonial Lagos.
+
+Q: "Houseboy" was written by
+A: Ferdinand Oyono
+W: Ngũgĩ wa Thiong'o
+W: Camara Laye
+W: Mongo Beti
+E: Oyono was a Cameroonian writer; the novel is told through Toundi's diary.
+
+@topic lit-classics | Classic English literature | SS3
+
+Q: Who is often called the father of English poetry?
+A: Geoffrey Chaucer
+W: William Shakespeare
+W: John Milton
+W: William Wordsworth
+E: Chaucer wrote "The Canterbury Tales" in the 14th century.
+
+Q: Who wrote "Paradise Lost"?
+A: John Milton
+W: Geoffrey Chaucer
+W: Charles Dickens
+W: Alexander Pope
+E: Milton's epic poem tells the story of the fall of man.
+
+Q: In Charles Dickens's "Great Expectations", the main character is
+A: Pip
+W: Oliver Twist
+W: David Copperfield
+W: Heathcliff
+E: The novel follows Pip from childhood to adulthood.
+
+Q: Who wrote "Animal Farm"?
+A: George Orwell
+W: Charles Dickens
+W: Jane Austen
+W: Thomas Hardy
+E: The novella was published in 1945.
+
+Q: William Wordsworth is associated with which literary movement?
+A: Romanticism
+W: Modernism
+W: Négritude
+W: Realism
+E: Wordsworth and Coleridge published "Lyrical Ballads" in 1798.
+
+Q: Who wrote "Pride and Prejudice"?
+A: Jane Austen
+W: Charlotte Brontë
+W: George Eliot
+W: Mary Shelley
+E: Published in 1813, it follows Elizabeth Bennet and Mr Darcy.
+
+@topic lit-devices
+Q: An indirect reference to a well-known person, place or story is
+A: allusion
+W: alliteration
+W: hyperbole
+W: onomatopoeia
+E: For example, calling a strong man "a Samson".
+
+Q: Understatement in which something is expressed by denying its opposite, as in "not bad", is
+A: litotes
+W: hyperbole
+W: metaphor
+W: personification
+E: "Not bad" actually means "quite good".
+
+Q: Addressing an absent person or a thing as if it could hear is
+A: apostrophe
+W: aside
+W: soliloquy
+W: simile
+E: For example, "O Death, where is thy sting?"
+
+Q: The use of a part to stand for the whole, as in "all hands on deck", is
+A: synecdoche
+W: metonymy
+W: irony
+W: euphemism
+E: "Hands" stands for the sailors.
+
+Q: Two contrasting ideas placed side by side in a balanced way, as in "Man proposes, God disposes", is
+A: antithesis
+W: alliteration
+W: hyperbole
+W: simile
+E: Antithesis sets opposites against each other for effect.
+
+Q: A brief, witty saying is called an
+A: epigram
+W: epic
+W: elegy
+W: epilogue
+E: For example, "I can resist everything except temptation" (Oscar Wilde).
+
+@topic lit-drama
+Q: The opening part of a play that gives background information is the
+A: exposition
+W: climax
+W: denouement
+W: epilogue
+E: The exposition introduces characters, setting and situation.
+
+Q: A speech at the end of a play addressed to the audience is the
+A: epilogue
+W: prologue
+W: aside
+W: soliloquy
+E: The prologue comes at the beginning.
+
+Q: A character who contrasts with another to highlight their qualities is a
+A: foil
+W: chorus
+W: narrator
+W: villain
+E: In "Things Fall Apart", Obierika acts as a foil to Okonkwo.
+
+@topic lit-prose
+Q: The struggle between opposing forces in a story is the
+A: conflict
+W: setting
+W: theme
+W: tone
+E: Conflict may be internal (within a character) or external.
+
+Q: A narrator who knows the thoughts and feelings of all characters is
+A: omniscient
+W: first-person
+W: unreliable
+W: limited
+E: An omniscient narrator is "all-knowing".
+
+Q: The character who opposes the protagonist is the
+A: antagonist
+W: hero
+W: narrator
+W: foil
+E: The antagonist creates conflict for the main character.

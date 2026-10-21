@@ -1,0 +1,338 @@
+@subject agric
+
+@topic agr-land | Land and land use | SS1
+
+Q: Which factor most affects the availability of land for farming in Nigerian cities?
+A: urbanisation and building development
+W: too much rainfall
+W: the number of rivers
+W: the colour of the soil
+E: Growing towns take over land that could be farmed.
+
+Q: The Land Use Act of 1978 vests land in each state in the
+A: State Governor
+W: traditional rulers
+W: Federal Ministry of Agriculture
+W: individual families
+E: The Governor holds land in trust for the people of the state.
+
+Q: Which is a non-agricultural use of land?
+A: building roads and houses
+W: growing crops
+W: grazing livestock
+W: fish ponds
+E: Land is also used for housing, industry, transport and recreation.
+
+Q: Land left uncultivated for some years to regain fertility is
+A: under fallow
+W: under irrigation
+W: under mulch
+W: under plantation
+E: Bush fallowing lets natural vegetation restore the soil.
+
+Q: Which land tenure system allows a farmer to use land in exchange for regular payments?
+A: leasehold (tenancy)
+W: inheritance
+W: communal ownership
+W: gift
+E: The tenant pays rent to the owner for use of the land.
+
+Q: A disadvantage of the inheritance system of land ownership is
+A: fragmentation of land into small plots
+W: farmers get very large farms
+W: land becomes free for all
+W: it encourages mechanisation
+E: Sharing land among many heirs leaves each with tiny, scattered plots.
+
+@topic agr-propagation | Plant propagation and planting | SS1
+
+Q: Propagation using seeds is called
+A: sexual propagation
+W: asexual propagation
+W: grafting
+W: layering
+E: Seeds result from fertilisation.
+
+Q: Joining a shoot (scion) of one plant to the rootstock of another is
+A: grafting
+W: layering
+W: budding
+W: seeding
+E: Grafting is used for citrus and mango.
+
+Q: Bending a branch into the soil so that it forms roots before it is cut off is
+A: layering
+W: grafting
+W: budding
+W: thinning
+E: Layering is used for plants such as hibiscus.
+
+Q: Removing excess seedlings to give the rest space to grow is called
+A: thinning
+W: supplying
+W: weeding
+W: mulching
+E: Thinning reduces competition among seedlings.
+
+Q: Replacing seeds that failed to germinate is called
+A: supplying
+W: thinning
+W: pruning
+W: staking
+E: Supplying keeps the plant population at the right level.
+
+Q: Covering the soil surface with dry grass or leaves is called
+A: mulching
+W: ridging
+W: staking
+W: harrowing
+E: Mulch conserves moisture, controls weeds and reduces erosion.
+
+@topic agr-irrigation | Irrigation and drainage | SS2
+
+Q: Supplying water to crops artificially is called
+A: irrigation
+W: drainage
+W: erosion
+W: leaching
+E: Irrigation allows farming in the dry season.
+
+Q: Removing excess water from waterlogged land is called
+A: drainage
+W: irrigation
+W: liming
+W: mulching
+E: Drainage improves soil aeration for roots.
+
+Q: Which irrigation method delivers water slowly to the base of each plant?
+A: drip (trickle) irrigation
+W: flood irrigation
+W: sprinkler irrigation
+W: furrow irrigation
+E: Drip irrigation saves water.
+
+Q: Which crop is commonly grown with irrigation in river valleys of northern Nigeria (fadama)?
+A: rice and vegetables
+W: cocoa
+W: oil palm
+W: rubber
+E: Fadama lands are flood plains used for dry-season farming.
+
+Q: A problem caused by poor irrigation management is
+A: salinisation (salt build-up) of the soil
+W: increased rainfall
+W: more earthworms
+W: better drainage
+E: Evaporating irrigation water can leave salts behind.
+
+Q: Which is an advantage of irrigation?
+A: crops can be grown all year round
+W: it always lowers costs
+W: it needs no water source
+W: it prevents all diseases
+E: Irrigation removes dependence on seasonal rainfall.
+
+@topic agr-poultry | Poultry production | SS2
+
+Q: Chickens raised mainly for meat are called
+A: broilers
+W: layers
+W: cockerels
+W: pullets
+E: Broilers grow fast and are ready for sale in about 6–8 weeks.
+
+Q: Chickens raised mainly for eggs are called
+A: layers
+W: broilers
+W: drakes
+W: turkeys
+E: Layers begin laying at about 18–20 weeks.
+
+Q: The system in which poultry are kept in cages is the
+A: battery cage system
+W: free-range system
+W: extensive system
+W: deep litter system
+E: Cages make egg collection easy and reduce disease spread.
+
+Q: In the deep litter system, poultry are kept
+A: on the floor of a house covered with wood shavings
+W: in cages
+W: outside with no shelter
+W: in water
+E: Litter absorbs moisture from droppings.
+
+Q: A young female chicken that has not started laying is a
+A: pullet
+W: cockerel
+W: hen
+W: drake
+E: A cockerel is a young male chicken.
+
+Q: The process of heating eggs artificially to hatch them is
+A: incubation
+W: brooding
+W: candling
+W: debeaking
+E: Candling checks eggs against a light to see if they are fertile.
+
+@topic agr-nutrition | Animal nutrition | SS3
+
+Q: Which feed component is mainly for body building in farm animals?
+A: protein
+W: carbohydrate
+W: water
+W: fibre
+E: Proteins build muscles and tissues.
+
+Q: Which of these is a concentrate feed?
+A: groundnut cake
+W: grass
+W: hay
+W: silage
+E: Concentrates are rich in nutrients and low in fibre.
+
+Q: Grass preserved in a moist state by fermentation is called
+A: silage
+W: hay
+W: pasture
+W: bran
+E: Silage is stored in airtight silos.
+
+Q: Grass cut and dried for storage is called
+A: hay
+W: silage
+W: concentrate
+W: mash
+E: Hay is fed to animals in the dry season.
+
+Q: A ration that contains all nutrients in the right proportions is a
+A: balanced ration
+W: maintenance ration
+W: production ration
+W: deficient ration
+E: Balanced rations meet an animal's full needs.
+
+Q: Which mineral deficiency causes milk fever in dairy cows?
+A: calcium
+W: iron
+W: iodine
+W: copper
+E: Milk fever occurs when blood calcium drops after calving.
+
+@topic agr-machinery | Farm power and mechanisation | SS3
+
+Q: Which is a source of farm power?
+A: tractors
+W: fertilisers
+W: seeds
+W: pesticides
+E: Sources include human labour, animals, tractors, wind and electricity.
+
+Q: Using animals such as oxen to pull ploughs is called
+A: animal traction
+W: mechanisation
+W: irrigation
+W: hydroponics
+E: Animal traction is common in northern Nigeria.
+
+Q: Which is a limitation of farm mechanisation in Nigeria?
+A: high cost of machines and spare parts
+W: too many skilled mechanics
+W: very large farm sizes everywhere
+W: cheap fuel and power
+E: Small, scattered farms and costs limit machine use.
+
+Q: A combine harvester is used to
+A: harvest and thresh grain crops
+W: plough the soil
+W: spray chemicals
+W: plant cassava
+E: It cuts the crop and separates the grain at once.
+
+Q: Which implement is used for planting seeds in rows?
+A: planter (seed drill)
+W: harrow
+W: plough
+W: mower
+E: Planters place seeds at the right depth and spacing.
+
+Q: Which practice keeps farm machinery in good condition?
+A: regular servicing and lubrication
+W: leaving it in the rain
+W: running it without oil
+W: overloading it
+E: Maintenance prevents breakdowns.
+
+@topic agr-crops
+Q: Which crop is a fibre crop?
+A: cotton
+W: cocoa
+W: yam
+W: tomato
+E: Cotton fibre is used for textiles.
+
+Q: Rice is best grown in
+A: swampy or irrigated land
+W: very dry sandy soil
+W: rocky hillsides
+W: deserts
+E: Lowland rice needs standing water.
+
+Q: Which crop is a legume?
+A: groundnut
+W: maize
+W: millet
+W: yam
+E: Groundnut, cowpea and soybean are legumes.
+
+Q: The harvesting of cocoa involves cutting the
+A: pods
+W: leaves
+W: roots
+W: flowers
+E: Ripe pods are cut and the beans are fermented and dried.
+
+@topic agr-pests
+Q: Which insect pest is known to destroy farms in swarms?
+A: locust
+W: honeybee
+W: ladybird
+W: butterfly
+E: Desert locusts can destroy crops over large areas.
+
+Q: Weeds harm crops mainly by
+A: competing for light, water and nutrients
+W: adding nutrients to the soil
+W: preventing erosion
+W: pollinating crops
+E: Weeds reduce yields through competition.
+
+Q: Which of these is a cultural method of weed control?
+A: crop rotation and timely weeding
+W: spraying herbicide
+W: introducing insects
+W: burning the whole farm each week
+E: Cultural methods change farming practices to reduce weeds.
+
+@topic agr-animals
+Q: The young of a goat is called a
+A: kid
+W: calf
+W: lamb
+W: piglet
+E: A young sheep is a lamb; a young cow is a calf.
+
+Q: The act of giving birth in pigs is called
+A: farrowing
+W: kidding
+W: calving
+W: lambing
+E: Goats kid, cattle calve and sheep lamb.
+
+Q: Which animal is a monogastric (non-ruminant)?
+A: pig
+W: cow
+W: goat
+W: sheep
+E: Pigs have a simple stomach.

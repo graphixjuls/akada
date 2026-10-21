@@ -1,0 +1,397 @@
+@subject computer
+
+@topic cmp-history | History and generations of computers | SS1
+
+Q: Who is often called the father of the computer?
+A: Charles Babbage
+W: Bill Gates
+W: Blaise Pascal
+W: Alan Turing
+E: Babbage designed the Analytical Engine, an early mechanical general-purpose computer.
+
+Q: Which device was used for calculation by sliding beads on rods?
+A: abacus
+W: slide rule
+W: punched card
+W: Napier's bones
+E: The abacus is one of the oldest calculating tools.
+
+Q: First-generation computers used
+A: vacuum tubes
+W: transistors
+W: integrated circuits
+W: microprocessors
+E: Vacuum tubes were large, hot and used a lot of power.
+
+Q: Which technology defines the third generation of computers?
+A: integrated circuits
+W: vacuum tubes
+W: transistors
+W: artificial intelligence
+E: Integrated circuits put many transistors on one silicon chip.
+
+Q: Which generation of computers introduced the microprocessor?
+A: fourth generation
+W: first generation
+W: second generation
+W: third generation
+E: The microprocessor put a whole CPU on one chip, leading to personal computers.
+
+Q: Who wrote what is considered the first computer program for Babbage's Analytical Engine?
+A: Ada Lovelace
+W: Grace Hopper
+W: Charles Babbage
+W: Herman Hollerith
+E: Ada Lovelace wrote notes describing an algorithm for the engine in the 1840s.
+
+@topic cmp-hardware | Computer hardware | SS1
+
+Q: Which of these is an input device?
+A: keyboard
+W: monitor
+W: printer
+W: speaker
+E: Input devices send data into the computer.
+
+Q: Which of these is an output device?
+A: printer
+W: mouse
+W: scanner
+W: microphone
+E: Output devices present results from the computer.
+
+Q: The part of the computer that carries out instructions is the
+A: central processing unit (CPU)
+W: monitor
+W: keyboard
+W: hard disk
+E: The CPU is often called the "brain" of the computer.
+
+Q: Which memory loses its contents when the power is switched off?
+A: RAM
+W: ROM
+W: hard disk
+W: flash drive
+E: RAM (random access memory) is volatile.
+
+Q: Which part of the CPU performs calculations and comparisons?
+A: arithmetic and logic unit (ALU)
+W: control unit
+W: register
+W: power supply
+E: The ALU carries out arithmetic and logical operations.
+
+Q: How many bytes are in one kilobyte (in the binary system)?
+A: 1024
+W: 1000
+W: 100
+W: 8
+E: 1 KB = 2¹⁰ = 1024 bytes. One byte is 8 bits.
+
+@topic cmp-software | Computer software | SS1
+
+Q: Which of these is an operating system?
+A: Windows
+W: Microsoft Word
+W: Excel
+W: Google Chrome
+E: An operating system manages the hardware and runs other programs. Android and Linux are others.
+
+Q: Software designed to perform a specific task for the user is
+A: application software
+W: system software
+W: firmware
+W: an operating system
+E: Word processors, spreadsheets and games are application software.
+
+Q: Which program translates a whole high-level program into machine code before it runs?
+A: compiler
+W: interpreter
+W: assembler
+W: editor
+E: An interpreter translates and runs one line at a time.
+
+Q: Which of these is a utility program?
+A: antivirus software
+W: a spreadsheet
+W: a game
+W: a web page
+E: Utility programs help maintain and protect the computer.
+
+Q: Software that is freely available with its source code for anyone to modify is
+A: open-source software
+W: proprietary software
+W: firmware
+W: shareware
+E: Linux and LibreOffice are examples of open-source software.
+
+Q: Programs permanently stored in ROM that start the computer are
+A: firmware
+W: application software
+W: malware
+W: spreadsheets
+E: The BIOS (or UEFI) is firmware that runs when the computer is switched on.
+
+@topic cmp-number | Number systems and data | SS2
+
+Q: Convert the binary number 1010 to decimal.
+A: 10
+W: 12
+W: 5
+W: 1010
+E: 1010₂ = 8 + 0 + 2 + 0 = 10.
+
+Q: How many bits make one byte?
+A: 8
+W: 4
+W: 16
+W: 2
+E: A byte is a group of 8 bits.
+
+Q: What is the hexadecimal digit for decimal 15?
+A: F
+W: E
+W: 15
+W: A
+E: Hexadecimal uses 0–9 and A–F, where A = 10 and F = 15.
+
+Q: Convert decimal 6 to binary.
+A: 110
+W: 101
+W: 111
+W: 011
+E: 6 = 4 + 2, so the binary form is 110.
+
+Q: Facts and figures that have not yet been processed are called
+A: data
+W: information
+W: knowledge
+W: output
+E: Processed data becomes information.
+
+Q: The ASCII code is used to
+A: represent characters as numbers
+W: connect to the internet
+W: speed up the CPU
+W: store pictures
+E: ASCII gives each character a number, e.g. "A" = 65.
+
+@topic cmp-networks | The internet and networks | SS2
+
+Q: A network that covers a small area such as a school building is a
+A: LAN (local area network)
+W: WAN (wide area network)
+W: MAN
+W: the internet
+E: A LAN connects computers in a limited area.
+
+Q: What does "www" stand for?
+A: World Wide Web
+W: Wide Web World
+W: World Web Wide
+W: Wireless World Web
+E: The World Wide Web is a system of linked pages on the internet.
+
+Q: Which device connects different networks and directs data between them?
+A: router
+W: monitor
+W: keyboard
+W: printer
+E: Routers forward data packets between networks.
+
+Q: The address used to locate a web page, such as https://example.com, is a
+A: URL
+W: IP address
+W: CPU
+W: USB
+E: URL stands for Uniform Resource Locator.
+
+Q: Which of these is a web browser?
+A: Google Chrome
+W: Microsoft Excel
+W: Notepad
+W: Paint
+E: Browsers such as Chrome, Firefox and Edge display web pages.
+
+Q: Which network topology connects all computers to one central device?
+A: star topology
+W: bus topology
+W: ring topology
+W: mesh topology
+E: In a star topology, each computer connects to a central hub or switch.
+
+@topic cmp-safety | Computer ethics and safety | SS2
+
+Q: A program that copies itself and damages files is a
+A: computer virus
+W: compiler
+W: browser
+W: driver
+E: Viruses are malicious software (malware).
+
+Q: Which of these is a strong password?
+A: Tm8#q!Lz42
+W: 123456
+W: password
+W: your first name
+E: Strong passwords are long and mix letters, numbers and symbols.
+
+Q: Tricking people into giving their passwords through fake emails or messages is called
+A: phishing
+W: hacking hardware
+W: debugging
+W: compiling
+E: Phishing messages pretend to be from trusted organisations.
+
+Q: Using someone else's work without permission or credit is
+A: plagiarism (or copyright infringement)
+W: research
+W: backup
+W: formatting
+E: Always credit sources and respect copyright.
+
+Q: Which posture is good when using a computer for a long time?
+A: sitting upright with the screen at eye level
+W: bending close to the screen
+W: sitting on the floor with the laptop on your knees all day
+W: using the computer without breaks
+E: Good posture and regular breaks reduce strain on the eyes, neck and back.
+
+Q: Making extra copies of important files in case the original is lost is called
+A: backing up
+W: deleting
+W: formatting
+W: defragmenting
+E: Backups protect against loss from theft, damage or viruses.
+
+@topic cmp-programming | Algorithms and programming | SS3
+
+Q: A step-by-step set of instructions for solving a problem is an
+A: algorithm
+W: operating system
+W: icon
+W: output device
+E: Algorithms can be written as pseudocode or drawn as flowcharts.
+
+Q: In a flowchart, which symbol is used for a decision?
+A: diamond
+W: rectangle
+W: oval
+W: parallelogram
+E: A diamond shows a yes/no decision. Rectangles show processes and ovals show start or end.
+
+Q: In a flowchart, which symbol represents input or output?
+A: parallelogram
+W: diamond
+W: rectangle
+W: circle
+E: Parallelograms are used for input and output.
+
+Q: A repeated set of instructions in a program is called a
+A: loop
+W: variable
+W: comment
+W: syntax error
+E: Loops include FOR and WHILE loops.
+
+Q: An error caused by breaking the grammar rules of a programming language is a
+A: syntax error
+W: logic error
+W: runtime error
+W: virus
+E: The translator reports syntax errors before the program runs.
+
+Q: In BASIC, which statement displays output on the screen?
+A: PRINT
+W: INPUT
+W: GOTO
+W: REM
+E: PRINT shows output. INPUT reads data and REM writes a comment.
+
+@topic cmp-logic | Logic gates | SS3
+
+Q: Which logic gate gives an output of 1 only when all inputs are 1?
+A: AND gate
+W: OR gate
+W: NOT gate
+W: NOR gate
+E: AND is true only when every input is true.
+
+Q: Which logic gate reverses its input?
+A: NOT gate
+W: AND gate
+W: OR gate
+W: NAND gate
+E: NOT turns 1 into 0 and 0 into 1.
+
+Q: An OR gate has inputs 0 and 1. What is the output?
+A: 1
+W: 0
+W: 2
+W: undefined
+E: OR gives 1 if at least one input is 1.
+
+Q: A NAND gate is equivalent to
+A: an AND gate followed by a NOT gate
+W: an OR gate followed by a NOT gate
+W: two NOT gates
+W: an AND gate
+E: NAND gives the opposite of AND.
+
+Q: A NOR gate has inputs 0 and 0. What is the output?
+A: 1
+W: 0
+W: 2
+W: undefined
+E: OR(0, 0) = 0, so NOR(0, 0) = 1.
+
+Q: A table showing all possible inputs and outputs of a logic circuit is a
+A: truth table
+W: flowchart
+W: spreadsheet
+W: database
+E: Truth tables list every input combination and its output.
+
+@topic cmp-applications | Word processing, spreadsheets and databases | SS3
+
+Q: In a spreadsheet, which formula adds the values in cells A1 to A5?
+A: =SUM(A1:A5)
+W: =ADD(A1-A5)
+W: =TOTAL(A1;A5)
+W: SUM A1 to A5
+E: The SUM function adds a range of cells.
+
+Q: In a spreadsheet, the intersection of a row and a column is a
+A: cell
+W: field
+W: record
+W: page
+E: Each cell has an address, such as B3.
+
+Q: In a database table, a single row that holds all the data about one item is a
+A: record
+W: field
+W: cell
+W: query
+E: A record is a row; a field is a column.
+
+Q: A field that uniquely identifies each record in a database table is the
+A: primary key
+W: foreign key
+W: query
+W: report
+E: For example, a student's admission number.
+
+Q: Which keyboard shortcut usually copies selected text?
+A: Ctrl + C
+W: Ctrl + V
+W: Ctrl + X
+W: Ctrl + Z
+E: Ctrl + V pastes, Ctrl + X cuts and Ctrl + Z undoes.
+
+Q: Which feature of a word processor checks for misspelt words?
+A: spell checker
+W: mail merge
+W: page break
+W: header
+E: The spell checker underlines words it does not recognise.

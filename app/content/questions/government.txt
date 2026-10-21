@@ -1,0 +1,573 @@
+@subject government
+
+@topic gov-concepts | Basic concepts of government | SS1
+
+Q: The supreme power of a state to make and enforce laws within its territory is called
+A: sovereignty
+W: legitimacy
+W: authority
+W: influence
+E: Sovereignty means the state has final authority, free from outside control.
+
+Q: Power that people accept as rightful is called
+A: authority
+W: force
+W: coercion
+W: influence
+E: Authority is legitimate power: the right to give orders that people accept.
+
+Q: Legitimacy refers to
+A: the acceptance of a government's right to rule by the people
+W: the use of force by the police
+W: the number of laws passed
+W: the size of a country
+E: A legitimate government is accepted by the governed as having the right to rule.
+
+Q: Which of these is an essential feature of a state?
+A: a defined territory
+W: a monarch
+W: a single religion
+W: a single political party
+E: A state has a population, a defined territory, a government and sovereignty.
+
+Q: Government as an academic field of study is concerned with
+A: the study of the state, its institutions and political behaviour
+W: the study of rocks and minerals
+W: the study of trade
+W: the study of plants
+E: Government studies how societies are governed.
+
+Q: Political culture refers to
+A: the attitudes, beliefs and values of people about politics
+W: the number of political parties
+W: traditional dances at rallies
+W: the laws passed by parliament
+E: Political culture shapes how citizens view and take part in politics.
+
+@topic gov-forms | Forms and systems of government | SS1
+
+Q: A system in which power is shared between a central government and component units is
+A: federalism
+W: unitary government
+W: confederation
+W: monarchy
+E: In a federation, the constitution divides powers between levels of government.
+
+Q: In a unitary system of government, power is
+A: concentrated in the central government
+W: shared equally between regions
+W: held by the regions
+W: held by traditional rulers
+E: The central government holds all power and can delegate some to local units.
+
+Q: Government by a few people, usually the wealthy or powerful, is called
+A: oligarchy
+W: democracy
+W: monarchy
+W: anarchy
+E: Oligarchy means rule by a small group.
+
+Q: Which country is an example of a constitutional monarchy?
+A: the United Kingdom
+W: the United States
+W: Nigeria
+W: Ghana
+E: In the UK the monarch is head of state, but elected representatives govern.
+
+Q: In a presidential system of government, the president is
+A: both head of state and head of government
+W: head of state only
+W: head of government only
+W: elected by parliament
+E: In a presidential system such as Nigeria's, the president holds both roles.
+
+Q: In a parliamentary system, the executive is
+A: drawn from and responsible to the legislature
+W: completely separate from the legislature
+W: chosen by the judiciary
+W: appointed by a foreign power
+E: Ministers are members of parliament and can be removed by a vote of no confidence.
+
+@topic gov-constitution | Constitutions | SS1
+
+Q: A constitution that can be amended by a simple majority in the legislature is
+A: flexible
+W: rigid
+W: written
+W: federal
+E: A flexible constitution is easy to amend, like ordinary laws.
+
+Q: Which country is known for having an unwritten constitution?
+A: the United Kingdom
+W: Nigeria
+W: the United States
+W: South Africa
+E: The UK constitution is found in statutes, conventions and court decisions, not one document.
+
+Q: A rigid constitution is one that
+A: requires a special procedure to amend
+W: cannot be read by citizens
+W: can be amended by the president alone
+W: has no written form
+E: Amending a rigid constitution needs special majorities or procedures.
+
+Q: Constitutional conventions are
+A: unwritten customs and practices that are generally followed
+W: laws passed by the National Assembly
+W: decrees of military governments
+W: court judgments
+E: Conventions are not legally enforceable but are respected in practice.
+
+Q: The current constitution of Nigeria came into force in
+A: 1999
+W: 1979
+W: 1963
+W: 1989
+E: The 1999 Constitution took effect when civilian rule returned on 29 May 1999.
+
+Q: A constitution is important because it
+A: defines the powers of government and the rights of citizens
+W: gives the military power to rule
+W: fixes the prices of goods
+W: chooses the president
+E: A constitution is the basic law that limits and organises government.
+
+@topic gov-organs | Organs of government and separation of powers | SS1
+
+Q: The organ of government that makes laws is the
+A: legislature
+W: executive
+W: judiciary
+W: civil service
+E: The legislature (National Assembly in Nigeria) makes laws.
+
+Q: The organ of government that interprets laws is the
+A: judiciary
+W: legislature
+W: executive
+W: police
+E: The courts interpret laws and settle disputes.
+
+Q: The theory of separation of powers is associated with
+A: Baron de Montesquieu
+W: A. V. Dicey
+W: Karl Marx
+W: John Locke
+E: Montesquieu argued that dividing powers among three organs prevents tyranny.
+
+Q: Checks and balances means that
+A: each organ of government can limit the powers of the others
+W: the executive controls all other organs
+W: the judiciary makes laws
+W: all power is held by the legislature
+E: For example, the president can veto bills, and the legislature can override a veto.
+
+Q: Nigeria's National Assembly is made up of
+A: the Senate and the House of Representatives
+W: the Senate and the Supreme Court
+W: the House of Representatives and the Federal Executive Council
+W: the Senate and the Council of State
+E: Nigeria has a bicameral legislature with two chambers.
+
+Q: Which court is the highest in Nigeria?
+A: the Supreme Court
+W: the Court of Appeal
+W: the Federal High Court
+W: the Magistrate Court
+E: The Supreme Court is the final court of appeal in Nigeria.
+
+@topic gov-rights | Rule of law and citizenship | SS1
+
+Q: The concept of the rule of law was popularised by
+A: A. V. Dicey
+W: Montesquieu
+W: Thomas Hobbes
+W: Jean-Jacques Rousseau
+E: Dicey stressed supremacy of the law, equality before the law and protection of rights.
+
+Q: Equality before the law means that
+A: everyone is subject to the same laws regardless of status
+W: only the poor obey the law
+W: leaders are above the law
+W: laws apply only to citizens
+E: No one is above the law, however powerful.
+
+Q: Which of these is a way of acquiring citizenship?
+A: naturalisation
+W: taxation
+W: migration alone
+W: education
+E: Citizenship can be acquired by birth, registration or naturalisation.
+
+Q: Which of these is a civic duty of a citizen?
+A: paying taxes
+W: avoiding elections
+W: breaking the law
+W: refusing to serve the nation
+E: Citizens have duties such as obeying laws, paying taxes and voting.
+
+Q: Fundamental human rights in Nigeria are contained in which chapter of the 1999 Constitution?
+A: Chapter IV
+W: Chapter II
+W: Chapter I
+W: Chapter VIII
+E: Chapter IV lists rights such as the right to life, dignity and freedom of expression.
+
+Q: The right to vote is also called
+A: franchise (suffrage)
+W: sovereignty
+W: referendum
+W: recall
+E: Franchise or suffrage is the right to vote in elections.
+
+@topic gov-parties | Political parties and pressure groups | SS2
+
+Q: The main aim of a political party is to
+A: win elections and control government
+W: influence policy without contesting elections
+W: make profit for members
+W: replace the judiciary
+E: Parties contest elections to form the government.
+
+Q: A pressure group differs from a political party because it
+A: tries to influence government without seeking to control it
+W: contests elections
+W: forms the government
+W: has no members
+E: Pressure groups such as trade unions lobby government but do not contest for power.
+
+Q: A system with only one legal political party is a
+A: one-party system
+W: two-party system
+W: multi-party system
+W: federal system
+E: In a one-party state, only one party may contest for power.
+
+Q: Which of these is an example of a pressure group in Nigeria?
+A: Nigeria Labour Congress (NLC)
+W: Independent National Electoral Commission
+W: the Senate
+W: the Supreme Court
+E: The NLC represents workers and lobbies government on labour issues.
+
+Q: Who is regarded as the father of Nigerian nationalism?
+A: Herbert Macaulay
+W: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Ahmadu Bello
+E: Herbert Macaulay founded the Nigerian National Democratic Party (NNDP) in 1923.
+
+Q: The first political party in Nigeria, formed in 1923, was the
+A: Nigerian National Democratic Party (NNDP)
+W: Action Group (AG)
+W: Northern People's Congress (NPC)
+W: National Council of Nigeria and the Cameroons (NCNC)
+E: The NNDP was formed by Herbert Macaulay after the elective principle was introduced.
+
+@topic gov-elections | Elections and the electoral process | SS2
+
+Q: The body responsible for conducting federal elections in Nigeria is
+A: INEC
+W: the Nigeria Police Force
+W: the National Assembly
+W: the Supreme Court
+E: The Independent National Electoral Commission organises federal elections.
+
+Q: A vote by the whole electorate on a specific issue is called a
+A: referendum
+W: recall
+W: bye-election
+W: primary election
+E: In a referendum, citizens vote directly on a question.
+
+Q: An election held to fill a vacancy that occurs between general elections is a
+A: bye-election
+W: general election
+W: primary election
+W: run-off
+E: Bye-elections fill seats left vacant by death, resignation or removal.
+
+Q: The process of dividing a country into areas for elections is called
+A: delimitation of constituencies
+W: franchise
+W: recall
+W: secret ballot
+E: Constituencies are drawn so that each elects a representative.
+
+Q: A secret ballot ensures that
+A: voters choose freely without others knowing their choice
+W: votes are counted in secret
+W: only party members vote
+W: results are hidden from the public
+E: Secret voting protects voters from intimidation.
+
+Q: The right of voters to remove an elected representative before the end of their term is called
+A: recall
+W: referendum
+W: initiative
+W: plebiscite
+E: Recall lets constituents withdraw their mandate from a representative.
+
+@topic gov-precolonial | Pre-colonial political systems | SS2
+
+Q: Which pre-colonial society was described as acephalous (without a central ruler)?
+A: Igbo
+W: Hausa-Fulani
+W: Oyo
+W: Benin
+E: Igbo society was organised around family groups, age grades and village assemblies.
+
+Q: In the old Oyo Empire, the body of kingmakers that checked the power of the Alaafin was the
+A: Oyo Mesi
+W: Ogboni
+W: Ozo
+W: Emir's council
+E: The Oyo Mesi, led by the Bashorun, could ask an unpopular Alaafin to "open the calabash".
+
+Q: In the Hausa-Fulani emirate system, the head of the emirate was the
+A: Emir
+W: Alaafin
+W: Oba
+W: Okpara
+E: The Emir held political and religious authority, assisted by officials such as the Waziri.
+
+Q: Which official was in charge of the treasury in the Hausa-Fulani emirate system?
+A: Ma'aji
+W: Waziri
+W: Alkali
+W: Madawaki
+E: The Ma'aji was the treasurer. The Alkali was a judge and the Madawaki led the army.
+
+Q: In pre-colonial Igbo society, decisions were often made by
+A: the village assembly (Oha-na-eze)
+W: a single king
+W: the Emir
+W: the colonial officers
+E: Igbo political life was democratic, with adult males taking part in village assemblies.
+
+Q: The Alkali in the Hausa-Fulani system was a
+A: judge in the Sharia court
+W: military commander
+W: tax collector
+W: chief minister
+E: The Alkali judged cases according to Islamic law.
+
+@topic gov-colonial | Colonial rule in Nigeria | SS2
+
+Q: The system of governing through traditional rulers was called
+A: indirect rule
+W: direct rule
+W: assimilation
+W: association
+E: The British ruled through existing chiefs and emirs.
+
+Q: Indirect rule in Nigeria is most associated with
+A: Lord Lugard
+W: Hugh Clifford
+W: Arthur Richards
+W: John Macpherson
+E: Frederick Lugard introduced indirect rule, first in Northern Nigeria.
+
+Q: In which part of Nigeria did indirect rule work best?
+A: the North
+W: the East
+W: the West
+W: Lagos colony
+E: The emirate system already had centralised rulers and tax structures.
+
+Q: Northern and Southern Nigeria were amalgamated in
+A: 1914
+W: 1900
+W: 1922
+W: 1960
+E: Lugard amalgamated the Northern and Southern Protectorates in 1914.
+
+Q: The 1929 Aba Women's Riot was mainly a protest against
+A: rumoured taxation of women
+W: the slave trade
+W: independence
+W: military rule
+E: Women in the East protested against the warrant chiefs and the rumour that they would be taxed.
+
+Q: The policy of assimilation was used mainly by
+A: France
+W: Britain
+W: Germany
+W: Belgium
+E: France aimed to turn colonial subjects into French citizens in culture and language.
+
+@topic gov-constitutional | Constitutional development in Nigeria | SS3
+
+Q: Which constitution introduced the elective principle in Nigeria?
+A: the Clifford Constitution of 1922
+W: the Richards Constitution of 1946
+W: the Macpherson Constitution of 1951
+W: the Lyttleton Constitution of 1954
+E: It allowed Lagos to elect three members and Calabar one member to the Legislative Council.
+
+Q: Which constitution introduced regionalism in Nigeria?
+A: the Richards Constitution of 1946
+W: the Clifford Constitution of 1922
+W: the Independence Constitution of 1960
+W: the 1979 Constitution
+E: It created the Northern, Western and Eastern regions with regional houses of assembly.
+
+Q: Which constitution made Nigeria a true federation?
+A: the Lyttleton Constitution of 1954
+W: the Richards Constitution of 1946
+W: the Clifford Constitution of 1922
+W: the Macpherson Constitution of 1951
+E: The Lyttleton Constitution divided powers between the central and regional governments.
+
+Q: Nigeria became a republic in
+A: 1963
+W: 1960
+W: 1966
+W: 1979
+E: In 1963 the Queen ceased to be head of state, and Nnamdi Azikiwe became President.
+
+Q: Which constitution introduced the presidential system of government in Nigeria?
+A: the 1979 Constitution
+W: the 1963 Constitution
+W: the 1960 Constitution
+W: the 1954 Constitution
+E: The 1979 Constitution replaced the parliamentary system with an executive presidency.
+
+Q: Nigeria's first executive president was
+A: Shehu Shagari
+W: Nnamdi Azikiwe
+W: Olusegun Obasanjo
+W: Tafawa Balewa
+E: Shehu Shagari was elected in 1979 under the presidential constitution.
+
+@topic gov-military | Military rule in Nigeria | SS3
+
+Q: Nigeria's first military coup took place on
+A: 15 January 1966
+W: 1 October 1960
+W: 29 July 1975
+W: 31 December 1983
+E: The January 1966 coup ended the First Republic.
+
+Q: Who was Nigeria's first military head of state?
+A: Major-General J. T. U. Aguiyi-Ironsi
+W: General Yakubu Gowon
+W: General Murtala Mohammed
+W: General Olusegun Obasanjo
+E: Aguiyi-Ironsi took over after the January 1966 coup.
+
+Q: Military governments usually rule by
+A: decrees
+W: acts of parliament
+W: referendums
+W: bye-laws
+E: Military regimes suspend parts of the constitution and make laws by decree.
+
+Q: The twelve-state structure was created in 1967 by
+A: General Yakubu Gowon
+W: General Murtala Mohammed
+W: General Ibrahim Babangida
+W: General Sani Abacha
+E: Gowon replaced the four regions with 12 states in May 1967.
+
+Q: Which military head of state handed over power to an elected civilian government in 1979?
+A: General Olusegun Obasanjo
+W: General Muhammadu Buhari
+W: General Yakubu Gowon
+W: General Ibrahim Babangida
+E: Obasanjo handed over to President Shehu Shagari on 1 October 1979.
+
+Q: A feature of military rule is the
+A: suspension of parts of the constitution
+W: holding of regular elections
+W: separation of powers
+W: existence of an elected legislature
+E: Military regimes concentrate power and suspend democratic institutions.
+
+@topic gov-local | Local government | SS3
+
+Q: The major local government reform in Nigeria that made local government a third tier of government took place in
+A: 1976
+W: 1960
+W: 1999
+W: 1914
+E: The 1976 reform introduced a uniform, single-tier local government system.
+
+Q: How many local government areas are listed in the 1999 Constitution?
+A: 774
+W: 36
+W: 768
+W: 109
+E: The constitution lists 774 LGAs, including 6 area councils in the FCT.
+
+Q: Which of these is a function of local government?
+A: maintaining markets and motor parks
+W: printing currency
+W: controlling the army
+W: making foreign policy
+E: Local governments handle local services such as markets, sanitation and birth registration.
+
+Q: The chief executive of a local government council is the
+A: chairman
+W: governor
+W: senator
+W: president
+E: The elected chairman heads the local government council.
+
+Q: Which is a major source of revenue for local governments in Nigeria?
+A: statutory allocation from the Federation Account
+W: customs duties
+W: petroleum profits tax
+W: company income tax
+E: Local governments receive a share of the Federation Account.
+
+Q: Registration of births, deaths and marriages is a function of
+A: local government
+W: the Supreme Court
+W: the National Assembly
+W: the Central Bank
+E: Registration of vital statistics is a local government responsibility.
+
+@topic gov-international | International organisations and foreign policy | SS3
+
+Q: The United Nations was founded in
+A: 1945
+W: 1919
+W: 1963
+W: 1975
+E: The UN was created after the Second World War to maintain peace.
+
+Q: Where is the headquarters of the United Nations?
+A: New York
+W: Geneva
+W: Addis Ababa
+W: London
+E: The UN headquarters is in New York, USA.
+
+Q: The Organisation of African Unity (OAU) was formed in
+A: 1963
+W: 1945
+W: 1975
+W: 2002
+E: The OAU was founded in Addis Ababa in 1963 and was replaced by the African Union in 2002.
+
+Q: Where is the headquarters of the ECOWAS Commission?
+A: Abuja
+W: Lagos
+W: Accra
+W: Dakar
+E: The ECOWAS Commission is based in Abuja, Nigeria.
+
+Q: The centrepiece of Nigeria's foreign policy is
+A: Africa
+W: Europe
+W: Asia
+W: South America
+E: Nigeria has long focused on African unity, decolonisation and peace on the continent.
+
+Q: Which UN organ is responsible for maintaining international peace and security?
+A: the Security Council
+W: the General Assembly
+W: the Secretariat
+W: the International Court of Justice
+E: The Security Council can authorise peacekeeping missions and sanctions.

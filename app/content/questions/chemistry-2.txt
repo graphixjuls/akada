@@ -1,0 +1,441 @@
+@subject chemistry
+
+@topic chm-lab | Laboratory apparatus and safety | SS1
+
+Q: Which apparatus is used to measure a fixed volume of liquid accurately, such as 25.0 cm³, in titration?
+A: pipette
+W: beaker
+W: test tube
+W: conical flask
+E: A pipette delivers one exact volume. A burette measures variable volumes.
+
+Q: Which apparatus delivers a variable volume of acid during a titration?
+A: burette
+W: pipette
+W: measuring cylinder
+W: evaporating dish
+E: The burette has a tap and is read before and after each titration.
+
+Q: What should you do first if a corrosive chemical splashes onto your skin?
+A: wash it off with plenty of running water
+W: rub it in with a cloth
+W: cover it with a bandage immediately
+W: ignore it until the practical ends
+E: Plenty of water dilutes and removes the chemical. Then tell the teacher.
+
+Q: The hazard symbol showing a flame means the substance is
+A: flammable
+W: toxic
+W: corrosive
+W: radioactive
+E: Flammable substances catch fire easily, so keep them away from flames.
+
+Q: Which apparatus is used to heat a small amount of solid strongly?
+A: crucible
+W: burette
+W: pipette
+W: measuring cylinder
+E: A crucible can withstand very high temperatures.
+
+Q: Why should a test tube be pointed away from people when heating it?
+A: the contents may spurt out
+W: it makes the flame hotter
+W: it cools the test tube faster
+W: it is easier to read
+E: Liquids can boil suddenly and shoot out of the tube.
+
+@topic chm-kinetic | Kinetic theory and states of matter | SS1
+
+Q: The change of a liquid into a gas below its boiling point is
+A: evaporation
+W: condensation
+W: melting
+W: freezing
+E: Fast-moving particles escape from the surface of the liquid.
+
+Q: The temperature at which a pure solid turns into a liquid is its
+A: melting point
+W: boiling point
+W: freezing mixture
+W: dew point
+E: Pure substances have sharp melting points; impurities lower and widen them.
+
+Q: Why does a gas spread out to fill its container?
+A: its particles move freely and randomly in all directions
+W: its particles are fixed in place
+W: its particles are heavier than liquid particles
+W: it has a definite shape
+E: Gas particles have weak attractions and high kinetic energy.
+
+Q: Which gas diffuses fastest?
+A: hydrogen
+W: oxygen
+W: carbon dioxide
+W: chlorine
+E: Graham's law: lighter gases diffuse faster. Hydrogen is the lightest gas.
+
+Q: Adding salt to water raises its
+A: boiling point
+W: freezing point
+W: vapour pressure
+W: transparency
+E: Dissolved impurities raise the boiling point and lower the freezing point.
+
+Q: A substance that absorbs moisture from the air but does not dissolve is
+A: hygroscopic
+W: deliquescent
+W: efflorescent
+W: volatile
+E: Deliquescent substances absorb so much water that they dissolve; efflorescent ones lose water.
+
+@topic chm-salts | Preparation and uses of salts | SS2
+
+Q: Which salt is used as table salt?
+A: sodium chloride
+W: calcium carbonate
+W: copper(II) sulphate
+W: ammonium nitrate
+E: Sodium chloride (NaCl) is common salt.
+
+Q: Which method is used to prepare an insoluble salt such as barium sulphate?
+A: precipitation (double decomposition)
+W: titration
+W: reacting a metal with water
+W: crystallisation from the melt
+E: Mixing two solutions forms the insoluble salt as a precipitate, which is filtered off.
+
+Q: Which salt is used as a fertiliser?
+A: ammonium sulphate
+W: sodium chloride
+W: calcium carbonate
+W: copper(II) sulphate
+E: Ammonium salts supply nitrogen to plants.
+
+Q: Which of these salts is insoluble in water?
+A: silver chloride
+W: sodium nitrate
+W: potassium chloride
+W: ammonium sulphate
+E: All nitrates and all sodium, potassium and ammonium salts are soluble. Silver chloride is insoluble.
+
+Q: Water of crystallisation in hydrated copper(II) sulphate gives it a
+A: blue colour
+W: green colour
+W: white colour
+W: red colour
+E: Anhydrous copper(II) sulphate is white and turns blue when water is added.
+
+Q: An acid salt contains
+A: replaceable hydrogen ions
+W: no hydrogen at all
+W: hydroxide ions
+W: only metal atoms
+E: For example, sodium hydrogensulphate, NaHSO₄.
+
+@topic chm-carbon | Carbon and its compounds | SS2
+
+Q: Diamond and graphite are
+A: allotropes of carbon
+W: isotopes of carbon
+W: compounds of carbon
+W: isomers of carbon
+E: Allotropes are different structural forms of the same element.
+
+Q: Why is graphite used in pencils and as a lubricant?
+A: its layers slide over each other
+W: it is the hardest natural substance
+W: it is transparent
+W: it is a gas
+E: Weak forces between layers let them slide easily.
+
+Q: Why is diamond used in cutting tools?
+A: it is very hard
+W: it conducts electricity well
+W: it is soft and slippery
+W: it dissolves in water
+E: Each carbon atom is strongly bonded to four others in a rigid network.
+
+Q: Which form of carbon conducts electricity?
+A: graphite
+W: diamond
+W: charcoal only when wet
+W: none of them
+E: Graphite has free (delocalised) electrons between its layers.
+
+Q: Activated charcoal is used to
+A: absorb impurities and gases
+W: make glass
+W: produce oxygen
+W: soften water
+E: Its large surface area adsorbs gases and coloured impurities.
+
+Q: Which gas is produced when charcoal burns in a limited supply of air?
+A: carbon monoxide
+W: carbon dioxide
+W: oxygen
+W: hydrogen
+E: Incomplete combustion of carbon forms poisonous carbon monoxide.
+
+@topic chm-qualitative | Tests for ions and gases | SS3
+
+Q: A solution gives a white precipitate with silver nitrate solution in the presence of dilute nitric acid. Which ion is present?
+A: chloride ion
+W: sulphate ion
+W: carbonate ion
+W: nitrate ion
+E: Silver chloride is a white precipitate that does not dissolve in dilute nitric acid.
+
+Q: Adding barium chloride solution to an acidified solution gives a white precipitate. Which ion is present?
+A: sulphate ion
+W: chloride ion
+W: nitrate ion
+W: ammonium ion
+E: Barium sulphate is a white insoluble precipitate.
+
+Q: Which gas turns damp red litmus paper blue?
+A: ammonia
+W: chlorine
+W: carbon dioxide
+W: hydrogen chloride
+E: Ammonia is the only common alkaline gas.
+
+Q: Which gas burns with a "pop" when tested with a lighted splint?
+A: hydrogen
+W: oxygen
+W: carbon dioxide
+W: ammonia
+E: Hydrogen burns explosively with oxygen in the air.
+
+Q: Which metal ion gives a golden-yellow flame?
+A: sodium
+W: potassium
+W: copper
+W: calcium
+E: Potassium gives lilac, copper blue-green and calcium brick-red.
+
+Q: Adding sodium hydroxide solution gives a blue precipitate. Which ion is present?
+A: copper(II) ion
+W: iron(II) ion
+W: iron(III) ion
+W: zinc ion
+E: Copper(II) hydroxide is blue. Iron(II) gives green and iron(III) gives reddish-brown.
+
+@topic chm-petroleum | Petroleum and fuels | SS3
+
+Q: Crude oil is mainly a mixture of
+A: hydrocarbons
+W: salts
+W: proteins
+W: metals
+E: Crude oil contains many alkanes and other hydrocarbons.
+
+Q: Breaking long-chain hydrocarbons into shorter, more useful ones is called
+A: cracking
+W: polymerisation
+W: fermentation
+W: distillation of water
+E: Cracking produces petrol and alkenes from heavy fractions.
+
+Q: The octane rating of petrol measures its
+A: resistance to knocking in engines
+W: colour
+W: boiling point
+W: price
+E: Higher octane petrol burns smoothly without knocking.
+
+Q: Which fraction of crude oil is used as aviation fuel and in lanterns?
+A: kerosene
+W: bitumen
+W: lubricating oil
+W: refinery gas
+E: Kerosene is used in lamps, stoves and jet engines.
+
+Q: Bitumen from crude oil is used for
+A: road surfacing
+W: cooking gas
+W: car fuel
+W: candles
+E: Bitumen is the thick residue used to tar roads and waterproof roofs.
+
+Q: Liquefied petroleum gas (LPG) used for cooking is mainly
+A: propane and butane
+W: methane and ethene
+W: hydrogen and oxygen
+W: octane
+E: Propane and butane are easily liquefied under pressure.
+
+@topic chm-polymers | Polymers and biochemistry | SS3
+
+Q: Small molecules that join to form a polymer are called
+A: monomers
+W: isomers
+W: isotopes
+W: allotropes
+E: For example, ethene monomers join to make polyethene.
+
+Q: Polyethene is made by
+A: addition polymerisation
+W: condensation polymerisation
+W: fermentation
+W: cracking
+E: Ethene molecules join through their double bonds without losing any small molecule.
+
+Q: Which of these is a natural polymer?
+A: starch
+W: nylon
+W: polyethene
+W: PVC
+E: Starch, proteins, cellulose and natural rubber are natural polymers.
+
+Q: Proteins are polymers of
+A: amino acids
+W: glucose
+W: fatty acids
+W: ethene
+E: Amino acids are joined by peptide bonds.
+
+Q: Which polymer is used to make water pipes?
+A: PVC
+W: starch
+W: protein
+W: cellulose
+E: Polyvinyl chloride is tough and resistant to water.
+
+Q: Thermosetting plastics differ from thermoplastics because they
+A: cannot be softened again by heating
+W: melt easily when heated
+W: are natural polymers
+W: dissolve in water
+E: Thermosets set permanently; thermoplastics can be reheated and reshaped.
+
+@topic chm-industry | The chemical industry | SS3
+
+Q: Which raw material is used to make cement?
+A: limestone
+W: bauxite
+W: haematite
+W: sand
+E: Cement is made by heating limestone with clay.
+
+Q: Glass is made mainly from
+A: sand, soda ash and limestone
+W: clay and water
+W: iron and carbon
+W: salt and sugar
+E: These are heated together until they melt.
+
+Q: Which industry uses the Solvay process?
+A: sodium carbonate (soda ash) manufacture
+W: ammonia manufacture
+W: steel making
+W: petrol refining
+E: The Solvay process makes sodium carbonate from brine, limestone and ammonia.
+
+Q: Which is an advantage of locating a chemical industry near its raw materials?
+A: lower transport costs
+W: more pollution
+W: higher prices
+W: fewer workers
+E: Bulky raw materials are expensive to move.
+
+Q: Which by-product of the Haber process is recycled?
+A: unreacted nitrogen and hydrogen
+W: sulphur dioxide
+W: carbon monoxide
+W: chlorine
+E: The yield is only partial, so unreacted gases are passed over the catalyst again.
+
+Q: Detergents differ from soap because detergents
+A: lather well in hard water
+W: form scum in hard water
+W: are made from fats
+W: cannot dissolve grease
+E: Detergents do not form scum with calcium and magnesium ions.
+
+@topic chm-bonding
+Q: Which force holds molecules of water to each other and gives water its high boiling point?
+A: hydrogen bonding
+W: ionic bonding
+W: metallic bonding
+W: nuclear force
+E: Hydrogen bonds between molecules need extra energy to break.
+
+Q: Which compound is formed by covalent bonding?
+A: methane
+W: sodium chloride
+W: magnesium oxide
+W: calcium chloride
+E: Carbon and hydrogen share electrons in CH₄.
+
+Q: How many electrons are shared in a double covalent bond?
+A: 4
+W: 2
+W: 6
+W: 1
+E: A double bond is two shared pairs, as in O₂ and C=C.
+
+@topic chm-periodic
+Q: Which group 1 metal reacts most vigorously with water?
+A: potassium
+W: lithium
+W: sodium
+W: all react the same
+E: Reactivity of the alkali metals increases down the group.
+
+Q: Which halogen is the most reactive?
+A: fluorine
+W: chlorine
+W: bromine
+W: iodine
+E: Reactivity of the halogens decreases down the group.
+
+Q: Elements that have properties of both metals and non-metals are called
+A: metalloids
+W: halogens
+W: noble gases
+W: alkali metals
+E: Silicon and germanium are metalloids.
+
+@topic chm-acids
+Q: Which of these is a base that dissolves in water (an alkali)?
+A: sodium hydroxide
+W: copper(II) oxide
+W: iron(III) oxide
+W: zinc oxide
+E: An alkali is a soluble base. Most metal oxides are insoluble.
+
+Q: Which indicator is pink in alkaline solution and colourless in acid?
+A: phenolphthalein
+W: methyl orange
+W: litmus
+W: universal indicator
+E: Phenolphthalein is used in titrations of weak acids with strong bases.
+
+Q: A solution with pH 2 is
+A: strongly acidic
+W: weakly acidic
+W: neutral
+W: strongly alkaline
+E: The lower the pH below 7, the more acidic the solution.
+
+@topic chm-redox
+Q: In the reaction Zn + CuSO₄ → ZnSO₄ + Cu, zinc acts as the
+A: reducing agent
+W: oxidising agent
+W: catalyst
+W: indicator
+E: Zinc gives electrons to copper ions, so it is oxidised and acts as the reducing agent.
+
+Q: What is the oxidation number of chlorine in NaCl?
+A: −1
+W: +1
+W: 0
+W: +7
+E: Sodium is +1, so chlorine must be −1 for the compound to be neutral.
+
+Q: What is the oxidation number of any element in its free (uncombined) state?
+A: 0
+W: +1
+W: −1
+W: +2
+E: For example, O₂, Fe and Cl₂ all have an oxidation number of 0.

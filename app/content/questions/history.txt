@@ -1,0 +1,353 @@
+@subject history
+
+@topic his-early | Early Nigerian societies and cultures | SS1
+
+Q: The Nok culture is best known for its
+A: terracotta (baked clay) sculptures
+W: bronze heads of the Obas
+W: stone city walls
+W: rock paintings in caves
+E: Nok terracotta figures were made in central Nigeria from about 1500 BCE to 500 CE.
+
+Q: Igbo-Ukwu is famous for its
+A: ancient bronze objects
+W: terracotta figures
+W: stone monoliths
+W: mud mosques
+E: Igbo-Ukwu bronzes from around the 9th–10th century CE show great skill in metal casting.
+
+Q: The ancient city of Ile-Ife is famous for its
+A: naturalistic bronze and terracotta heads
+W: oil palm plantations
+W: Sahara trade routes
+W: Benin moat
+E: Ife art is known for lifelike heads, many dating from the 12th to 15th centuries.
+
+Q: Which source of history is passed down by word of mouth?
+A: oral tradition
+W: archaeology
+W: written records
+W: radiocarbon dating
+E: Oral tradition includes stories, songs, proverbs and praise poems.
+
+Q: The study of the past through the remains of material things is
+A: archaeology
+W: oral tradition
+W: linguistics
+W: geography
+E: Archaeologists dig up and study objects, tools and buildings.
+
+Q: The Ikom monoliths, carved stones in Cross River State, are an example of
+A: ancient stone art
+W: colonial buildings
+W: bronze casting
+W: textile weaving
+E: The Ikom monoliths are carved basalt stones of uncertain age.
+
+@topic his-states | Pre-colonial states | SS1
+
+Q: The Saifawa dynasty ruled the empire of
+A: Kanem-Bornu
+W: Oyo
+W: Benin
+W: Songhai
+E: The Saifawa dynasty ruled Kanem and later Bornu for many centuries.
+
+Q: Which ruler of Bornu is famous for introducing firearms and reorganising the army?
+A: Mai Idris Alooma
+W: Mansa Musa
+W: Oba Ewuare
+W: Sarkin Muhammadu Rumfa
+E: Mai Idris Alooma reigned in the late 16th century and strengthened Bornu.
+
+Q: According to tradition, the Hausa states trace their origin to
+A: Bayajidda and the Queen of Daura
+W: Oduduwa
+W: Eri
+W: Tsoede
+E: The Bayajidda legend explains the founding of the seven Hausa states (Hausa Bakwai).
+
+Q: Which warrior queen of Zazzau (Zaria) is remembered for building walled towns?
+A: Queen Amina
+W: Queen Idia
+W: Moremi
+W: Nana Asma'u
+E: Queen Amina expanded Zazzau and built defensive walls.
+
+Q: The ruler of the old Oyo Empire was called the
+A: Alaafin
+W: Oba
+W: Emir
+W: Mai
+E: The Alaafin ruled Oyo with the Oyo Mesi as a check on his power.
+
+Q: Which Oba of Benin is credited with rebuilding Benin City and expanding the kingdom in the 15th century?
+A: Oba Ewuare
+W: Oba Ovonramwen
+W: Oba Akenzua
+W: Oba Esigie
+E: Ewuare the Great strengthened Benin and is linked with the city's walls and moats.
+
+@topic his-trade | The trans-Saharan trade | SS1
+
+Q: Which animal was mainly used to carry goods across the Sahara?
+A: camel
+W: horse
+W: donkey
+W: elephant
+E: Camels could travel long distances with little water.
+
+Q: Which commodity was mainly brought south across the Sahara?
+A: salt
+W: kola nuts
+W: gold
+W: slaves
+E: North African traders brought salt, cloth and horses, and took back gold, kola and slaves.
+
+Q: Which of these was exported from West Africa across the Sahara?
+A: gold
+W: salt
+W: horses
+W: glass beads from Venice
+E: West African gold was highly valued in North Africa and Europe.
+
+Q: A major effect of the trans-Saharan trade on West Africa was
+A: the spread of Islam
+W: the spread of Christianity
+W: the end of farming
+W: the building of railways
+E: Muslim traders and scholars brought Islam and literacy in Arabic.
+
+Q: Which city in Nigeria became an important terminus of the trans-Saharan trade?
+A: Kano
+W: Lagos
+W: Calabar
+W: Port Harcourt
+E: Kano was a major market for goods from across the Sahara.
+
+Q: Which ancient empire was famous for gold and was led by Mansa Musa?
+A: Mali
+W: Ghana
+W: Oyo
+W: Benin
+E: Mansa Musa's wealth became famous during his pilgrimage to Makkah in 1324.
+
+@topic his-jihad | The Sokoto Jihad | SS2
+
+Q: The Sokoto Jihad began in
+A: 1804
+W: 1900
+W: 1760
+W: 1914
+E: Uthman dan Fodio declared the jihad against Gobir in 1804.
+
+Q: Who led the Sokoto Jihad?
+A: Shehu Uthman dan Fodio
+W: Muhammad Bello
+W: Mai Idris Alooma
+W: El-Kanemi
+E: Uthman dan Fodio was a Fulani scholar and reformer.
+
+Q: Which leader defended Bornu against the jihadists?
+A: Muhammad al-Amin El-Kanemi
+W: Uthman dan Fodio
+W: Afonja
+W: Muhammad Bello
+E: El-Kanemi helped Bornu resist the Sokoto Caliphate and later founded a new dynasty.
+
+Q: The emirate of Ilorin was established after the revolt of
+A: Afonja against the Alaafin of Oyo
+W: Jaja of Opobo
+W: Nana of Itsekiri
+W: the Ekiti Parapo
+E: Afonja, a general of Oyo, rebelled and invited Fulani support, which led to the Ilorin emirate.
+
+Q: Which was a result of the Sokoto Jihad?
+A: the creation of a large caliphate in northern Nigeria
+W: the arrival of the Portuguese
+W: the end of Islam in the north
+W: the start of the Atlantic slave trade
+E: The jihad united much of the north under the Sokoto Caliphate.
+
+Q: The capital of the eastern half of the Sokoto Caliphate was
+A: Sokoto
+W: Gwandu
+W: Kano
+W: Ilorin
+E: The caliphate was divided: Sokoto controlled the east and Gwandu the west.
+
+@topic his-europeans | European contact and the slave trade | SS2
+
+Q: Which European people were the first to reach the Benin Kingdom in the 15th century?
+A: the Portuguese
+W: the British
+W: the French
+W: the Germans
+E: Portuguese traders reached Benin in the 1480s.
+
+Q: Britain abolished the slave trade in
+A: 1807
+W: 1914
+W: 1960
+W: 1700
+E: The British Parliament passed the Abolition of the Slave Trade Act in 1807.
+
+Q: Which goods replaced the slave trade in the Niger Delta in the 19th century?
+A: palm oil and palm kernels
+W: crude oil
+W: cocoa
+W: tin
+E: This "legitimate trade" gave the Delta the name "Oil Rivers".
+
+Q: Which Niger Delta king was exiled by the British in 1887?
+A: Jaja of Opobo
+W: Nana Olomu
+W: Ovonramwen
+W: Kosoko
+E: Jaja controlled the palm oil trade and resisted British traders.
+
+Q: Lagos was annexed as a British colony in
+A: 1861
+W: 1914
+W: 1900
+W: 1807
+E: Britain took over Lagos in 1861, partly to stop the slave trade.
+
+Q: Which Christian missionary, born in Nigeria and once enslaved, became the first African Anglican bishop?
+A: Samuel Ajayi Crowther
+W: Mary Slessor
+W: Henry Townsend
+W: Thomas Birch Freeman
+E: Bishop Crowther was consecrated in 1864.
+
+@topic his-colonial | The British conquest and colonial rule | SS2
+
+Q: The British expedition of 1897 led to the exile of
+A: Oba Ovonramwen of Benin
+W: Jaja of Opobo
+W: the Alaafin of Oyo
+W: the Sultan of Sokoto
+E: After the 1897 expedition, Ovonramwen was exiled to Calabar.
+
+Q: The Royal Niger Company was led by
+A: George Taubman Goldie
+W: Frederick Lugard
+W: Hugh Clifford
+W: Mungo Park
+E: Goldie's company received a royal charter in 1886. It was revoked in 1900.
+
+Q: Which Scottish missionary is remembered for stopping the killing of twins in Calabar?
+A: Mary Slessor
+W: Mungo Park
+W: David Livingstone
+W: Samuel Crowther
+E: Mary Slessor worked among the Efik and Ibibio people.
+
+Q: The Northern and Southern Protectorates were amalgamated in
+A: 1914
+W: 1900
+W: 1861
+W: 1922
+E: Lord Lugard became the first Governor-General of Nigeria.
+
+Q: Who suggested the name "Nigeria"?
+A: Flora Shaw
+W: Frederick Lugard
+W: Mungo Park
+W: Herbert Macaulay
+E: Flora Shaw, a journalist who later married Lugard, suggested the name in 1897.
+
+Q: Which explorer is linked to the exploration of the course of the River Niger?
+A: Mungo Park
+W: Vasco da Gama
+W: Christopher Columbus
+W: Captain Cook
+E: Mungo Park explored the Niger and died at Bussa in 1806.
+
+@topic his-nationalism | Nationalism and independence | SS3
+
+Q: Nigeria became independent on
+A: 1 October 1960
+W: 1 October 1963
+W: 12 June 1993
+W: 29 May 1999
+E: Nigeria gained independence from Britain on 1 October 1960.
+
+Q: Who was Nigeria's first Prime Minister?
+A: Sir Abubakar Tafawa Balewa
+W: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Ahmadu Bello
+E: Tafawa Balewa led the federal government from 1957 to 1966.
+
+Q: In 1953, who moved the motion calling for Nigeria's self-government in 1956?
+A: Anthony Enahoro
+W: Nnamdi Azikiwe
+W: Ahmadu Bello
+W: Herbert Macaulay
+E: The motion caused a crisis between northern and southern leaders.
+
+Q: Who was the first Premier of the Western Region?
+A: Obafemi Awolowo
+W: Nnamdi Azikiwe
+W: Ahmadu Bello
+W: Michael Okpara
+E: Awolowo led the Action Group and became Premier in 1954.
+
+Q: Who was the first Premier of the Northern Region?
+A: Sir Ahmadu Bello
+W: Tafawa Balewa
+W: Aminu Kano
+W: Shehu Shagari
+E: Ahmadu Bello, the Sardauna of Sokoto, led the Northern People's Congress.
+
+Q: Which newspaper did Nnamdi Azikiwe found in 1937 to promote nationalism?
+A: the West African Pilot
+W: the Daily Times
+W: the Lagos Weekly Record
+W: the Punch
+E: The West African Pilot spread nationalist ideas across Nigeria.
+
+@topic his-post-independence | Nigeria since independence | SS3
+
+Q: The Nigerian Civil War lasted from
+A: 1967 to 1970
+W: 1960 to 1963
+W: 1966 to 1967
+W: 1970 to 1975
+E: The war began in July 1967 and ended in January 1970.
+
+Q: Which slogan did the federal government use to promote reconciliation after the Civil War?
+A: "No victor, no vanquished"
+W: "Unity in diversity"
+W: "Change begins with me"
+W: "Operation Feed the Nation"
+E: The policy was followed by the 3Rs: reconciliation, reconstruction and rehabilitation.
+
+Q: The federal capital officially moved from Lagos to Abuja in
+A: 1991
+W: 1976
+W: 1999
+W: 1960
+E: The move took place on 12 December 1991.
+
+Q: The presidential election of 12 June 1993, which was annulled, is believed to have been won by
+A: M. K. O. Abiola
+W: Bashir Tofa
+W: Olusegun Obasanjo
+W: Ernest Shonekan
+E: June 12 has been celebrated as Nigeria's Democracy Day since 2019.
+
+Q: The Fourth Republic began on
+A: 29 May 1999
+W: 1 October 1979
+W: 12 June 1993
+W: 1 October 1960
+E: Olusegun Obasanjo was sworn in as president, ending military rule.
+
+Q: Which programme was launched in 1976 to make primary education free and available to all?
+A: Universal Primary Education (UPE)
+W: Operation Feed the Nation
+W: Structural Adjustment Programme
+W: National Youth Service Corps
+E: UPE was launched by the military government in 1976.

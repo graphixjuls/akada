@@ -1,0 +1,749 @@
+@subject biology
+
+@topic bio-classification | Classification of living things | SS1
+
+Q: Which of these is a characteristic of all living things?
+A: they respire
+W: they photosynthesise
+W: they move from place to place
+W: they have a backbone
+E: All living things respire to release energy. Only green plants photosynthesise.
+
+Q: Which kingdom do mushrooms belong to?
+A: Fungi
+W: Plantae
+W: Animalia
+W: Monera
+E: Mushrooms do not photosynthesise and have cell walls made of chitin, so they are fungi.
+
+Q: The system of giving every organism a two-part scientific name is called
+A: binomial nomenclature
+W: taxonomy
+W: evolution
+W: genetics
+E: Each organism has a genus name and a species name, e.g. Homo sapiens.
+
+Q: Which of these animals is a mammal?
+A: bat
+W: lizard
+W: frog
+W: shark
+E: Bats have hair and feed their young with milk, so they are mammals.
+
+Q: Which group of organisms has no true nucleus?
+A: bacteria
+W: fungi
+W: algae
+W: protozoa
+E: Bacteria are prokaryotes: their genetic material is not enclosed in a nucleus.
+
+Q: Which feature is found in insects?
+A: three pairs of jointed legs
+W: four pairs of legs
+W: a backbone
+W: two body parts
+E: Insects have three body parts (head, thorax, abdomen) and three pairs of legs.
+
+@topic bio-cells | The cell | SS1
+
+Q: Which organelle is the site of aerobic respiration?
+A: mitochondrion
+W: ribosome
+W: nucleus
+W: chloroplast
+E: Mitochondria release energy from food by aerobic respiration.
+
+Q: Which structure is found in plant cells but not in animal cells?
+A: cell wall
+W: cell membrane
+W: nucleus
+W: cytoplasm
+E: Plant cells have a cellulose cell wall. Animal cells do not.
+
+Q: Which organelle controls the activities of the cell?
+A: nucleus
+W: vacuole
+W: cell wall
+W: ribosome
+E: The nucleus contains the chromosomes and controls cell activities.
+
+Q: Where does protein synthesis take place in a cell?
+A: ribosomes
+W: mitochondria
+W: vacuole
+W: cell wall
+E: Ribosomes join amino acids together to make proteins.
+
+Q: Which organelle contains chlorophyll?
+A: chloroplast
+W: mitochondrion
+W: nucleus
+W: Golgi body
+E: Chloroplasts trap light energy for photosynthesis.
+
+Q: Who first described cells, after looking at cork under a microscope?
+A: Robert Hooke
+W: Charles Darwin
+W: Gregor Mendel
+W: Louis Pasteur
+E: Robert Hooke named "cells" in 1665 after observing cork.
+
+@topic bio-environment | The cell and its environment | SS1
+
+Q: The movement of water molecules from a dilute solution to a concentrated solution through a selectively permeable membrane is called
+A: osmosis
+W: diffusion
+W: active transport
+W: transpiration
+E: Osmosis is the movement of water across a selectively permeable membrane.
+
+Q: When a plant cell is placed in a concentrated salt solution, it becomes
+A: plasmolysed
+W: turgid
+W: burst
+W: larger
+E: Water leaves the cell by osmosis and the cytoplasm shrinks away from the cell wall.
+
+Q: The smell of perfume spreading through a room is an example of
+A: diffusion
+W: osmosis
+W: active transport
+W: plasmolysis
+E: Perfume molecules move from a region of high concentration to low concentration.
+
+Q: What happens to a red blood cell placed in distilled water?
+A: it swells and bursts
+W: it shrinks
+W: it stays the same
+W: it becomes plasmolysed
+E: Water enters by osmosis. Animal cells have no cell wall, so the cell bursts (haemolysis).
+
+Q: Which process needs energy from the cell to move substances against a concentration gradient?
+A: active transport
+W: diffusion
+W: osmosis
+W: imbibition
+E: Active transport uses energy (ATP) to move substances from low to high concentration.
+
+Q: Why does sprinkling salt on a garden snail harm it?
+A: water is drawn out of its body by osmosis
+W: the salt gives it too much energy
+W: the salt blocks its mouth
+W: the snail absorbs too much water
+E: The salt makes the surface very concentrated, so water leaves the snail's cells.
+
+@topic bio-photosynthesis | Nutrition in plants | SS1
+
+Q: Which gas do plants take in for photosynthesis?
+A: carbon dioxide
+W: oxygen
+W: nitrogen
+W: hydrogen
+E: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ in the presence of light and chlorophyll.
+
+Q: Which gas is given off during photosynthesis?
+A: oxygen
+W: carbon dioxide
+W: nitrogen
+W: methane
+E: Oxygen is released when water is split during the light stage.
+
+Q: Which chemical is used to test a leaf for starch?
+A: iodine solution
+W: Benedict's solution
+W: limewater
+W: Millon's reagent
+E: Iodine turns blue-black in the presence of starch.
+
+Q: Which mineral element is needed to make chlorophyll?
+A: magnesium
+W: calcium
+W: sodium
+W: iodine
+E: Magnesium is at the centre of the chlorophyll molecule. Lack of it causes yellowing (chlorosis).
+
+Q: The tiny pores on leaves through which gases enter and leave are called
+A: stomata
+W: lenticels
+W: root hairs
+W: xylem
+E: Stomata, controlled by guard cells, allow gas exchange and water loss.
+
+Q: Plants that trap insects to get extra nitrogen are described as
+A: insectivorous
+W: parasitic
+W: saprophytic
+W: autotrophic
+E: Insectivorous plants such as the sundew digest insects for nitrogen.
+
+@topic bio-ecology | Basic ecology | SS1
+
+Q: In the food chain grass → grasshopper → lizard → hawk, which organism is the producer?
+A: grass
+W: grasshopper
+W: lizard
+W: hawk
+E: Producers are green plants that make their own food by photosynthesis.
+
+Q: In the food chain grass → grasshopper → lizard → hawk, the lizard is a
+A: secondary consumer
+W: primary consumer
+W: producer
+W: decomposer
+E: The lizard eats the primary consumer (grasshopper), so it is a secondary consumer.
+
+Q: What is the role of decomposers in an ecosystem?
+A: they break down dead matter and return nutrients to the soil
+W: they make food by photosynthesis
+W: they eat only living plants
+W: they trap sunlight
+E: Bacteria and fungi recycle nutrients from dead organisms.
+
+Q: All the organisms of one species living in an area make up a
+A: population
+W: community
+W: ecosystem
+W: biosphere
+E: A population is one species in one area. A community includes all species.
+
+Q: The relationship between a tapeworm and its human host is
+A: parasitism
+W: mutualism
+W: commensalism
+W: competition
+E: The tapeworm benefits while the host is harmed.
+
+Q: The relationship between nitrogen-fixing bacteria and the roots of beans is
+A: mutualism (symbiosis)
+W: parasitism
+W: predation
+W: competition
+E: The bacteria get food and shelter; the plant gets nitrogen compounds. Both benefit.
+
+@topic bio-skeleton | Supporting systems | SS1
+
+Q: Which joint allows movement in all directions?
+A: ball-and-socket joint
+W: hinge joint
+W: gliding joint
+W: fixed joint
+E: The shoulder and hip are ball-and-socket joints.
+
+Q: The elbow is an example of a
+A: hinge joint
+W: ball-and-socket joint
+W: pivot joint
+W: fixed joint
+E: A hinge joint allows movement in one plane only, like a door.
+
+Q: Which tissue joins a muscle to a bone?
+A: tendon
+W: ligament
+W: cartilage
+W: nerve
+E: Tendons attach muscles to bones. Ligaments join bone to bone.
+
+Q: The skeleton of an insect is described as an
+A: exoskeleton
+W: endoskeleton
+W: hydrostatic skeleton
+W: cartilage skeleton
+E: Insects have a hard outer covering made of chitin.
+
+Q: Which mineral is important for strong bones and teeth?
+A: calcium
+W: iron
+W: iodine
+W: sodium
+E: Calcium (with phosphorus) hardens bones and teeth.
+
+Q: Which tissue provides support in young plant stems?
+A: collenchyma
+W: phloem
+W: epidermis
+W: root hairs
+E: Collenchyma cells have thickened corners that give flexible support.
+
+@topic bio-digestion | Nutrition in animals | SS2
+
+Q: Which enzyme in saliva begins the digestion of starch?
+A: salivary amylase (ptyalin)
+W: pepsin
+W: lipase
+W: trypsin
+E: Salivary amylase breaks starch down to maltose.
+
+Q: Where is most digested food absorbed?
+A: small intestine (ileum)
+W: stomach
+W: large intestine
+W: oesophagus
+E: The ileum has villi that give a large surface area for absorption.
+
+Q: Which food class is mainly for body building and repair?
+A: proteins
+W: carbohydrates
+W: fats and oils
+W: water
+E: Proteins are made of amino acids that build and repair tissues.
+
+Q: A shortage of vitamin C causes
+A: scurvy
+W: rickets
+W: night blindness
+W: beriberi
+E: Scurvy causes bleeding gums. Rickets is caused by lack of vitamin D.
+
+Q: What is the role of bile in digestion?
+A: it emulsifies fats
+W: it digests proteins
+W: it digests starch
+W: it absorbs water
+E: Bile breaks fats into tiny droplets, giving lipase a larger surface to work on.
+
+Q: Kwashiorkor in children is caused by a lack of
+A: protein
+W: carbohydrate
+W: vitamin A
+W: water
+E: Kwashiorkor is a protein-deficiency disease, with a swollen belly and thin limbs.
+
+@topic bio-transport | Transport systems | SS2
+
+Q: Which blood vessels carry blood away from the heart?
+A: arteries
+W: veins
+W: capillaries
+W: lymph vessels
+E: Arteries carry blood away from the heart under high pressure.
+
+Q: Which blood cells help in clotting?
+A: platelets
+W: red blood cells
+W: white blood cells
+W: plasma cells
+E: Platelets release substances that start the clotting process.
+
+Q: Which chamber of the heart pumps blood to the whole body?
+A: left ventricle
+W: right ventricle
+W: left atrium
+W: right atrium
+E: The left ventricle has the thickest wall and pumps oxygenated blood into the aorta.
+
+Q: Water moves up a plant from the roots to the leaves through the
+A: xylem
+W: phloem
+W: cambium
+W: cortex
+E: Xylem vessels carry water and mineral salts upwards.
+
+Q: The loss of water vapour from the leaves of a plant is called
+A: transpiration
+W: translocation
+W: guttation
+W: respiration
+E: Water evaporates from leaf cells and escapes through the stomata.
+
+Q: Which pigment in red blood cells carries oxygen?
+A: haemoglobin
+W: chlorophyll
+W: melanin
+W: insulin
+E: Haemoglobin combines with oxygen to form oxyhaemoglobin.
+
+@topic bio-respiration | Respiration | SS2
+
+Q: What are the products of aerobic respiration?
+A: carbon dioxide, water and energy
+W: oxygen and glucose
+W: lactic acid and energy
+W: alcohol and carbon dioxide
+E: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy.
+
+Q: During vigorous exercise, muscles respire anaerobically and produce
+A: lactic acid
+W: alcohol
+W: oxygen
+W: starch
+E: Lactic acid builds up and causes muscle fatigue.
+
+Q: Anaerobic respiration in yeast produces
+A: alcohol and carbon dioxide
+W: lactic acid
+W: oxygen and water
+W: glucose
+E: This is fermentation, used in brewing and baking.
+
+Q: Gaseous exchange in the human lungs takes place in the
+A: alveoli
+W: trachea
+W: bronchi
+W: larynx
+E: The alveoli are thin-walled air sacs surrounded by capillaries.
+
+Q: In which part of the cell does aerobic respiration mainly take place?
+A: mitochondria
+W: nucleus
+W: chloroplast
+W: cell wall
+E: Mitochondria are called the "powerhouse" of the cell.
+
+Q: Through which structures do insects breathe?
+A: spiracles and tracheae
+W: gills
+W: lungs
+W: skin
+E: Air enters through spiracles and reaches the cells through a network of tracheae.
+
+@topic bio-excretion | Excretion | SS2
+
+Q: Which organ removes urea from the blood?
+A: kidney
+W: liver
+W: lungs
+W: heart
+E: The kidneys filter urea from the blood and pass it out in urine.
+
+Q: The functional unit of the kidney is the
+A: nephron
+W: neuron
+W: alveolus
+W: villus
+E: Each kidney contains about a million nephrons, which filter blood.
+
+Q: Which substance is excreted by the lungs?
+A: carbon dioxide
+W: urea
+W: bile
+W: sweat
+E: Carbon dioxide from respiration diffuses out of the blood in the lungs.
+
+Q: Where is urea made in the human body?
+A: liver
+W: kidney
+W: bladder
+W: pancreas
+E: The liver breaks down excess amino acids (deamination) and forms urea.
+
+Q: Which of these is an excretory product of plants?
+A: oxygen from photosynthesis
+W: glucose
+W: starch
+W: chlorophyll
+E: Oxygen is a waste product of photosynthesis, as well as carbon dioxide from respiration.
+
+Q: The skin helps in excretion by producing
+A: sweat
+W: urine
+W: bile
+W: saliva
+E: Sweat contains water, salts and small amounts of urea.
+
+@topic bio-coordination | Nervous and hormonal coordination | SS2
+
+Q: The basic unit of the nervous system is the
+A: neuron
+W: nephron
+W: hormone
+W: synapse
+E: Neurons are nerve cells that carry electrical impulses.
+
+Q: Which hormone controls blood sugar level by lowering it?
+A: insulin
+W: adrenaline
+W: thyroxine
+W: oestrogen
+E: Insulin from the pancreas helps cells take up glucose, lowering blood sugar.
+
+Q: Which part of the brain controls balance and coordination of movement?
+A: cerebellum
+W: cerebrum
+W: medulla oblongata
+W: hypothalamus
+E: The cerebellum coordinates muscle movement and balance.
+
+Q: Pulling your hand away quickly from a hot object is an example of a
+A: reflex action
+W: voluntary action
+W: conditioned reflex
+W: hormonal response
+E: A reflex is fast and automatic, passing through the spinal cord.
+
+Q: Which gland is often called the "master gland"?
+A: pituitary gland
+W: thyroid gland
+W: adrenal gland
+W: pancreas
+E: The pituitary releases hormones that control many other glands.
+
+Q: The growth of a plant shoot towards light is called
+A: phototropism
+W: geotropism
+W: hydrotropism
+W: thigmotropism
+E: Auxins collect on the shaded side and make it grow faster, so the shoot bends to the light.
+
+@topic bio-plant-reproduction | Reproduction in plants | SS2
+
+Q: The transfer of pollen from the anther to the stigma is called
+A: pollination
+W: fertilisation
+W: germination
+W: dispersal
+E: Pollination comes before fertilisation.
+
+Q: After fertilisation, the ovary develops into the
+A: fruit
+W: seed
+W: flower
+W: stem
+E: The ovary becomes the fruit and the ovules become the seeds.
+
+Q: Which part of a flower produces pollen grains?
+A: anther
+W: stigma
+W: ovary
+W: sepal
+E: The anther is the top part of the stamen.
+
+Q: Fruits such as those of the shea tree and mango are mainly dispersed by
+A: animals
+W: wind
+W: water
+W: explosion
+E: Animals eat the fleshy fruit and drop or pass out the seeds elsewhere.
+
+Q: Which method of propagation uses part of a stem to grow a new plant, as in cassava?
+A: stem cutting
+W: seed sowing
+W: spore formation
+W: grafting
+E: Cassava is propagated by planting stem cuttings.
+
+Q: Which condition is NOT needed for a seed to germinate?
+A: light
+W: water
+W: oxygen
+W: a suitable temperature
+E: Most seeds need water, oxygen and warmth to germinate. Light is not usually required.
+
+@topic bio-animal-reproduction | Reproduction in animals | SS2
+
+Q: Where does fertilisation take place in humans?
+A: oviduct (fallopian tube)
+W: uterus
+W: vagina
+W: ovary
+E: The sperm meets the egg in the oviduct.
+
+Q: Which organ produces sperm in human males?
+A: testis
+W: prostate gland
+W: urethra
+W: bladder
+E: Sperm are produced in the testes.
+
+Q: The structure through which a foetus gets food and oxygen from the mother is the
+A: placenta
+W: amnion
+W: ovary
+W: cervix
+E: Substances pass between mother and foetus across the placenta.
+
+Q: The stages in the life cycle of a mosquito are
+A: egg, larva, pupa, adult
+W: egg, nymph, adult
+W: egg and adult
+W: larva, egg, adult, pupa
+E: Mosquitoes undergo complete metamorphosis.
+
+Q: Which hormone is mainly responsible for male secondary sexual characteristics?
+A: testosterone
+W: oestrogen
+W: progesterone
+W: insulin
+E: Testosterone causes changes such as deepening of the voice and growth of facial hair.
+
+Q: Animals such as birds and reptiles that lay eggs are described as
+A: oviparous
+W: viviparous
+W: parasitic
+W: hermaphrodite
+E: Oviparous animals lay eggs that develop outside the mother's body.
+
+@topic bio-genetics | Genetics and variation | SS3
+
+Q: In a cross between two heterozygous plants (Tt × Tt), what fraction of the offspring is expected to be short (tt)?
+A: 1/4
+W: 1/2
+W: 3/4
+W: 0
+E: The offspring ratio is 1 TT : 2 Tt : 1 tt, so 1/4 are tt.
+
+Q: Who is known as the father of genetics?
+A: Gregor Mendel
+W: Charles Darwin
+W: Robert Hooke
+W: Louis Pasteur
+E: Mendel worked out the laws of inheritance using garden peas.
+
+Q: A man with blood group AB marries a woman with blood group O. Which blood groups can their children have?
+A: A or B
+W: AB or O
+W: O only
+W: A, B, AB or O
+E: The father passes A or B; the mother passes O. The children are AO (group A) or BO (group B).
+
+Q: Which sex chromosomes does a human male have?
+A: XY
+W: XX
+W: YY
+W: XO
+E: Males have one X and one Y chromosome. Females have two X chromosomes.
+
+Q: The basic unit of inheritance is the
+A: gene
+W: cell
+W: nucleus
+W: protein
+E: Genes are sections of DNA on chromosomes that carry hereditary information.
+
+Q: Which of these is an example of continuous variation?
+A: height
+W: blood group
+W: ability to roll the tongue
+W: sex
+E: Height shows a range of values. The others fall into distinct groups.
+
+@topic bio-evolution | Evolution | SS3
+
+Q: Who proposed the theory of evolution by natural selection?
+A: Charles Darwin
+W: Jean-Baptiste Lamarck
+W: Gregor Mendel
+W: Robert Hooke
+E: Darwin published his theory in "On the Origin of Species" in 1859.
+
+Q: Lamarck's theory of evolution is based on
+A: use and disuse of body parts
+W: natural selection
+W: mutation
+W: survival of the fittest
+E: Lamarck believed features developed through use were passed to offspring.
+
+Q: Which of these is evidence for evolution?
+A: fossil records
+W: weather patterns
+W: soil types
+W: river flow
+E: Fossils show how organisms have changed over long periods.
+
+Q: "Survival of the fittest" means that
+A: organisms best suited to their environment survive and reproduce
+W: the strongest animals always win fights
+W: the largest organisms live longest
+W: all organisms survive equally
+E: Organisms with useful variations are more likely to pass on their genes.
+
+Q: A sudden change in the genetic material of an organism is called a
+A: mutation
+W: variation
+W: adaptation
+W: selection
+E: Mutations can create new variations for natural selection to act on.
+
+Q: The forelimbs of a human, a bat and a whale have a similar bone structure. These are called
+A: homologous structures
+W: analogous structures
+W: vestigial structures
+W: fossils
+E: Homologous structures suggest a common ancestor.
+
+@topic bio-health | Diseases and health | SS3
+
+Q: Which organism causes malaria?
+A: Plasmodium
+W: Anopheles mosquito
+W: a virus
+W: a bacterium
+E: Malaria is caused by the parasite Plasmodium. The female Anopheles mosquito carries it.
+
+Q: Cholera is mainly spread through
+A: contaminated water and food
+W: mosquito bites
+W: shaking hands
+W: sunlight
+E: Cholera bacteria spread through water or food contaminated with faeces.
+
+Q: Which disease is caused by a virus?
+A: measles
+W: tuberculosis
+W: typhoid
+W: malaria
+E: Measles is caused by a virus. TB and typhoid are bacterial; malaria is caused by a protozoan.
+
+Q: Vaccination protects people from disease by
+A: stimulating the body to produce antibodies
+W: killing all bacteria in the body
+W: replacing white blood cells
+W: making the blood thicker
+E: A vaccine trains the immune system to recognise and fight a germ.
+
+Q: Which vector transmits river blindness (onchocerciasis)?
+A: blackfly (Simulium)
+W: tsetse fly
+W: housefly
+W: Anopheles mosquito
+E: Blackflies breed in fast-flowing rivers and transmit the worm that causes river blindness.
+
+Q: Sleeping sickness is transmitted by the
+A: tsetse fly
+W: Anopheles mosquito
+W: housefly
+W: Aedes mosquito
+E: The tsetse fly carries Trypanosoma, the parasite that causes sleeping sickness.
+
+@topic bio-adaptation | Adaptation and conservation | SS3
+
+Q: Cacti have spines instead of broad leaves to
+A: reduce water loss
+W: absorb more sunlight
+W: store starch
+W: attract insects
+E: Spines have a small surface area, which reduces transpiration in dry habitats.
+
+Q: Which feature helps fish live in water?
+A: gills for gaseous exchange
+W: lungs for breathing air
+W: fur for warmth
+W: feathers for flight
+E: Gills take in dissolved oxygen from water.
+
+Q: Mangrove plants have breathing roots (pneumatophores) because
+A: the waterlogged mud has little oxygen
+W: they need more sunlight
+W: they grow in dry deserts
+W: they have no leaves
+E: Pneumatophores stick out of the mud to take in air.
+
+Q: Which of these is a method of wildlife conservation?
+A: creating game reserves and national parks
+W: bush burning
+W: indiscriminate hunting
+W: deforestation
+E: Protected areas such as Yankari Game Reserve help conserve wildlife.
+
+Q: The gradual change in the types of species in an area over time is called
+A: ecological succession
+W: mutation
+W: pollination
+W: hibernation
+E: For example, bare rock may be colonised by lichens, then mosses, grasses and later shrubs.
+
+Q: Why do desert animals such as camels produce very concentrated urine?
+A: to conserve water
+W: to lose more water
+W: to gain heat
+W: to store fat
+E: Producing little water in the urine helps them survive where water is scarce.
