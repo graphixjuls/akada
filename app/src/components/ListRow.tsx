@@ -1,5 +1,5 @@
 import type { Icon } from 'phosphor-react-native';
-import { CaretRightIcon, CheckCircleIcon } from 'phosphor-react-native';
+import { CaretRightIcon, CheckCircleIcon } from '@/components/icons';
 import { Image, type ImageSourcePropType, Pressable, View } from 'react-native';
 import { radius, space, useTheme, type AkadaColors } from '../theme/theme';
 import { AkadaIcon } from './AkadaIcon';

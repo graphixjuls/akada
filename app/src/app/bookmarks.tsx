@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { ArrowLeftIcon, BookmarkSimpleIcon } from 'phosphor-react-native';
+import { ArrowLeftIcon, BookmarkSimpleIcon } from '@/components/icons';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { EmptyState } from '@/components/Feedback';

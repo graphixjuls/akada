@@ -1,4 +1,4 @@
-import { CheckCircleIcon, TimerIcon, XCircleIcon } from 'phosphor-react-native';
+import { CheckCircleIcon, TimerIcon, XCircleIcon } from '@/components/icons';
 import { Pressable, View } from 'react-native';
 import type { NumberState } from '../logic/exam';
 import type { OptionState } from '../logic/practice';

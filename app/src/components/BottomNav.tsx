@@ -1,5 +1,5 @@
 import type { BottomTabBarProps } from 'expo-router/js-tabs';
-import { BooksIcon, ChartLineUpIcon, ExamIcon, HouseIcon, UserCircleIcon, type Icon } from 'phosphor-react-native';
+import { BooksIcon, ChartLineUpIcon, ExamIcon, HouseIcon, UserCircleIcon, type Icon } from '@/components/icons';
 import { Pressable, View } from 'react-native';
 import { radius, space, useTheme } from '../theme/theme';
 import { AkadaIcon } from './AkadaIcon';

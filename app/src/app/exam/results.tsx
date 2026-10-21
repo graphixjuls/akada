@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { XIcon } from 'phosphor-react-native';
+import { XIcon } from '@/components/icons';
 import { View } from 'react-native';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';

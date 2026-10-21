@@ -1,4 +1,4 @@
-import { CheckCircleIcon, InfoIcon, WarningCircleIcon, WifiSlashIcon } from 'phosphor-react-native';
+import { CheckCircleIcon, InfoIcon, WarningCircleIcon, WifiSlashIcon } from '@/components/icons';
 import { createContext, useCallback, useContext, useRef, useState, type ReactNode } from 'react';
 import { Modal, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';

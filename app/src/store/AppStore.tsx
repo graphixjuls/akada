@@ -30,7 +30,8 @@ export interface AppData {
   bookmarks: string[];
   mocks: { at: number; total: number }[];
   activeExam: ExamState | null;
-  settings: { theme: ThemeSetting };
+  /** installHintDismissed: the web "add to home screen" tip was closed. */
+  settings: { theme: ThemeSetting; installHintDismissed?: boolean };
 }
 
 export const initialData: AppData = {

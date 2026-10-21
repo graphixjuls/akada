@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { ArrowCounterClockwiseIcon, BookmarkSimpleIcon, ChatCircleDotsIcon, DownloadSimpleIcon, GearSixIcon, InfoIcon } from 'phosphor-react-native';
+import { ArrowCounterClockwiseIcon, BookmarkSimpleIcon, ChatCircleDotsIcon, DownloadSimpleIcon, GearSixIcon, InfoIcon } from '@/components/icons';
 import { useState } from 'react';
 import { View } from 'react-native';
 import { AkadaText } from '@/components/AkadaText';

@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { ArrowLeftIcon } from 'phosphor-react-native';
+import { ArrowLeftIcon } from '@/components/icons';
 import { View, type ImageSourcePropType } from 'react-native';
 import { space } from '../theme/theme';
 import { AkadaText } from './AkadaText';

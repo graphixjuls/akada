@@ -25,7 +25,7 @@ export function Screen({ children, footer, scroll = true, background = 'bgCanvas
     <SafeAreaView edges={tab ? ['top'] : ['top', 'bottom']} style={{ flex: 1, backgroundColor: bg }}>
       <StatusBar style={background === 'primary' ? 'light' : scheme === 'dark' ? 'light' : 'dark'} />
       {scroll
-        ? <ScrollView contentContainerStyle={styles.content} keyboardShouldPersistTaps="handled">{body}</ScrollView>
+        ? <ScrollView contentContainerStyle={styles.content} keyboardShouldPersistTaps="handled" showsVerticalScrollIndicator={false}>{body}</ScrollView>
         : <View style={[styles.content, { flex: 1 }]}>{body}</View>}
       {footer && <View style={styles.footer}>{footer}</View>}
     </SafeAreaView>

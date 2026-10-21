@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { FlagIcon, ListChecksIcon, XIcon } from 'phosphor-react-native';
+import { FlagIcon, ListChecksIcon, XIcon } from '@/components/icons';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { AppState, Modal, Pressable, ScrollView, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';

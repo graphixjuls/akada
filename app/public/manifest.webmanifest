@@ -1,0 +1,16 @@
+{
+  "name": "Akada: SS1–SS3 practice",
+  "short_name": "Akada",
+  "description": "Free offline practice questions for Nigerian SS1–SS3 students, with explanations and timed mock tests.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1570E6",
+  "theme_color": "#1570E6",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

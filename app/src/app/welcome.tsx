@@ -15,18 +15,26 @@ const SLIDES = [
 ];
 
 export default function Welcome() {
-  const { width, height } = useWindowDimensions();
+  const window = useWindowDimensions();
+  const height = window.height;
+  // Slides are as wide as the list itself, which on the web is the app column, not the whole browser window.
+  const [width, setWidth] = useState(window.width);
   const [index, setIndex] = useState(0);
   const list = useRef<FlatList>(null);
   const last = index === SLIDES.length - 1;
-  const next = () => (last ? router.replace('/get-started') : list.current?.scrollToIndex({ index: index + 1 }));
+  const next = () => {
+    if (last) { router.replace('/get-started'); return; }
+    list.current?.scrollToIndex({ index: index + 1 });
+    setIndex(index + 1);
+  };
   return (
     <Screen
       scroll={false}
       footer={<><PageDots count={SLIDES.length} active={index} /><Button label={last ? 'Get started' : 'Next'} onPress={next} block /></>}
     >
       <View style={{ height: 48, alignItems: 'flex-end', justifyContent: 'center' }}>
-        {!last && <Button label="Skip" variant="ghost" size="small" onPress={() => router.replace('/get-started')} />}
+        {/* Buttons align themselves to the start, so wrap Skip to push it to the right. */}
+        {!last && <View style={{ alignSelf: 'flex-end' }}><Button label="Skip" variant="ghost" size="small" onPress={() => router.replace('/get-started')} /></View>}
       </View>
       <FlatList
         ref={list}
@@ -36,7 +44,10 @@ export default function Welcome() {
         showsHorizontalScrollIndicator={false}
         keyExtractor={s => s.title}
         style={{ marginHorizontal: -space[20] }}
-        onMomentumScrollEnd={e => setIndex(Math.round(e.nativeEvent.contentOffset.x / width))}
+        onLayout={e => setWidth(e.nativeEvent.layout.width)}
+        // onScroll (not onMomentumScrollEnd) so the dots also follow on the web, where momentum events don't fire.
+        onScroll={e => setIndex(Math.round(e.nativeEvent.contentOffset.x / width))}
+        scrollEventThrottle={32}
         getItemLayout={(_, i) => ({ length: width, offset: width * i, index: i })}
         renderItem={({ item }) => (
           <View style={{ width, paddingHorizontal: space[20], gap: space[24] }}>

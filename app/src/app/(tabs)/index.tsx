@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { BellIcon, ExamIcon, PlayIcon } from 'phosphor-react-native';
+import { BellIcon, ExamIcon, PlayIcon } from '@/components/icons';
 import { View } from 'react-native';
 import { AkadaIcon } from '@/components/AkadaIcon';
 import { AkadaText } from '@/components/AkadaText';
@@ -7,6 +7,7 @@ import { Button } from '@/components/Button';
 import { SubjectTag } from '@/components/Chips';
 import { Emoji } from '@/components/Emoji';
 import { IconButton } from '@/components/IconButton';
+import { InstallHint } from '@/components/InstallHint';
 import { Card, Photo, Row, Screen, Stack } from '@/components/Layout';
 import { ProgressBar } from '@/components/Progress';
 import { SubjectCard } from '@/components/SubjectCard';
@@ -73,6 +74,7 @@ export default function Home() {
     return (
       <Screen tab>
         {header}
+        <InstallHint />
         <Card tone="primaryContainer" style={{ borderColor: c.primary, borderWidth: 2 }}>
           <AkadaText variant="labelSmall" color="textBrand">START HERE</AkadaText>
           <Photo source={images.study} height={150} rounded="md" />
@@ -110,6 +112,7 @@ export default function Home() {
   return (
     <Screen tab>
       {header}
+      <InstallHint />
       <Row align="stretch">
         <Card style={{ flex: 1 }} gap={space[8]}>
           <Emoji name="fire" size={40} />

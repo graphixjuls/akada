@@ -1,5 +1,5 @@
 import { Pressable, View } from 'react-native';
-import { TranslateIcon, AtomIcon, UsersThreeIcon, PaletteIcon } from 'phosphor-react-native';
+import { TranslateIcon, AtomIcon, UsersThreeIcon, PaletteIcon } from '@/components/icons';
 import { radius, space, subjectColors, useTheme, type SubjectColorKey } from '../theme/theme';
 import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';

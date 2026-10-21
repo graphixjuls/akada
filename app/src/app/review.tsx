@@ -1,5 +1,5 @@
 import { router, useLocalSearchParams } from 'expo-router';
-import { ArrowLeftIcon } from 'phosphor-react-native';
+import { ArrowLeftIcon } from '@/components/icons';
 import { useState } from 'react';
 import { View } from 'react-native';
 import { AkadaText } from '@/components/AkadaText';

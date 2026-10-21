@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { ClockIcon, ListChecksIcon, QuestionIcon, TrophyIcon } from 'phosphor-react-native';
+import { ClockIcon, ListChecksIcon, QuestionIcon, TrophyIcon } from '@/components/icons';
 import { useMemo, useState } from 'react';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';

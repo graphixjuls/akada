@@ -1,6 +1,6 @@
 import type { Icon } from 'phosphor-react-native';
 import { useState } from 'react';
-import { TextInput, View, type KeyboardTypeOptions } from 'react-native';
+import { Platform, TextInput, View, type KeyboardTypeOptions } from 'react-native';
 import { radius, space, type as typeScale, useTheme } from '../theme/theme';
 import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';
@@ -41,7 +41,8 @@ export function TextField({ label, value, onChangeText, placeholder, helper, err
           onFocus={() => setFocused(true)}
           onBlur={() => setFocused(false)}
           accessibilityLabel={label}
-          style={[typeScale.bodyLarge, { flex: 1, color: c.textPrimary, paddingVertical: 0 }]}
+          // The field draws its own focus border, so hide the browser's outline on the web.
+          style={[typeScale.bodyLarge, { flex: 1, color: c.textPrimary, paddingVertical: 0 }, Platform.OS === 'web' && ({ outlineStyle: 'none' } as object)]}
         />
       </View>
       {(error || helper) && <AkadaText variant="bodySmall" color={error ? 'error' : 'textSecondary'}>{error || helper}</AkadaText>}

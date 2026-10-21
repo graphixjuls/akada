@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { CalendarBlankIcon } from 'phosphor-react-native';
+import { CalendarBlankIcon } from '@/components/icons';
 import { useState } from 'react';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';

@@ -1,5 +1,5 @@
 import { router, useLocalSearchParams } from 'expo-router';
-import { BookmarkSimpleIcon, CheckCircleIcon, LightbulbIcon, XCircleIcon, XIcon } from 'phosphor-react-native';
+import { BookmarkSimpleIcon, CheckCircleIcon, LightbulbIcon, XCircleIcon, XIcon } from '@/components/icons';
 import { useReducer, useState } from 'react';
 import { View } from 'react-native';
 import { AkadaIcon } from '@/components/AkadaIcon';

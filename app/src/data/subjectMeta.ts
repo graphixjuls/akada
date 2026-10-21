@@ -1,4 +1,4 @@
-import { AtomIcon, BookOpenTextIcon, CalculatorIcon, DnaIcon, FlaskIcon, GlobeHemisphereWestIcon, ScalesIcon, PaletteIcon, type Icon } from 'phosphor-react-native';
+import { AtomIcon, BookOpenTextIcon, CalculatorIcon, DnaIcon, FlaskIcon, GlobeHemisphereWestIcon, ScalesIcon, PaletteIcon, type Icon } from '@/components/icons';
 import type { EmojiName } from '../components/Emoji';
 import { subjectById } from './catalog';
 import { topicsFor } from './bank';

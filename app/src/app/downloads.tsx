@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { ArrowLeftIcon, CheckCircleIcon } from 'phosphor-react-native';
+import { ArrowLeftIcon, CheckCircleIcon } from '@/components/icons';
 import { AkadaText } from '@/components/AkadaText';
 import { IconButton } from '@/components/IconButton';
 import { Card, ListCard, Row, Screen } from '@/components/Layout';

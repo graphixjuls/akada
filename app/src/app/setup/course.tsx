@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { CheckCircleIcon, GraduationCapIcon, MagnifyingGlassIcon } from 'phosphor-react-native';
+import { CheckCircleIcon, GraduationCapIcon, MagnifyingGlassIcon } from '@/components/icons';
 import { useMemo, useState } from 'react';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';

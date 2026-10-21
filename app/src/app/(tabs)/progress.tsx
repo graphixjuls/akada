@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { WarningCircleIcon } from 'phosphor-react-native';
+import { WarningCircleIcon } from '@/components/icons';
 import { View } from 'react-native';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
