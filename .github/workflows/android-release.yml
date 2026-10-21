@@ -36,6 +36,8 @@ jobs:
 
       - name: Check the question bank and run the tests
         run: |
+          # Expo's type references (normally written by `expo start`, and git-ignored).
+          echo '/// <reference types="expo/types" />' > expo-env.d.ts
           npm run build-questions
           git diff --exit-code src/data/questions.json
           npm run typecheck
