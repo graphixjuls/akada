@@ -14,7 +14,7 @@ export function Dialog({ visible, title, body, primaryLabel, onPrimary, secondar
   return (
     <Modal visible={visible} transparent animationType="fade" onRequestClose={onSecondary} statusBarTranslucent>
       <View style={{ flex: 1, backgroundColor: c.bgScrim, justifyContent: 'center', paddingHorizontal: space[20] }}>
-        <View accessibilityRole="alert" style={[{ backgroundColor: c.bgSurface, borderRadius: radius.xl, padding: space[24], gap: space[16] }, shadow.floating]}>
+        <View accessibilityRole="alert" style={[{ width: '100%', maxWidth: 440, alignSelf: 'center', backgroundColor: c.bgSurface, borderRadius: radius.xl, padding: space[24], gap: space[16] }, shadow.floating]}>
           <View style={{ gap: space[8] }}>
             <AkadaText variant="h2">{title}</AkadaText>
             <AkadaText variant="bodyMedium" color="textSecondary">{body}</AkadaText>
@@ -52,7 +52,7 @@ export function ToastProvider({ children }: { children: ReactNode }) {
     <ToastCtx.Provider value={show}>
       {children}
       {toast && look && (
-        <View pointerEvents="none" accessibilityLiveRegion="polite" style={[{ position: 'absolute', left: space[20], right: space[20], bottom: insets.bottom + 140, flexDirection: 'row', alignItems: 'center', gap: space[12], padding: space[12], borderRadius: radius.lg, backgroundColor: look.bg }, shadow.floating]}>
+        <View pointerEvents="none" accessibilityLiveRegion="polite" style={[{ position: 'absolute', left: space[20], right: space[20], maxWidth: 480, marginHorizontal: 'auto', bottom: insets.bottom + 140, flexDirection: 'row', alignItems: 'center', gap: space[12], padding: space[12], borderRadius: radius.lg, backgroundColor: look.bg }, shadow.floating]}>
           <AkadaIcon icon={look.icon} color={look.fg} />
           <AkadaText variant="labelMedium" style={{ flex: 1 }}>{toast.message}</AkadaText>
         </View>
@@ -83,7 +83,7 @@ export function EmptyState({ emoji, title, body, action }: { emoji: EmojiName; t
       <Emoji name={emoji} size={72} />
       <AkadaText variant="h2" align="center">{title}</AkadaText>
       <AkadaText variant="bodyMedium" color="textSecondary" align="center">{body}</AkadaText>
-      {action}
+      {action && <View style={{ alignSelf: 'center', marginTop: space[8] }}>{action}</View>}
     </View>
   );
 }

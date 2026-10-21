@@ -35,7 +35,7 @@ export default function Subjects() {
     ? `${course.note ?? `Suggested for ${course.name}.`} Tap a subject to swap it, and check your school’s requirements.`
     : 'Pick 3 subjects to focus on, besides English.';
   return (
-    <Screen footer={<Button label={picked.length === 3 ? (edit ? 'Save subjects' : 'Continue') : `Pick ${3 - picked.length} more`} disabled={picked.length !== 3} onPress={save} block />}>
+    <Screen width="form" aside={images.science} footer={<Button label={picked.length === 3 ? (edit ? 'Save subjects' : 'Continue') : `Pick ${3 - picked.length} more`} disabled={picked.length !== 3} onPress={save} block />}>
       <SetupHeader step={edit ? undefined : 3} photo={images.science} title="Your subjects" body={body} />
       <Stack>
         <AkadaText variant="labelMedium">Compulsory</AkadaText>

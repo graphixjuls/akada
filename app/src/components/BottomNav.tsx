@@ -5,7 +5,7 @@ import { radius, space, useTheme } from '../theme/theme';
 import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';
 
-const TABS: Record<string, { label: string; icon: Icon }> = {
+export const TABS: Record<'index' | 'practice' | 'mock' | 'progress' | 'profile', { label: string; icon: Icon }> = {
   index: { label: 'Home', icon: HouseIcon },
   practice: { label: 'Practice', icon: BooksIcon },
   mock: { label: 'Mock Test', icon: ExamIcon },
@@ -19,7 +19,7 @@ export function BottomNav({ state, navigateToTab, insets }: BottomTabBarProps) {
   return (
     <View style={{ flexDirection: 'row', backgroundColor: c.bgSurface, borderTopWidth: 1, borderTopColor: c.borderDefault, paddingTop: space[8], paddingBottom: Math.max(insets.bottom, space[8]) }}>
       {state.routes.map((route, i) => {
-        const tab = TABS[route.name];
+        const tab = TABS[route.name as keyof typeof TABS];
         if (!tab) return null;
         const active = state.index === i;
         return (

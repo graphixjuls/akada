@@ -8,10 +8,11 @@ import { Chip, SubjectTag } from '@/components/Chips';
 import { AnswerOption } from '@/components/Exam';
 import { EmptyState } from '@/components/Feedback';
 import { IconButton } from '@/components/IconButton';
-import { Card, Row, Screen } from '@/components/Layout';
+import { Card, Grid, Row, Screen } from '@/components/Layout';
 import { questionById } from '@/data/bank';
 import { subjectMeta } from '@/data/subjectMeta';
 import { useStore } from '@/store/AppStore';
+import { useLayout } from '@/theme/responsive';
 import { space } from '@/theme/theme';
 
 type Filter = 'all' | 'wrong' | 'flagged';
@@ -21,6 +22,7 @@ export default function Review() {
   const { mode, ids } = useLocalSearchParams<{ mode?: string; ids?: string }>();
   const { data } = useStore();
   const exam = mode === 'exam' ? data.activeExam : null;
+  const { desktop } = useLayout();
   const [filter, setFilter] = useState<Filter>(exam ? 'wrong' : 'all');
   const all = exam ? exam.questionIds : (ids ?? '').split(',').filter(Boolean);
   const isWrong = (id: string) => exam && exam.answers[id] !== undefined && exam.answers[id] !== questionById(id)?.answerIndex;
@@ -44,6 +46,7 @@ export default function Review() {
           action={counts && filter !== 'all' ? <Button label="See all questions" variant="ghost" size="small" onPress={() => setFilter('all')} /> : undefined}
         />
       )}
+      <Grid columns={desktop ? 2 : 1} gap={space[24]}>
       {shown.map((id, n) => {
         const q = questionById(id); if (!q) return null;
         const m = subjectMeta(q.subjectId);
@@ -59,6 +62,7 @@ export default function Review() {
           </Card>
         );
       })}
+      </Grid>
     </Screen>
   );
 }

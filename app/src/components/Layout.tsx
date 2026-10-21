@@ -1,8 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
-import type { ReactNode } from 'react';
+import { Children, type ReactNode } from 'react';
 import { Image, type ImageSourcePropType, Pressable, ScrollView, StyleSheet, View, type ViewStyle } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useLayout, type LayoutSize } from '../theme/responsive';
 import { radius, space, useTheme, type AkadaColors } from '../theme/theme';
+
+/** Content width on tablets and computers. Phones always use the full width with 20 px margins. */
+const MAX_WIDTH = { page: 1080, focus: 720, form: 440 } as const;
+export type ScreenWidth = keyof typeof MAX_WIDTH;
 
 interface ScreenProps {
   children: ReactNode;
@@ -14,21 +19,76 @@ interface ScreenProps {
   /** Tab screens: the Bottom Nav handles the bottom inset. */
   tab?: boolean;
   gap?: number;
+  /** Wide screens: page (dashboards, 1080), focus (one task, 720) or form (onboarding, 440). */
+  width?: ScreenWidth;
+  /** Desktop only: a full-height photo beside the content (onboarding split screen). */
+  aside?: ImageSourcePropType;
 }
 
-/** 20 px side margins, 24 px between sections, safe-area aware, follows the theme. */
-export function Screen({ children, footer, scroll = true, background = 'bgCanvas', tab, gap = space[24] }: ScreenProps) {
+const sidePadding = (size: LayoutSize) => (size === 'desktop' ? space[48] : size === 'tablet' ? space[32] : space[20]);
+
+/** 20 px side margins on phones, centred max-width content on wider screens, safe-area aware, follows the theme. */
+export function Screen({ children, footer, scroll = true, background = 'bgCanvas', tab, gap = space[24], width = 'page', aside }: ScreenProps) {
   const { c, scheme } = useTheme();
+  const { size, wide } = useLayout();
   const bg = c[background];
-  const body = <View style={{ gap }}>{children}</View>;
-  return (
-    <SafeAreaView edges={tab ? ['top'] : ['top', 'bottom']} style={{ flex: 1, backgroundColor: bg }}>
-      <StatusBar style={background === 'primary' ? 'light' : scheme === 'dark' ? 'light' : 'dark'} />
+  const split = !!aside && size === 'desktop';
+  const max = wide ? (split ? MAX_WIDTH.form : MAX_WIDTH[width]) : undefined;
+  const pad = sidePadding(size);
+  // Centred column on wide screens; the whole width on phones.
+  const column: ViewStyle = max ? { width: '100%', maxWidth: max, alignSelf: 'center' } : {};
+  const body = <View style={[{ gap }, column]}>{children}</View>;
+  const contentStyle: ViewStyle = { paddingHorizontal: pad, paddingTop: wide ? space[40] : space[16], paddingBottom: wide ? space[40] : space[24], ...(split ? { flexGrow: 1, justifyContent: 'center' } : null) };
+  const content = (
+    <>
       {scroll
-        ? <ScrollView contentContainerStyle={styles.content} keyboardShouldPersistTaps="handled" showsVerticalScrollIndicator={false}>{body}</ScrollView>
-        : <View style={[styles.content, { flex: 1 }]}>{body}</View>}
-      {footer && <View style={styles.footer}>{footer}</View>}
+        ? <ScrollView contentContainerStyle={contentStyle} keyboardShouldPersistTaps="handled" showsVerticalScrollIndicator={false}>{body}</ScrollView>
+        : <View style={[contentStyle, { flex: 1 }]}>{body}</View>}
+      {footer && <View style={[styles.footer, { paddingHorizontal: pad }]}><View style={[{ gap: space[12] }, column]}>{footer}</View></View>}
+    </>
+  );
+  return (
+    <SafeAreaView edges={tab && !wide ? ['top'] : ['top', 'bottom']} style={{ flex: 1, backgroundColor: bg }}>
+      <StatusBar style={background === 'primary' ? 'light' : scheme === 'dark' ? 'light' : 'dark'} />
+      {split ? (
+        <View style={{ flex: 1, flexDirection: 'row' }}>
+          <Image source={aside} style={{ flex: 1, height: '100%', backgroundColor: c.bgSunken }} resizeMode="cover" accessible={false} />
+          <View style={{ flex: 1 }}>{content}</View>
+        </View>
+      ) : content}
     </SafeAreaView>
+  );
+}
+
+/**
+ * Main column plus a side column (360 px) on desktop; stacked on phones and tablets.
+ * The side column comes after the main one, which is also its order when stacked.
+ */
+export function Columns({ main, side, sideWidth = 360, gap = space[24] }: { main: ReactNode; side: ReactNode; sideWidth?: number; gap?: number }) {
+  const { desktop } = useLayout();
+  if (!desktop) return <View style={{ gap }}>{main}{side}</View>;
+  return (
+    <View style={{ flexDirection: 'row', alignItems: 'flex-start', gap }}>
+      <View style={{ flex: 1, gap }}>{main}</View>
+      <View style={{ width: sideWidth, gap }}>{side}</View>
+    </View>
+  );
+}
+
+/** Equal-width grid: `columns` items per row (keep it small), gaps of 16. Empty cells keep the last row aligned. */
+export function Grid({ children, columns, gap = space[16] }: { children: ReactNode; columns: number; gap?: number }) {
+  const items = Children.toArray(children);
+  const rows: ReactNode[][] = [];
+  for (let i = 0; i < items.length; i += columns) rows.push(items.slice(i, i + columns));
+  return (
+    <View style={{ gap }}>
+      {rows.map((r, i) => (
+        <View key={i} style={{ flexDirection: 'row', alignItems: 'stretch', gap }}>
+          {r.map((item, j) => <View key={j} style={{ flex: 1 }}>{item}</View>)}
+          {Array.from({ length: columns - r.length }, (_, j) => <View key={`gap-${j}`} style={{ flex: 1 }} />)}
+        </View>
+      ))}
+    </View>
   );
 }
 
@@ -61,6 +121,5 @@ export function Stack({ children, gap = space[8], style }: { children: ReactNode
 }
 
 const styles = StyleSheet.create({
-  content: { paddingHorizontal: space[20], paddingTop: space[16], paddingBottom: space[24] },
   footer: { paddingHorizontal: space[20], paddingTop: space[12], paddingBottom: space[16], gap: space[12] },
 });

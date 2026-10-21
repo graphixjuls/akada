@@ -16,7 +16,7 @@ export default function Department() {
   const { data, updateDraft } = useStore();
   const [picked, setPicked] = useState<DepartmentId>(data.draft.department ?? 'science');
   return (
-    <Screen footer={<Button label="Continue" block onPress={() => { updateDraft({ department: picked }); router.push('/setup/course'); }} />}>
+    <Screen width="form" aside={images.science} footer={<Button label="Continue" block onPress={() => { updateDraft({ department: picked }); router.push('/setup/course'); }} />}>
       <SetupHeader step={1} title="What's your department?" body="We'll suggest subjects that fit it. You can change this later." />
       <Stack gap={space[12]}>
         {departments.map(d => <DepartmentCard key={d.id} title={d.name} description={d.blurb} image={PHOTO[d.id]} selected={picked === d.id} onPress={() => setPicked(d.id)} />)}

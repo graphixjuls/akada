@@ -5,19 +5,18 @@ import { Inter_600SemiBold } from '@expo-google-fonts/inter/600SemiBold';
 import { PlusJakartaSans_600SemiBold } from '@expo-google-fonts/plus-jakarta-sans/600SemiBold';
 import { PlusJakartaSans_700Bold } from '@expo-google-fonts/plus-jakarta-sans/700Bold';
 import { useFonts } from 'expo-font';
-import { Stack } from 'expo-router';
+import { Stack, usePathname } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { useEffect } from 'react';
-import { Platform, View } from 'react-native';
+import { View } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { ToastProvider } from '@/components/Feedback';
+import { SideNav } from '@/components/SideNav';
 import { AppStoreProvider, useStore } from '@/store/AppStore';
+import { useLayout } from '@/theme/responsive';
 import { useTheme } from '@/theme/theme';
 
 SplashScreen.preventAutoHideAsync();
-
-/** Width of the app column on the web (a large phone). */
-const WEB_MAX_WIDTH = 480;
 
 export default function RootLayout() {
   const [loaded, error] = useFonts({ PlusJakartaSans_700Bold, PlusJakartaSans_600SemiBold, Inter_400Regular, Inter_500Medium, Inter_600SemiBold });
@@ -31,8 +30,10 @@ export default function RootLayout() {
 }
 
 function Gate({ fontsReady }: { fontsReady: boolean }) {
-  const { hydrated } = useStore();
+  const { hydrated, data } = useStore();
   const { c } = useTheme();
+  const { size } = useLayout();
+  const path = usePathname();
   const ready = fontsReady && hydrated;
   useEffect(() => { if (ready) SplashScreen.hideAsync(); }, [ready]);
   if (!ready) return null;
@@ -43,14 +44,17 @@ function Gate({ fontsReady }: { fontsReady: boolean }) {
       <Stack.Screen name="exam/index" options={{ gestureEnabled: false }} />
     </Stack>
   );
+  // Tablets and computers get side navigation, except during onboarding and in focus mode
+  // (a practice session or a running mock test), which keep the whole screen for the task.
+  const onboarding = !data.profile || ['/splash', '/welcome', '/get-started'].includes(path) || path.startsWith('/setup');
+  const focus = path.startsWith('/practice/session') || path === '/exam';
+  const nav = size !== 'phone' && !onboarding && !focus;
   return (
     <ToastProvider>
-      {Platform.OS === 'web' ? (
-        // On tablets and computers the app stays a phone-width column in the middle of the screen.
-        <View style={{ flex: 1, backgroundColor: c.bgSunken }}>
-          <View style={{ flex: 1, width: '100%', maxWidth: WEB_MAX_WIDTH, alignSelf: 'center', backgroundColor: c.bgCanvas, borderLeftWidth: 1, borderRightWidth: 1, borderColor: c.borderDefault }}>{stack}</View>
-        </View>
-      ) : stack}
+      <View style={{ flex: 1, flexDirection: 'row', backgroundColor: c.bgCanvas }}>
+        {nav && <SideNav rail={size === 'tablet'} />}
+        <View style={{ flex: 1 }}>{stack}</View>
+      </View>
     </ToastProvider>
   );
 }

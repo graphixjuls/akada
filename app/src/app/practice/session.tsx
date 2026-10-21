@@ -1,7 +1,7 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { BookmarkSimpleIcon, CheckCircleIcon, LightbulbIcon, XCircleIcon, XIcon } from '@/components/icons';
-import { useReducer, useState } from 'react';
-import { View } from 'react-native';
+import { useEffect, useReducer, useState } from 'react';
+import { Platform, View } from 'react-native';
 import { AkadaIcon } from '@/components/AkadaIcon';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
@@ -17,6 +17,7 @@ import { subjectMeta } from '@/data/subjectMeta';
 import type { Question } from '@/data/types';
 import { initialPractice, optionState, practiceReducer } from '@/logic/practice';
 import { useStore } from '@/store/AppStore';
+import { useLayout } from '@/theme/responsive';
 import { space, useTheme } from '@/theme/theme';
 
 /** Questions per session. A topic session uses the whole topic when it is shorter. */
@@ -41,12 +42,31 @@ export default function Session() {
   const [leaving, setLeaving] = useState(false);
   const [startedAt] = useState(() => Date.now());
   const q = questions[s.index];
+  const { wide } = useLayout();
+
+  // Computers: A–D (or 1–4) choose an answer, Enter checks it and then moves on.
+  const isLast = s.index === questions.length - 1;
+  useEffect(() => {
+    if (Platform.OS !== 'web' || !q || leaving) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      const k = e.key.toLowerCase();
+      const pick = 'abcd'.indexOf(k) >= 0 ? 'abcd'.indexOf(k) : '1234'.indexOf(k);
+      if (pick >= 0 && !s.checked) { e.preventDefault(); dispatch({ type: 'select', option: pick }); }
+      else if (k === 'enter') {
+        e.preventDefault();
+        if (!s.checked && s.selected !== null) dispatch({ type: 'check', answerIndex: q.answerIndex });
+        else if (s.checked && !isLast) dispatch({ type: 'next' });
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [q, s.checked, s.selected, isLast, leaving]);
 
   if (!q) return <Screen><EmptyState emoji="pencil" title="No questions here yet" body="There are no questions for this topic yet." action={<Button label="Go back" variant="ghost" onPress={() => router.back()} />} /></Screen>;
 
   const m = subjectMeta(q.subjectId);
   const topic = topicsFor(q.subjectId).find(t => t.id === q.topicId);
-  const isLast = s.index === questions.length - 1;
   const bookmarked = data.bookmarks.includes(q.id);
   const correct = s.checked && s.outcomes[s.outcomes.length - 1];
   const minutes = () => Math.max(1, Math.round((Date.now() - startedAt) / 60_000));
@@ -59,7 +79,7 @@ export default function Session() {
   };
 
   return (
-    <Screen footer={
+    <Screen width="focus" footer={
       !s.checked
         ? <Button label="Check answer" disabled={s.selected === null} onPress={() => dispatch({ type: 'check', answerIndex: q.answerIndex })} block />
         : <Button label={isLast ? 'See results' : 'Next question'} onPress={() => (isLast ? finish() : dispatch({ type: 'next' }))} block />
@@ -86,6 +106,7 @@ export default function Session() {
           </Card>
         )}
       </Stack>
+      {wide && Platform.OS === 'web' && <AkadaText variant="bodySmall" color="textTertiary">Keys: A–D to choose · Enter to check · Enter again for the next question</AkadaText>}
       <Dialog visible={leaving} title="Leave practice?" body="Your answers so far are saved. You can pick up this topic later." primaryLabel="Keep practising" onPrimary={() => setLeaving(false)} secondaryLabel="Leave" onSecondary={() => { setLeaving(false); save(); router.back(); }} />
     </Screen>
   );

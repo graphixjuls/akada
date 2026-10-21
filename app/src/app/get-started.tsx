@@ -7,11 +7,13 @@ import { Photo, Screen, Stack } from '@/components/Layout';
 import { TextField } from '@/components/TextField';
 import { images } from '@/data/images';
 import { useStore } from '@/store/AppStore';
+import { THIS_DEVICE, useLayout } from '@/theme/responsive';
 
 /** No account and no internet needed: the name is only used to greet the student, and stays on the phone. */
 export default function GetStarted() {
   const { updateDraft } = useStore();
   const [name, setName] = useState('');
+  const { desktop } = useLayout();
   const ready = name.trim().length > 0;
   const next = () => {
     if (!ready) return;
@@ -19,11 +21,11 @@ export default function GetStarted() {
     router.push('/setup/department');
   };
   return (
-    <Screen footer={<>
+    <Screen width="form" aside={images.signup} footer={<>
       <Button label="Continue" onPress={next} disabled={!ready} block />
-      <AkadaText variant="bodySmall" color="textTertiary" align="center">Everything stays on this phone. No account or data needed.</AkadaText>
+      <AkadaText variant="bodySmall" color="textTertiary" align="center">Everything stays on {THIS_DEVICE}. No account or data needed.</AkadaText>
     </>}>
-      <Photo source={images.signup} height={200} />
+      {!desktop && <Photo source={images.signup} height={200} />}
       <Stack>
         <AkadaText variant="h1">Let’s get you started</AkadaText>
         <AkadaText variant="bodyLarge" color="textSecondary">What should we call you?</AkadaText>

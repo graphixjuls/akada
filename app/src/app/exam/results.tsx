@@ -5,7 +5,7 @@ import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { Emoji } from '@/components/Emoji';
 import { IconButton } from '@/components/IconButton';
-import { Card, Photo, Row, Screen, Stack } from '@/components/Layout';
+import { Card, Columns, Photo, Row, Screen, Stack } from '@/components/Layout';
 import { ProgressBar } from '@/components/Progress';
 import { bank } from '@/data/bank';
 import { ENGLISH_ID } from '@/data/catalog';
@@ -14,11 +14,13 @@ import { subjectMeta } from '@/data/subjectMeta';
 import { gradeExam } from '@/logic/exam';
 import { formatClock } from '@/logic/timer';
 import { useStore } from '@/store/AppStore';
+import { useLayout } from '@/theme/responsive';
 import { space, subjectColors, useTheme } from '@/theme/theme';
 
 export default function Results() {
   const { data } = useStore();
   const { c } = useTheme();
+  const { desktop } = useLayout();
   const exam = data.activeExam;
   if (!exam || exam.submittedAt === null) return <Screen><AkadaText variant="h2">No results yet</AkadaText><Button label="Back to Home" onPress={() => router.replace('/(tabs)')} /></Screen>;
   const order = [ENGLISH_ID, ...data.profile!.subjects];
@@ -34,12 +36,16 @@ export default function Results() {
       <Button label="Back to Home" variant="ghost" block onPress={() => router.replace('/(tabs)')} />
     </>}>
       <View><IconButton icon={XIcon} label="Close" onPress={() => router.replace('/(tabs)')} /></View>
-      <Photo source={images.allSet} height={180} />
+      <Columns sideWidth={520}
+        main={<>
+      <Photo source={images.allSet} height={desktop ? 240 : 180} />
       <Card style={{ alignItems: 'center' }} gap={space[8]}>
         <Emoji name={mood} size={64} />
         <AkadaText variant="display" align="center">{r.total}%</AkadaText>
         <AkadaText variant="bodyMedium" color="textSecondary" align="center">{delta === null ? `Your first mock test, ${data.profile!.name}. Well done for finishing!` : delta >= 0 ? `Great work, ${data.profile!.name}! That’s ${delta} points up on your last mock test.` : `${-delta} points down on your last mock test. Keep going, you’ve got this.`}</AkadaText>
       </Card>
+        </>}
+        side={<>
       <Stack gap={space[12]}>
         <AkadaText variant="h3">By subject</AkadaText>
         <Card gap={space[16]}>
@@ -60,6 +66,8 @@ export default function Results() {
           <AkadaText variant="bodyMedium" color="textSecondary">It was your lowest score in this test ({weakest.score}%). A short practice session there will help most.</AkadaText>
         </Card>
       )}
+        </>}
+      />
     </Screen>
   );
 }

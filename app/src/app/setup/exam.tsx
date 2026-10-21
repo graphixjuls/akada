@@ -19,7 +19,7 @@ export default function ExamDate() {
   const [goal, setGoal] = useState(data.draft.dailyGoalMin ?? 30);
   const g = GOALS.find(x => x.min === goal)!;
   return (
-    <Screen footer={<Button label="Continue" block onPress={() => { updateDraft({ examDate: date.trim() || 'Not set yet', dailyGoalMin: goal }); router.push('/setup/done'); }} />}>
+    <Screen width="form" aside={images.examGoal} footer={<Button label="Continue" block onPress={() => { updateDraft({ examDate: date.trim() || 'Not set yet', dailyGoalMin: goal }); router.push('/setup/done'); }} />}>
       <SetupHeader step={4} photo={images.examGoal} photoHeight={140} title="When is your exam?" body="We'll plan your practice so you're ready in time." />
       <TextField label="Exam date" value={date} onChangeText={setDate} placeholder="e.g. 15 Apr 2027" icon={CalendarBlankIcon} helper="Check your school timetable for the date. You can skip this for now." />
       <Stack gap={space[12]}>

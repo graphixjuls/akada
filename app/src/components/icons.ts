@@ -18,6 +18,7 @@ export { ClockIcon } from 'phosphor-react-native/src/icons/Clock';
 export { DnaIcon } from 'phosphor-react-native/src/icons/Dna';
 export { DownloadSimpleIcon } from 'phosphor-react-native/src/icons/DownloadSimple';
 export { ExamIcon } from 'phosphor-react-native/src/icons/Exam';
+export { FireIcon } from 'phosphor-react-native/src/icons/Fire';
 export { FlagIcon } from 'phosphor-react-native/src/icons/Flag';
 export { FlaskIcon } from 'phosphor-react-native/src/icons/Flask';
 export { GearSixIcon } from 'phosphor-react-native/src/icons/GearSix';

@@ -26,7 +26,7 @@ export default function Course() {
     router.push('/setup/subjects');
   };
   return (
-    <Screen footer={<Button label="Continue" disabled={!picked} onPress={() => go(picked)} block />}>
+    <Screen width="form" aside={images.study} footer={<Button label="Continue" disabled={!picked} onPress={() => go(picked)} block />}>
       <SetupHeader step={2} photo={images.study} photoHeight={96} title="What do you want to study?" body="We'll suggest subjects for it. You can swap any of them next." />
       <TextField label="Course" value={query} onChangeText={setQuery} placeholder="Search courses" icon={MagnifyingGlassIcon} helper={query ? undefined : `Popular for ${departmentById(dept)?.name}`} />
       {results.length > 0 ? (

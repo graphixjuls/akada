@@ -5,8 +5,11 @@ import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { Photo, Screen } from '@/components/Layout';
 import { PageDots } from '@/components/Progress';
+import { BookOpenTextIcon, FireIcon, TimerIcon, type Icon } from '@/components/icons';
+import { AkadaIcon } from '@/components/AkadaIcon';
 import { images } from '@/data/images';
-import { space } from '@/theme/theme';
+import { useLayout } from '@/theme/responsive';
+import { radius, space, useTheme } from '@/theme/theme';
 
 const SLIDES = [
   { image: images.study, title: 'Practise every subject', body: 'Questions for SS1 to SS3 in Science, Social Science and Arts, each with a clear explanation.' },
@@ -14,7 +17,49 @@ const SLIDES = [
   { image: images.celebrate, title: 'Build a daily habit', body: 'Set a goal, keep your streak going and watch your scores grow.' },
 ];
 
+const FEATURES: [Icon, string, string][] = [
+  [BookOpenTextIcon, '3,000+ questions in 15 subjects', 'Organised by SS1, SS2 and SS3 topics'],
+  [TimerIcon, 'Timed mock tests', 'Answer against the clock, so exam day feels familiar'],
+  [FireIcon, 'A daily habit', 'Set a goal and keep your streak going'],
+];
+
+/** Computers: one split screen instead of the swipeable slides. */
+function DesktopWelcome() {
+  const { c } = useTheme();
+  return (
+    <Screen width="form" aside={images.study} footer={<>
+      <Button label="Get started" onPress={() => router.replace('/get-started')} block />
+      <AkadaText variant="bodySmall" color="textTertiary" align="center">Free · works offline · no account needed</AkadaText>
+    </>}>
+      <View style={{ flexDirection: 'row', alignItems: 'center', gap: space[12] }}>
+        <View style={{ width: 40, height: 40, borderRadius: radius.md, backgroundColor: c.primary, alignItems: 'center', justifyContent: 'center' }}><AkadaText variant="h2" color="textOnPrimary">A</AkadaText></View>
+        <AkadaText variant="h2">Akada</AkadaText>
+      </View>
+      <View style={{ gap: space[12] }}>
+        <AkadaText variant="display">Practise every subject</AkadaText>
+        <AkadaText variant="bodyLarge" color="textSecondary">Free practice questions for SS1 to SS3 in Science, Social Science and Arts, each with a clear explanation.</AkadaText>
+      </View>
+      <View style={{ gap: space[16] }}>
+        {FEATURES.map(([icon, title, sub]) => (
+          <View key={title} style={{ flexDirection: 'row', alignItems: 'center', gap: space[12] }}>
+            <View style={{ width: 44, height: 44, borderRadius: radius.md, backgroundColor: c.primaryContainer, alignItems: 'center', justifyContent: 'center' }}><AkadaIcon icon={icon} /></View>
+            <View style={{ flex: 1, gap: space[4] }}>
+              <AkadaText variant="labelLarge">{title}</AkadaText>
+              <AkadaText variant="bodySmall" color="textSecondary">{sub}</AkadaText>
+            </View>
+          </View>
+        ))}
+      </View>
+    </Screen>
+  );
+}
+
 export default function Welcome() {
+  const { desktop } = useLayout();
+  return desktop ? <DesktopWelcome /> : <Slides />;
+}
+
+function Slides() {
   const window = useWindowDimensions();
   const height = window.height;
   // Slides are as wide as the list itself, which on the web is the app column, not the whole browser window.

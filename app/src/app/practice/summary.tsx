@@ -5,18 +5,20 @@ import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { Emoji } from '@/components/Emoji';
 import { IconButton } from '@/components/IconButton';
-import { Card, ListCard, Photo, Row, Screen, Stack } from '@/components/Layout';
+import { Card, Columns, ListCard, Photo, Row, Screen, Stack } from '@/components/Layout';
 import { ListRow } from '@/components/ListRow';
 import { questionById, topicsFor } from '@/data/bank';
 import { images } from '@/data/images';
 import { subjectMeta } from '@/data/subjectMeta';
 import { streak } from '@/logic/progress';
 import { localDate, useStore } from '@/store/AppStore';
+import { useLayout } from '@/theme/responsive';
 import { space } from '@/theme/theme';
 
 export default function Summary() {
   const p = useLocalSearchParams<{ correct: string; total: string; minutes: string; subject: string; topic: string; wrong: string; first: string; quick: string }>();
   const { data } = useStore();
+  const { desktop } = useLayout();
   const correct = Number(p.correct), total = Number(p.total);
   const acc = total ? Math.round((correct / total) * 100) : 0;
   const wrong = (p.wrong ?? '').split(',').filter(Boolean);
@@ -31,7 +33,9 @@ export default function Summary() {
       {wrong.length > 0 && <Button label="Review answers" variant="ghost" block onPress={() => router.push({ pathname: '/review', params: { ids: wrong.join(',') } })} />}
     </>}>
       <View><IconButton icon={XIcon} label="Close" onPress={() => router.replace('/(tabs)')} /></View>
-      <Photo source={images.celebrate} height={200} />
+      <Columns sideWidth={420}
+        main={<>
+      <Photo source={images.celebrate} height={desktop ? 300 : 200} />
       <Row gap={space[8]}><AkadaText variant="h1">{acc >= 50 ? 'Session complete!' : 'Good effort!'}</AkadaText><Emoji name={acc >= 50 ? 'party' : 'strong'} size={32} /></Row>
       <AkadaText variant="bodyMedium" color="textSecondary">{label} · {total} questions</AkadaText>
       <Row align="stretch">
@@ -43,6 +47,8 @@ export default function Summary() {
           <AkadaText variant="bodySmall" color="textSecondary">{today >= goal ? `Today's goal reached: ${goal} / ${goal} min` : `Today: ${today} / ${goal} min. Come back tomorrow to keep it going.`}</AkadaText>
         </Stack></Row>
       </Card>
+        </>}
+        side={<>
       {wrong.length > 0 && (
         <Stack gap={space[12]}>
           <AkadaText variant="h3">Review these</AkadaText>
@@ -51,6 +57,8 @@ export default function Summary() {
           </ListCard>
         </Stack>
       )}
+        </>}
+      />
     </Screen>
   );
 }

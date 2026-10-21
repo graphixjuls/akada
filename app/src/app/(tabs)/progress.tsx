@@ -4,7 +4,7 @@ import { View } from 'react-native';
 import { AkadaText } from '@/components/AkadaText';
 import { Button } from '@/components/Button';
 import { Emoji, type EmojiName } from '@/components/Emoji';
-import { Card, ListCard, Photo, Row, Screen, Stack } from '@/components/Layout';
+import { Card, Grid, ListCard, Photo, Row, Screen, Stack } from '@/components/Layout';
 import { ListRow } from '@/components/ListRow';
 import { ProgressBar } from '@/components/Progress';
 import { bank, topicsFor } from '@/data/bank';
@@ -13,11 +13,15 @@ import { images } from '@/data/images';
 import { subjectMeta } from '@/data/subjectMeta';
 import { accuracy, streak, weakTopics } from '@/logic/progress';
 import { localDate, useStore } from '@/store/AppStore';
+import { THIS_DEVICE, useLayout } from '@/theme/responsive';
 import { radius, space, subjectColors, useTheme } from '@/theme/theme';
 
 export default function Progress() {
   const { data } = useStore();
   const { c } = useTheme();
+  const { desktop } = useLayout();
+  // Computers: pairs of cards side by side.
+  const pair = desktop ? 2 : 1;
   const subjects = [ENGLISH_ID, ...data.profile!.subjects];
   const answered = Object.keys(data.history).length;
 
@@ -56,14 +60,11 @@ export default function Progress() {
 
   return (
     <Screen tab>
-      <Stack gap={space[4]}><AkadaText variant="h1">Your progress</AkadaText><AkadaText variant="bodyMedium" color="textSecondary">All time · on this phone</AkadaText></Stack>
-      <Stack gap={space[12]}>
-        {[0, 2].map(s => (
-          <Row key={s} align="stretch">
-            {stats.slice(s, s + 2).map(([v, l, e]) => <Card key={l} style={{ flex: 1 }} gap={space[8]}><Emoji name={e} size={32} /><AkadaText variant="h2">{v}</AkadaText><AkadaText variant="bodySmall" color="textSecondary">{l}</AkadaText></Card>)}
-          </Row>
-        ))}
-      </Stack>
+      <Stack gap={space[4]}><AkadaText variant="h1">Your progress</AkadaText><AkadaText variant="bodyMedium" color="textSecondary">All time · on {THIS_DEVICE}</AkadaText></Stack>
+      <Grid columns={desktop ? 4 : 2}>
+        {stats.map(([v, l, e]) => <Card key={l} style={{ flex: 1 }} gap={space[8]}><Emoji name={e} size={32} /><AkadaText variant="h2">{v}</AkadaText><AkadaText variant="bodySmall" color="textSecondary">{l}</AkadaText></Card>)}
+      </Grid>
+      <Grid columns={pair} gap={space[24]}>
       <Stack gap={space[12]}>
         <AkadaText variant="h3">Accuracy by subject</AkadaText>
         <Card gap={space[16]}>
@@ -91,6 +92,8 @@ export default function Progress() {
           ) : <AkadaText variant="bodyMedium" color="textSecondary">Take a mock test to see your score trend here.</AkadaText>}
         </Card>
       </Stack>
+      </Grid>
+      <Grid columns={pair} gap={space[24]}>
       <Stack gap={space[12]}>
         <AkadaText variant="h3">Weak topics</AkadaText>
         {weak.length ? (
@@ -119,6 +122,7 @@ export default function Progress() {
           <AkadaText variant="bodySmall" color="textSecondary">{practisedThisMonth} {practisedThisMonth === 1 ? 'day' : 'days'} practised this month</AkadaText>
         </Card>
       </Stack>
+      </Grid>
     </Screen>
   );
 }
