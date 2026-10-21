@@ -1,7 +1,7 @@
 import Constants from 'expo-constants';
 import { router } from 'expo-router';
 import { Linking, View } from 'react-native';
-import { ArrowLeftIcon, BookOpenTextIcon, GithubLogoIcon, GraduationCapIcon, ShieldCheckIcon, WifiSlashIcon, type Icon } from '@/components/icons';
+import { ArrowLeftIcon, BookOpenTextIcon, GlobeHemisphereWestIcon, GraduationCapIcon, LockSimpleIcon, WifiSlashIcon, type Icon } from '@/components/icons';
 import { AkadaIcon } from '@/components/AkadaIcon';
 import { AkadaText } from '@/components/AkadaText';
 import { Card, Columns, ListCard, Row, Screen, Stack } from '@/components/Layout';
@@ -22,7 +22,7 @@ export default function About() {
     [BookOpenTextIcon, `${bank.questions.length.toLocaleString()} practice questions`, `${subjects.length} subjects and ${topics} topics, each question with an explanation`],
     [GraduationCapIcon, 'For SS1 to SS3', 'Every topic is labelled by class, so you can practise what you’re learning now'],
     [WifiSlashIcon, 'Works offline', 'All the questions are inside the app. No data needed after you install it'],
-    [ShieldCheckIcon, 'Private', `No account. Your name and progress stay on ${THIS_DEVICE}, and Akada sends nothing anywhere`],
+    [LockSimpleIcon, 'Private', `No account. Your name and progress stay on ${THIS_DEVICE}, and Akada sends nothing anywhere`],
   ];
   return (
     <Screen>
@@ -56,7 +56,7 @@ export default function About() {
             <AkadaText variant="bodyMedium" color="textSecondary">All questions are original practice questions written for Akada. They are not past questions, and Akada is not connected to WAEC, NECO, JAMB or any exam board. Check your school’s scheme of work for what you need to study.</AkadaText>
           </Card>
           <ListCard>
-            <ListRow label="Akada on GitHub" icon={GithubLogoIcon} last onPress={() => Linking.openURL(REPO_URL)} />
+            <ListRow label="Akada on GitHub" icon={GlobeHemisphereWestIcon} last onPress={() => Linking.openURL(REPO_URL)} />
           </ListCard>
           <AkadaText variant="bodySmall" color="textTertiary" align="center">Akada is an independent study app.</AkadaText>
         </>}

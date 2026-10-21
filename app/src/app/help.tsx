@@ -1,6 +1,6 @@
 import { router } from 'expo-router';
 import { Linking } from 'react-native';
-import { ArrowLeftIcon, BugIcon, LightbulbIcon, WarningCircleIcon } from '@/components/icons';
+import { ArrowLeftIcon, FlagIcon, LightbulbIcon, WarningCircleIcon } from '@/components/icons';
 import { AkadaText } from '@/components/AkadaText';
 import { Card, Columns, ListCard, Row, Screen, Stack } from '@/components/Layout';
 import { IconButton } from '@/components/IconButton';
@@ -39,8 +39,8 @@ export default function Help() {
       <AkadaText variant="h3">Send feedback</AkadaText>
       <AkadaText variant="bodyMedium" color="textSecondary">Feedback opens on GitHub, where Akada is built in the open. You need a free GitHub account to post.</AkadaText>
       <ListCard>
-        <ListRow label="Report a wrong question" icon={WarningCircleIcon} onPress={() => issue('Wrong question: ')} />
-        <ListRow label="Report a problem" icon={BugIcon} onPress={() => issue('Problem: ')} />
+        <ListRow label="Report a wrong question" icon={FlagIcon} onPress={() => issue('Wrong question: ')} />
+        <ListRow label="Report a problem" icon={WarningCircleIcon} onPress={() => issue('Problem: ')} />
         <ListRow label="Suggest an idea" icon={LightbulbIcon} last onPress={() => issue('Idea: ')} />
       </ListCard>
       <AkadaText variant="bodySmall" color="textTertiary">For a wrong question, include the subject, the topic and the question text.</AkadaText>

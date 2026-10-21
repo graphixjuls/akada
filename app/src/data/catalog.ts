@@ -30,7 +30,7 @@ export const departments: Department[] = [
 /** Common combinations. Guidance only: students should check what their school or university requires. */
 export const courses: Course[] = [
   { id: 'medicine', name: 'Medicine and Surgery', department: 'science', suggested: ['biology', 'chemistry', 'physics'] },
-  { id: 'computer-science', name: 'Computer Science', department: 'science', suggested: ['mathematics', 'physics', 'chemistry'], note: 'Maths and Physics are required. Pick one more: Chemistry is a common choice.' },
+  { id: 'computer-science', name: 'Computer Science', department: 'science', suggested: ['mathematics', 'physics', 'chemistry'], note: 'Maths and Physics are usually required, and Chemistry is a common choice.' },
   { id: 'mech-eng', name: 'Mechanical Engineering', department: 'science', suggested: ['mathematics', 'physics', 'chemistry'] },
   { id: 'pharmacy', name: 'Pharmacy', department: 'science', suggested: ['biology', 'chemistry', 'physics'] },
   { id: 'nursing', name: 'Nursing', department: 'science', suggested: ['biology', 'chemistry', 'physics'] },
