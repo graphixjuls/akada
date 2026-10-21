@@ -5,6 +5,7 @@ import { streak } from '../logic/progress';
 import { radius, space, useTheme } from '../theme/theme';
 import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';
+import { LogoMark, Wordmark } from './Logo';
 import { TABS } from './BottomNav';
 import { Emoji } from './Emoji';
 import { ProgressBar } from './Progress';
@@ -21,14 +22,6 @@ export function tabForPath(path: string): string | null {
 
 const HREF = { index: '/', practice: '/practice', mock: '/mock', progress: '/progress', profile: '/profile' } as const;
 
-function Mark() {
-  const { c } = useTheme();
-  return (
-    <View style={{ width: 40, height: 40, borderRadius: radius.md, backgroundColor: c.primary, alignItems: 'center', justifyContent: 'center' }}>
-      <AkadaText variant="h2" color="textOnPrimary">A</AkadaText>
-    </View>
-  );
-}
 
 /**
  * Web and tablet navigation, replacing the bottom nav on wide screens.
@@ -49,8 +42,8 @@ export function SideNav({ rail }: { rail?: boolean }) {
       style={{ width: rail ? 88 : 264, backgroundColor: c.bgSurface, borderRightWidth: 1, borderRightColor: c.borderDefault, paddingVertical: space[24], paddingHorizontal: rail ? space[8] : space[16], gap: rail ? space[12] : space[8], alignItems: rail ? 'center' : 'stretch' }}
     >
       <View style={{ flexDirection: 'row', alignItems: 'center', gap: space[12], paddingLeft: rail ? 0 : space[16], paddingBottom: space[24] }}>
-        <Mark />
-        {!rail && <AkadaText variant="h2">Akada</AkadaText>}
+        <LogoMark size={40} />
+        {!rail && <Wordmark size={26} />}
       </View>
       {(Object.keys(TABS) as (keyof typeof TABS)[]).map(key => {
         const tab = TABS[key];

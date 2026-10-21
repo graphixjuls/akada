@@ -7,6 +7,7 @@ import { AkadaText } from '@/components/AkadaText';
 import { Card, Columns, ListCard, Row, Screen, Stack } from '@/components/Layout';
 import { IconButton } from '@/components/IconButton';
 import { ListRow } from '@/components/ListRow';
+import { LogoMark, Wordmark } from '@/components/Logo';
 import { bank } from '@/data/bank';
 import { subjects } from '@/data/catalog';
 import { THIS_DEVICE } from '@/theme/responsive';
@@ -30,11 +31,8 @@ export default function About() {
       <Columns sideWidth={400}
         main={<>
           <Card style={{ alignItems: 'center', paddingVertical: space[32] }} gap={space[12]}>
-            {/* Temporary mark until the brand logo is approved. */}
-            <View style={{ width: 72, height: 72, borderRadius: radius.lg, backgroundColor: c.primary, alignItems: 'center', justifyContent: 'center' }}>
-              <AkadaText variant="display" color="textOnPrimary">A</AkadaText>
-            </View>
-            <AkadaText variant="h1" align="center">Akada</AkadaText>
+            <LogoMark size={72} />
+            <Wordmark size={34} />
             <AkadaText variant="bodyMedium" color="textSecondary" align="center">Free practice for secondary school students in Nigeria.</AkadaText>
             <AkadaText variant="bodySmall" color="textTertiary" align="center">Version {APP_VERSION}</AkadaText>
           </Card>

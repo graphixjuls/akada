@@ -7,6 +7,7 @@ import { Photo, Screen } from '@/components/Layout';
 import { PageDots } from '@/components/Progress';
 import { BookOpenTextIcon, FireIcon, TimerIcon, type Icon } from '@/components/icons';
 import { AkadaIcon } from '@/components/AkadaIcon';
+import { Logo } from '@/components/Logo';
 import { subjects } from '@/data/catalog';
 import { images } from '@/data/images';
 import { useLayout } from '@/theme/responsive';
@@ -32,10 +33,7 @@ function DesktopWelcome() {
       <Button label="Get started" onPress={() => router.replace('/get-started')} block />
       <AkadaText variant="bodySmall" color="textTertiary" align="center">Free · works offline · no account needed</AkadaText>
     </>}>
-      <View style={{ flexDirection: 'row', alignItems: 'center', gap: space[12] }}>
-        <View style={{ width: 40, height: 40, borderRadius: radius.md, backgroundColor: c.primary, alignItems: 'center', justifyContent: 'center' }}><AkadaText variant="h2" color="textOnPrimary">A</AkadaText></View>
-        <AkadaText variant="h2">Akada</AkadaText>
-      </View>
+      <Logo size={44} />
       <View style={{ gap: space[12] }}>
         <AkadaText variant="display">Practise every subject</AkadaText>
         <AkadaText variant="bodyLarge" color="textSecondary">Free practice questions for SS1 to SS3 in Science, Social Science and Arts, each with a clear explanation.</AkadaText>
