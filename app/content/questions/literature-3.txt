@@ -1,0 +1,2270 @@
+@subject literature
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic lit-intro
+
+Q: Literature that is passed on by word of mouth is called
+A: oral literature
+W: written literature
+W: prose only
+W: drama only
+E: Folktales, proverbs and songs are oral literature.
+
+Q: A short saying that expresses a general truth, common in African oral tradition, is a
+A: proverb
+W: novel
+W: sonnet
+W: play
+E: Proverbs carry wisdom in few words.
+
+Q: A legend is a story that
+A: is based on a historical person or event but has exaggerated details
+W: is always completely true
+W: has no characters
+W: is written in verse only
+E: Legends mix history and imagination.
+
+Q: The genre of literature written in verse is
+A: poetry
+W: prose
+W: drama
+W: essay
+E: Poetry is arranged in lines and often uses rhythm.
+
+Q: The genre of literature meant to be performed on stage is
+A: drama
+W: prose
+W: poetry only
+W: biography
+E: Drama is written for performance.
+
+Q: Prose is writing that
+A: uses ordinary sentences and paragraphs
+W: is always in rhyme
+W: must be performed
+W: has no meaning
+E: Novels and short stories are prose.
+
+Q: A biography is
+A: the story of a person's life written by someone else
+W: a person's own life story
+W: a poem about nature
+W: a play about kings
+E: An autobiography is written by the person themselves.
+
+Q: A riddle is a form of oral literature that
+A: asks a puzzling question to be solved
+W: tells a long war story
+W: mourns the dead
+W: praises a king only
+E: Riddles test wit and knowledge.
+
+Q: Praise poetry in African tradition is mainly used to
+A: celebrate important people and their deeds
+W: teach mathematics
+W: mourn animals only
+W: report the weather
+E: Praise singers honour rulers and heroes.
+
+Q: One function of literature is to
+A: entertain and educate
+W: replace science
+W: make laws
+W: collect taxes
+E: Literature delights and teaches.
+
+Q: A folktale is
+A: a traditional story passed down among a people
+W: a modern scientific report
+W: a newspaper article
+W: a government document
+E: Folktales often teach morals.
+
+Q: The trickster figure in many Yoruba folktales is the
+A: tortoise
+W: lion
+W: elephant
+W: goat
+E: Ijapa the tortoise is clever and cunning.
+
+Q: Literature reflects society. This means literature
+A: shows the life, beliefs and problems of people
+W: has nothing to do with real life
+W: is only about kings
+W: is always untrue
+E: Writers draw on their society.
+
+Q: The person who tells a story in a novel is the
+A: narrator
+W: author always
+W: audience
+W: chorus
+E: The narrator may or may not be the author.
+
+Q: The person who writes a play is a
+A: playwright
+W: novelist
+W: poet
+W: critic
+E: Playwrights write drama.
+
+Q: A critic in literature is someone who
+A: analyses and evaluates literary works
+W: only writes poems
+W: acts in plays
+W: prints books
+E: Critics judge the quality of works.
+
+Q: Which of these is NOT a genre of literature?
+A: arithmetic
+W: poetry
+W: prose
+W: drama
+E: Arithmetic is a branch of mathematics.
+
+Q: A fable usually ends with
+A: a moral
+W: a sonnet
+W: a chorus
+W: a stage direction
+E: Fables teach a lesson.
+
+Q: Chants and incantations in oral literature are often used in
+A: religious and ritual occasions
+W: science classes
+W: banks
+W: football matches only
+E: They are part of worship and ceremonies.
+
+Q: Imaginative literature is also called
+A: fiction
+W: non-fiction
+W: journalism
+W: history
+E: Fiction comes from the writer's imagination.
+
+Q: Non-fiction includes
+A: biographies and essays
+W: novels and fables
+W: fairy tales
+W: myths
+E: Non-fiction deals with real people and facts.
+
+Q: Folk songs in African societies are sung at
+A: work, ceremonies and festivals
+W: only in schools
+W: only by foreigners
+W: never
+E: Songs accompany farming, weddings and other events.
+
+Q: Satire in literature uses humour to
+A: criticise and correct society
+W: praise every leader
+W: tell sad love stories only
+W: describe nature
+E: Satire mocks vice and folly.
+
+Q: The audience of a work is
+A: the people who read, watch or listen to it
+W: the writer
+W: the printer
+W: the main character
+E: Writers shape works for their audience.
+
+@topic lit-prose-forms
+
+Q: A short story differs from a novel mainly in being
+A: shorter, with fewer characters and a single main incident
+W: always written in verse
+W: performed on stage
+W: longer than a novel
+E: Short stories focus on one main event.
+
+Q: A novel that tells the story of a character's growth from youth to maturity is a
+A: bildungsroman
+W: picaresque novel
+W: epistolary novel
+W: gothic novel
+E: E.g. "The African Child" by Camara Laye.
+
+Q: A historical novel is one that
+A: is set in a real period of the past
+W: has no setting
+W: is set only in the future
+W: is written as letters
+E: It mixes history with fiction.
+
+Q: A novel set in the future that imagines scientific developments is
+A: science fiction
+W: historical fiction
+W: a fable
+W: an autobiography
+E: E.g. stories about space travel.
+
+Q: A novel that presents an imagined perfect society is a
+A: utopian novel
+W: dystopian novel
+W: picaresque novel
+W: biography
+E: Utopia means an ideal place.
+
+Q: George Orwell's "Nineteen Eighty-Four" is an example of a
+A: dystopian novel
+W: utopian novel
+W: romance
+W: fable for children
+E: It shows a frightening, oppressive society.
+
+Q: A gothic novel usually features
+A: mystery, horror and gloomy settings
+W: happy weddings only
+W: scientific inventions
+W: comic misunderstandings
+E: E.g. "Frankenstein" by Mary Shelley.
+
+Q: A novella is
+A: a prose work longer than a short story but shorter than a novel
+W: a poem of fourteen lines
+W: a one-act play
+W: a song
+E: E.g. "The Old Man and the Sea".
+
+Q: Autobiographical fiction is fiction that
+A: is based on the writer's own life
+W: is completely about animals
+W: has no characters
+W: is set on another planet
+E: The writer draws on personal experience.
+
+Q: A detective novel centres on
+A: solving a crime
+W: a love affair only
+W: a journey to space
+W: a war in the past only
+E: E.g. the Sherlock Holmes stories.
+
+Q: John Bunyan's "The Pilgrim's Progress" is an example of
+A: an allegory
+W: a science fiction novel
+W: a detective story
+W: an epistolary novel
+E: Christian's journey represents the spiritual life.
+
+Q: "Animal Farm" is an allegory of
+A: the Russian Revolution and its aftermath
+W: Nigerian independence
+W: the American Civil War
+W: the French monarchy
+E: The animals represent figures in Soviet history.
+
+Q: A romance as a form of prose is a story that
+A: deals with love, adventure or idealised events
+W: is a scientific report
+W: is always tragic
+W: has no plot
+E: Romances often have heroic or emotional adventures.
+
+Q: The point of view in which the narrator uses "he" and "she" and knows only one character's thoughts is
+A: third-person limited
+W: first-person
+W: second-person
+W: omniscient
+E: The narrator follows one character closely.
+
+Q: A novel told through diary entries is a kind of
+A: epistolary or diary novel
+W: picaresque novel
+W: gothic novel
+W: utopian novel
+E: The story unfolds in written records.
+
+Q: A satirical novel mainly aims to
+A: expose and ridicule weaknesses in society
+W: praise the government
+W: describe nature only
+W: teach grammar
+E: Satire uses humour to criticise.
+
+Q: "Robinson Crusoe" by Daniel Defoe is often regarded as one of the first
+A: English novels
+W: Greek tragedies
+W: African plays
+W: sonnets
+E: It was published in 1719.
+
+Q: "Gulliver's Travels" by Jonathan Swift is a
+A: satire presented as a travel story
+W: tragedy
+W: sonnet sequence
+W: detective story
+E: Swift mocks politics and human nature.
+
+Q: A frame story is
+A: a story within a story
+W: a picture frame
+W: a one-act play
+W: a list of characters
+E: E.g. "The Canterbury Tales" frames many tales.
+
+Q: Magical realism mixes
+A: realistic settings with magical events
+W: only science
+W: only history
+W: only letters
+E: E.g. Ben Okri's "The Famished Road".
+
+Q: Prose fiction that is very short, often under a page, is called
+A: flash fiction
+W: epic
+W: novel
+W: trilogy
+E: It tells a complete story in few words.
+
+Q: A series of three related novels is a
+A: trilogy
+W: sonnet
+W: quatrain
+W: couplet
+E: E.g. Achebe's three novels about Igbo history are often discussed together.
+
+Q: A novel's chapters are usually grouped to show
+A: stages of the story
+W: rhyme schemes
+W: stage directions
+W: acts and scenes only
+E: Chapters divide the narrative.
+
+Q: The prose form that gives a factual account of a journey is a
+A: travelogue
+W: sonnet
+W: farce
+W: ode
+E: Travel writing describes places visited.
+
+@topic lit-prose
+
+Q: The exposition of a novel
+A: introduces the characters and setting
+W: ends the story
+W: is the climax
+W: is the moral only
+E: It prepares the reader for the action.
+
+Q: Rising action in a plot refers to
+A: events that build tension towards the climax
+W: the happy ending
+W: the list of characters
+W: the title
+E: Conflicts develop and intensify.
+
+Q: The resolution of a story is where
+A: the conflict is settled
+W: the conflict begins
+W: the characters are introduced
+W: the setting is described
+E: It brings the story to an end.
+
+Q: A flat character is one who
+A: has few traits and does not change
+W: changes greatly
+W: is the narrator always
+W: is always the villain
+E: Flat characters are simple and predictable.
+
+Q: A round character is one who
+A: is complex and believable
+W: has only one trait
+W: never speaks
+W: is always an animal
+E: Round characters have many sides.
+
+Q: Characterisation is
+A: the way a writer presents and develops characters
+W: the list of chapters
+W: the rhyme scheme
+W: the setting only
+E: Writers reveal characters through actions, speech and description.
+
+Q: Internal conflict is a struggle
+A: within a character's mind
+W: between two armies
+W: between a person and nature only
+W: between two villages only
+E: E.g. a character torn between duty and desire.
+
+Q: External conflict is a struggle
+A: between a character and an outside force
+W: inside a character's mind only
+W: between two rhymes
+W: between chapters
+E: The force may be another person, society or nature.
+
+Q: A subplot is
+A: a secondary story running alongside the main plot
+W: the main plot
+W: the title
+W: the climax
+E: Subplots add depth.
+
+Q: The tone of a narrative can be described as
+A: the narrator's or author's attitude
+W: the length of the book
+W: the number of characters
+W: the colour of the cover
+E: Tone may be humorous, bitter or serious.
+
+Q: Suspense in a story is
+A: a feeling of uncertainty about what will happen next
+W: the happy ending
+W: the list of characters
+W: a type of rhyme
+E: It keeps readers interested.
+
+Q: Dialogue in prose is
+A: conversation between characters
+W: the narrator's description only
+W: the title
+W: the moral
+E: Dialogue reveals character and moves the plot.
+
+Q: A character who is the main villain is the
+A: antagonist
+W: protagonist
+W: narrator always
+W: foil only
+E: The antagonist opposes the hero.
+
+Q: The atmosphere of a story is the
+A: mood created by the setting and events
+W: weather only
+W: number of pages
+W: author's name
+E: It may be gloomy, joyful or tense.
+
+Q: A story told in the order the events happened is in
+A: chronological order
+W: flashback only
+W: reverse order
+W: random order
+E: Events follow time sequence.
+
+Q: The narrator who takes part in the story is called
+A: a first-person narrator
+W: an omniscient narrator
+W: a chorus
+W: a critic
+E: The narrator uses "I".
+
+Q: An unreliable narrator is one whose account
+A: cannot be fully trusted
+W: is always correct
+W: is written in verse
+W: belongs to the author only
+E: The reader must question what they say.
+
+Q: Style in prose refers to
+A: the writer's way of using language
+W: the plot only
+W: the cover design
+W: the printing
+E: Style includes diction, sentence structure and tone.
+
+Q: The denouement of a novel is
+A: the final unravelling of the plot
+W: the opening
+W: the rising action
+W: the introduction of characters
+E: Mysteries are explained and loose ends tied.
+
+Q: Local colour in fiction refers to
+A: details of the customs and speech of a particular place
+W: the colour of the paper
+W: illustrations
+W: the author's clothing
+E: It gives a vivid sense of place.
+
+Q: A protagonist's motivation is
+A: the reason for their actions
+W: the setting
+W: the climax
+W: the theme
+E: Motives explain why characters act.
+
+@topic lit-drama
+
+Q: A play is divided into acts and
+A: scenes
+W: stanzas
+W: chapters
+W: verses
+E: Acts are broken into smaller scenes.
+
+Q: The people who perform a play are called the
+A: cast
+W: audience
+W: chorus only
+W: critics
+E: The cast is the group of actors.
+
+Q: The person who guides actors and controls the staging of a play is the
+A: director
+W: playwright
+W: critic
+W: prompter
+E: The director interprets the script.
+
+Q: A monologue is
+A: a long speech by one character to others on stage
+W: a conversation between two characters
+W: a song by the chorus
+W: stage directions
+E: Unlike a soliloquy, others may hear it.
+
+Q: The list of characters at the beginning of a play is the
+A: dramatis personae
+W: prologue
+W: epilogue
+W: denouement
+E: It names the people in the play.
+
+Q: Props in drama are
+A: objects used by actors on stage
+W: the actors themselves
+W: the audience
+W: the script
+E: E.g. a sword, a cup or a letter.
+
+Q: The costume of an actor refers to
+A: the clothes worn to play a role
+W: the stage lights
+W: the theatre building
+W: the script
+E: Costumes show period and character.
+
+Q: Dramatic irony occurs when
+A: the audience knows something a character does not
+W: a character tells a joke
+W: the play has a happy ending
+W: the stage is dark
+E: It creates tension or humour.
+
+Q: The chorus in Greek drama
+A: comments on the action
+W: is the villain
+W: is the playwright
+W: builds the stage
+E: The chorus sings and speaks to the audience.
+
+Q: A one-act play is
+A: a short play with only one act
+W: a play with many acts
+W: a novel
+W: a poem
+E: It usually has a single setting.
+
+Q: The prompter in a theatre
+A: helps actors who forget their lines
+W: writes the play
+W: buys tickets
+W: designs costumes
+E: The prompter follows the script offstage.
+
+Q: Stage directions are usually written in
+A: italics or brackets
+W: rhyme
+W: capital letters only
+W: the dialogue
+E: They are not spoken aloud.
+
+Q: Comic relief is
+A: a humorous scene in a serious play that eases tension
+W: the climax of a tragedy
+W: the prologue
+W: the epilogue
+E: E.g. the porter scene in "Macbeth".
+
+Q: The protagonist of a tragedy who falls from greatness is the
+A: tragic hero
+W: chorus
+W: foil
+W: prompter
+E: Tragic heroes are noble but flawed.
+
+Q: The setting of a play is shown to the audience mainly through
+A: scenery, lighting and stage directions
+W: the novel's chapters
+W: the narrator only
+W: rhyme
+E: Stage design shows time and place.
+
+Q: Dialogue in drama is mainly used to
+A: reveal character and advance the plot
+W: list chapters
+W: describe rhyme
+W: give the author's biography
+E: Plays depend on speech.
+
+Q: An epilogue is
+A: a concluding speech or section at the end of a play
+W: the opening
+W: a song
+W: the climax
+E: It rounds off the play.
+
+Q: The climax of a play is
+A: the point of highest tension
+W: the opening scene
+W: the cast list
+W: the curtain call
+E: The conflict reaches its peak.
+
+Q: Mime in drama is acting
+A: without words, using gestures
+W: with long speeches
+W: with singing only
+W: offstage
+E: Mime relies on body movement.
+
+Q: Total theatre, as used by some African playwrights, combines
+A: speech, music, dance and mime
+W: only dialogue
+W: only reading
+W: only lighting
+E: E.g. the plays of Wole Soyinka use song and dance.
+
+Q: In drama, conflict is important because it
+A: drives the action of the play
+W: ends the play
+W: replaces dialogue
+W: shows the cast list
+E: Without conflict there is little drama.
+
+@topic lit-drama-types
+
+Q: A tragedy usually ends with
+A: the downfall or death of the protagonist
+W: a wedding
+W: a joke
+W: a song only
+E: Tragedy moves towards catastrophe.
+
+Q: A comedy usually ends
+A: happily
+W: in death
+W: in war
+W: without resolution
+E: Comedies often end with reconciliation or marriage.
+
+Q: A play in which characters mainly sing their parts is
+A: an opera
+W: a farce
+W: a mime
+W: a tragedy only
+E: Opera combines drama and music.
+
+Q: A musical is a play that combines
+A: songs, spoken dialogue and dancing
+W: only dialogue
+W: only poetry
+W: only mime
+E: Musicals are popular stage entertainment.
+
+Q: Theatre of the Absurd presents
+A: a meaningless world with illogical events
+W: a realistic historical story
+W: a happy fairy tale
+W: a religious ritual only
+E: E.g. Samuel Beckett's "Waiting for Godot".
+
+Q: A satirical comedy aims to
+A: mock and criticise social or political follies
+W: make the audience cry
+W: praise the powerful
+W: tell a love story only
+E: It uses laughter to expose faults.
+
+Q: A comedy of manners mocks
+A: the behaviour and customs of a social class
+W: kings in war
+W: farmers only
+W: animals
+E: E.g. Oscar Wilde's "The Importance of Being Earnest".
+
+Q: A history play dramatises
+A: real events and people from the past
+W: imaginary future worlds
+W: only animals
+W: modern science
+E: E.g. Ola Rotimi's "Kurunmi".
+
+Q: Radio drama is presented mainly through
+A: sound and voice
+W: costumes
+W: scenery
+W: mime
+E: Listeners cannot see the action.
+
+Q: A morality play presents
+A: characters representing virtues and vices
+W: a detective story
+W: a modern comedy of errors
+W: science fiction
+E: E.g. "Everyman".
+
+Q: The ancient Greek playwright who wrote "Oedipus Rex" was
+A: Sophocles
+W: Aristotle
+W: Homer
+W: Plato
+E: Ola Rotimi adapted it as "The Gods Are Not to Blame".
+
+Q: Aristotle discussed tragedy in his work
+A: Poetics
+W: Republic
+W: Iliad
+W: Odyssey
+E: He described catharsis and the tragic hero.
+
+Q: The "three unities" of classical drama are time, place and
+A: action
+W: rhyme
+W: music
+W: costume
+E: They were based on readings of Aristotle.
+
+Q: Peripeteia in tragedy means
+A: a reversal of fortune
+W: a happy wedding
+W: the chorus
+W: the prologue
+E: The hero's situation suddenly changes.
+
+Q: Anagnorisis in tragedy is
+A: the moment of recognition or discovery
+W: the opening speech
+W: the comic scene
+W: the costume change
+E: The hero realises the truth.
+
+Q: A pantomime is a
+A: comic family entertainment with music and exaggerated characters
+W: tragedy about kings
+W: silent poem
+W: radio news
+E: Pantomimes are popular at festive seasons.
+
+Q: Domestic tragedy deals with
+A: ordinary people and family life
+W: only kings and queens
+W: gods only
+W: animals
+E: E.g. Arthur Miller's "Death of a Salesman".
+
+Q: Folk drama in Africa often grows out of
+A: festivals, rituals and masquerades
+W: science fairs
+W: banking
+W: elections
+E: Traditional performances are rooted in community life.
+
+Q: A play that is read rather than performed is sometimes called
+A: a closet drama
+W: a musical
+W: an opera
+W: a farce
+E: It is written mainly for reading.
+
+Q: Tragicomedy combines
+A: tragic and comic elements
+W: only songs
+W: only mime
+W: only narration
+E: It may have serious events but a happy ending.
+
+Q: Melodrama typically has
+A: clearly good heroes and wicked villains
+W: no conflict
+W: only one character
+W: no emotions
+E: Characters are often stereotypes.
+
+Q: Wole Soyinka's "The Trials of Brother Jero" is best described as a
+A: satirical comedy
+W: tragedy
+W: opera
+W: history play
+E: It mocks a fake prophet.
+
+Q: In a farce, humour mainly comes from
+A: absurd situations and physical action
+W: deep philosophical speeches
+W: tragic deaths
+W: historical detail
+E: Farce relies on exaggeration.
+
+Q: Street theatre is drama performed
+A: in public places, not in a theatre building
+W: only on radio
+W: only in schools
+W: only in churches
+E: It brings plays directly to the people.
+
+@topic lit-poetry
+
+Q: A lyric poem mainly expresses
+A: personal feelings and emotions
+W: a long war story
+W: stage directions
+W: a list of facts
+E: Lyrics are short and emotional.
+
+Q: An ode is a poem that
+A: praises a person, object or idea in an elevated style
+W: tells a funny story in five lines
+W: mourns a pet only
+W: is always fourteen lines
+E: E.g. Keats's "Ode to a Nightingale".
+
+Q: A ballad is
+A: a poem that tells a story, often in short stanzas
+W: a poem of fourteen lines
+W: a play
+W: a novel
+E: Ballads were often sung.
+
+Q: A narrative poem
+A: tells a story
+W: has no characters
+W: is always comic
+W: is always a sonnet
+E: Epics and ballads are narrative poems.
+
+Q: The Petrarchan sonnet is divided into
+A: an octave and a sestet
+W: three quatrains and a couplet
+W: two couplets
+W: five tercets
+E: Eight lines followed by six.
+
+Q: The Shakespearean sonnet ends with
+A: a rhyming couplet
+W: a sestet
+W: a quatrain only
+W: a refrain
+E: Three quatrains then a couplet: ABAB CDCD EFEF GG.
+
+Q: A dirge is
+A: a song or poem of mourning
+W: a wedding song
+W: a comic poem
+W: a children's rhyme
+E: Dirges lament the dead.
+
+Q: An epitaph is
+A: a short poem or text written on a tomb
+W: a long epic
+W: a love song
+W: a stage play
+E: It honours the dead.
+
+Q: A haiku is a Japanese poem of
+A: three lines
+W: five lines
+W: fourteen lines
+W: eight lines
+E: It traditionally has 5, 7 and 5 syllables.
+
+Q: A stanza of three lines is a
+A: tercet
+W: quatrain
+W: couplet
+W: sestet
+E: Tercets have three lines.
+
+Q: A stanza of six lines is a
+A: sestet
+W: octave
+W: quatrain
+W: couplet
+E: Six lines form a sestet.
+
+Q: A stanza of eight lines is an
+A: octave
+W: sestet
+W: tercet
+W: quatrain
+E: The first part of a Petrarchan sonnet is an octave.
+
+Q: The speaker in a poem is called the
+A: persona
+W: author always
+W: chorus
+W: narrator in drama
+E: The persona may differ from the poet.
+
+Q: A pastoral poem is about
+A: rural life and the countryside
+W: city crime
+W: war machines
+W: space travel
+E: Pastoral poems idealise shepherds and nature.
+
+Q: A panegyric is a poem of
+A: praise
+W: mourning
+W: insult
+W: instruction in farming
+E: It honours someone highly.
+
+Q: A dramatic monologue is a poem in which
+A: a single speaker addresses a silent listener
+W: two characters argue
+W: a chorus sings
+W: there is no speaker
+E: E.g. Browning's "My Last Duchess".
+
+Q: Free verse is useful to poets because it
+A: allows natural speech rhythms
+W: forces strict rhyme
+W: must have fourteen lines
+W: has no words
+E: It is not bound by fixed metre.
+
+Q: A cinquain is a poem of
+A: five lines
+W: three lines
+W: ten lines
+W: fourteen lines
+E: Cinquains have five lines.
+
+Q: The poem "Ozymandias" was written by
+A: Percy Bysshe Shelley
+W: John Keats
+W: William Wordsworth
+W: Lord Byron
+E: It is a sonnet about the ruins of a king's statue.
+
+Q: "The Rime of the Ancient Mariner" was written by
+A: Samuel Taylor Coleridge
+W: William Blake
+W: Robert Burns
+W: Alfred Tennyson
+E: It is a long narrative ballad.
+
+Q: "The Road Not Taken" was written by
+A: Robert Frost
+W: Walt Whitman
+W: T.S. Eliot
+W: Emily Dickinson
+E: It reflects on choices in life.
+
+Q: An elegy written for a friend, "In Memoriam A.H.H.", was written by
+A: Alfred Tennyson
+W: John Milton
+W: Geoffrey Chaucer
+W: Thomas Hardy
+E: Tennyson mourned his friend Arthur Hallam.
+
+Q: Poetry that describes a scene or object vividly is called
+A: descriptive poetry
+W: dramatic poetry
+W: epic only
+W: limerick
+E: It paints pictures with words.
+
+Q: The theme of a poem is
+A: its central idea
+W: its rhyme scheme
+W: its title only
+W: its number of lines
+E: Themes include love, death and nature.
+
+@topic lit-poetic-devices
+
+Q: Lines with five iambic feet are in
+A: iambic pentameter
+W: trochaic tetrameter
+W: free verse
+W: dactylic hexameter
+E: Each iamb is an unstressed then stressed syllable.
+
+Q: An iamb is a metrical foot of
+A: an unstressed syllable followed by a stressed one
+W: a stressed syllable followed by an unstressed one
+W: two stressed syllables
+W: three unstressed syllables
+E: E.g. "be-LOW".
+
+Q: A trochee is a metrical foot of
+A: a stressed syllable followed by an unstressed one
+W: an unstressed syllable followed by a stressed one
+W: two unstressed syllables
+W: three stressed syllables
+E: E.g. "TI-ger".
+
+Q: A spondee consists of
+A: two stressed syllables
+W: two unstressed syllables
+W: one stressed and two unstressed
+W: no syllables
+E: E.g. "heart-break".
+
+Q: A dactyl consists of
+A: one stressed syllable followed by two unstressed ones
+W: two stressed syllables
+W: two unstressed then one stressed
+W: one unstressed then one stressed
+E: E.g. "MUR-mur-ing".
+
+Q: An anapaest consists of
+A: two unstressed syllables followed by a stressed one
+W: one stressed then two unstressed
+W: two stressed syllables
+W: one stressed syllable only
+E: E.g. "in-ter-VENE".
+
+Q: Internal rhyme occurs when
+A: words rhyme within the same line
+W: lines do not rhyme
+W: the last lines of stanzas rhyme
+W: only titles rhyme
+E: E.g. "Once upon a midnight dreary, while I pondered weak and weary".
+
+Q: Half rhyme (slant rhyme) is when words
+A: have similar but not identical sounds
+W: rhyme perfectly
+W: do not rhyme at all
+W: are spelled the same
+E: E.g. "soul" and "all".
+
+Q: Consonance is the repetition of
+A: consonant sounds, usually within or at the end of words
+W: vowel sounds
+W: whole lines
+W: stanzas
+E: E.g. "pitter-patter".
+
+Q: The rhyme scheme of the lines ending "day, night, way, light" is
+A: ABAB
+W: AABB
+W: ABBA
+W: AAAA
+E: Day/way rhyme (A); night/light rhyme (B).
+
+Q: The rhyme scheme of the lines ending "sun, fun, sky, high" is
+A: AABB
+W: ABAB
+W: ABBA
+W: ABCD
+E: Sun/fun (A), sky/high (B).
+
+Q: The rhyme scheme of the lines ending "tree, sky, high, sea" is
+A: ABBA
+W: AABB
+W: ABAB
+W: ABCB
+E: Tree/sea (A) enclose sky/high (B).
+
+Q: Repetition in a poem is mainly used to
+A: emphasise ideas and create rhythm
+W: confuse the reader
+W: shorten the poem
+W: remove meaning
+E: Repeated words stress key ideas.
+
+Q: Imagery in poetry refers to
+A: words that create pictures in the mind
+W: the rhyme scheme
+W: the poet's photograph
+W: the title
+E: Imagery appeals to the senses.
+
+Q: Visual imagery appeals to the sense of
+A: sight
+W: hearing
+W: taste
+W: smell
+E: It helps the reader see.
+
+Q: Auditory imagery appeals to the sense of
+A: hearing
+W: sight
+W: touch
+W: taste
+E: It describes sounds.
+
+Q: A poem's metre is identified by
+A: counting the stressed and unstressed syllables in each line
+W: counting the stanzas only
+W: counting the characters
+W: looking at the title
+E: Scansion reveals the metre.
+
+Q: Scansion is
+A: the analysis of a poem's metre
+W: the reading of a novel
+W: the staging of a play
+W: the printing of a book
+E: Stresses are marked to find the pattern.
+
+Q: Tone in a poem can be described as
+A: the poet's attitude, such as bitter, joyful or ironic
+W: the length of the poem
+W: the number of stanzas
+W: the rhyme scheme
+E: Tone colours the meaning.
+
+Q: The mood of a poem refers to
+A: the feeling it creates in the reader
+W: the poet's age
+W: the title
+W: the number of lines
+E: Mood may be sad, peaceful or tense.
+
+Q: A refrain helps a poem by
+A: reinforcing its main idea through repetition
+W: ending every word
+W: removing rhythm
+W: stopping the reader
+E: It returns like a chorus.
+
+Q: A heroic couplet is
+A: a pair of rhymed lines in iambic pentameter
+W: a stanza of six lines
+W: an unrhymed line
+W: a three-line stanza
+E: It was used by poets such as Alexander Pope.
+
+@topic lit-devices
+
+Q: A euphemism is
+A: a mild expression used in place of an unpleasant one
+W: an exaggeration
+W: a contradiction
+W: a sound word
+E: E.g. "passed away" for "died".
+
+Q: Hyperbole is
+A: deliberate exaggeration for effect
+W: understatement
+W: a mild expression
+W: a question
+E: E.g. "I have told you a thousand times."
+
+Q: A rhetorical question is
+A: a question asked for effect, not for an answer
+W: a question in an exam
+W: a riddle
+W: a stage direction
+E: It makes the listener think.
+
+Q: A paradox is
+A: a statement that seems contradictory but reveals a truth
+W: an exaggeration
+W: a comparison with "like"
+W: a sound word
+E: E.g. "The child is father of the man."
+
+Q: Personification gives
+A: human qualities to non-human things
+W: animal names to people
+W: sounds to words
+W: colours to rhymes
+E: E.g. "The sun smiled."
+
+Q: A simile compares two things using
+A: "like" or "as"
+W: no comparison words
+W: only numbers
+W: rhyme
+E: E.g. "as brave as a lion".
+
+Q: A metaphor is
+A: a direct comparison without "like" or "as"
+W: a comparison with "like"
+W: a sound word
+W: a question
+E: E.g. "Time is a thief."
+
+Q: Onomatopoeia is the use of words that
+A: imitate sounds
+W: exaggerate
+W: contradict
+W: address the dead
+E: E.g. "buzz", "crash".
+
+Q: Symbolism is the use of
+A: objects or actions to represent ideas
+W: numbers only
+W: rhyme only
+W: stage directions
+E: E.g. a dove for peace.
+
+Q: Situational irony is when
+A: the outcome is the opposite of what is expected
+W: a character tells a joke
+W: words imitate sounds
+W: a poem has fourteen lines
+E: E.g. a lifeguard drowning.
+
+Q: Verbal irony is when
+A: a speaker says the opposite of what they mean
+W: words rhyme
+W: a play ends happily
+W: the audience laughs
+E: E.g. calling a rainy day "lovely weather".
+
+Q: Bathos is
+A: an abrupt fall from the serious to the trivial
+W: a rise to a climax
+W: a rhyming couplet
+W: a type of stanza
+E: It produces an anticlimax, often comic.
+
+Q: Pathos is the quality in writing that
+A: evokes pity or sadness
+W: makes people laugh
+W: confuses the reader
+W: lists facts
+E: It moves the reader's emotions.
+
+Q: A pun is
+A: a play on words with more than one meaning
+W: a long poem
+W: a contradiction
+W: a sad song
+E: Puns create humour.
+
+Q: Juxtaposition is
+A: placing contrasting things side by side
+W: repeating a line
+W: addressing the dead
+W: using sound words
+E: It highlights differences.
+
+Q: An apostrophe addresses
+A: an absent person or abstract idea
+W: the audience directly in a play only
+W: the author
+W: the printer
+E: E.g. "O Death, where is thy sting?"
+
+Q: Metonymy replaces the name of something with
+A: something closely associated with it
+W: its opposite
+W: a sound word
+W: a number
+E: E.g. "the Crown" for the monarchy.
+
+Q: Allusion refers to
+A: a well-known person, place, event or text
+W: a sound
+W: a contradiction
+W: a stage direction
+E: E.g. calling someone "a Judas".
+
+@topic lit-appreciation
+
+Q: To appreciate a poem means to
+A: understand, analyse and evaluate it
+W: memorise it only
+W: copy it
+W: translate it only
+E: Appreciation considers content and technique.
+
+Q: The subject matter of a poem is
+A: what the poem is about
+W: its rhyme scheme
+W: its title only
+W: the poet's age
+E: It is the topic the poem treats.
+
+Q: In literary appreciation, "form" refers to
+A: the structure and shape of the work
+W: the moral only
+W: the reader's opinion
+W: the printing
+E: Form includes stanzas, metre and layout.
+
+Q: Diction that is simple and everyday is described as
+A: colloquial or informal
+W: archaic
+W: technical
+W: poetic only
+E: It resembles ordinary speech.
+
+Q: Archaic diction uses
+A: old-fashioned words such as "thou" and "thee"
+W: modern slang
+W: technical terms only
+W: numbers
+E: It gives a sense of the past.
+
+Q: When analysing a character, a reader should consider
+A: their actions, speech and relationships
+W: only their name
+W: only the cover of the book
+W: only the setting
+E: These reveal personality.
+
+Q: A theme differs from the subject matter because the theme is
+A: the deeper message or insight
+W: the title
+W: the setting
+W: the rhyme
+E: Subject matter is what; theme is the underlying idea.
+
+Q: Which question helps to identify the tone of a passage?
+A: How does the writer feel about the subject?
+W: How many pages are there?
+W: Who printed the book?
+W: What colour is the cover?
+E: Tone is the writer's attitude.
+
+Q: A sarcastic tone is
+A: mocking and bitter
+W: gentle and loving
+W: neutral and factual
+W: sad and mournful
+E: Sarcasm uses irony to wound.
+
+Q: A nostalgic tone expresses
+A: longing for the past
+W: anger at the present
+W: hope for the future only
+W: fear of animals
+E: Nostalgia looks back fondly.
+
+Q: In appreciation, "language" refers to
+A: the writer's use of words, imagery and devices
+W: the country of the writer
+W: the price of the book
+W: the number of chapters
+E: Language analysis looks at style.
+
+Q: A melancholic mood is
+A: sad and gloomy
+W: happy and lively
+W: angry and violent
+W: funny
+E: It creates sorrow.
+
+Q: Point of view affects a story because it
+A: determines what the reader can know
+W: changes the title
+W: changes the printing
+W: removes the theme
+E: The narrator's position shapes information.
+
+Q: The setting of a work can contribute to its
+A: mood and meaning
+W: price
+W: length only
+W: author's fame
+E: Place and time shape atmosphere.
+
+Q: A static character is one who
+A: does not change throughout the story
+W: changes greatly
+W: is always the hero
+W: dies at the beginning
+E: Static characters remain the same.
+
+Q: When asked to comment on the "effect" of a device, you should explain
+A: how it shapes the reader's feelings or understanding
+W: how many times it appears only
+W: the device's dictionary meaning only
+W: the price of the book
+E: Effect links technique to meaning.
+
+Q: Conciseness in writing means
+A: expressing ideas in few words
+W: using many unnecessary words
+W: writing in verse
+W: using archaic words
+E: Concise writing is clear and brief.
+
+Q: A writer's purpose may be to
+A: inform, entertain or persuade
+W: only confuse
+W: only print
+W: only sell
+E: Understanding purpose helps interpretation.
+
+Q: In "unseen" poetry questions, the student
+A: analyses a poem they have not studied before
+W: reads a novel aloud
+W: writes a play
+W: copies a set poem
+E: It tests appreciation skills.
+
+Q: The "message" of a fable is usually stated as its
+A: moral
+W: setting
+W: climax
+W: rhyme
+E: E.g. "Slow and steady wins the race."
+
+Q: Evaluating a work involves
+A: judging its strengths and weaknesses
+W: summarising it only
+W: counting its pages
+W: listing its characters
+E: Evaluation gives a reasoned opinion.
+
+Q: Contrast in a passage is used to
+A: highlight differences between ideas or characters
+W: hide the meaning
+W: make the passage longer
+W: remove emotion
+E: Opposites make each clearer.
+
+Q: An optimistic tone is
+A: hopeful and positive
+W: hopeless
+W: angry
+W: neutral
+E: The writer expects good outcomes.
+
+Q: Figurative language means language that
+A: goes beyond the literal meaning
+W: is always factual
+W: has no meaning
+W: is only numbers
+E: Similes and metaphors are figurative.
+
+@topic lit-african
+
+Q: In "Things Fall Apart", Okonkwo's father was
+A: Unoka
+W: Obierika
+W: Ezeudu
+W: Nwoye
+E: Unoka was lazy and in debt.
+
+Q: In "Things Fall Apart", Okonkwo's eldest son, who converted to Christianity, was
+A: Nwoye
+W: Ikemefuna
+W: Obierika
+W: Unoka
+E: Nwoye took the name Isaac.
+
+Q: Ikemefuna in "Things Fall Apart" came to Umuofia
+A: as a peace offering from a neighbouring village
+W: as Okonkwo's son by birth
+W: as a missionary
+W: as a trader
+E: He lived with Okonkwo's family for three years.
+
+Q: Okonkwo was exiled for seven years because he
+A: accidentally killed a clansman
+W: stole yams
+W: refused to farm
+W: became a Christian
+E: His gun went off at Ezeudu's funeral, killing a boy.
+
+Q: Okonkwo spent his exile in his mother's village,
+A: Mbanta
+W: Umuofia
+W: Abame
+W: Mbaino
+E: He lived there with his mother's kinsmen.
+
+Q: Okonkwo's best friend in "Things Fall Apart" was
+A: Obierika
+W: Unoka
+W: Nwoye
+W: Mr Smith
+E: Obierika is thoughtful and loyal.
+
+Q: Okonkwo's favourite daughter was
+A: Ezinma
+W: Ekwefi
+W: Ojiugo
+W: Obiageli
+E: Ezinma was Ekwefi's only surviving child.
+
+Q: The missionary in "Things Fall Apart" known for his patience and tolerance was
+A: Mr Brown
+W: Mr Smith
+W: Mr Kiaga
+W: Reverend Pike
+E: Mr Smith, who replaced him, was harsh.
+
+Q: Wole Soyinka's "Death and the King's Horseman" centres on
+A: Elesin Oba's failure to perform a ritual suicide
+W: a love affair in Lagos
+W: a military coup
+W: a football match
+E: The play is based on a real event in Oyo in 1946.
+
+Q: In Soyinka's "The Lion and the Jewel", the "Jewel" is
+A: Sidi
+W: Baroka
+W: Lakunle
+W: Sadiku
+E: Sidi is the village beauty.
+
+Q: In "The Lion and the Jewel", the "Lion" is
+A: Baroka, the Bale of Ilujinle
+W: Lakunle, the schoolteacher
+W: Sadiku
+W: the photographer
+E: Baroka outwits Lakunle and wins Sidi.
+
+Q: Ola Rotimi's "The Gods Are Not to Blame" is an adaptation of
+A: Sophocles' "Oedipus Rex"
+W: Shakespeare's "Macbeth"
+W: Marlowe's "Doctor Faustus"
+W: Ibsen's "A Doll's House"
+E: Odewale corresponds to Oedipus.
+
+Q: The tragic hero of "The Gods Are Not to Blame" is
+A: Odewale
+W: Adetusa
+W: Ojuola
+W: Baba Fakunle
+E: He unknowingly kills his father and marries his mother.
+
+Q: "Song of a Goat" is a play by
+A: J.P. Clark
+W: Wole Soyinka
+W: Ola Rotimi
+W: Femi Osofisan
+E: It is a tragedy set in the Niger Delta.
+
+Q: "Wedlock of the Gods" was written by
+A: Zulu Sofola
+W: Flora Nwapa
+W: Buchi Emecheta
+W: Ama Ata Aidoo
+E: Sofola was one of Nigeria's first female playwrights.
+
+Q: "The Dilemma of a Ghost" was written by
+A: Ama Ata Aidoo
+W: Mariama Bâ
+W: Zulu Sofola
+W: Flora Nwapa
+E: It explores a Ghanaian man's African-American wife.
+
+Q: "Women of Owu" was written by
+A: Femi Osofisan
+W: Wole Soyinka
+W: Ola Rotimi
+W: J.P. Clark
+E: It adapts Euripides' "The Trojan Women".
+
+Q: "Kurunmi" by Ola Rotimi is set during
+A: the Ijaye war in Yorubaland
+W: the Nigerian civil war
+W: colonial Lagos in 1960
+W: the jihad in Sokoto
+E: Kurunmi was the Are-Ona-Kakanfo of Ijaye.
+
+Q: Wole Soyinka's "Kongi's Harvest" satirises
+A: dictatorship in modern Africa
+W: colonial missionaries only
+W: traditional farming
+W: sports
+E: Kongi is a power-hungry ruler.
+
+Q: "Our Husband Has Gone Mad Again" is a comedy by
+A: Ola Rotimi
+W: Wole Soyinka
+W: J.P. Clark
+W: Zulu Sofola
+E: It satirises a politician, Lejoka-Brown.
+
+Q: Négritude was founded mainly by
+A: Léopold Senghor, Aimé Césaire and Léon Damas
+W: Achebe and Soyinka
+W: Shakespeare and Marlowe
+W: Wordsworth and Coleridge
+E: They celebrated Black identity and culture.
+
+Q: Wole Soyinka criticised Négritude by saying
+A: "A tiger does not proclaim its tigritude"
+W: "All the world's a stage"
+W: "Things fall apart"
+W: "To be or not to be"
+E: He meant identity should be shown, not proclaimed.
+
+Q: The novel "The Famished Road", which won the Booker Prize in 1991, was written by
+A: Ben Okri
+W: Chinua Achebe
+W: Wole Soyinka
+W: Elechi Amadi
+E: Its narrator is an abiku spirit-child, Azaro.
+
+Q: "Half of a Yellow Sun" by Chimamanda Ngozi Adichie is set during
+A: the Nigerian Civil War
+W: the jihad of 1804
+W: the colonial conquest of Benin
+W: the Second World War in Burma
+E: The title refers to the Biafran flag.
+
+@topic lit-african-prose
+
+Q: "Arrow of God" by Chinua Achebe tells the story of
+A: Ezeulu, chief priest of Ulu
+W: Okonkwo's exile
+W: Obi Okonkwo in Lagos
+W: Odili in politics
+E: It was published in 1964.
+
+Q: "No Longer at Ease" follows
+A: Obi Okonkwo, a civil servant who takes a bribe
+W: Ezeulu
+W: Unoka
+W: Odili Samalu
+E: Obi is Okonkwo's grandson.
+
+Q: "A Man of the People" by Chinua Achebe satirises
+A: corrupt politicians
+W: colonial priests only
+W: traditional wrestling
+W: farmers
+E: Chief Nanga is the corrupt minister.
+
+Q: "Anthills of the Savannah" was written by
+A: Chinua Achebe
+W: Wole Soyinka
+W: Ngugi wa Thiong'o
+W: Ayi Kwei Armah
+E: It was published in 1987.
+
+Q: "The Beautyful Ones Are Not Yet Born" was written by
+A: Ayi Kwei Armah
+W: Chinua Achebe
+W: Camara Laye
+W: Peter Abrahams
+E: It explores corruption in post-independence Ghana.
+
+Q: "The African Child" (L'Enfant noir) was written by
+A: Camara Laye
+W: Ferdinand Oyono
+W: Mongo Beti
+W: Sembène Ousmane
+E: It recalls the author's childhood in Guinea.
+
+Q: "So Long a Letter" was written by
+A: Mariama Bâ
+W: Buchi Emecheta
+W: Flora Nwapa
+W: Ama Ata Aidoo
+E: It is an epistolary novel about polygamy in Senegal.
+
+Q: "Second Class Citizen" was written by
+A: Buchi Emecheta
+W: Flora Nwapa
+W: Chimamanda Adichie
+W: Zaynab Alkali
+E: It is partly based on Emecheta's life in London.
+
+Q: "People of the City" was written by
+A: Cyprian Ekwensi
+W: Chinua Achebe
+W: Amos Tutuola
+W: Elechi Amadi
+E: It portrays life in Lagos.
+
+Q: "Jagua Nana" was written by
+A: Cyprian Ekwensi
+W: Buchi Emecheta
+W: Flora Nwapa
+W: T.M. Aluko
+E: It tells of a glamorous Lagos woman.
+
+Q: "The River Between" was written by
+A: Ngugi wa Thiong'o
+W: Chinua Achebe
+W: Ayi Kwei Armah
+W: Peter Abrahams
+E: It deals with conflict over circumcision and Christianity in Kenya.
+
+Q: "A Grain of Wheat" by Ngugi wa Thiong'o is set during
+A: Kenya's struggle for independence
+W: Nigeria's civil war
+W: apartheid South Africa
+W: the Sokoto jihad
+E: It deals with the Mau Mau period.
+
+Q: "Cry, the Beloved Country" was written by
+A: Alan Paton
+W: Nadine Gordimer
+W: Peter Abrahams
+W: J.M. Coetzee
+E: It is set in South Africa.
+
+Q: "Mine Boy" was written by
+A: Peter Abrahams
+W: Alan Paton
+W: Ngugi wa Thiong'o
+W: Camara Laye
+E: It portrays Black miners in Johannesburg.
+
+Q: "God's Bits of Wood" was written by
+A: Sembène Ousmane
+W: Camara Laye
+W: Ferdinand Oyono
+W: Mariama Bâ
+E: It is about a railway strike in French West Africa.
+
+Q: "One Man, One Wife" was written by
+A: T.M. Aluko
+W: Chinua Achebe
+W: Amos Tutuola
+W: Cyprian Ekwensi
+E: It is a satire on Christianity and tradition in Yorubaland.
+
+Q: "The Stillborn" was written by
+A: Zaynab Alkali
+W: Buchi Emecheta
+W: Flora Nwapa
+W: Mariama Bâ
+E: It follows Li, a young woman in northern Nigeria.
+
+Q: Elechi Amadi's "The Concubine" centres on
+A: Ihuoma, a beautiful widow whose husbands die
+W: Okonkwo
+W: Obi Okonkwo
+W: a Lagos politician
+E: Her husband in the spirit world is jealous.
+
+Q: In Ferdinand Oyono's "Houseboy", the main character is
+A: Toundi
+W: Okonkwo
+W: Ihuoma
+W: Odili
+E: Toundi serves a French commandant in Cameroon.
+
+Q: Flora Nwapa's "Efuru" is notable as
+A: one of the first novels published by a Nigerian woman
+W: a play about kings
+W: a poetry collection
+W: an autobiography of Achebe
+E: It was published in 1966.
+
+Q: "Purple Hibiscus" is narrated by
+A: Kambili
+W: Olanna
+W: Ugwu
+W: Ifemelu
+E: Kambili lives under her strict father, Eugene.
+
+Q: "Americanah" was written by
+A: Chimamanda Ngozi Adichie
+W: Buchi Emecheta
+W: Ben Okri
+W: Teju Cole
+E: It follows Ifemelu between Nigeria and America.
+
+@topic lit-african-poetry
+
+Q: "Once Upon a Time", a poem contrasting a father's past and present, was written by
+A: Gabriel Okara
+W: Wole Soyinka
+W: J.P. Clark
+W: Christopher Okigbo
+E: The speaker regrets learning to "wear many faces".
+
+Q: "Abiku" is the title of poems by both
+A: Wole Soyinka and J.P. Clark
+W: Achebe and Okara
+W: Senghor and Diop
+W: Okigbo and Osundare
+E: Both poets treat the spirit-child belief.
+
+Q: "Africa", which begins "Africa my Africa", was written by
+A: David Diop
+W: Léopold Senghor
+W: Kofi Awoonor
+W: Lenrie Peters
+E: Diop was a Négritude poet from Senegal.
+
+Q: "Prayer to Masks" was written by
+A: Léopold Sédar Senghor
+W: David Diop
+W: Dennis Brutus
+W: Okot p'Bitek
+E: Senghor addresses ancestral masks.
+
+Q: "Song of Lawino" was written by
+A: Okot p'Bitek
+W: Gabriel Okara
+W: Kofi Awoonor
+W: Dennis Brutus
+E: Lawino criticises her Westernised husband Ocol.
+
+Q: Dennis Brutus's "Letters to Martha" draws on his experience of
+A: imprisonment in apartheid South Africa
+W: life in a Nigerian village
+W: travelling to the moon
+W: the Sokoto jihad
+E: He was jailed on Robben Island.
+
+Q: "The Weaver Bird" was written by
+A: Kofi Awoonor
+W: Christopher Okigbo
+W: Niyi Osundare
+W: Wole Soyinka
+E: The weaver bird symbolises colonisers.
+
+Q: "We Have Come Home" was written by
+A: Lenrie Peters
+W: Kofi Awoonor
+W: David Diop
+W: Gabriel Okara
+E: Peters was a Gambian poet and surgeon.
+
+Q: Christopher Okigbo's collection "Labyrinths" includes
+A: "Heavensgate"
+W: "Idanre"
+W: "Song of Lawino"
+W: "Night Rain"
+E: "Heavensgate" opens with "Before you, mother Idoto".
+
+Q: "Idanre" is a long poem by
+A: Wole Soyinka
+W: J.P. Clark
+W: Gabriel Okara
+W: Niyi Osundare
+E: It draws on Yoruba mythology, especially Ogun.
+
+Q: "The Eye of the Earth", which won the Commonwealth Poetry Prize, was written by
+A: Niyi Osundare
+W: Tanure Ojaide
+W: Odia Ofeimun
+W: Christopher Okigbo
+E: It celebrates nature and the environment.
+
+Q: Gabriel Okara's poem "Piano and Drums" contrasts
+A: African tradition with Western culture
+W: two kinds of food
+W: war and peace in Europe only
+W: rich and poor in London
+E: The drums represent Africa; the piano the West.
+
+Q: In "Night Rain", J.P. Clark describes
+A: rain falling at night in a poor family's hut
+W: a football match
+W: a wedding
+W: a city at war
+E: The poem uses vivid images of a rainy night.
+
+Q: Soyinka's "Telephone Conversation" deals with
+A: racial prejudice faced by an African seeking accommodation
+W: a phone call between lovers
+W: a business deal
+W: a military coup
+E: The landlady asks how dark he is.
+
+Q: The Nigerian poet who died in 1967 fighting for Biafra was
+A: Christopher Okigbo
+W: Gabriel Okara
+W: J.P. Clark
+W: Niyi Osundare
+E: He was killed near Nsukka.
+
+Q: The theme of many African poems of the colonial period is
+A: cultural conflict between Africa and the West
+W: space travel
+W: ice and snow
+W: life in medieval Europe
+E: Poets explored identity under colonialism.
+
+Q: Négritude poetry generally
+A: celebrated African heritage and Black identity
+W: praised colonial rule
+W: rejected Africa
+W: avoided emotion
+E: It was a response to colonial racism.
+
+Q: "The Sea Eats the Land at Home" was written by
+A: Kofi Awoonor
+W: Lenrie Peters
+W: Dennis Brutus
+W: David Diop
+E: It describes coastal erosion in Ghana.
+
+Q: Mazisi Kunene was a poet from
+A: South Africa
+W: Nigeria
+W: Kenya
+W: Ghana
+E: He wrote epic poetry in Zulu.
+
+Q: Tanure Ojaide's poetry often focuses on
+A: the Niger Delta and environmental damage
+W: life in the Sahara
+W: European kings
+W: space exploration
+E: E.g. "Delta Blues and Home Songs".
+
+Q: "Songs of the Seasons" and "Village Voices" are collections by
+A: Niyi Osundare
+W: Wole Soyinka
+W: J.P. Clark
+W: Okot p'Bitek
+E: Osundare is known as a "people's poet".
+
+Q: Oral poetry in Africa is often performed with
+A: drums and other musical instruments
+W: computers
+W: printed books only
+W: no audience
+E: Performance brings the poems to life.
+
+Q: The poet who wrote "Casualties", about the Nigerian Civil War, was
+A: J.P. Clark
+W: Wole Soyinka
+W: Gabriel Okara
+W: Christopher Okigbo
+E: Clark reflects on the war's victims.
+
+Q: Leopold Senghor was the first President of
+A: Senegal
+W: Nigeria
+W: Ghana
+W: Kenya
+E: He led Senegal from 1960 to 1980.
+
+@topic lit-classics
+
+Q: Geoffrey Chaucer wrote
+A: The Canterbury Tales
+W: Paradise Lost
+W: Hamlet
+W: Great Expectations
+E: Pilgrims tell stories on the way to Canterbury.
+
+Q: John Milton's "Paradise Lost" tells the story of
+A: the fall of man
+W: a journey to India
+W: a detective case
+W: a love affair in Verona
+E: It is an epic about Adam, Eve and Satan.
+
+Q: "Oliver Twist" was written by
+A: Charles Dickens
+W: Thomas Hardy
+W: Jane Austen
+W: George Eliot
+E: It follows an orphan in London.
+
+Q: "A Tale of Two Cities" by Charles Dickens is set in
+A: London and Paris during the French Revolution
+W: Lagos and Kano
+W: Rome and Athens
+W: New York and Boston
+E: It opens with "It was the best of times, it was the worst of times."
+
+Q: "Jane Eyre" was written by
+A: Charlotte Brontë
+W: Emily Brontë
+W: Jane Austen
+W: Mary Shelley
+E: It was published in 1847.
+
+Q: "Wuthering Heights" was written by
+A: Emily Brontë
+W: Charlotte Brontë
+W: Anne Brontë
+W: George Eliot
+E: Heathcliff and Catherine are its famous characters.
+
+Q: "Frankenstein" was written by
+A: Mary Shelley
+W: Percy Shelley
+W: Bram Stoker
+W: Jane Austen
+E: It is an early science fiction novel.
+
+Q: "Tess of the d'Urbervilles" was written by
+A: Thomas Hardy
+W: Charles Dickens
+W: D.H. Lawrence
+W: George Orwell
+E: Hardy's novels are set in "Wessex".
+
+Q: "Lord of the Flies" was written by
+A: William Golding
+W: George Orwell
+W: Aldous Huxley
+W: Graham Greene
+E: Schoolboys stranded on an island descend into savagery.
+
+Q: "To Kill a Mockingbird" was written by
+A: Harper Lee
+W: Ernest Hemingway
+W: John Steinbeck
+W: Mark Twain
+E: It deals with racial injustice in the American South.
+
+Q: "The Old Man and the Sea" was written by
+A: Ernest Hemingway
+W: Herman Melville
+W: John Steinbeck
+W: Joseph Conrad
+E: Santiago struggles with a giant marlin.
+
+Q: "Doctor Faustus" was written by
+A: Christopher Marlowe
+W: William Shakespeare
+W: Ben Jonson
+W: John Webster
+E: Faustus sells his soul to the devil.
+
+Q: "The Importance of Being Earnest" was written by
+A: Oscar Wilde
+W: George Bernard Shaw
+W: Richard Sheridan
+W: Noël Coward
+E: It is a comedy of manners.
+
+Q: "Arms and the Man" was written by
+A: George Bernard Shaw
+W: Oscar Wilde
+W: J.M. Synge
+W: Sean O'Casey
+E: It satirises romantic ideas about war.
+
+Q: "Death of a Salesman" was written by
+A: Arthur Miller
+W: Tennessee Williams
+W: Eugene O'Neill
+W: Samuel Beckett
+E: Willy Loman is the tragic protagonist.
+
+Q: "Waiting for Godot" was written by
+A: Samuel Beckett
+W: Harold Pinter
+W: Arthur Miller
+W: Oscar Wilde
+E: It is a key play of the Theatre of the Absurd.
+
+Q: "The Waste Land" is a famous modernist poem by
+A: T.S. Eliot
+W: W.B. Yeats
+W: Robert Frost
+W: Dylan Thomas
+E: It was published in 1922.
+
+Q: W.B. Yeats wrote the poem
+A: "The Second Coming"
+W: "Ozymandias"
+W: "Daffodils"
+W: "The Road Not Taken"
+E: It contains the line "Things fall apart; the centre cannot hold".
+
+Q: William Wordsworth's poem about daffodils begins
+A: "I wandered lonely as a cloud"
+W: "Shall I compare thee to a summer's day"
+W: "O Captain! my Captain!"
+W: "Because I could not stop for Death"
+E: It is a celebrated Romantic lyric.
+
+Q: Edmund Spenser wrote the epic
+A: The Faerie Queene
+W: Paradise Lost
+W: Beowulf
+W: The Iliad
+E: It is an allegory dedicated to Elizabeth I.
+
+Q: The oldest surviving long poem in Old English is
+A: Beowulf
+W: The Canterbury Tales
+W: Paradise Lost
+W: The Faerie Queene
+E: It tells of the hero Beowulf and the monster Grendel.
+
+Q: "Pride and Prejudice" features the heroine
+A: Elizabeth Bennet
+W: Jane Eyre
+W: Tess Durbeyfield
+W: Catherine Earnshaw
+E: She and Mr Darcy overcome pride and prejudice.
+
+Q: John Keats is best known for his
+A: odes
+W: novels
+W: plays
+W: detective stories
+E: E.g. "Ode on a Grecian Urn".
+
+Q: The Romantic poets valued
+A: nature, emotion and imagination
+W: city machines
+W: strict reason only
+W: war
+E: Wordsworth and Coleridge led the movement.
+
+@topic lit-shakespeare
+
+Q: Shakespeare was born in
+A: Stratford-upon-Avon
+W: London
+W: Oxford
+W: Canterbury
+E: He was born in 1564.
+
+Q: Many of Shakespeare's plays were performed at the
+A: Globe Theatre
+W: National Theatre, Lagos
+W: Royal Albert Hall
+W: Colosseum
+E: The Globe was built in 1599 in London.
+
+Q: In "Macbeth", the king murdered by Macbeth is
+A: Duncan
+W: Malcolm
+W: Banquo
+W: Macduff
+E: Macbeth kills Duncan to become king.
+
+Q: In "Macbeth", the witches tell Banquo that he will
+A: father kings, though he will not be one
+W: become king himself
+W: die in battle at once
+W: marry Lady Macbeth
+E: Banquo's descendants will rule.
+
+Q: In "Macbeth", who finally kills Macbeth?
+A: Macduff
+W: Malcolm
+W: Banquo
+W: Lady Macbeth
+E: Macduff was "not of woman born" in the usual way.
+
+Q: Lady Macbeth sleepwalks and tries to wash away
+A: imagined bloodstains from her hands
+W: her clothes
+W: the castle floor
+W: the witches' potion
+E: "Out, damned spot!"
+
+Q: In "Hamlet", Hamlet's father was murdered by
+A: Claudius
+W: Polonius
+W: Laertes
+W: Horatio
+E: Claudius poisoned him and married Gertrude.
+
+Q: The famous line "To be, or not to be" is spoken by
+A: Hamlet
+W: Macbeth
+W: Othello
+W: Romeo
+E: It is Hamlet's soliloquy on life and death.
+
+Q: In "Hamlet", Ophelia is the daughter of
+A: Polonius
+W: Claudius
+W: Horatio
+W: Gertrude
+E: She goes mad after her father's death.
+
+Q: In "Othello", the villain who deceives Othello is
+A: Iago
+W: Cassio
+W: Roderigo
+W: Brabantio
+E: Iago makes Othello believe Desdemona is unfaithful.
+
+Q: In "Othello", Desdemona's handkerchief is used to
+A: falsely prove her unfaithfulness
+W: wipe away tears
+W: signal the army
+W: pay a debt
+E: Iago plants it on Cassio.
+
+Q: "Romeo and Juliet" is set in
+A: Verona
+W: Venice
+W: Rome
+W: Denmark
+E: The Montagues and Capulets are feuding families.
+
+Q: In "Romeo and Juliet", Juliet belongs to the family of the
+A: Capulets
+W: Montagues
+W: Macbeths
+W: Danes
+E: Romeo is a Montague.
+
+Q: In "Romeo and Juliet", the friar who secretly marries the lovers is
+A: Friar Laurence
+W: Friar Tuck
+W: Friar John only
+W: Father Brown
+E: He hopes the marriage will end the feud.
+
+Q: In "Julius Caesar", Caesar is warned to "beware the Ides of
+A: March"
+W: April"
+W: May"
+W: June"
+E: A soothsayer gives the warning.
+
+Q: The speech beginning "Friends, Romans, countrymen, lend me your ears" is given by
+A: Mark Antony
+W: Brutus
+W: Cassius
+W: Caesar
+E: It turns the crowd against the conspirators.
+
+Q: In "The Merchant of Venice", Shylock demands
+A: a pound of Antonio's flesh
+W: a thousand ducats in gold only
+W: a ship
+W: Portia's hand in marriage
+E: It is the penalty in their bond.
+
+Q: In "The Merchant of Venice", the heiress who disguises herself as a lawyer is
+A: Portia
+W: Jessica
+W: Nerissa
+W: Desdemona
+E: She saves Antonio in court.
+
+Q: In "King Lear", the daughter who truly loves Lear is
+A: Cordelia
+W: Goneril
+W: Regan
+W: Ophelia
+E: She refuses to flatter him and is banished.
+
+Q: In "The Tempest", the magician who controls the island is
+A: Prospero
+W: Caliban
+W: Ariel
+W: Ferdinand
+E: Ariel is his spirit servant.
+
+Q: In "A Midsummer Night's Dream", the mischievous fairy is
+A: Puck
+W: Bottom
+W: Oberon
+W: Lysander
+E: Puck causes confusion with a love potion.
+
+Q: Shakespeare wrote how many sonnets?
+A: 154
+W: 37
+W: 14
+W: 300
+E: His sonnets were published in 1609.
+
+Q: Shakespeare's plays are mostly written in
+A: blank verse and prose
+W: free verse only
+W: rhyming couplets only
+W: haiku
+E: Nobles often speak in blank verse; commoners in prose.
+
+Q: Shakespeare's tragic heroes usually fall because of
+A: a tragic flaw
+W: bad weather
+W: lack of money
+W: pure chance only
+E: E.g. Macbeth's ambition or Othello's jealousy.

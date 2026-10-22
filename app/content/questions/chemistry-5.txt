@@ -1,0 +1,1362 @@
+@subject chemistry
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic chm-petroleum
+
+Q: Crude oil is formed from
+A: the remains of marine organisms buried over millions of years
+W: volcanic lava
+W: rainwater
+W: sand only
+E: Heat and pressure changed the remains.
+
+Q: The fraction of crude oil with the lowest boiling point is
+A: refinery gas
+W: bitumen
+W: diesel
+W: lubricating oil
+E: It contains small molecules.
+
+Q: The fraction of crude oil with the highest boiling point is
+A: bitumen
+W: refinery gas
+W: petrol
+W: kerosene
+E: It contains very large molecules.
+
+Q: Diesel oil is used mainly as fuel for
+A: lorries, buses and generators
+W: aircraft only
+W: cooking gas
+W: road surfacing
+E: It is also called gas oil.
+
+Q: Lubricating oil is used to
+A: reduce friction in engines
+W: power aircraft
+W: make roads
+W: cook food
+E: It is a heavy fraction.
+
+Q: Catalytic cracking uses
+A: heat and a catalyst to break large molecules
+W: cold and pressure only
+W: water only
+W: electricity
+E: It produces petrol and alkenes.
+
+Q: Cracking produces alkenes, which are used to make
+A: plastics
+W: fertilisers only
+W: cement
+W: glass
+E: E.g. ethene for polyethene.
+
+Q: Reforming in petroleum refining converts
+A: straight-chain hydrocarbons into branched or ring compounds
+W: alkenes into alkanes only
+W: gas into solids
+W: water into oil
+E: It improves petrol quality.
+
+Q: A high octane number means petrol
+A: resists knocking in engines
+W: knocks more easily
+W: burns poorly
+W: is mostly diesel
+E: Branched alkanes have high octane numbers.
+
+Q: Knocking in petrol engines is caused by
+A: premature ignition of the fuel
+W: too much oil
+W: a cold engine only
+W: low tyre pressure
+E: It reduces efficiency.
+
+Q: Tetraethyl lead was once added to petrol to
+A: reduce knocking
+W: colour it
+W: make it smell
+W: increase knocking
+E: It was banned because lead is toxic.
+
+Q: Natural gas is used mainly as
+A: fuel for power stations and cooking
+W: road surfacing
+W: lubrication
+W: fertiliser directly only
+E: It is mostly methane.
+
+Q: A good fuel should
+A: release a lot of heat and produce little pollution
+W: be difficult to ignite always
+W: produce much smoke
+W: be very expensive
+E: It should also be easy to store.
+
+Q: Coal is formed from
+A: plant remains buried and compressed over millions of years
+W: animal bones
+W: lava
+W: sea water
+E: It is a fossil fuel.
+
+Q: Destructive distillation of coal produces
+A: coke, coal tar, ammonia and coal gas
+W: petrol and diesel
+W: water only
+W: glass
+E: Coal is heated without air.
+
+Q: Biogas is mainly
+A: methane
+W: hydrogen
+W: carbon monoxide
+W: propane
+E: It forms from decaying organic matter.
+
+Q: The heat of combustion of a fuel is
+A: the heat released when one mole burns completely in oxygen
+W: the heat needed to melt it
+W: its boiling point
+W: its density
+E: It measures energy content.
+
+Q: Incomplete combustion of hydrocarbons produces
+A: carbon monoxide and soot
+W: only carbon dioxide and water
+W: oxygen
+W: hydrogen
+E: There is too little oxygen.
+
+Q: Kerosene is used mainly for
+A: lamps, stoves and jet fuel
+W: road surfacing
+W: lubrication
+W: making candles only
+E: It is also called paraffin oil.
+
+Q: Petroleum refining in Nigeria takes place at
+A: Port Harcourt, Warri and Kaduna
+W: Jos and Kano
+W: Ibadan and Abeokuta
+W: Enugu and Onitsha
+E: Plus private refineries such as Dangote.
+
+Q: Fractional distillation of crude oil works because the fractions have
+A: different boiling points
+W: different colours
+W: the same boiling point
+W: different solubilities in water
+E: Fractions condense at different levels.
+
+Q: Paraffin wax from crude oil is used for
+A: candles
+W: road surfacing
+W: aircraft fuel
+W: cooking gas
+E: It is a solid at room temperature.
+
+Q: Petrochemicals are chemicals made from
+A: petroleum and natural gas
+W: coal only
+W: plants only
+W: water
+E: E.g. plastics and detergents.
+
+Q: Hydrogen is considered a clean fuel because it burns to form only
+A: water
+W: carbon dioxide
+W: carbon monoxide
+W: soot
+E: No carbon emissions.
+
+@topic chm-hydrocarbons
+
+Q: Hydrocarbons are compounds of
+A: carbon and hydrogen only
+W: carbon and oxygen
+W: carbon, hydrogen and oxygen
+W: hydrogen and oxygen
+E: E.g. methane.
+
+Q: Alkanes are said to be saturated because they contain
+A: only single carbon–carbon bonds
+W: double bonds
+W: triple bonds
+W: no carbon
+E: They have the maximum number of hydrogens.
+
+Q: The general formula of alkenes is
+A: CₙH₂ₙ
+W: CₙH₂ₙ₊₂
+W: CₙH₂ₙ₋₂
+W: CₙHₙ
+E: E.g. ethene C₂H₄.
+
+Q: The general formula of alkynes is
+A: CₙH₂ₙ₋₂
+W: CₙH₂ₙ
+W: CₙH₂ₙ₊₂
+W: CₙHₙ
+E: E.g. ethyne C₂H₂.
+
+Q: The fourth member of the alkane series is
+A: butane
+W: propane
+W: pentane
+W: ethane
+E: Methane, ethane, propane, butane.
+
+Q: The molecular formula of propane is
+A: C₃H₈
+W: C₃H₆
+W: C₃H₄
+W: C₂H₆
+E: CₙH₂ₙ₊₂ with n = 3.
+
+Q: The molecular formula of butene is
+A: C₄H₈
+W: C₄H₁₀
+W: C₄H₆
+W: C₃H₆
+E: CₙH₂ₙ with n = 4.
+
+Q: Alkanes react with chlorine in sunlight by
+A: substitution
+W: addition
+W: polymerisation
+W: neutralisation
+E: Hydrogen atoms are replaced.
+
+Q: Alkenes react with bromine by
+A: addition
+W: substitution
+W: elimination
+W: neutralisation
+E: The double bond opens.
+
+Q: Bromine water changes from orange-brown to colourless with
+A: alkenes
+W: alkanes
+W: water
+W: salts
+E: It is a test for unsaturation.
+
+Q: Hydrogenation of alkenes in the presence of nickel produces
+A: alkanes
+W: alkynes
+W: alcohols
+W: acids
+E: It is used to make margarine.
+
+Q: Ethene is produced in the laboratory by dehydrating
+A: ethanol with concentrated sulphuric acid
+W: methane with water
+W: ethane with oxygen
+W: ethyne with water
+E: Water is removed.
+
+Q: Ethyne is prepared in the laboratory from
+A: calcium carbide and water
+W: ethanol and acid
+W: methane and chlorine
+W: ethene and hydrogen
+E: CaC₂ + 2H₂O → C₂H₂ + Ca(OH)₂.
+
+Q: A homologous series is a family of compounds that
+A: have the same general formula and similar chemical properties
+W: have the same molecular mass
+W: are all gases
+W: are all isomers
+E: Each member differs by CH₂.
+
+Q: Successive members of a homologous series differ by
+A: CH₂
+W: CH₄
+W: C₂H₂
+W: H₂
+E: A mass of 14.
+
+Q: Benzene is an example of
+A: an aromatic hydrocarbon
+W: an alkane
+W: an alkene
+W: an alcohol
+E: It has a ring of six carbons.
+
+Q: The molecular formula of benzene is
+A: C₆H₆
+W: C₆H₁₂
+W: C₆H₁₄
+W: C₆H₁₀
+E: It is highly unsaturated but stable.
+
+Q: Isomers of butane include
+A: methylpropane
+W: propane
+W: pentane
+W: ethane
+E: Both are C₄H₁₀.
+
+Q: The IUPAC name of CH₂=CH–CH₃ is
+A: propene
+W: propane
+W: propyne
+W: butene
+E: Three carbons with a double bond.
+
+Q: Complete combustion of methane produces
+A: carbon dioxide and water
+W: carbon monoxide only
+W: hydrogen and oxygen
+W: carbon only
+E: CH₄ + 2O₂ → CO₂ + 2H₂O.
+
+Q: Alkanes are generally
+A: unreactive
+W: very reactive
+W: acidic
+W: ionic
+E: C–C and C–H bonds are strong.
+
+Q: The boiling points of alkanes increase with
+A: increasing chain length
+W: decreasing chain length
+W: number of double bonds
+W: number of oxygen atoms
+E: Larger molecules have stronger intermolecular forces.
+
+Q: Cyclohexane is an example of
+A: a cycloalkane
+W: an aromatic compound
+W: an alkene
+W: an alcohol
+E: It has a ring of single bonds.
+
+Q: Polymerisation of ethene produces
+A: polyethene
+W: ethanol
+W: ethane
+W: PVC
+E: Many ethene molecules join.
+
+@topic chm-functional
+
+Q: The general formula of alkanols is
+A: CₙH₂ₙ₊₁OH
+W: CₙH₂ₙ
+W: CₙH₂ₙ₊₁COOH
+W: CₙH₂ₙ₋₂
+E: E.g. ethanol C₂H₅OH.
+
+Q: The functional group of carboxylic acids is
+A: –COOH
+W: –OH
+W: –CHO
+W: –COO–
+E: E.g. ethanoic acid.
+
+Q: The functional group of esters is
+A: –COO–
+W: –OH
+W: –COOH
+W: –NH₂
+E: Esters have fruity smells.
+
+Q: Ethanol reacts with sodium to produce
+A: sodium ethoxide and hydrogen
+W: sodium chloride
+W: carbon dioxide
+W: ethene only
+E: Hydrogen gas is released.
+
+Q: Ethanol is oxidised by acidified potassium dichromate to
+A: ethanoic acid
+W: ethene
+W: ethane
+W: methanol
+E: Dichromate turns from orange to green.
+
+Q: A primary alcohol has the –OH group attached to a carbon bonded to
+A: one other carbon atom (or none)
+W: two other carbons
+W: three other carbons
+W: no hydrogen
+E: E.g. ethanol.
+
+Q: A tertiary alcohol
+A: is not easily oxidised
+W: is oxidised to an acid
+W: is oxidised to an aldehyde
+W: is a carboxylic acid
+E: The carbon has no hydrogen to lose.
+
+Q: Ethanol is used as
+A: a solvent, fuel and in alcoholic drinks
+W: a fertiliser
+W: a metal
+W: a polymer only
+E: It is also used in medicines.
+
+Q: Methanol is dangerous to drink because it
+A: can cause blindness and death
+W: is sweet
+W: is harmless
+W: is a vitamin
+E: It is toxic.
+
+Q: Esterification is a reaction between
+A: an alcohol and a carboxylic acid
+W: an alkane and chlorine
+W: an alkene and water
+W: an acid and a base
+E: Concentrated sulphuric acid is a catalyst.
+
+Q: Ethanol and ethanoic acid react to form
+A: ethyl ethanoate
+W: ethyl methanoate
+W: methyl ethanoate
+W: ethene
+E: Plus water.
+
+Q: Esters are used in
+A: flavourings and perfumes
+W: fertilisers
+W: building materials
+W: fuels only
+E: They have pleasant smells.
+
+Q: Saponification is the
+A: hydrolysis of fats with alkali to form soap
+W: making of esters
+W: cracking of alkanes
+W: fermentation of sugar
+E: It also produces glycerol.
+
+Q: A by-product of soap making is
+A: glycerol (propane-1,2,3-triol)
+W: ethanol
+W: methane
+W: sodium chloride only
+E: It is used in cosmetics.
+
+Q: The fermentation of glucose produces ethanol and
+A: carbon dioxide
+W: oxygen
+W: water only
+W: hydrogen
+E: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂.
+
+Q: Fermentation is catalysed by
+A: enzymes in yeast (zymase)
+W: platinum
+W: iron
+W: nickel
+E: It occurs without oxygen.
+
+Q: Ethanoic acid is a
+A: weak acid
+W: strong acid
+W: strong base
+W: salt
+E: It partially ionises.
+
+Q: Ethanoic acid reacts with sodium carbonate to give
+A: sodium ethanoate, water and carbon dioxide
+W: ethanol
+W: ethene
+W: hydrogen only
+E: It is a typical acid reaction.
+
+Q: Aldehydes contain the functional group
+A: –CHO
+W: –COOH
+W: –OH
+W: –CO– in the middle of a chain
+E: E.g. ethanal.
+
+Q: Ketones contain the functional group
+A: C=O within the carbon chain
+W: –CHO at the end
+W: –COOH
+W: –OH
+E: E.g. propanone.
+
+Q: Propanone is commonly known as
+A: acetone
+W: alcohol
+W: vinegar
+W: glycerol
+E: It is used as a nail-varnish remover.
+
+Q: Alcohols can be dehydrated to form
+A: alkenes
+W: alkanes
+W: esters
+W: acids
+E: Water is removed.
+
+Q: The IUPAC name of CH₃OH is
+A: methanol
+W: ethanol
+W: methanal
+W: methanoic acid
+E: One carbon with –OH.
+
+Q: Amines contain the functional group
+A: –NH₂
+W: –OH
+W: –COOH
+W: –CHO
+E: E.g. methylamine.
+
+@topic chm-polymers
+
+Q: A polymer is
+A: a large molecule made of many repeating units
+W: a small molecule
+W: a metal
+W: an element
+E: Monomers join to form it.
+
+Q: Addition polymerisation involves
+A: monomers with double bonds joining without losing any molecule
+W: monomers losing water
+W: metals combining
+W: ions forming
+E: E.g. polyethene.
+
+Q: Condensation polymerisation involves
+A: monomers joining with the loss of small molecules such as water
+W: monomers with double bonds only
+W: no loss of molecules
+W: metals combining
+E: E.g. nylon and polyesters.
+
+Q: PVC is made from
+A: chloroethene (vinyl chloride)
+W: ethene only
+W: propene
+W: styrene
+E: Polyvinyl chloride.
+
+Q: Polystyrene is made from
+A: phenylethene (styrene)
+W: ethene
+W: chloroethene
+W: propene
+E: It is used for packaging.
+
+Q: Nylon is an example of a
+A: polyamide
+W: polyester
+W: natural polymer
+W: protein
+E: It is made by condensation.
+
+Q: Terylene is an example of a
+A: polyester
+W: polyamide
+W: natural rubber
+W: protein
+E: It is used in clothing.
+
+Q: Natural rubber is a polymer of
+A: isoprene
+W: ethene
+W: glucose
+W: amino acids
+E: It comes from latex.
+
+Q: Vulcanisation of rubber involves heating it with
+A: sulphur
+W: oxygen
+W: chlorine
+W: water
+E: Cross-links make it harder and more elastic.
+
+Q: Thermoplastics
+A: soften on heating and can be remoulded
+W: cannot be remoulded
+W: never melt
+W: are natural polymers only
+E: E.g. polyethene.
+
+Q: Thermosetting plastics
+A: set permanently and do not soften on reheating
+W: soften on heating
+W: can be remoulded easily
+W: are liquids
+E: E.g. Bakelite.
+
+Q: A problem of plastics is that many are
+A: non-biodegradable
+W: very biodegradable
+W: edible
+W: soluble in water
+E: They persist in the environment.
+
+Q: Starch is a polymer of
+A: glucose
+W: amino acids
+W: fatty acids
+W: ethene
+E: It is a carbohydrate.
+
+Q: Cellulose is a polymer of
+A: glucose
+W: fructose
+W: amino acids
+W: glycerol
+E: It forms plant cell walls.
+
+Q: The test for starch is that it turns iodine solution
+A: blue-black
+W: red
+W: yellow
+W: colourless
+E: Iodine detects starch.
+
+Q: Reducing sugars give a brick-red precipitate with
+A: Fehling's or Benedict's solution
+W: iodine
+W: biuret reagent
+W: limewater
+E: E.g. glucose.
+
+Q: Proteins give a violet colour with
+A: biuret reagent
+W: iodine
+W: Benedict's solution
+W: limewater
+E: It detects peptide bonds.
+
+Q: Fats and oils are esters of
+A: glycerol and fatty acids
+W: glucose and amino acids
+W: ethanol and ethanoic acid
+W: methanol only
+E: They are triglycerides.
+
+Q: Hydrolysis of starch produces
+A: glucose (or maltose)
+W: amino acids
+W: fatty acids
+W: ethanol directly
+E: Water breaks the bonds.
+
+Q: The peptide bond links
+A: amino acids in proteins
+W: glucose units
+W: fatty acids
+W: ethene units
+E: –CONH– linkage.
+
+Q: Denaturation of proteins can be caused by
+A: heat and strong acids
+W: cold water
+W: light only
+W: salt in small amounts only
+E: Their structure is destroyed.
+
+Q: Sucrose is a
+A: disaccharide
+W: monosaccharide
+W: polysaccharide
+W: protein
+E: It is made of glucose and fructose.
+
+Q: Oils are liquid at room temperature mainly because they contain
+A: unsaturated fatty acids
+W: saturated fatty acids only
+W: proteins
+W: metals
+E: Kinks prevent close packing.
+
+Q: Margarine is made by
+A: hydrogenating vegetable oils
+W: fermenting sugar
+W: cracking crude oil
+W: polymerising ethene
+E: Nickel is the catalyst.
+
+@topic chm-industry
+
+Q: The Haber process produces
+A: ammonia
+W: sulphuric acid
+W: nitric acid
+W: chlorine
+E: N₂ + 3H₂ ⇌ 2NH₃.
+
+Q: The raw materials for the Haber process are
+A: nitrogen from air and hydrogen from natural gas
+W: sulphur and oxygen
+W: salt and water
+W: limestone and coal
+E: Hydrogen is made by steam reforming.
+
+Q: The Contact process produces
+A: sulphuric acid
+W: ammonia
+W: nitric acid
+W: sodium hydroxide
+E: SO₃ is absorbed in concentrated acid.
+
+Q: In the Contact process, sulphur trioxide is absorbed in
+A: concentrated sulphuric acid to form oleum
+W: water directly
+W: sodium hydroxide
+W: ethanol
+E: Direct absorption in water forms a mist.
+
+Q: Nitric acid is manufactured by the
+A: catalytic oxidation of ammonia (Ostwald process)
+W: Haber process
+W: Contact process
+W: Solvay process
+E: Platinum–rhodium is the catalyst.
+
+Q: The Solvay process produces
+A: sodium carbonate
+W: sodium chloride
+W: sulphuric acid
+W: ammonia
+E: Brine, ammonia and limestone are used.
+
+Q: Sodium hydroxide is produced industrially by
+A: electrolysis of brine
+W: the Haber process
+W: fermentation
+W: cracking
+E: Chlorine and hydrogen are also produced.
+
+Q: Limestone is heated in a kiln to produce
+A: quicklime (calcium oxide)
+W: slaked lime only
+W: cement directly
+W: glass
+E: CaCO₃ → CaO + CO₂.
+
+Q: Slaked lime is
+A: calcium hydroxide
+W: calcium oxide
+W: calcium carbonate
+W: calcium sulphate
+E: It forms when water is added to quicklime.
+
+Q: Cement is made by heating
+A: limestone and clay
+W: sand and salt
+W: iron and coke
+W: sulphur and oxygen
+E: Gypsum is added later.
+
+Q: Glass is made by heating sand with
+A: sodium carbonate and limestone
+W: salt and water
+W: iron and coke
+W: sulphur
+E: The mixture melts and cools.
+
+Q: Borosilicate (Pyrex) glass is used in laboratories because it
+A: withstands sudden temperature changes
+W: is coloured
+W: is cheap
+W: is very soft
+E: It has low thermal expansion.
+
+Q: Detergents are better than soap in hard water because they
+A: do not form scum with calcium and magnesium ions
+W: form more scum
+W: are made from fats only
+W: are not soluble
+E: Their calcium salts are soluble.
+
+Q: A disadvantage of some detergents is that they
+A: cause foaming and pollution in rivers
+W: clean poorly
+W: form scum
+W: are biodegradable
+E: Phosphates also cause eutrophication.
+
+Q: Ceramics are made by
+A: heating clay at high temperatures
+W: melting metals
+W: polymerising ethene
+W: fermenting sugar
+E: E.g. pottery and tiles.
+
+Q: The fertiliser industry produces
+A: nitrogen, phosphorus and potassium compounds
+W: plastics
+W: glass
+W: steel
+E: E.g. urea and NPK.
+
+Q: Urea is manufactured from
+A: ammonia and carbon dioxide
+W: sulphur and oxygen
+W: salt and water
+W: limestone and coal
+E: It is a high-nitrogen fertiliser.
+
+Q: The paper industry uses
+A: wood pulp
+W: crude oil only
+W: iron ore
+W: limestone only
+E: Cellulose fibres are pressed.
+
+Q: Sugar is extracted from
+A: sugarcane
+W: cassava
+W: maize only
+W: crude oil
+E: The juice is crystallised.
+
+Q: Factors considered in siting a chemical industry include
+A: raw materials, power, water and transport
+W: the colour of the land
+W: the number of churches
+W: the weather in Europe
+E: These reduce costs.
+
+Q: Pollution from chemical industries can be reduced by
+A: treating waste before discharge
+W: discharging waste into rivers
+W: burning all waste openly
+W: ignoring regulations
+E: Environmental laws require treatment.
+
+Q: In the Haber process, the temperature is about
+A: 450 °C
+W: 25 °C
+W: 1000 °C
+W: 100 °C
+E: A compromise between rate and yield.
+
+Q: In the Haber process, the pressure is about
+A: 200 atmospheres
+W: 1 atmosphere
+W: 5000 atmospheres
+W: 10 atmospheres
+E: High pressure favours ammonia.
+
+Q: Soap is made from
+A: vegetable oils or fats and sodium hydroxide
+W: petroleum and chlorine
+W: sand and soda
+W: limestone and clay
+E: This is saponification.
+
+@topic chm-metals
+
+Q: Metals are found in the earth's crust mainly as
+A: ores
+W: pure metals always
+W: gases
+W: liquids
+E: Ores are rocks containing metal compounds.
+
+Q: The method of extraction of a metal depends on
+A: its position in the reactivity series
+W: its colour
+W: its price only
+W: its smell
+E: Reactive metals need electrolysis.
+
+Q: Sodium is extracted by
+A: electrolysis of molten sodium chloride
+W: reduction with carbon
+W: heating its oxide alone
+W: displacement with copper
+E: It is very reactive.
+
+Q: Iron ore used in the blast furnace is mainly
+A: haematite (Fe₂O₃)
+W: bauxite
+W: galena
+W: cassiterite
+E: Iron(III) oxide.
+
+Q: Limestone is added to the blast furnace to
+A: remove impurities as slag
+W: reduce iron oxide
+W: act as fuel
+W: produce oxygen
+E: It removes silica.
+
+Q: The slag formed in the blast furnace is mainly
+A: calcium silicate
+W: iron oxide
+W: carbon monoxide
+W: calcium carbonate
+E: CaO + SiO₂ → CaSiO₃.
+
+Q: Steel is iron with a controlled amount of
+A: carbon
+W: oxygen
+W: sulphur
+W: zinc only
+E: Other metals may be added.
+
+Q: Stainless steel contains
+A: iron, chromium and nickel
+W: iron and zinc
+W: copper and tin
+W: aluminium and magnesium
+E: Chromium prevents rusting.
+
+Q: Bronze is an alloy of
+A: copper and tin
+W: copper and zinc
+W: iron and carbon
+W: lead and tin
+E: It was used in ancient tools.
+
+Q: Solder is an alloy of
+A: lead and tin
+W: copper and zinc
+W: iron and carbon
+W: aluminium and copper
+E: It has a low melting point.
+
+Q: Duralumin is an alloy of aluminium used in
+A: aircraft
+W: jewellery
+W: soldering
+W: coins only
+E: It is light and strong.
+
+Q: Aluminium resists corrosion because
+A: it forms a protective oxide layer
+W: it is unreactive
+W: it is a non-metal
+W: it is always painted
+E: The Al₂O₃ layer prevents further attack.
+
+Q: The main ore of aluminium is
+A: bauxite
+W: haematite
+W: galena
+W: cassiterite
+E: Al₂O₃·2H₂O.
+
+Q: The main ore of lead is
+A: galena (PbS)
+W: bauxite
+W: haematite
+W: cassiterite
+E: Lead sulphide.
+
+Q: The main ore of tin is
+A: cassiterite (SnO₂)
+W: galena
+W: haematite
+W: bauxite
+E: Mined on the Jos Plateau.
+
+Q: Copper is used in electrical wiring because it
+A: is a very good conductor and ductile
+W: is cheap and brittle
+W: is magnetic
+W: is a non-metal
+E: It draws into wires easily.
+
+Q: A more reactive metal can displace a less reactive metal from its
+A: salt solution
+W: own atoms
+W: alloy only
+W: ore only
+E: E.g. zinc displaces copper.
+
+Q: Which metal does NOT react with dilute hydrochloric acid?
+A: copper
+W: zinc
+W: magnesium
+W: iron
+E: Copper is below hydrogen in the reactivity series.
+
+Q: Potassium reacts with cold water to produce
+A: potassium hydroxide and hydrogen
+W: potassium oxide only
+W: oxygen
+W: no reaction
+E: It reacts violently.
+
+Q: Iron reacts with steam to form
+A: iron(II,III) oxide and hydrogen
+W: iron hydroxide only
+W: oxygen
+W: no reaction
+E: 3Fe + 4H₂O → Fe₃O₄ + 4H₂.
+
+Q: Zinc is extracted by
+A: roasting its sulphide ore and reducing the oxide with carbon
+W: electrolysis of molten zinc chloride only
+W: heating with water
+W: dissolving in acid
+E: ZnO + C → Zn + CO.
+
+Q: Gold is found in nature as the free metal because it is
+A: very unreactive
+W: very reactive
+W: a gas
+W: a non-metal
+E: It does not easily form compounds.
+
+Q: The Ajaokuta Steel Company uses iron ore from
+A: Itakpe
+W: Jos
+W: Enugu
+W: Kano
+E: Itakpe is in Kogi State.
+
+Q: Mercury is unusual among metals because it is
+A: liquid at room temperature
+W: a gas
+W: non-conducting
+W: very light
+E: It is used in thermometers.
+
+@topic chm-nonmetals
+
+Q: Oxygen is prepared in the laboratory by
+A: decomposing hydrogen peroxide with manganese(IV) oxide catalyst
+W: heating sodium chloride
+W: adding acid to zinc
+W: electrolysis of brine only
+E: 2H₂O₂ → 2H₂O + O₂.
+
+Q: Oxygen makes up about what percentage of air?
+A: 21%
+W: 78%
+W: 1%
+W: 50%
+E: Nitrogen is about 78%.
+
+Q: Hydrogen is prepared in the laboratory by reacting
+A: zinc with dilute hydrochloric acid
+W: copper with nitric acid
+W: calcium carbonate with acid
+W: manganese dioxide with water
+E: Zn + 2HCl → ZnCl₂ + H₂.
+
+Q: Hydrogen is collected over water because it is
+A: insoluble in water
+W: very soluble in water
+W: heavier than air
+W: coloured
+E: It displaces water from the gas jar.
+
+Q: A use of hydrogen is
+A: making ammonia and hydrogenating oils
+W: bleaching
+W: fire extinguishing
+W: making cement
+E: It is also a fuel.
+
+Q: Nitrogen is used in
+A: food packaging to prevent oxidation
+W: fire burning
+W: bleaching
+W: breathing apparatus
+E: It is unreactive.
+
+Q: Ammonia is collected by
+A: upward delivery (downward displacement of air)
+W: downward delivery
+W: over water
+W: in a burette
+E: It is lighter than air and very soluble.
+
+Q: Ammonia is dried using
+A: calcium oxide (quicklime)
+W: concentrated sulphuric acid
+W: phosphorus(V) oxide
+W: anhydrous calcium chloride
+E: Ammonia reacts with acidic drying agents.
+
+Q: The fountain experiment shows that ammonia is
+A: very soluble in water
+W: insoluble in water
+W: heavier than air
+W: acidic
+E: Water rushes in to fill the flask.
+
+Q: Chlorine is prepared in the laboratory by oxidising concentrated hydrochloric acid with
+A: manganese(IV) oxide
+W: zinc
+W: copper
+W: calcium carbonate
+E: MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O.
+
+Q: Chlorine is used to
+A: purify water and make bleaches
+W: make fertilisers only
+W: fill balloons
+W: make glass
+E: It kills bacteria.
+
+Q: Chlorine water bleaches by
+A: oxidation
+W: reduction
+W: neutralisation
+W: precipitation
+E: HOCl releases oxygen.
+
+Q: Sulphur dioxide bleaches by
+A: reduction
+W: oxidation
+W: neutralisation
+W: precipitation
+E: The bleaching may be temporary.
+
+Q: Sulphur exists in allotropic forms such as
+A: rhombic and monoclinic sulphur
+W: diamond and graphite
+W: red and white phosphorus
+W: ozone and oxygen
+E: They differ in crystal shape.
+
+Q: Concentrated sulphuric acid acts as a dehydrating agent by
+A: removing water from substances such as sugar
+W: adding water
+W: adding oxygen
+W: adding hydrogen
+E: Sugar turns into black carbon.
+
+Q: Phosphorus is stored under water because
+A: white phosphorus catches fire in air
+W: it dissolves in water
+W: it is heavy
+W: it is a gas
+E: It ignites spontaneously.
+
+Q: Ozone (O₃) is an allotrope of
+A: oxygen
+W: nitrogen
+W: carbon
+W: sulphur
+E: It absorbs UV radiation in the upper atmosphere.
+
+Q: Noble gases are used in
+A: lighting and welding
+W: fertilisers
+W: bleaching
+W: cooking
+E: E.g. argon in bulbs, neon in signs.
+
+Q: Helium is used in balloons because it is
+A: light and unreactive
+W: heavy
+W: flammable
+W: coloured
+E: Hydrogen is lighter but flammable.
+
+Q: Silicon is used in
+A: computer chips
+W: fertilisers
+W: bleaching
+W: fuels
+E: It is a semiconductor.
+
+Q: Halogens exist as
+A: diatomic molecules
+W: single atoms
+W: metals
+W: ionic solids
+E: E.g. Cl₂, Br₂.
+
+Q: Bromine at room temperature is a
+A: red-brown liquid
+W: green gas
+W: grey solid
+W: colourless gas
+E: It is the only non-metal liquid.
+
+Q: Iodine at room temperature is a
+A: grey-black solid
+W: brown liquid
+W: green gas
+W: colourless gas
+E: It sublimes to a purple vapour.
+
+Q: Nitrogen is fixed naturally by
+A: lightning and nitrogen-fixing bacteria
+W: burning coal
+W: rusting
+W: photosynthesis only
+E: It is converted to nitrogen compounds.
+
+@topic chm-environment
+
+Q: Air pollutants from vehicle exhausts include
+A: carbon monoxide and nitrogen oxides
+W: oxygen
+W: nitrogen gas only
+W: water vapour only
+E: These harm health.
+
+Q: Catalytic converters in cars convert
+A: harmful gases into less harmful ones
+W: petrol into diesel
+W: oxygen into ozone
+W: water into steam
+E: E.g. CO into CO₂.
+
+Q: Acid rain is formed when
+A: sulphur dioxide and nitrogen oxides dissolve in rainwater
+W: oxygen dissolves in water
+W: nitrogen gas dissolves
+W: salt dissolves in rain
+E: Sulphuric and nitric acids form.
+
+Q: Acid rain damages
+A: buildings, plants and aquatic life
+W: only metals
+W: nothing
+W: only plastics
+E: It corrodes limestone and kills fish.
+
+Q: The greenhouse effect is enhanced by increased levels of
+A: carbon dioxide and methane
+W: oxygen
+W: nitrogen
+W: argon
+E: These trap heat.
+
+Q: Global warming may cause
+A: rising sea levels and climate change
+W: colder climates everywhere
+W: more ice at the poles
+W: less flooding
+E: Polar ice melts.
+
+Q: Ozone depletion allows more
+A: ultraviolet radiation to reach the earth
+W: infrared radiation to escape
+W: oxygen to form
+W: rain to fall
+E: This increases skin cancer risk.
+
+Q: Lead pollution can cause
+A: brain damage, especially in children
+W: better health
+W: stronger bones
+W: improved memory
+E: Lead is a toxic heavy metal.
+
+Q: Mercury pollution in water can accumulate in
+A: fish and enter the food chain
+W: sand only
+W: air only
+W: plastics
+E: It is toxic.
+
+Q: Eutrophication is caused by
+A: excess nutrients such as nitrates and phosphates in water
+W: lack of nutrients
+W: too much oxygen
+W: low temperatures
+E: Algae grow rapidly and use up oxygen.
+
+Q: Oil spills harm the environment by
+A: coating birds and killing aquatic organisms
+W: cleaning water
+W: providing food for fish
+W: increasing oxygen
+E: Oil blocks oxygen and light.
+
+Q: Particulate pollution (soot) can cause
+A: respiratory diseases
+W: better breathing
+W: stronger lungs
+W: no effects
+E: Fine particles damage lungs.
+
+Q: Recycling metals and plastics helps to
+A: conserve resources and reduce pollution
+W: increase waste
+W: use more energy
+W: harm the environment
+E: Materials are reused.
+
+Q: Biodegradable materials are those that
+A: can be broken down by micro-organisms
+W: last forever
+W: are made of metals
+W: cannot decay
+E: E.g. paper.
+
+Q: Noise is not a chemical pollutant but is
+A: a form of environmental pollution
+W: harmless always
+W: a gas
+W: a type of acid
+E: It harms hearing.
+
+Q: Sulphur dioxide emissions can be reduced by
+A: removing sulphur from fuels
+W: adding more sulphur
+W: burning more coal
+W: ignoring emissions
+E: Desulphurisation and scrubbers help.
+
+Q: Carbon dioxide levels in the atmosphere can be reduced by
+A: planting trees and using renewable energy
+W: burning more fossil fuels
+W: cutting forests
+W: increasing gas flaring
+E: Plants absorb CO₂.
+
+Q: Smog is formed from
+A: smoke and fog combined with pollutants
+W: pure water vapour
+W: oxygen only
+W: nitrogen only
+E: It is common in industrial cities.
+
+Q: Radioactive pollution can come from
+A: nuclear accidents and waste
+W: burning wood
+W: photosynthesis
+W: rain
+E: It damages living cells.
+
+Q: Pesticides can pollute
+A: soil and water
+W: only metals
+W: only air in space
+W: nothing
+E: They can enter food chains.
+
+Q: Desertification is worsened by
+A: deforestation and overgrazing
+W: tree planting
+W: irrigation with care
+W: cover crops
+E: Land loses vegetation.
+
+Q: A pollutant is
+A: a substance that harms the environment
+W: a useful nutrient always
+W: a type of fuel only
+W: oxygen
+E: It contaminates air, water or soil.
+
+Q: Sewage treatment helps to
+A: remove harmful substances before water is released
+W: add pollutants
+W: increase bacteria in rivers
+W: make water salty
+E: It protects water bodies.
+
+Q: Thermal pollution of rivers occurs when
+A: hot water from industries is discharged
+W: ice forms
+W: rain falls
+W: fish breathe
+E: Warm water holds less oxygen.

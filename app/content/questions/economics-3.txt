@@ -1,0 +1,1532 @@
+@subject economics
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic eco-concepts
+
+Q: Economics is the study of
+A: how people use scarce resources to satisfy unlimited wants
+W: how to make money only
+W: how governments are elected
+W: the history of nations
+E: Lionel Robbins' definition stresses scarcity and choice.
+
+Q: Human wants are said to be
+A: unlimited
+W: limited
+W: fixed
+W: always satisfied
+E: New wants arise as old ones are met.
+
+Q: Resources are said to be
+A: scarce
+W: unlimited
+W: free everywhere
+W: useless
+E: They are limited relative to wants.
+
+Q: Scarcity in economics means
+A: resources are limited relative to wants
+W: there are no resources at all
+W: goods are expensive only
+W: people are poor
+E: Even rich countries face scarcity.
+
+Q: Because of scarcity, people must make
+A: choices
+W: more money
+W: no decisions
+W: free goods
+E: Choice leads to opportunity cost.
+
+Q: An economic good is one that
+A: is scarce and commands a price
+W: is free and unlimited
+W: has no use
+W: cannot be bought
+E: E.g. food and clothing.
+
+Q: A free good is one that
+A: is not scarce and has no price
+W: is given by the government
+W: is always expensive
+W: is produced in factories
+E: E.g. air and sunshine.
+
+Q: Opportunity cost is also called
+A: real cost
+W: money cost
+W: fixed cost
+W: variable cost
+E: It is the alternative forgone.
+
+Q: A student who chooses to study instead of watching a film has an opportunity cost of
+A: the film forgone
+W: the study
+W: nothing
+W: the price of books
+E: The next best alternative given up.
+
+Q: The three basic questions every economy must answer are what to produce, how to produce and
+A: for whom to produce
+W: when to vote
+W: where to live
+W: who should rule
+E: These arise from scarcity.
+
+Q: A capitalist economy is one in which
+A: most resources are privately owned and prices guide decisions
+W: the government owns everything
+W: there is no money
+W: there is no trade
+E: It is also called a free-market economy.
+
+Q: A socialist (command) economy is one in which
+A: the state owns most resources and plans production
+W: individuals own everything
+W: there are no prices
+W: there is no government
+E: Central planning replaces the market.
+
+Q: A mixed economy combines
+A: private and public ownership
+W: only private ownership
+W: only state ownership
+W: barter and money only
+E: Nigeria is a mixed economy.
+
+Q: A feature of a free-market economy is
+A: the price mechanism
+W: central planning
+W: state ownership of all firms
+W: absence of competition
+E: Prices allocate resources.
+
+Q: A disadvantage of a command economy is
+A: lack of incentive and consumer choice
+W: too much competition
+W: excessive private profit
+W: no planning
+E: Bureaucracy and shortages are common.
+
+Q: Microeconomics studies
+A: individual units such as households and firms
+W: the whole economy
+W: only governments
+W: only international trade
+E: E.g. the price of one good.
+
+Q: Macroeconomics studies
+A: the economy as a whole
+W: individual firms only
+W: one household
+W: the price of one good
+E: E.g. inflation and unemployment.
+
+Q: Positive economics deals with
+A: what is
+W: what ought to be
+W: opinions only
+W: religion
+E: It can be tested with facts.
+
+Q: Normative economics deals with
+A: what ought to be
+W: what is
+W: facts only
+W: measurements
+E: It involves value judgements.
+
+Q: A point outside the production possibility curve is
+A: unattainable with current resources
+W: efficient
+W: inefficient
+W: attainable easily
+E: Resources are not enough.
+
+Q: A point inside the production possibility curve shows
+A: unemployment or inefficient use of resources
+W: full efficiency
+W: impossible production
+W: economic growth
+E: Resources are not fully used.
+
+Q: An outward shift of the production possibility curve shows
+A: economic growth
+W: a recession
+W: inflation
+W: unemployment
+E: More resources or better technology.
+
+Q: Goods that satisfy wants directly are called
+A: consumer goods
+W: capital goods
+W: free goods
+W: intermediate goods only
+E: E.g. food.
+
+Q: Goods used to produce other goods are called
+A: capital (producer) goods
+W: consumer goods
+W: free goods
+W: inferior goods
+E: E.g. machines.
+
+@topic eco-tools
+
+Q: The arithmetic mean of 4, 6, 8 and 10 is
+A: 7
+W: 28
+W: 6
+W: 8
+E: (4 + 6 + 8 + 10) ÷ 4.
+
+Q: The median of 3, 7, 9, 12 and 15 is
+A: 9
+W: 7
+W: 12
+W: 46
+E: The middle value.
+
+Q: The mode of 2, 3, 3, 5, 7, 3, 8 is
+A: 3
+W: 5
+W: 7
+W: 2
+E: It appears most often.
+
+Q: The median of 2, 4, 6 and 8 is
+A: 5
+W: 4
+W: 6
+W: 20
+E: Average of the two middle values.
+
+Q: The range of 5, 9, 12, 20 is
+A: 15
+W: 20
+W: 46
+W: 5
+E: 20 − 5.
+
+Q: A bar chart represents data using
+A: rectangles of different lengths
+W: sectors of a circle
+W: dots joined by lines only
+W: pictures only
+E: Bar length shows quantity.
+
+Q: In a pie chart, a sector representing 25% of the data has an angle of
+A: 90°
+W: 25°
+W: 45°
+W: 180°
+E: 25% of 360°.
+
+Q: In a pie chart, an item worth 60 out of a total of 240 has an angle of
+A: 90°
+W: 60°
+W: 120°
+W: 45°
+E: 60 ÷ 240 × 360.
+
+Q: A histogram is used to show
+A: frequency distribution of grouped data
+W: changes over time only
+W: proportions of a whole
+W: maps
+E: Bars touch each other.
+
+Q: A pictogram uses
+A: pictures or symbols to represent quantities
+W: sectors
+W: lines only
+W: formulas
+E: Each symbol stands for a fixed amount.
+
+Q: A table presents data in
+A: rows and columns
+W: circles
+W: maps
+W: pictures only
+E: It organises data clearly.
+
+Q: The dependent variable in Qd = 50 − 2P is
+A: Qd (quantity demanded)
+W: P (price)
+W: 50
+W: 2
+E: Quantity depends on price.
+
+Q: If Qd = 100 − 5P and P = 10, the quantity demanded is
+A: 50
+W: 150
+W: 95
+W: 10
+E: 100 − 50.
+
+Q: If Qs = 20 + 3P and P = 10, the quantity supplied is
+A: 50
+W: 23
+W: 30
+W: 60
+E: 20 + 30.
+
+Q: If Qd = 60 − 2P and Qs = 3P, the equilibrium price is
+A: 12
+W: 20
+W: 30
+W: 60
+E: 60 − 2P = 3P gives P = 12.
+
+Q: The slope of a straight line is
+A: change in y ÷ change in x
+W: change in x ÷ change in y
+W: x × y
+W: always zero
+E: It shows the rate of change.
+
+Q: A line graph is most suitable for showing
+A: trends over time
+W: proportions of a whole
+W: maps
+W: one item only
+E: E.g. inflation over years.
+
+Q: A component bar chart shows
+A: the parts that make up each total
+W: only one value
+W: sectors of a circle
+W: random dots
+E: Bars are divided into components.
+
+Q: The mean of 10, 15, 20, 25 and 30 is
+A: 20
+W: 25
+W: 100
+W: 15
+E: 100 ÷ 5.
+
+Q: Frequency in statistics means
+A: the number of times a value occurs
+W: the size of a value
+W: the average
+W: the range
+E: It is used in frequency tables.
+
+Q: A disadvantage of the arithmetic mean is that it
+A: is affected by extreme values
+W: is easy to calculate
+W: uses all values
+W: is always a whole number
+E: Very large or small values distort it.
+
+Q: Data collected first-hand by the researcher is called
+A: primary data
+W: secondary data
+W: tertiary data
+W: false data
+E: E.g. from questionnaires.
+
+Q: Data obtained from published sources is called
+A: secondary data
+W: primary data
+W: raw data only
+W: original data
+E: E.g. government reports.
+
+Q: The weighted mean of scores 60 (weight 2) and 80 (weight 3) is
+A: 72
+W: 70
+W: 140
+W: 68
+E: (120 + 240) ÷ 5.
+
+@topic eco-demand
+
+Q: Demand in economics means
+A: the quantity of a good consumers are willing and able to buy at a given price
+W: the desire for a good only
+W: the quantity produced
+W: the price of a good
+E: Demand must be backed by ability to pay.
+
+Q: Effective demand is
+A: desire backed by the ability to pay
+W: desire alone
+W: supply of goods
+W: government spending only
+E: Wishes alone are not demand.
+
+Q: An individual demand schedule shows
+A: quantities one consumer would buy at different prices
+W: quantities supplied by firms
+W: total market supply
+W: the cost of production
+E: It is a table of prices and quantities.
+
+Q: Market demand is
+A: the sum of all individual demands
+W: the demand of one person
+W: the supply of a firm
+W: the government's budget
+E: Individual demands are added.
+
+Q: An increase in demand is shown by
+A: a shift of the demand curve to the right
+W: a movement down the curve
+W: a shift to the left
+W: a vertical line
+E: More is demanded at every price.
+
+Q: A decrease in demand can be caused by
+A: a fall in the price of a substitute
+W: a rise in the price of a substitute
+W: a rise in income for a normal good
+W: a successful advertising campaign
+E: Consumers switch to the cheaper substitute.
+
+Q: Joint (complementary) demand exists for
+A: cars and petrol
+W: tea and coffee
+W: butter and margarine
+W: Coca-Cola and Pepsi
+E: They are used together.
+
+Q: Competitive demand exists for
+A: substitutes such as butter and margarine
+W: cars and petrol
+W: bread and butter
+W: guns and bullets
+E: One can replace the other.
+
+Q: Derived demand is demand for
+A: a factor of production because of demand for what it produces
+W: luxury goods
+W: free goods
+W: inferior goods
+E: E.g. demand for bricklayers derives from demand for houses.
+
+Q: Composite demand occurs when
+A: a good is demanded for several different uses
+W: two goods are used together
+W: goods are substitutes
+W: there is no demand
+E: E.g. sugar for food and drinks.
+
+Q: An inferior good is one whose demand
+A: falls as income rises
+W: rises as income rises
+W: never changes
+W: is always zero
+E: Consumers switch to better goods.
+
+Q: A normal good is one whose demand
+A: rises as income rises
+W: falls as income rises
+W: never changes
+W: is unaffected by price
+E: Most goods are normal.
+
+Q: Giffen goods are exceptions to the law of demand because
+A: more is bought when price rises
+W: less is bought when price rises
+W: they are free
+W: they are luxury goods
+E: They are very inferior staple goods.
+
+Q: Goods of ostentation (Veblen goods) are demanded more when price rises because
+A: they show status
+W: they are cheap
+W: they are inferior
+W: they are free
+E: E.g. expensive jewellery.
+
+Q: Expectation of a future price rise will usually
+A: increase present demand
+W: reduce present demand
+W: have no effect
+W: reduce supply only
+E: People buy now before prices rise.
+
+Q: A change in the price of the good itself causes
+A: a movement along the demand curve
+W: a shift of the demand curve
+W: no change at all
+W: a shift of supply
+E: Extension or contraction of demand.
+
+Q: An extension of demand means
+A: more is bought because price has fallen
+W: less is bought because price has risen
+W: the curve shifts right
+W: the curve shifts left
+E: It is a movement down the curve.
+
+Q: A contraction of demand means
+A: less is bought because price has risen
+W: more is bought because price has fallen
+W: the curve shifts right
+W: income has risen
+E: It is a movement up the curve.
+
+Q: An increase in population will usually
+A: increase demand
+W: reduce demand
+W: have no effect
+W: reduce supply
+E: More consumers.
+
+Q: The demand curve slopes downward partly because of the
+A: income and substitution effects
+W: law of supply
+W: cost of production
+W: government
+E: Lower prices raise real income and make the good relatively cheaper.
+
+Q: If the price of petrol rises sharply, the demand for cars will likely
+A: fall
+W: rise
+W: stay the same
+W: double
+E: They are complements.
+
+Q: If the price of tea rises, the demand for coffee will likely
+A: rise
+W: fall
+W: stay the same
+W: become zero
+E: They are substitutes.
+
+Q: Advertising a product successfully will usually
+A: shift its demand curve to the right
+W: shift its demand curve to the left
+W: reduce its supply
+W: lower its price automatically
+E: Tastes change in its favour.
+
+Q: A demand function shows
+A: the relationship between quantity demanded and its determinants
+W: only supply
+W: only costs
+W: only profit
+E: E.g. Qd = f(P, Y, tastes).
+
+@topic eco-supply
+
+Q: Supply is
+A: the quantity of a good producers are willing and able to offer at a given price
+W: the quantity consumers want
+W: the price of a good
+W: the total stock in warehouses only
+E: Supply is linked to price.
+
+Q: A supply curve normally slopes
+A: upwards from left to right
+W: downwards from left to right
+W: horizontally
+W: vertically always
+E: Higher prices encourage more supply.
+
+Q: An increase in supply is shown by
+A: a shift of the supply curve to the right
+W: a shift to the left
+W: a movement up the curve
+W: a vertical curve
+E: More is supplied at every price.
+
+Q: An improvement in technology will usually
+A: increase supply
+W: decrease supply
+W: have no effect
+W: increase demand only
+E: Costs fall.
+
+Q: An increase in the cost of raw materials will usually
+A: decrease supply
+W: increase supply
+W: increase demand
+W: have no effect
+E: Production becomes more expensive.
+
+Q: A subsidy to producers will usually
+A: increase supply
+W: decrease supply
+W: decrease demand
+W: raise prices
+E: It reduces production costs.
+
+Q: A tax on producers will usually
+A: decrease supply
+W: increase supply
+W: increase demand
+W: lower prices
+E: It raises costs.
+
+Q: Joint supply occurs when
+A: two goods are produced together
+W: goods are substitutes
+W: goods are used together
+W: goods are free
+E: E.g. beef and hides.
+
+Q: Competitive supply occurs when
+A: resources can produce one good or another
+W: two goods are produced together
+W: goods are used together
+W: goods are free
+E: E.g. land for maize or cassava.
+
+Q: Excess demand occurs when
+A: quantity demanded exceeds quantity supplied
+W: quantity supplied exceeds quantity demanded
+W: demand equals supply
+W: there is no demand
+E: It pushes price up.
+
+Q: Excess supply occurs when
+A: quantity supplied exceeds quantity demanded
+W: quantity demanded exceeds quantity supplied
+W: demand equals supply
+W: there is no supply
+E: It pushes price down.
+
+Q: If demand increases and supply remains the same, equilibrium price will
+A: rise
+W: fall
+W: stay the same
+W: become zero
+E: Quantity also rises.
+
+Q: If supply increases and demand remains the same, equilibrium price will
+A: fall
+W: rise
+W: stay the same
+W: double
+E: Quantity rises.
+
+Q: Price control (maximum price) often leads to
+A: black markets
+W: surpluses
+W: higher prices legally
+W: more supply
+E: Goods are sold illegally above the fixed price.
+
+Q: Rationing is used by governments when
+A: there are shortages
+W: there are surpluses
+W: prices are falling
+W: supply is unlimited
+E: It shares scarce goods.
+
+Q: A minimum wage set above equilibrium may cause
+A: unemployment
+W: labour shortages
+W: higher demand for labour
+W: lower wages
+E: Firms hire fewer workers.
+
+Q: The price mechanism allocates resources through
+A: the interaction of demand and supply
+W: government orders
+W: random selection
+W: traditions only
+E: Prices signal scarcity.
+
+Q: Market supply is
+A: the sum of supplies by all firms in the market
+W: the supply of one firm
+W: the demand of consumers
+W: the government's output
+E: Individual supplies are added.
+
+Q: Fixed supply means
+A: quantity supplied cannot change whatever the price
+W: supply changes greatly with price
+W: supply is zero
+W: supply is unlimited
+E: E.g. land in the short run.
+
+Q: An extension of supply is caused by
+A: a rise in the price of the good itself
+W: a fall in costs
+W: better technology
+W: a subsidy
+E: It is a movement up the supply curve.
+
+Q: A bad harvest of maize will most likely
+A: raise the price of maize
+W: lower the price of maize
+W: have no effect
+W: increase supply
+E: Supply falls.
+
+Q: Hoarding of goods by traders creates
+A: artificial scarcity and higher prices
+W: surpluses
+W: lower prices
+W: more supply
+E: Goods are withheld from the market.
+
+Q: The equilibrium quantity is
+A: the quantity bought and sold at equilibrium price
+W: the maximum supply
+W: the minimum demand
+W: the quantity in stock
+E: Demand equals supply.
+
+Q: Weather affects the supply of
+A: agricultural products
+W: computers mainly
+W: banking services
+W: insurance
+E: Rain and drought affect harvests.
+
+@topic eco-utility
+
+Q: Total utility is
+A: the total satisfaction from consuming a quantity of a good
+W: the satisfaction from one unit
+W: the price of a good
+W: the cost of a good
+E: It is the sum of marginal utilities.
+
+Q: If total utility from 3 oranges is 30 and from 4 oranges is 36, the marginal utility of the 4th orange is
+A: 6
+W: 36
+W: 9
+W: 66
+E: 36 − 30.
+
+Q: When marginal utility is negative, total utility
+A: falls
+W: rises
+W: is constant
+W: is maximised
+E: Extra units reduce satisfaction.
+
+Q: Total utility is at its maximum when marginal utility is
+A: zero
+W: maximum
+W: negative
+W: equal to price × 2
+E: No extra satisfaction is added.
+
+Q: The equi-marginal principle states that a consumer maximises satisfaction when
+A: MU per naira spent is equal for all goods
+W: total utility is zero
+W: only one good is bought
+W: prices are equal
+E: MUa/Pa = MUb/Pb.
+
+Q: Utility is
+A: subjective and differs between people
+W: the same for everyone
+W: measured in kilograms
+W: always zero
+E: Satisfaction is personal.
+
+Q: Cardinal utility assumes satisfaction can be
+A: measured in units (utils)
+W: only ranked
+W: ignored
+W: priced
+E: Ordinal utility only ranks preferences.
+
+Q: An indifference curve shows
+A: combinations of two goods giving equal satisfaction
+W: different prices of one good
+W: costs of production
+W: supply of two goods
+E: The consumer is indifferent along it.
+
+Q: The budget line shows
+A: combinations of goods a consumer can afford
+W: utility levels
+W: supply of goods
+W: profit of firms
+E: It depends on income and prices.
+
+Q: A consumer is in equilibrium on an indifference map where
+A: the budget line touches the highest indifference curve
+W: the budget line crosses all curves
+W: there is no budget line
+W: indifference curves cross
+E: This gives maximum satisfaction.
+
+Q: Diminishing marginal utility explains why the demand curve
+A: slopes downwards
+W: slopes upwards
+W: is vertical
+W: is horizontal
+E: Consumers pay less for extra units.
+
+Q: The paradox of value (water and diamonds) is explained by
+A: marginal utility
+W: total utility only
+W: cost of production only
+W: supply only
+E: Water's MU is low because it is plentiful.
+
+Q: Consumer sovereignty means
+A: consumers' choices determine what is produced
+W: the government decides all production
+W: producers decide all prices
+W: consumers have no choice
+E: Spending signals demand.
+
+Q: If a consumer is willing to pay ₦500 for a good but pays ₦300, the consumer surplus is
+A: ₦200
+W: ₦800
+W: ₦300
+W: ₦500
+E: 500 − 300.
+
+Q: Marginal utility of the first unit of a good is usually
+A: the highest
+W: the lowest
+W: zero
+W: negative
+E: The first unit satisfies the strongest want.
+
+Q: A rational consumer aims to
+A: maximise satisfaction from income
+W: spend all money on one good
+W: save all income
+W: buy the most expensive goods
+E: Choices are made to get the most utility.
+
+Q: Total utility from 1, 2 and 3 units is 10, 18 and 24. The marginal utility of the 3rd unit is
+A: 6
+W: 8
+W: 24
+W: 10
+E: 24 − 18.
+
+Q: In the same data, the marginal utility of the 2nd unit is
+A: 8
+W: 18
+W: 6
+W: 10
+E: 18 − 10.
+
+Q: The law of diminishing marginal utility assumes that
+A: consumption is continuous and tastes are constant
+W: tastes change every minute
+W: goods are different each time
+W: income rises constantly
+E: Units are consumed in succession.
+
+Q: Indifference curves are usually
+A: convex to the origin
+W: straight lines through the origin
+W: upward sloping
+W: vertical
+E: Due to diminishing marginal rate of substitution.
+
+Q: Two indifference curves
+A: cannot intersect
+W: always intersect
+W: are always parallel lines
+W: are vertical
+E: Intersection would be contradictory.
+
+Q: A higher indifference curve represents
+A: a higher level of satisfaction
+W: lower satisfaction
+W: the same satisfaction
+W: no satisfaction
+E: More of both goods.
+
+Q: An increase in income shifts the budget line
+A: outward, parallel to the original
+W: inward
+W: to become vertical
+W: to cross the origin
+E: The consumer can buy more of both.
+
+Q: The marginal rate of substitution measures
+A: the rate at which a consumer gives up one good for another while keeping satisfaction constant
+W: the rate of inflation
+W: the rate of interest
+W: the rate of exchange
+E: It is the slope of the indifference curve.
+
+@topic eco-production
+
+Q: Production in economics means
+A: the creation of goods and services to satisfy wants
+W: only farming
+W: only manufacturing
+W: consumption
+E: It is complete when goods reach consumers.
+
+Q: Secondary production involves
+A: changing raw materials into finished goods
+W: extracting minerals
+W: providing services
+W: farming
+E: E.g. manufacturing.
+
+Q: Tertiary production provides
+A: services
+W: raw materials
+W: manufactured goods
+W: crops
+E: E.g. banking and teaching.
+
+Q: The reward for labour is
+A: wages
+W: rent
+W: interest
+W: profit
+E: Wages and salaries.
+
+Q: The reward for capital is
+A: interest
+W: rent
+W: wages
+W: profit
+E: Capital earns interest.
+
+Q: Land as a factor of production includes
+A: all natural resources
+W: only farmland
+W: machinery
+W: money
+E: E.g. minerals, forests and water.
+
+Q: Capital as a factor of production refers to
+A: man-made goods used in production
+W: money in the bank only
+W: natural resources
+W: human effort
+E: E.g. machines and buildings.
+
+Q: Labour as a factor of production is
+A: human effort, mental or physical, used in production
+W: machines
+W: land
+W: money
+E: It earns wages.
+
+Q: The entrepreneur
+A: organises the other factors and bears risk
+W: only provides labour
+W: only provides land
+W: only lends money
+E: The reward is profit.
+
+Q: Capital formation means
+A: increasing the stock of capital goods
+W: spending on consumption
+W: borrowing only
+W: printing money
+E: It requires saving and investment.
+
+Q: Productivity is
+A: output per unit of input
+W: total output only
+W: total cost
+W: total revenue
+E: E.g. output per worker.
+
+Q: An advantage of division of labour is
+A: increased output
+W: monotony
+W: over-dependence
+W: loss of craftsmanship
+E: Specialised workers are faster.
+
+Q: A disadvantage of division of labour is
+A: monotony of work
+W: greater output
+W: saving of time
+W: use of machines
+E: Repetitive tasks become boring.
+
+Q: Division of labour is limited by
+A: the size of the market
+W: the number of machines only
+W: the weather
+W: government
+E: Adam Smith noted this.
+
+Q: The law of variable proportions (diminishing returns) applies in the
+A: short run
+W: long run only
+W: very long run only
+W: market period only
+E: At least one factor is fixed.
+
+Q: Total product is
+A: total output produced
+W: output per worker
+W: extra output from one more worker
+W: profit
+E: TP = AP × number of workers.
+
+Q: Average product is
+A: total product ÷ units of the variable factor
+W: total product × workers
+W: change in total product
+W: profit per unit
+E: E.g. output per worker.
+
+Q: Marginal product is
+A: the extra output from one more unit of the variable factor
+W: total output
+W: average output
+W: profit
+E: MP = change in TP.
+
+Q: Total product with 4 workers is 40 and with 5 workers is 48. The marginal product of the 5th worker is
+A: 8
+W: 48
+W: 9.6
+W: 10
+E: 48 − 40.
+
+Q: In the question above, the average product with 5 workers is
+A: 9.6
+W: 8
+W: 48
+W: 10
+E: 48 ÷ 5.
+
+Q: Mobility of labour can be
+A: occupational or geographical
+W: only financial
+W: only social
+W: impossible
+E: Workers change jobs or places.
+
+Q: Efficiency of labour depends on
+A: education, health and working conditions
+W: the colour of uniforms
+W: the weather only
+W: the name of the firm
+E: Better-trained workers are more productive.
+
+Q: Scale of production refers to
+A: the size of production
+W: the price of goods
+W: the profit
+W: the location
+E: Small, medium or large scale.
+
+Q: Internal economies of scale arise from
+A: the growth of the firm itself
+W: the growth of the industry only
+W: government policy only
+W: the weather
+E: E.g. bulk buying.
+
+@topic eco-business
+
+Q: An advantage of a sole proprietorship is
+A: quick decision-making
+W: unlimited capital
+W: limited liability
+W: continuity after the owner's death
+E: The owner decides alone.
+
+Q: A disadvantage of a sole proprietorship is
+A: limited capital
+W: personal contact with customers
+W: keeping all profit
+W: flexibility
+E: It relies on the owner's resources.
+
+Q: In a partnership, partners usually have
+A: unlimited liability
+W: limited liability always
+W: no liability
+W: shares on the stock exchange
+E: Except limited partners.
+
+Q: A dormant (sleeping) partner
+A: provides capital but takes no part in management
+W: manages the business
+W: has unlimited liability always
+W: is a creditor
+E: They share profit.
+
+Q: A private limited company
+A: cannot sell shares to the general public
+W: sells shares on the stock exchange
+W: has unlimited liability
+W: is owned by the government
+E: Its name ends with "Ltd".
+
+Q: A public limited company
+A: can sell shares to the public
+W: cannot sell shares
+W: has only one owner
+W: has unlimited liability
+E: Its name ends with "Plc".
+
+Q: Ordinary shareholders are the
+A: owners of a company
+W: creditors of a company
+W: managers only
+W: government
+E: They bear the greatest risk.
+
+Q: Debenture holders are
+A: creditors who lend to the company
+W: owners
+W: directors
+W: employees
+E: They earn fixed interest.
+
+Q: A cooperative society aims mainly to
+A: serve its members rather than make maximum profit
+W: make maximum profit for outsiders
+W: be owned by the government
+W: sell shares on the stock exchange
+E: Members share benefits.
+
+Q: Consumer cooperatives are formed to
+A: buy goods in bulk and sell to members at fair prices
+W: produce goods for export
+W: lend money to banks
+W: run railways
+E: E.g. staff cooperative shops.
+
+Q: Producer cooperatives are formed to
+A: help members produce and market their products
+W: buy consumer goods only
+W: run banks
+W: build roads
+E: E.g. farmers' cooperatives.
+
+Q: A public corporation is
+A: owned and controlled by the government
+W: owned by one person
+W: owned by shareholders only
+W: owned by partners
+E: E.g. NNPC (now NNPC Ltd).
+
+Q: A reason for establishing public corporations is to
+A: provide essential services
+W: maximise private profit
+W: avoid public control
+W: reduce employment
+E: E.g. electricity and water.
+
+Q: A problem of public corporations in Nigeria is
+A: inefficiency and political interference
+W: too much profit
+W: lack of government funds always
+W: too much competition
+E: This led to privatisation.
+
+Q: Privatisation means
+A: selling government enterprises to private owners
+W: buying private firms by the government
+W: closing all firms
+W: creating public corporations
+E: It aims at efficiency.
+
+Q: Nationalisation means
+A: government taking over private enterprises
+W: selling public firms
+W: closing firms
+W: creating cooperatives
+E: It increases state control.
+
+Q: Commercialisation of public enterprises means
+A: running them to cover costs or make profit
+W: selling them
+W: closing them
+W: making their services free
+E: They operate on business lines.
+
+Q: Limited liability means owners
+A: lose only what they invested
+W: lose all personal property
+W: pay all company debts
+W: cannot receive profits
+E: It encourages investment.
+
+Q: The memorandum of association defines
+A: the company's external relations and objects
+W: internal rules only
+W: workers' wages
+W: share prices
+E: It is filed at registration.
+
+Q: The articles of association contain
+A: internal rules of a company
+W: the company's objects only
+W: share prices
+W: customer names
+E: E.g. how directors are appointed.
+
+Q: A holding company
+A: controls subsidiaries by owning their shares
+W: holds goods in storage
+W: has no shares
+W: is a sole trader
+E: It may not trade itself.
+
+Q: A merger occurs when
+A: two firms combine to form one
+W: a firm closes
+W: a firm sells shares
+W: a firm moves location
+E: E.g. bank mergers in Nigeria.
+
+Q: Horizontal integration combines firms
+A: at the same stage of production
+W: at different stages
+W: in unrelated industries
+W: in different countries only
+E: E.g. two banks merging.
+
+Q: Vertical integration combines firms
+A: at different stages of production in the same industry
+W: at the same stage
+W: in unrelated industries
+W: only in agriculture
+E: E.g. a brewery buying a bottle factory.
+
+@topic eco-population
+
+Q: Population is
+A: the total number of people living in an area
+W: the number of houses
+W: the number of animals
+W: the area of land
+E: It changes over time.
+
+Q: Birth rate is the number of
+A: live births per 1,000 people per year
+W: deaths per 1,000 people
+W: marriages per year
+W: people per square kilometre
+E: It indicates fertility.
+
+Q: Death rate is the number of
+A: deaths per 1,000 people per year
+W: births per 1,000 people
+W: people per square kilometre
+W: migrants per year
+E: It indicates mortality.
+
+Q: Natural increase in population is
+A: birth rate minus death rate
+W: birth rate plus death rate
+W: immigration minus emigration
+W: death rate only
+E: It excludes migration.
+
+Q: Net migration is
+A: immigration minus emigration
+W: births minus deaths
+W: births plus deaths
+W: emigration only
+E: It may be positive or negative.
+
+Q: Population density is calculated as
+A: total population ÷ land area
+W: land area ÷ population
+W: births ÷ deaths
+W: population × area
+E: People per square kilometre.
+
+Q: A country of 1,000,000 people and area 5,000 km² has a population density of
+A: 200 per km²
+W: 5,000 per km²
+W: 50 per km²
+W: 2,000 per km²
+E: 1,000,000 ÷ 5,000.
+
+Q: Malthus argued that population grows
+A: geometrically while food grows arithmetically
+W: arithmetically while food grows geometrically
+W: at the same rate as food
+W: does not grow
+E: He predicted famine and checks.
+
+Q: A criticism of Malthus's theory is that he
+A: underestimated technological progress in agriculture
+W: overestimated birth rates only
+W: considered industry
+W: was correct everywhere
+E: Food production grew faster than he expected.
+
+Q: The optimum population is the population at which
+A: output per head is highest
+W: population is largest
+W: population is smallest
+W: there are no workers
+E: Resources and people are best balanced.
+
+Q: Overpopulation occurs when
+A: the population is too large for available resources
+W: the population is too small
+W: output per head is highest
+W: there is no population
+E: Living standards fall.
+
+Q: The working population (labour force) consists of people who are
+A: of working age and willing and able to work
+W: children only
+W: the elderly only
+W: students only
+E: It includes the employed and unemployed seeking work.
+
+Q: The dependency ratio is high when
+A: there are many children and elderly relative to workers
+W: there are many workers
+W: there are no children
+W: everyone works
+E: Workers support many dependants.
+
+Q: An ageing population has
+A: a high proportion of old people
+W: a high proportion of children
+W: no old people
+W: only workers
+E: Common in developed countries.
+
+Q: A youthful population has
+A: a high proportion of young people
+W: many old people
+W: no children
+W: only workers
+E: Typical of Nigeria.
+
+Q: Occupational distribution of population shows
+A: how the working population is spread across occupations
+W: how people are spread by age
+W: how people are spread by sex only
+W: where people live only
+E: E.g. agriculture, industry and services.
+
+Q: Geographical distribution of population shows
+A: how population is spread over an area
+W: how people work
+W: how old people are
+W: how many are male
+E: E.g. urban and rural spread.
+
+Q: A census is useful for
+A: planning schools, hospitals and other services
+W: increasing population
+W: reducing taxes only
+W: building roads only
+E: It provides population data.
+
+Q: A problem of census-taking in Nigeria is
+A: inflation of figures for political advantage
+W: too many enumerators
+W: too much accurate data
+W: too little interest in politics
+E: Population affects revenue and representation.
+
+Q: Rural-urban migration can lead to
+A: overcrowding in cities
+W: more farm labour
+W: lower urban unemployment
+W: fewer slums
+E: Urban services are strained.
+
+Q: The efficiency of labour depends partly on
+A: the level of education and training
+W: the colour of the workers' clothes
+W: the weather only
+W: the number of holidays
+E: Skills increase productivity.
+
+Q: The supply of labour depends on
+A: the size of the population and the working age
+W: the price of goods
+W: the number of factories only
+W: the type of money
+E: It also depends on participation rates.
+
+Q: Brain drain refers to
+A: emigration of skilled professionals
+W: loss of farm land
+W: loss of capital
+W: unemployment of unskilled workers
+E: E.g. doctors leaving Nigeria.
+
+Q: A population pyramid with a narrow top shows
+A: few elderly people
+W: many elderly people
+W: low birth rate
+W: no children
+E: Typical of developing countries.
+
+@topic eco-agriculture
+
+Q: Agriculture provides food for
+A: the growing population
+W: only animals
+W: only factories
+W: only exports
+E: Food security depends on farming.
+
+Q: Agriculture provides employment for
+A: a large proportion of Nigerians
+W: very few Nigerians
+W: only foreigners
+W: only civil servants
+E: It is the largest employer.
+
+Q: Agriculture provides raw materials for industries such as
+A: textiles and food processing
+W: steel only
+W: oil refining
+W: car making only
+E: E.g. cotton and cocoa.
+
+Q: Agriculture's share of Nigeria's export earnings fell mainly because of
+A: the rise of crude oil
+W: too much rainfall
+W: the end of farming
+W: rising cocoa production
+E: Oil became dominant.
+
+Q: A reason for low agricultural output in Nigeria is
+A: use of crude tools
+W: too many tractors
+W: excess fertilisers
+W: too much credit
+E: Hoes and cutlasses limit output.
+
+Q: The marketing boards were set up in Nigeria to
+A: buy and export cash crops
+W: build roads
+W: print money
+W: train teachers
+E: They were later abolished in 1986.
+
+Q: The River Basin Development Authorities were set up to
+A: develop irrigation and water resources for farming
+W: run banks
+W: build schools
+W: refine oil
+E: They support dry-season farming.
+
+Q: The Nigerian Agricultural Cooperative and Rural Development Bank was later renamed the
+A: Bank of Agriculture
+W: Central Bank
+W: First Bank
+W: Bank of Industry
+E: It lends to farmers.
+
+Q: The Agricultural Credit Guarantee Scheme Fund (ACGSF) helps farmers by
+A: guaranteeing bank loans to them
+W: selling them tractors
+W: buying their land
+W: taxing them
+E: Banks are more willing to lend.
+
+Q: Land tenure problems affect agriculture by
+A: limiting access to land and discouraging investment
+W: increasing farm size
+W: encouraging mechanisation
+W: improving soil
+E: Insecure tenure reduces investment.
+
+Q: Inadequate storage facilities lead to
+A: post-harvest losses
+W: higher farm output
+W: lower prices always
+W: more exports
+E: Produce rots or is eaten by pests.
+
+Q: Price fluctuation of farm produce is mainly due to
+A: seasonal changes in supply
+W: stable demand and supply
+W: government fixing all prices
+W: constant weather
+E: Harvests are seasonal.
+
+Q: Peasant farming in Nigeria is characterised by
+A: small farms and family labour
+W: large plantations
+W: heavy machinery
+W: high capital
+E: Most farmers are smallholders.
+
+Q: Plantation agriculture is characterised by
+A: large estates growing cash crops
+W: tiny plots
+W: only family labour
+W: no capital
+E: E.g. rubber estates.
+
+Q: The Anchor Borrowers' Programme was introduced to
+A: provide credit to smallholder farmers
+W: build refineries
+W: fund universities
+W: import rice
+E: It was launched by the CBN in 2015.
+
+Q: Agriculture contributes to national income by
+A: adding value through crop and livestock output
+W: reducing GDP
+W: increasing imports
+W: causing inflation only
+E: It is a major part of GDP.
+
+Q: Food insecurity can be reduced by
+A: increasing agricultural productivity
+W: reducing farming
+W: importing all food
+W: banning fertilisers
+E: More local food production.
+
+Q: Agricultural extension services help to
+A: spread new farming knowledge to farmers
+W: collect taxes
+W: sell land
+W: export crude oil
+E: They link research to farmers.
+
+Q: A problem of using fertiliser in Nigeria is
+A: high cost and late supply
+W: too much free fertiliser
+W: farmers refusing all inputs
+W: excessive soil fertility
+E: Timely supply is important.
+
+Q: Agricultural research institutes such as IITA help by
+A: developing improved crop varieties
+W: printing money
+W: refining oil
+W: building roads only
+E: IITA is in Ibadan.
+
+Q: Mechanisation in agriculture can
+A: increase output per worker
+W: reduce output
+W: increase drudgery
+W: reduce farm size
+E: Machines save labour.
+
+Q: The fall in agricultural exports has made Nigeria
+A: dependent on food imports
+W: self-sufficient in all food
+W: the largest food exporter
+W: free of trade deficits
+E: E.g. wheat and rice imports.
+
+Q: Youth involvement in agriculture can be increased by
+A: providing incentives, credit and modern tools
+W: banning youth from farms
+W: increasing land disputes
+W: removing extension services
+E: Farming must be attractive.
+
+Q: The agricultural sector is often described as the backbone of the Nigerian economy because
+A: it employs most people and feeds the nation
+W: it earns most foreign exchange today
+W: it uses most machines
+W: it has the fewest workers
+E: Oil earns most foreign exchange, but agriculture employs most.

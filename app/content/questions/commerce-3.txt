@@ -1,0 +1,2186 @@
+@subject commerce
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic com-intro
+
+Q: The two main branches of commerce are
+A: trade and aids to trade
+W: production and consumption
+W: banking and insurance
+W: import and export
+E: Trade is buying and selling; aids to trade help it happen.
+
+Q: Production is complete only when goods
+A: reach the final consumer
+W: leave the factory
+W: are packaged
+W: are advertised
+E: Commerce links producers to consumers.
+
+Q: Extractive occupations involve
+A: taking natural resources from land, sea or air
+W: turning raw materials into finished goods
+W: selling goods to consumers
+W: providing banking services
+E: E.g. mining, fishing, farming.
+
+Q: Manufacturing and construction belong to the
+A: industrial occupations
+W: extractive occupations
+W: commercial occupations
+W: direct services
+E: They change raw materials into goods or structures.
+
+Q: A teacher, doctor or lawyer provides
+A: direct services
+W: indirect services
+W: extractive occupations
+W: manufacturing
+E: They serve people personally.
+
+Q: Indirect services are rendered by people such as
+A: civil servants, soldiers and police
+W: traders only
+W: farmers
+W: miners
+E: They serve the community through organisations.
+
+Q: Which of these is a commercial occupation?
+A: banking
+W: fishing
+W: mining
+W: weaving
+E: Banking is an aid to trade.
+
+Q: The division of labour means
+A: breaking production into separate tasks done by different people
+W: everyone doing every job
+W: refusing to work
+W: working alone
+E: It increases efficiency.
+
+Q: An advantage of specialisation is that it
+A: increases output and skill
+W: makes workers bored only
+W: reduces output
+W: stops trade
+E: Practice makes workers faster and better.
+
+Q: A disadvantage of specialisation is
+A: over-dependence on others
+W: higher output
+W: improved skill
+W: saving time
+E: Specialists rely on others for their other needs.
+
+Q: A problem of barter is the
+A: double coincidence of wants
+W: use of money
+W: stability of prices
+W: ease of storing wealth
+E: Each party must want what the other has.
+
+Q: Money serves as a medium of exchange, a store of value, a unit of account and a
+A: standard of deferred payment
+W: source of raw materials
+W: means of transport
+W: form of insurance
+E: Debts can be paid later in money.
+
+Q: Home trade is divided into
+A: retail and wholesale trade
+W: import and export trade
+W: entrepôt and visible trade
+W: banking and insurance
+E: These are the two branches of domestic trade.
+
+Q: Foreign trade is divided into
+A: import, export and entrepôt trade
+W: retail and wholesale
+W: banking and insurance
+W: advertising and warehousing
+E: It involves other countries.
+
+Q: Which of these is NOT an aid to trade?
+A: farming
+W: transport
+W: insurance
+W: advertising
+E: Farming is an extractive occupation.
+
+Q: Commerce helps to raise the standard of living by
+A: making a variety of goods available
+W: reducing all production
+W: stopping imports
+W: raising taxes
+E: Consumers get more choice.
+
+Q: The person who uses goods and services to satisfy wants is the
+A: consumer
+W: producer
+W: wholesaler
+W: broker
+E: Consumption is the end of production.
+
+Q: Industry, commerce and services are the three
+A: main types of occupation
+W: kinds of money
+W: types of bank
+W: forms of insurance
+E: Occupations fall into these groups.
+
+Q: Trade is the
+A: buying and selling of goods and services
+W: making of goods
+W: extraction of minerals
+W: storage of goods only
+E: It is the main branch of commerce.
+
+Q: Which aid to trade removes the hindrance of time?
+A: warehousing
+W: transport
+W: insurance
+W: banking
+E: Goods are stored until they are needed.
+
+Q: Which aid to trade removes the hindrance of place?
+A: transport
+W: warehousing
+W: advertising
+W: insurance
+E: It moves goods to where they are needed.
+
+Q: Which aid to trade removes the hindrance of risk?
+A: insurance
+W: transport
+W: banking
+W: advertising
+E: Insurance spreads the risk of loss.
+
+Q: Which aid to trade removes the hindrance of ignorance?
+A: advertising
+W: warehousing
+W: transport
+W: insurance
+E: It informs consumers about goods.
+
+Q: Which aid to trade removes the hindrance of finance?
+A: banking
+W: transport
+W: warehousing
+W: tourism
+E: Banks provide loans and payment services.
+
+@topic com-retail
+
+Q: A unit shop (one-man shop) is usually owned by
+A: a sole trader
+W: the government
+W: a public company
+W: a cooperative society only
+E: It is a small independent shop.
+
+Q: Mail-order business sells goods
+A: through catalogues and delivers by post or courier
+W: only in open markets
+W: from door to door only
+W: in supermarkets
+E: Customers order from a distance.
+
+Q: A kiosk is a
+A: small stall selling everyday items
+W: large department store
+W: wholesale warehouse
+W: bank branch
+E: Kiosks are common on roadsides.
+
+Q: A retailer helps the wholesaler by
+A: passing on information about consumers' tastes
+W: manufacturing goods
+W: lending money
+W: printing money
+E: Retailers know what customers want.
+
+Q: A retailer helps the consumer by
+A: selling goods in small quantities
+W: selling only in bulk
+W: refusing credit
+W: hiding prices
+E: Consumers buy what they need.
+
+Q: A wholesaler helps the manufacturer by
+A: buying in bulk and relieving them of storage
+W: selling in small units
+W: making goods
+W: reducing output
+E: Producers can concentrate on production.
+
+Q: Breaking bulk means
+A: buying in large quantities and selling in smaller lots
+W: damaging goods
+W: refusing to sell
+W: importing goods
+E: Wholesalers and retailers break bulk.
+
+Q: A cash-and-carry wholesaler
+A: sells for cash and buyers collect the goods themselves
+W: delivers free on credit
+W: sells only online
+W: sells only to consumers
+E: It saves delivery costs.
+
+Q: Elimination of the wholesaler occurs when
+A: manufacturers sell directly to retailers or consumers
+W: retailers close
+W: more wholesalers enter
+W: imports stop
+E: E.g. factory outlets.
+
+Q: A reason for eliminating the wholesaler is
+A: to reduce the final price
+W: to increase storage cost
+W: to slow distribution
+W: to confuse consumers
+E: Fewer middlemen mean lower costs.
+
+Q: A mobile shop is
+A: a vehicle that carries goods for sale from place to place
+W: a fixed department store
+W: a warehouse
+W: a bank
+E: It brings goods to customers.
+
+Q: Vending machines sell goods
+A: automatically when coins or cards are inserted
+W: through a shop attendant
+W: by post
+W: on credit only
+E: E.g. drinks and snacks.
+
+Q: A disadvantage of supermarkets is
+A: lack of personal service
+W: wide variety of goods
+W: fixed prices
+W: self-service
+E: Customers serve themselves.
+
+Q: A multiple shop differs from a department store because it
+A: has many branches selling similar goods
+W: has one building only
+W: sells on credit only
+W: is owned by the government
+E: E.g. a chain of pharmacies.
+
+Q: Open markets in Nigeria are important because they
+A: provide a place where many buyers and sellers meet
+W: are always expensive
+W: sell only imported goods
+W: open only at night
+E: E.g. Onitsha Main Market.
+
+Q: A factor to consider when siting a retail shop is
+A: nearness to customers
+W: distance from roads
+W: absence of population
+W: high crime rate
+E: Shops need customers.
+
+Q: Turnover in retail trade means
+A: the total value of sales in a period
+W: profit only
+W: number of workers
+W: closing time
+E: Turnover is sales revenue.
+
+Q: A sales agent who holds goods and sells them in their own name is a
+A: factor
+W: broker
+W: del credere agent
+W: auctioneer
+E: Factors possess the goods.
+
+Q: An agent who guarantees payment for goods sold on credit is a
+A: del credere agent
+W: broker
+W: factor
+W: hawker
+E: They receive extra commission for the guarantee.
+
+Q: An auctioneer sells goods
+A: to the highest bidder
+W: at a fixed price
+W: by post
+W: on hire purchase
+E: Bids are made openly.
+
+Q: A tied shop sells
+A: the products of one particular manufacturer
+W: every brand available
+W: only imported goods
+W: only food
+E: E.g. a petrol station of one oil company.
+
+@topic com-foreign-trade
+
+Q: Visible trade refers to the exchange of
+A: physical goods
+W: services
+W: ideas only
+W: money only
+E: E.g. crude oil and cocoa.
+
+Q: Invisible trade refers to the exchange of
+A: services such as shipping, banking and tourism
+W: crude oil
+W: machines
+W: cars
+E: Services cannot be seen or touched.
+
+Q: The balance of trade is the difference between
+A: visible exports and visible imports
+W: all receipts and payments
+W: income and expenditure of government
+W: savings and investment
+E: It covers goods only.
+
+Q: The balance of payments records
+A: all transactions between a country and the rest of the world
+W: only exports of goods
+W: only government spending
+W: only bank loans
+E: It includes goods, services and capital flows.
+
+Q: A favourable balance of trade exists when
+A: visible exports exceed visible imports
+W: imports exceed exports
+W: exports equal zero
+W: there is no trade
+E: The country earns more from goods than it spends.
+
+Q: A tariff is
+A: a tax on imported goods
+W: a ban on exports
+W: a type of insurance
+W: a bank loan
+E: It raises the price of imports.
+
+Q: An embargo is
+A: a total ban on trade in certain goods or with a country
+W: a tax on imports
+W: a subsidy
+W: a quota
+E: It stops trade completely.
+
+Q: A reason for restricting imports is to
+A: protect infant industries
+W: reduce local production
+W: increase unemployment
+W: discourage exports
+E: New local firms need protection.
+
+Q: The ECOWAS trade agreement aims to
+A: promote free trade among West African states
+W: stop all trade in Africa
+W: ban imports from Europe
+W: create a single religion
+E: ECOWAS promotes economic integration.
+
+Q: A pro-forma invoice is sent by an exporter
+A: before goods are sent, showing what they will cost
+W: after payment
+W: to correct an error
+W: as a receipt
+E: It may be used to obtain payment in advance.
+
+Q: A letter of credit is
+A: a bank's guarantee of payment to an exporter
+W: a document of title to goods
+W: a request for prices
+W: a customs form only
+E: It reduces risk for exporters.
+
+Q: A certificate of origin shows
+A: the country where the goods were produced
+W: the price of the goods
+W: the ship's name only
+W: the buyer's bank
+E: It may be needed for tariff purposes.
+
+Q: An indent is
+A: an order for goods placed through an agent
+W: a type of tariff
+W: a document of payment
+W: a shipping ship
+E: Open indents let the agent choose the supplier.
+
+Q: A consular invoice is
+A: an invoice certified by the consul of the importing country
+W: a receipt from a retailer
+W: an order sent by a consumer
+W: a credit note
+E: It confirms values for customs.
+
+Q: A bill of lading serves as
+A: a document of title to goods shipped by sea
+W: a receipt for postage
+W: a bank cheque
+W: a tax receipt
+E: Whoever holds it can claim the goods.
+
+Q: The document used for goods sent by air is the
+A: air waybill
+W: bill of lading
+W: indent
+W: consignment note by rail
+E: It is a receipt and contract of carriage.
+
+Q: A ship that sails on fixed routes at fixed times is a
+A: liner
+W: tramp
+W: tanker only
+W: ferry only
+E: Tramps have no fixed routes.
+
+Q: A tramp ship is one that
+A: has no fixed route and sails where cargo is available
+W: always sails on fixed timetables
+W: carries only passengers
+W: never leaves port
+E: Tramps are chartered.
+
+Q: FOB (free on board) means the price includes
+A: costs up to loading the goods on the ship
+W: all costs to the buyer's warehouse
+W: insurance and freight
+W: nothing at all
+E: The buyer pays freight and insurance thereafter.
+
+Q: CIF means the price includes
+A: cost, insurance and freight
+W: cost only
+W: customs duty only
+W: cost and interest
+E: The seller pays to the destination port.
+
+Q: A problem of foreign trade is
+A: differences in currencies
+W: same language everywhere
+W: no need for documents
+W: absence of distance
+E: Currencies must be exchanged.
+
+Q: Dumping in international trade means
+A: selling goods abroad below their cost or home price
+W: throwing away goods
+W: storing goods in bonded warehouses
+W: banning imports
+E: It can harm local industries.
+
+Q: The Nigerian Export Promotion Council (NEPC) helps to
+A: encourage non-oil exports
+W: ban exports
+W: collect import duty
+W: run seaports
+E: It promotes Nigerian products abroad.
+
+Q: A comparative advantage means a country should
+A: specialise in what it produces at lowest opportunity cost
+W: produce everything itself
+W: import everything
+W: stop trading
+E: This is a basis of foreign trade.
+
+@topic com-documents
+
+Q: An order sent by a buyer is followed by the seller sending
+A: an invoice
+W: a credit note
+W: an enquiry
+W: a quotation
+E: The invoice bills the buyer for goods supplied.
+
+Q: A quotation is a document that
+A: gives prices and terms in reply to an enquiry
+W: confirms payment
+W: corrects an undercharge
+W: orders goods
+E: It follows the letter of enquiry.
+
+Q: A debit note is sent when
+A: the buyer has been undercharged
+W: the buyer has been overcharged
+W: goods are returned
+W: payment is received
+E: It increases the amount owed.
+
+Q: A delivery note accompanies goods and is
+A: signed by the buyer to confirm receipt
+W: a request for prices
+W: a cheque
+W: a receipt for cash
+E: It proves delivery.
+
+Q: E & OE on an invoice means
+A: errors and omissions excepted
+W: export and order entry
+W: exact and on-time delivery
+W: every order expected
+E: The seller can correct mistakes later.
+
+@topic com-banking
+
+Q: The Central Bank of Nigeria acts as banker to
+A: the government and commercial banks
+W: individuals only
+W: market traders only
+W: foreign tourists
+E: It is the apex bank.
+
+Q: The Central Bank is the lender of last resort, meaning it
+A: lends to commercial banks in difficulty
+W: never lends money
+W: lends only to farmers
+W: lends to foreigners only
+E: This keeps the banking system stable.
+
+Q: A current account is mainly used for
+A: making payments by cheque and transfers
+W: earning high interest
+W: fixed savings for a long time
+W: insurance
+E: It usually pays little or no interest.
+
+Q: A fixed (time) deposit account
+A: earns higher interest but money is kept for a set period
+W: allows cheques
+W: pays no interest
+W: allows overdrafts
+E: Early withdrawal may lose interest.
+
+Q: A savings account is suitable for
+A: individuals who want to save and earn interest
+W: issuing cheques only
+W: large companies' daily payments
+W: government transactions only
+E: It encourages saving.
+
+Q: A crossed cheque has
+A: two parallel lines across its face
+W: a red stamp
+W: no signature
+W: a photograph
+E: It must be paid into an account.
+
+Q: A bearer cheque can be cashed by
+A: whoever presents it
+W: only the drawer
+W: only the bank manager
+W: nobody
+E: It is payable to the bearer.
+
+Q: A dishonoured cheque is one that
+A: the bank refuses to pay
+W: is paid immediately
+W: is crossed
+W: is post-dated by a day
+E: Often due to insufficient funds.
+
+Q: A post-dated cheque bears
+A: a date in the future
+W: a past date over six months old
+W: no date
+W: a wrong amount
+E: It cannot be paid before that date.
+
+Q: A standing order differs from a direct debit because a standing order is
+A: set up by the customer for fixed amounts
+W: controlled by the payee
+W: a cheque
+W: a loan
+E: A direct debit lets the payee claim variable sums.
+
+Q: A bank draft is
+A: a cheque drawn by a bank on itself
+W: a personal cheque
+W: a loan agreement
+W: an insurance policy
+E: It is safer than a personal cheque.
+
+Q: The bank verification number (BVN) in Nigeria is used to
+A: identify bank customers uniquely
+W: print money
+W: set interest rates
+W: pay taxes only
+E: It links accounts to biometric data.
+
+Q: Bank charges are fees paid for
+A: services provided by the bank
+W: interest on savings
+W: dividends
+W: insurance claims
+E: E.g. transfer and account maintenance fees.
+
+Q: The interest rate charged on loans is usually
+A: higher than the rate paid on deposits
+W: lower than deposit rates
+W: zero
+W: the same as inflation always
+E: The difference is the bank's margin.
+
+Q: A merchant bank mainly serves
+A: businesses with large financial needs
+W: children
+W: farmers only
+W: tourists only
+E: It handles corporate finance and advice.
+
+Q: Mortgage banks provide loans for
+A: buying or building houses
+W: buying food
+W: paying school fees only
+W: buying shares only
+E: The property is security for the loan.
+
+Q: Collateral security is
+A: an asset pledged to secure a loan
+W: an interest rate
+W: a type of cheque
+W: a bank charge
+E: The bank can sell it if the loan is not repaid.
+
+Q: The Nigeria Deposit Insurance Corporation (NDIC)
+A: protects depositors if a bank fails
+W: prints currency
+W: collects taxes
+W: regulates insurance companies
+E: It insures bank deposits up to a limit.
+
+Q: Electronic banking includes
+A: internet banking, mobile banking and ATMs
+W: only cheques
+W: only counter service
+W: barter
+E: Customers can bank without visiting a branch.
+
+Q: A bank statement shows
+A: the transactions and balance in a customer's account
+W: a loan agreement
+W: an insurance claim
+W: a cheque book
+E: It is sent periodically.
+
+Q: The person to whom a cheque is made payable is the
+A: payee
+W: drawer
+W: drawee
+W: endorser
+E: The drawer writes it and the drawee bank pays it.
+
+@topic com-insurance
+
+Q: The principle of contribution applies when
+A: the same risk is insured with more than one insurer
+W: there is no insurance
+W: the insured dies
+W: premiums are not paid
+E: Each insurer pays its share of the loss.
+
+Q: Proximate cause means
+A: the main cause of a loss must be an insured risk
+W: the loss must be small
+W: the insured must be near the insurer
+W: premiums must be paid monthly
+E: The dominant cause is considered.
+
+Q: An insurance policy is
+A: the document containing the terms of the contract
+W: a claim form
+W: a premium receipt only
+W: a bank cheque
+E: It sets out what is covered.
+
+Q: A cover note is
+A: a temporary document giving cover before the policy is issued
+W: a final policy
+W: a claim form
+W: a cheque
+E: It provides cover while the policy is prepared.
+
+Q: The proposal form is filled by
+A: the person seeking insurance
+W: the insurer only
+W: the broker's bank
+W: the police
+E: It gives facts about the risk.
+
+Q: An insurance broker
+A: arranges insurance for clients and advises them
+W: pays all claims personally
+W: sets premium rates for the government
+W: works only for one insurer
+E: Brokers are agents of the insured.
+
+Q: Reinsurance occurs when
+A: an insurer insures part of its risk with another insurer
+W: a customer insures twice
+W: a policy is cancelled
+W: a claim is refused
+E: It spreads very large risks.
+
+Q: An endowment policy pays
+A: a sum at a fixed date or on earlier death
+W: only on death
+W: only for fire
+W: nothing
+E: It combines saving and protection.
+
+Q: A whole life policy pays
+A: on the death of the assured, whenever it occurs
+W: at a fixed date only
+W: for car accidents only
+W: monthly forever
+E: It is pure life cover.
+
+Q: Fidelity guarantee insurance protects an employer against
+A: dishonesty of employees
+W: fire
+W: floods
+W: car accidents
+E: It covers fraud and theft by staff.
+
+Q: Comprehensive motor insurance covers
+A: third-party risks and damage to the insured's own vehicle
+W: only third parties
+W: only the driver's life
+W: only goods in transit
+E: It is wider than third-party cover.
+
+Q: Burglary insurance covers
+A: loss from theft involving forced entry
+W: illness
+W: life
+W: floods
+E: It protects property against break-ins.
+
+Q: Fire insurance covers
+A: loss or damage caused by fire
+W: theft only
+W: life
+W: exports only
+E: Special perils may be added.
+
+Q: The insured person who suffers loss makes
+A: a claim
+W: a premium
+W: a proposal
+W: a broker
+E: The insurer then compensates them.
+
+Q: A loss adjuster is a person who
+A: assesses the amount of loss in a claim
+W: sells shares
+W: writes policies
+W: collects taxes
+E: They advise on settlement.
+
+Q: The pooling of risks means
+A: many people pay premiums so the few who suffer loss are compensated
+W: everyone suffers loss equally
+W: no one pays
+W: the government pays all losses
+E: This is the basis of insurance.
+
+Q: The National Insurance Commission (NAICOM) regulates
+A: insurance companies in Nigeria
+W: banks
+W: the stock exchange
+W: seaports
+E: It supervises the insurance industry.
+
+Q: Marine cargo insurance covers
+A: goods carried by sea
+W: ships only
+W: the crew's lives only
+W: ports
+E: Hull insurance covers the ship itself.
+
+Q: An uninsurable risk is one that
+A: cannot be calculated statistically
+W: happens to many people
+W: is common and predictable
+W: has a known probability
+E: E.g. losses from bad business decisions.
+
+Q: The surrender value of a life policy is
+A: the amount paid if the policy is cancelled early
+W: the premium
+W: the full sum assured
+W: the broker's fee
+E: It is less than the sum assured.
+
+Q: Group life insurance is usually provided by
+A: employers for their workers
+W: individuals for themselves only
+W: the stock exchange
+W: banks for shareholders
+E: It is required for employees under Nigerian law.
+
+@topic com-transport
+
+Q: Road transport is most suitable for
+A: short distances and door-to-door delivery
+W: very heavy bulky goods over long distances
+W: crossing oceans
+W: carrying crude oil only
+E: It is flexible.
+
+Q: Rail transport is suitable for
+A: heavy and bulky goods over long distances
+W: perishable goods needing door delivery
+W: crossing seas
+W: very small parcels only
+E: Trains carry large loads cheaply.
+
+Q: Water transport is the cheapest mode for
+A: bulky goods over long distances
+W: urgent documents
+W: perishable flowers
+W: short trips in towns
+E: Ships carry huge loads.
+
+Q: Air transport is best for
+A: urgent, valuable or perishable goods
+W: heavy bulky goods cheaply
+W: crude oil
+W: sand and gravel
+E: It is fast but expensive.
+
+Q: A disadvantage of pipeline transport is
+A: high initial cost and risk of vandalism
+W: it is slow for liquids
+W: it needs many drivers
+W: it is affected by traffic
+E: Pipelines are costly to build and guard.
+
+Q: The Nigerian Railway Corporation is responsible for
+A: running rail services
+W: running airports
+W: managing seaports
+W: managing roads
+E: It operates the national railway.
+
+Q: The Federal Airports Authority of Nigeria (FAAN) manages
+A: airports
+W: seaports
+W: railways
+W: post offices
+E: FAAN runs federal airports.
+
+Q: Containerisation means
+A: carrying goods in standard large metal boxes
+W: packing in paper bags
+W: sending goods by post
+W: storing goods in warehouses only
+E: It speeds loading and reduces theft.
+
+Q: Communication helps commerce by
+A: allowing quick exchange of information between traders
+W: increasing distance
+W: slowing trade
+W: replacing goods
+E: Orders and payments move quickly.
+
+Q: The Nigerian Postal Service (NIPOST) provides
+A: postal and courier services
+W: airport services
+W: banking only
+W: insurance
+E: It delivers letters and parcels.
+
+Q: A courier service is
+A: a fast private delivery of documents and parcels
+W: a slow ship
+W: a type of bank
+W: a kind of tax
+E: E.g. DHL and others.
+
+Q: The Nigerian Communications Commission (NCC) regulates
+A: telecommunications
+W: road transport
+W: railways
+W: seaports
+E: It licenses mobile networks.
+
+Q: An advantage of road transport over rail is
+A: flexibility of routes and timing
+W: cheaper for very heavy loads
+W: no traffic jams
+W: carrying more per trip
+E: Lorries can go almost anywhere.
+
+Q: A disadvantage of water transport is
+A: it is slow
+W: it is the most expensive
+W: it cannot carry bulky goods
+W: it offers door-to-door service
+E: Ships take a long time.
+
+Q: Transport adds value to goods by
+A: moving them to where they are needed
+W: changing their chemical form
+W: storing them
+W: advertising them
+E: This creates place utility.
+
+Q: A factor to consider when choosing a means of transport is
+A: the nature of the goods
+W: the colour of the vehicle
+W: the driver's age only
+W: the weather in another country
+E: Perishable or bulky goods need suitable transport.
+
+Q: E-mail is an example of
+A: electronic communication
+W: postal communication
+W: water transport
+W: warehousing
+E: Messages travel through the internet.
+
+Q: A disadvantage of air transport is
+A: high cost
+W: slow speed
+W: inability to carry passengers
+W: no safety at all
+E: It is costly per unit of goods.
+
+Q: Ferry services are used mainly to
+A: carry passengers and vehicles across water
+W: carry crude oil only
+W: fly over rivers
+W: deliver mail by air
+E: Common in Lagos waterways.
+
+Q: The Nigerian Ports Authority (NPA) manages
+A: seaports
+W: airports
+W: railways
+W: highways
+E: E.g. Apapa and Tin Can ports.
+
+Q: Telephone services help traders to
+A: place orders and get information instantly
+W: carry goods physically
+W: store goods
+W: insure goods
+E: They save time.
+
+Q: Inland waterways in Nigeria include the rivers
+A: Niger and Benue
+W: Nile and Congo
+W: Thames and Rhine
+W: Volta and Zambezi
+E: They can carry goods inland.
+
+Q: Freight is
+A: the charge for carrying goods
+W: the goods' price
+W: an insurance premium
+W: a tax
+E: It is paid to the carrier.
+
+Q: A consignment note is used for goods sent by
+A: road or rail
+W: sea
+W: air only
+W: post office only
+E: It lists the goods carried.
+
+@topic com-warehousing
+
+Q: A public warehouse is
+A: owned by the government or a firm and rented to users
+W: owned by one trader for his own goods only
+W: a shop
+W: a bank vault
+E: Anyone can pay to use it.
+
+Q: A private warehouse is
+A: owned by a business for storing its own goods
+W: rented to the public
+W: owned by customs
+W: a hotel
+E: Manufacturers and wholesalers often own one.
+
+Q: A bonded warehouse is controlled by
+A: the customs authority
+W: retailers
+W: consumers
+W: banks
+E: Duty is paid when goods are removed.
+
+Q: An advantage of a bonded warehouse to importers is that
+A: they pay duty only when goods are withdrawn
+W: they pay no duty ever
+W: goods are free
+W: goods cannot be inspected
+E: This helps cash flow.
+
+Q: A dock warrant is
+A: a document of title to goods stored in a dock warehouse
+W: a cheque
+W: an insurance policy
+W: a bill of exchange
+E: It can be transferred to a buyer.
+
+Q: Warehousing creates
+A: time utility
+W: place utility only
+W: form utility
+W: no utility
+E: Goods are available when needed.
+
+Q: Seasonal goods such as grains are stored in warehouses to
+A: ensure a steady supply all year
+W: make them rot
+W: hide them from buyers
+W: raise their price forever
+E: Harvests come once a year.
+
+Q: A good warehouse should be
+A: secure, well ventilated and near transport
+W: far from roads
+W: damp and dark
+W: without security
+E: These protect goods and ease movement.
+
+Q: Some goods improve in value while stored, for example
+A: wine and timber
+W: fresh fish
+W: tomatoes
+W: bread
+E: They mature with time.
+
+Q: A silo is used for storing
+A: grains
+W: crude oil
+W: cars
+W: documents
+E: Silos are tall storage towers.
+
+Q: A cold store is used for
+A: perishable goods such as meat and fish
+W: cement
+W: iron rods
+W: paper
+E: Low temperatures prevent spoilage.
+
+Q: Tourism is
+A: travelling for leisure, business or culture
+W: farming
+W: mining
+W: manufacturing
+E: Tourists spend money in host areas.
+
+Q: A tourist attraction in Nigeria is
+A: Yankari Game Reserve
+W: the Eiffel Tower
+W: Victoria Falls
+W: the Pyramids
+E: It is in Bauchi State.
+
+Q: The Obudu Mountain Resort is in
+A: Cross River State
+W: Plateau State
+W: Lagos State
+W: Kano State
+E: It is a popular holiday resort.
+
+Q: Tourism earns foreign exchange when
+A: foreign tourists spend money in the country
+W: citizens travel abroad
+W: imports rise
+W: hotels close
+E: It is an invisible export.
+
+Q: A problem facing tourism in Nigeria is
+A: insecurity
+W: too many tourists
+W: perfect roads
+W: low hotel prices
+E: Safety concerns discourage visitors.
+
+Q: Tourism creates employment in
+A: hotels, transport and crafts
+W: mining only
+W: farming only
+W: oil drilling
+E: Many service jobs depend on tourism.
+
+Q: The Nigerian Tourism Development Corporation is now called the
+A: Nigerian Tourism Development Authority
+W: NCC
+W: NAFDAC
+W: SON
+E: It promotes tourism.
+
+Q: Zuma Rock is a tourist site near
+A: Abuja
+W: Lagos
+W: Enugu
+W: Port Harcourt
+E: It is a large monolith.
+
+Q: A hotel and travel agency provide
+A: services to tourists
+W: raw materials
+W: manufactured goods
+W: loans
+E: They are part of the tourism industry.
+
+Q: A function of warehousing is
+A: protecting goods from damage and theft
+W: producing goods
+W: advertising goods
+W: lending money
+E: Storage keeps goods safe.
+
+Q: Warehousing helps manufacturers to
+A: produce in anticipation of demand
+W: stop production
+W: avoid all storage
+W: sell only to consumers
+E: Goods are stored until ordered.
+
+Q: Goods in a bonded warehouse may be
+A: repackaged or blended before duty is paid
+W: sold without any documents
+W: destroyed freely
+W: taken without customs approval
+E: Limited processing is allowed.
+
+Q: The Ikogosi Warm Springs are found in
+A: Ekiti State
+W: Kano State
+W: Rivers State
+W: Benue State
+E: Warm and cold springs meet there.
+
+@topic com-credit
+
+Q: Hire purchase differs from credit sale because in hire purchase
+A: ownership passes only after the last instalment
+W: ownership passes immediately
+W: no deposit is paid
+W: goods cannot be repossessed
+E: The seller may repossess if payments stop.
+
+Q: In a credit sale,
+A: ownership passes to the buyer at once
+W: ownership passes after the last payment
+W: no payment is ever made
+W: goods remain with the seller
+E: The seller cannot repossess the goods.
+
+Q: Trade credit is credit given by
+A: one business to another
+W: a bank to consumers
+W: the government to citizens
+W: an insurer
+E: E.g. a wholesaler allowing a retailer 30 days to pay.
+
+Q: Consumer credit is credit given to
+A: individuals for personal purchases
+W: governments
+W: banks
+W: factories only
+E: E.g. credit cards and instalment plans.
+
+Q: An advantage of credit to consumers is that
+A: they can enjoy goods before paying in full
+W: goods become cheaper
+W: they never pay
+W: they avoid interest
+E: Credit spreads the cost.
+
+Q: An advantage of credit to sellers is
+A: increased sales
+W: lower turnover
+W: fewer customers
+W: no risk
+E: More people can buy.
+
+Q: A disadvantage of credit to sellers is
+A: the risk of bad debts
+W: more sales
+W: more customers
+W: higher profit
+E: Some buyers may not pay.
+
+Q: A credit card allows the holder to
+A: buy now and pay the card issuer later
+W: withdraw unlimited cash free
+W: avoid all payments
+W: own shares
+E: Interest is charged if not paid in time.
+
+Q: Consumer protection means
+A: safeguarding buyers against exploitation and harmful goods
+W: protecting sellers only
+W: banning trade
+W: raising prices
+E: Laws and agencies protect consumers.
+
+Q: The Federal Competition and Consumer Protection Commission (FCCPC) was formerly the
+A: Consumer Protection Council
+W: NAFDAC
+W: SON
+W: NCC
+E: It was renamed in 2018.
+
+Q: The Standards Organisation of Nigeria (SON) uses which mark to certify products?
+A: the MANCAP and NIS marks
+W: the NAFDAC number only
+W: the BVN
+W: the TIN
+E: They show a product meets standards.
+
+Q: NAFDAC registration numbers are found on
+A: food, drugs and cosmetics
+W: cars
+W: buildings
+W: clothes only
+E: They show products are approved.
+
+Q: A consumer right is the right to
+A: be informed about the products they buy
+W: steal goods
+W: refuse to pay
+W: set prices
+E: Consumers need accurate information.
+
+Q: Consumers can protect themselves by
+A: checking expiry dates and keeping receipts
+W: buying fake products
+W: ignoring labels
+W: refusing to complain
+E: Being careful reduces losses.
+
+Q: Adulteration of goods means
+A: mixing goods with inferior substances
+W: improving quality
+W: packaging well
+W: advertising
+E: It cheats consumers.
+
+Q: The Sale of Goods Act protects buyers by
+A: requiring goods to be of merchantable quality
+W: allowing sellers to cheat
+W: banning returns
+W: fixing all prices
+E: Goods must be fit for purpose.
+
+Q: Consumer associations help by
+A: educating consumers and pressing for their rights
+W: making goods
+W: selling goods
+W: banning trade
+E: They are voluntary groups.
+
+Q: Short weight and measures are prevented by
+A: inspection of weights and measures
+W: advertising
+W: banking
+W: insurance
+E: Inspectors check scales.
+
+Q: The deposit paid in hire purchase is
+A: the first payment made before taking the goods
+W: the last payment
+W: interest only
+W: a tax
+E: The balance is paid in instalments.
+
+Q: The hire purchase price is usually
+A: higher than the cash price
+W: lower than the cash price
+W: the same as the cash price
+W: zero
+E: Interest is added.
+
+Q: A bad debt is
+A: a debt that cannot be recovered
+W: a debt paid early
+W: a bank deposit
+W: a premium
+E: It is a loss to the creditor.
+
+Q: Bank credit includes
+A: loans and overdrafts
+W: cheques only
+W: insurance
+W: dividends
+E: Banks lend to customers.
+
+Q: The Weights and Measures Act aims to
+A: ensure accurate measurement in trade
+W: increase prices
+W: control advertising
+W: regulate banks
+E: Fair measures protect buyers.
+
+Q: A guarantee or warranty on goods
+A: promises repair or replacement if they are faulty
+W: increases the price
+W: ends the contract
+W: stops returns
+E: It protects buyers.
+
+@topic com-entrepreneurship
+
+Q: Risk-bearing is a key function of
+A: the entrepreneur
+W: the worker
+W: the landlord
+W: the government only
+E: The entrepreneur bears uncertainty.
+
+Q: The reward of the entrepreneur is
+A: profit
+W: wages
+W: rent
+W: interest
+E: Profit rewards enterprise.
+
+Q: Innovation in business means
+A: introducing new ideas, products or methods
+W: copying others
+W: closing the business
+W: reducing quality
+E: Innovation creates competitive advantage.
+
+Q: A feasibility study helps an entrepreneur to
+A: determine whether a business idea will succeed
+W: avoid planning
+W: pay taxes
+W: hire workers only
+E: It assesses viability.
+
+Q: Which of these is a problem facing small businesses in Nigeria?
+A: lack of capital
+W: too much electricity
+W: excess skilled labour
+W: low taxes
+E: Access to finance is difficult.
+
+Q: The Bank of Industry (BOI) supports
+A: industrial and small businesses with loans
+W: only foreign companies
+W: tourism only
+W: banks only
+E: It is a development bank.
+
+Q: An entrepreneur's personal savings are an example of
+A: internal (own) capital
+W: a bank loan
+W: a government grant
+W: a debenture
+E: Many small businesses start with savings.
+
+Q: A cooperative society is
+A: a business owned and controlled by its members
+W: a public company
+W: a government ministry
+W: a sole trader
+E: Members share profits.
+
+Q: Self-employment means
+A: working for oneself rather than for an employer
+W: working for the government
+W: being unemployed
+W: working abroad only
+E: Entrepreneurs are self-employed.
+
+Q: A business idea is
+A: a possible product or service to offer for profit
+W: a bank loan
+W: a tax
+W: a shareholder
+E: It is the starting point of a business.
+
+Q: SWOT analysis examines strengths, weaknesses, opportunities and
+A: threats
+W: taxes
+W: transport
+W: tourism
+E: It helps business planning.
+
+Q: An example of a small-scale business in Nigeria is
+A: tailoring
+W: an oil refinery
+W: a steel mill
+W: an airline
+E: It needs small capital.
+
+Q: Creativity is important to an entrepreneur because it
+A: helps generate new ideas
+W: reduces profit
+W: stops growth
+W: increases taxes
+E: New ideas meet new needs.
+
+Q: Market research helps an entrepreneur to
+A: understand customers' needs
+W: avoid customers
+W: reduce quality
+W: pay workers
+E: It guides product decisions.
+
+Q: The Industrial Training Fund (ITF) helps entrepreneurs through
+A: skills training
+W: printing money
+W: insurance
+W: running ports
+E: It trains workers and entrepreneurs.
+
+Q: An entrepreneur contributes to the economy by
+A: creating jobs
+W: increasing unemployment
+W: reducing output
+W: stopping trade
+E: New businesses employ people.
+
+Q: Venture capital is
+A: funding provided to new businesses in return for ownership
+W: a type of insurance
+W: a government tax
+W: a savings account
+E: Investors share in risk and profit.
+
+Q: Microfinance banks help entrepreneurs by
+A: giving small loans to small businesses
+W: refusing all loans
+W: printing money
+W: collecting taxes
+E: They serve those with little collateral.
+
+Q: Business ethics refers to
+A: moral principles guiding business behaviour
+W: profit only
+W: advertising
+W: taxation
+E: E.g. honesty with customers.
+
+Q: Record keeping is important for small businesses because it
+A: shows whether the business is making a profit
+W: wastes time
+W: increases costs only
+W: is never useful
+E: Records help decision-making.
+
+Q: The National Directorate of Employment (NDE) was set up to
+A: reduce unemployment through skills and self-employment schemes
+W: collect taxes
+W: run banks
+W: regulate insurance
+E: It was created in 1986.
+
+Q: A franchise allows a business to
+A: use another firm's brand and system for a fee
+W: avoid paying for anything
+W: own shares in a bank
+W: export without documents
+E: E.g. fast-food chains.
+
+Q: Which personal quality is most important to an entrepreneur?
+A: willingness to take calculated risks
+W: fear of failure
+W: laziness
+W: dislike of customers
+E: Business involves uncertainty.
+
+Q: Start-up capital is
+A: the money needed to begin a business
+W: profit at the end of the year
+W: a tax refund
+W: a dividend
+E: It buys equipment and stock.
+
+@topic com-business-units
+
+Q: A sole proprietorship is owned by
+A: one person
+W: two to twenty people
+W: shareholders
+W: the government
+E: The owner takes all profits.
+
+Q: A disadvantage of a sole proprietorship is
+A: unlimited liability
+W: quick decisions
+W: personal contact with customers
+W: keeping all profits
+E: The owner's personal assets can be used to pay debts.
+
+Q: A partnership is formed by
+A: two to twenty people
+W: one person
+W: the government
+W: at least fifty shareholders
+E: Partners share profits and losses.
+
+Q: The document that sets out the terms of a partnership is the
+A: partnership deed
+W: memorandum of association
+W: prospectus
+W: certificate of incorporation
+E: It covers capital, profit sharing and duties.
+
+Q: A sleeping partner is one who
+A: contributes capital but does not take part in management
+W: manages the business actively
+W: is under age
+W: is the sole owner
+E: They share profits.
+
+Q: A limited partner's liability is
+A: limited to the capital contributed
+W: unlimited
+W: zero
+W: shared by the government
+E: At least one partner must have unlimited liability.
+
+Q: A private limited company's shares
+A: cannot be offered to the public
+W: are sold on the stock exchange
+W: are given away free
+W: belong to the government
+E: Its name ends with "Ltd".
+
+Q: A public limited company's name ends with
+A: Plc
+W: Ltd only
+W: & Co.
+W: Enterprises
+E: Plc means public limited company.
+
+Q: The memorandum of association governs
+A: the company's relationship with the outside world
+W: internal rules only
+W: employees' pay
+W: the price of shares
+E: It states the name, objects and capital.
+
+Q: Limited liability means shareholders
+A: can lose only the amount invested
+W: lose all personal property
+W: pay all company debts
+W: are never paid dividends
+E: It protects personal assets.
+
+Q: A public corporation is
+A: owned by the government
+W: owned by one person
+W: owned by partners
+W: owned by foreign shareholders only
+E: E.g. the Nigerian Railway Corporation.
+
+Q: The main aim of a public corporation is
+A: providing essential services to the public
+W: making maximum profit only
+W: helping one family
+W: avoiding customers
+E: Profit is not the main motive.
+
+Q: Preference shareholders receive
+A: a fixed dividend before ordinary shareholders
+W: no dividend
+W: the largest dividends always
+W: voting control
+E: They have priority but usually no vote.
+
+Q: Debentures are
+A: loans to a company that earn fixed interest
+W: ordinary shares
+W: profits
+W: premiums
+E: Debenture holders are creditors.
+
+Q: A merger is
+A: the combination of two or more firms into one
+W: the closing of a firm
+W: the sale of shares to the public
+W: a type of tax
+E: It creates a larger business.
+
+Q: A holding company is one that
+A: controls other companies by owning most of their shares
+W: holds goods in warehouses
+W: is a sole trader
+W: has no shares
+E: The controlled firms are subsidiaries.
+
+Q: Authorised capital is
+A: the maximum share capital a company may issue
+W: the money in the bank
+W: the profit
+W: the loan from a bank
+E: It is stated in the memorandum.
+
+Q: Issued capital is
+A: the part of authorised capital actually issued to shareholders
+W: the maximum capital
+W: a bank loan
+W: retained profit
+E: It may be less than authorised capital.
+
+Q: Working capital is
+A: current assets minus current liabilities
+W: fixed assets
+W: share capital
+W: total profit
+E: It funds day-to-day operations.
+
+Q: Ploughing back profit means
+A: retaining profits in the business
+W: paying all profits as dividends
+W: borrowing from a bank
+W: issuing debentures
+E: It is an internal source of finance.
+
+Q: Privatisation means
+A: transferring government enterprises to private ownership
+W: nationalising companies
+W: closing businesses
+W: increasing taxes
+E: Shares are sold to private investors.
+
+Q: Commercialisation of public enterprises means
+A: running them on a profit-making basis
+W: selling them to foreigners only
+W: closing them
+W: making their services free
+E: They are expected to cover costs.
+
+Q: The Bureau of Public Enterprises (BPE) handles
+A: privatisation in Nigeria
+W: insurance regulation
+W: customs
+W: postal services
+E: It oversees the sale of public firms.
+
+Q: A cooperative society's profits are shared according to
+A: members' patronage or contributions
+W: number of shares only
+W: the government's decision
+W: the manager's wish
+E: Members benefit in proportion to their dealings.
+
+@topic com-capital-market
+
+Q: The Nigerian Exchange (NGX), formerly the Nigerian Stock Exchange, is located in
+A: Lagos
+W: Abuja
+W: Kano
+W: Port Harcourt
+E: It has branches elsewhere.
+
+Q: The capital market deals in
+A: long-term funds
+W: short-term funds only
+W: foreign currency only
+W: insurance policies
+E: Shares and bonds are long-term securities.
+
+Q: The money market deals in
+A: short-term funds
+W: long-term shares
+W: real estate
+W: goods only
+E: E.g. treasury bills.
+
+Q: A stag is a speculator who
+A: buys new shares hoping to sell them quickly at a profit
+W: sells shares expecting prices to fall
+W: never sells
+W: buys only bonds
+E: Stags target new issues.
+
+Q: A lame duck is a speculator who
+A: cannot meet their commitments
+W: always makes a profit
+W: buys new issues
+W: regulates the market
+E: They fail to pay their debts.
+
+Q: The primary market is where
+A: new securities are issued
+W: existing securities are traded
+W: goods are sold
+W: currencies are exchanged
+E: Companies raise fresh capital.
+
+Q: The secondary market is where
+A: existing securities are bought and sold
+W: new shares are first issued
+W: banks lend money
+W: insurance is sold
+E: Investors trade among themselves.
+
+Q: A function of the stock exchange is to
+A: provide a market for buying and selling securities
+W: print money
+W: collect taxes
+W: produce goods
+E: It makes shares liquid.
+
+Q: The stock exchange helps companies to
+A: raise capital
+W: avoid investors
+W: reduce output
+W: stop paying dividends
+E: Companies sell shares to the public.
+
+Q: The All-Share Index measures
+A: the general movement of share prices
+W: inflation
+W: exports
+W: unemployment
+E: It reflects market performance.
+
+Q: A bull market is one in which share prices are
+A: rising
+W: falling
+W: fixed
+W: zero
+E: Optimism drives prices up.
+
+Q: A bear market is one in which share prices are
+A: falling
+W: rising
+W: steady
+W: doubled
+E: Pessimism pushes prices down.
+
+Q: A dividend is
+A: a share of company profit paid to shareholders
+W: a loan
+W: a tax
+W: a premium
+E: It is paid per share.
+
+Q: Treasury bills are
+A: short-term government securities
+W: long-term company shares
+W: insurance policies
+W: credit cards
+E: They are sold in the money market.
+
+Q: A unit trust
+A: pools investors' money to buy a spread of securities
+W: is a bank account
+W: is a type of insurance
+W: is a government tax
+E: It reduces risk through diversification.
+
+Q: Quoted companies are those
+A: listed on the stock exchange
+W: not registered
+W: owned by one person
+W: owned by government only
+E: Their shares are traded publicly.
+
+Q: The Central Securities Clearing System (CSCS) is used for
+A: clearing and settling share transactions
+W: issuing bank loans
+W: paying insurance claims
+W: collecting customs duty
+E: It keeps electronic records of shareholdings.
+
+Q: An issuing house helps companies to
+A: sell new shares to the public
+W: collect taxes
+W: run factories
+W: insure goods
+E: It manages public offers.
+
+Q: A rights issue offers new shares to
+A: existing shareholders
+W: the general public only
+W: employees only
+W: banks only
+E: They get the right to buy in proportion to holdings.
+
+Q: A bonus issue gives
+A: free shares to existing shareholders
+W: cash to banks
+W: loans to customers
+W: shares to the public at a high price
+E: Retained profits are converted into shares.
+
+Q: A blue-chip company is one that
+A: is large, stable and reliable
+W: is about to fail
+W: has no shares
+W: is newly formed
+E: Its shares are considered safe.
+
+Q: A share certificate is
+A: evidence of ownership of shares
+W: a loan agreement
+W: a bank statement
+W: an insurance policy
+E: It states the number of shares held.
+
+Q: Market capitalisation of a company is
+A: share price multiplied by number of shares
+W: total profit
+W: authorised capital
+W: dividend paid
+E: It shows market value.
+
+Q: The Securities and Exchange Commission protects investors by
+A: regulating and supervising the capital market
+W: printing money
+W: selling goods
+W: running airports
+E: SEC registers securities and dealers.
+
+@topic com-advertising
+
+Q: Informative advertising mainly
+A: gives facts about a product
+W: persuades by emotional appeal only
+W: attacks competitors
+W: hides prices
+E: E.g. announcing a new product.
+
+Q: Competitive advertising aims to
+A: win customers from rival brands
+W: give public health information
+W: inform about government policies
+W: stop sales
+E: It stresses advantages over rivals.
+
+Q: Generic (collective) advertising promotes
+A: a type of product rather than a brand
+W: one brand only
+W: a political party
+W: a person
+E: E.g. "Drink more milk."
+
+Q: Which is an example of an advertising medium?
+A: television
+W: a warehouse
+W: a bank vault
+W: a factory
+E: Media carry advertising messages.
+
+Q: An advantage of television advertising is that it
+A: combines sight and sound
+W: is cheap
+W: reaches only a few people
+W: lasts permanently
+E: It is very persuasive.
+
+Q: A disadvantage of newspaper advertising is that it
+A: reaches only literate people
+W: has sound
+W: is permanent
+W: is always expensive
+E: Illiterate people cannot read it.
+
+Q: Billboards are a form of
+A: outdoor advertising
+W: radio advertising
+W: direct mail
+W: television advertising
+E: They are placed along roads.
+
+Q: An advertising agency
+A: plans and produces advertisements for clients
+W: sells goods
+W: lends money
+W: insures goods
+E: It offers specialist skills.
+
+Q: Brand loyalty means
+A: customers repeatedly buying the same brand
+W: refusing all brands
+W: buying the cheapest only
+W: buying on credit
+E: Advertising builds brand loyalty.
+
+Q: Marketing is
+A: identifying and satisfying customer needs profitably
+W: manufacturing goods
+W: banking
+W: storing goods only
+E: It covers product, price, place and promotion.
+
+Q: Market segmentation means
+A: dividing a market into groups of similar customers
+W: closing markets
+W: selling only abroad
+W: raising prices for everyone
+E: E.g. by age or income.
+
+Q: A free sample is used to
+A: let consumers try a product
+W: raise prices
+W: reduce sales
+W: punish customers
+E: It is a sales promotion.
+
+Q: Public relations aims to
+A: build a good image for an organisation
+W: sell goods at a discount
+W: insure goods
+W: collect debts
+E: It manages reputation.
+
+Q: Personal selling involves
+A: face-to-face contact between seller and buyer
+W: television advertising
+W: posters only
+W: radio jingles
+E: Sales staff persuade customers directly.
+
+Q: An advantage of advertising to the economy is that it
+A: creates employment
+W: increases all prices
+W: reduces production
+W: stops competition
+E: Agencies and media employ people.
+
+Q: Branding means
+A: giving a product a name or symbol to distinguish it
+W: lowering prices
+W: storing goods
+W: transporting goods
+E: Brands help recognition.
+
+Q: Packaging helps marketing by
+A: protecting and attracting attention to products
+W: making goods heavier
+W: hiding product information
+W: increasing damage
+E: Good packaging sells products.
+
+Q: A trade fair is
+A: an exhibition where businesses display their products
+W: a bank
+W: a type of insurance
+W: a warehouse
+E: E.g. the Lagos International Trade Fair.
+
+Q: After-sales service includes
+A: delivery, installation and repairs
+W: advertising only
+W: price increases
+W: stopping warranties
+E: It builds customer satisfaction.
+
+Q: The product life cycle stages include introduction, growth, maturity and
+A: decline
+W: storage
+W: insurance
+W: export
+E: Sales eventually fall.
+
+Q: Advertising that is false or misleading is
+A: unethical and may be illegal
+W: always allowed
+W: encouraged by law
+W: required by APCON
+E: The regulator can stop it.
+
+Q: The Advertising Practitioners Council of Nigeria (APCON) is now known as the
+A: Advertising Regulatory Council of Nigeria (ARCON)
+W: NAFDAC
+W: SON
+W: NCC
+E: The name changed in 2022.
+
+Q: Pricing a new product low to gain market share is called
+A: penetration pricing
+W: skimming
+W: dumping only
+W: price fixing
+E: Prices may rise later.
+
+Q: Pricing a new product high at launch is called
+A: price skimming
+W: penetration pricing
+W: cost pricing only
+W: discount pricing
+E: Early buyers pay more.
+
+@topic com-ecommerce
+
+Q: B2C e-commerce refers to sales from
+A: businesses to consumers
+W: businesses to businesses
+W: consumers to consumers
+W: government to businesses
+E: E.g. online shops selling to the public.
+
+Q: B2B e-commerce refers to trade between
+A: businesses
+W: consumers only
+W: governments only
+W: schools
+E: E.g. a manufacturer buying supplies online.
+
+Q: An advantage of e-commerce is that
+A: customers can shop at any time from anywhere
+W: goods can be touched before buying
+W: no internet is needed
+W: there is no risk at all
+E: Online shops never close.
+
+Q: A disadvantage of e-commerce is
+A: risk of fraud
+W: convenience
+W: wide choice
+W: lower costs
+E: Scammers target online buyers.
+
+Q: Payment on delivery means
+A: the customer pays when the goods arrive
+W: the customer pays before ordering
+W: no payment is made
+W: the seller pays the buyer
+E: It reduces the buyer's risk.
+
+Q: An online marketplace is
+A: a website where many sellers offer goods to buyers
+W: a physical market
+W: a bank
+W: a warehouse
+E: E.g. platforms like Jumia.
+
+Q: Mobile money allows users to
+A: send and receive money with a mobile phone
+W: print money
+W: avoid all fees
+W: buy shares only
+E: It is useful where banks are few.
+
+Q: Cybersecurity is important in e-commerce to
+A: protect data and payments from attackers
+W: slow down websites
+W: increase prices
+W: block customers
+E: Secure systems build trust.
+
+Q: A password and one-time PIN (OTP) are examples of
+A: security measures for online transactions
+W: types of tax
+W: insurance policies
+W: advertising methods
+E: They verify the user.
+
+Q: The "https" and padlock symbol on a website show that
+A: the connection is encrypted
+W: the site sells only food
+W: the site is free
+W: the goods are cheap
+E: Data is protected in transit.
+
+Q: Social media marketing uses
+A: platforms such as Facebook and Instagram to promote goods
+W: only billboards
+W: only newspapers
+W: only radio
+E: It reaches many users cheaply.
+
+Q: Electronic funds transfer (EFT) means
+A: moving money electronically between accounts
+W: posting cash
+W: writing cheques only
+W: barter
+E: E.g. bank transfers.
+
+Q: The Nigeria Inter-Bank Settlement System (NIBSS) helps with
+A: instant electronic transfers between banks
+W: printing money
+W: insurance claims
+W: customs duties
+E: NIP transfers use NIBSS.
+
+Q: A digital wallet stores
+A: payment information for online and mobile payments
+W: physical cash only
+W: goods
+W: shares certificates only
+E: It makes payments easier.
+
+Q: E-commerce reduces costs because it
+A: reduces the need for physical shops
+W: needs many shop attendants
+W: requires big warehouses in every town
+W: needs printed catalogues only
+E: Online stores have lower overheads.
+
+Q: Phishing is
+A: tricking people into revealing personal or financial details
+W: catching fish
+W: online advertising
+W: a payment method
+E: Fake emails and messages are used.
+
+Q: A cashless policy encourages
+A: electronic payments instead of cash
+W: more cash use
+W: barter
+W: cheques only
+E: The CBN introduced it in 2012.
+
+Q: The eNaira is
+A: Nigeria's central bank digital currency
+W: a mobile network
+W: a type of cheque
+W: an insurance product
+E: It was launched in 2021.
+
+Q: Delivery logistics in e-commerce involve
+A: getting goods from sellers to buyers
+W: printing receipts only
+W: advertising
+W: insurance only
+E: Couriers and riders deliver orders.
+
+Q: Online reviews help buyers by
+A: sharing other customers' experiences
+W: raising prices
+W: hiding information
+W: stopping sales
+E: They inform choices.
+
+Q: An e-invoice is
+A: an invoice sent electronically
+W: a cheque
+W: a paper receipt only
+W: a credit card
+E: It saves time and paper.
+
+Q: A USSD code allows users to
+A: carry out banking with a simple mobile phone
+W: watch TV
+W: buy shares physically
+W: send parcels
+E: It works without internet.
+
+Q: E-commerce has helped small businesses by
+A: giving them access to wider markets
+W: closing them
+W: banning them
+W: increasing their rent
+E: They can sell nationwide or abroad.
+
+Q: A chargeback occurs when
+A: a card payment is reversed after a dispute
+W: a buyer pays twice
+W: goods are delivered early
+W: a bank prints money
+E: It protects card holders from fraud.

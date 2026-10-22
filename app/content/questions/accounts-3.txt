@@ -1,0 +1,1776 @@
+@subject accounts
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic acc-intro
+
+Q: The concept that requires assets to be recorded at their original cost is the
+A: historical cost concept
+W: going concern concept
+W: realisation concept
+W: entity concept
+E: Assets are shown at what was paid for them.
+
+Q: The concept that revenue is recognised when goods pass to the buyer is the
+A: realisation concept
+W: matching concept
+W: consistency concept
+W: money measurement concept
+E: Revenue is earned at the point of sale.
+
+Q: Using the same accounting methods from year to year follows the
+A: consistency concept
+W: prudence concept
+W: dual aspect concept
+W: entity concept
+E: It allows comparison between years.
+
+Q: The prudence (conservatism) concept states that
+A: losses should be provided for but profits not anticipated
+W: profits should be recorded early
+W: assets should be overvalued
+W: all expenses should be ignored
+E: Accounts should not overstate profit.
+
+Q: Capital is ₦300,000 and liabilities are ₦120,000. What are the total assets?
+A: ₦420,000
+W: ₦180,000
+W: ₦300,000
+W: ₦120,000
+E: Assets = capital + liabilities = 300,000 + 120,000.
+
+@topic acc-documents
+
+Q: An invoice is the source document for recording
+A: credit sales and purchases
+W: cash received only
+W: returns only
+W: bank charges
+E: The seller's invoice is entered in the sales day book; the buyer's in the purchases day book.
+
+Q: A credit note received from a supplier is recorded in the
+A: returns outwards journal
+W: returns inwards journal
+W: sales journal
+W: cash book
+E: It reduces the amount owed for goods returned.
+
+Q: A credit note sent to a customer is recorded in the
+A: returns inwards journal
+W: returns outwards journal
+W: purchases journal
+W: petty cash book
+E: The customer returned goods.
+
+Q: A receipt is the source document for
+A: cash received or paid
+W: credit sales
+W: depreciation
+W: goods returned
+E: It proves payment.
+
+Q: A cheque counterfoil (stub) is used as evidence of
+A: payments made by cheque
+W: credit sales
+W: goods returned
+W: depreciation
+E: It records the details of each cheque written.
+
+Q: A paying-in slip is evidence of
+A: money deposited into the bank
+W: money withdrawn
+W: goods bought on credit
+W: an error in the ledger
+E: It shows cash and cheques lodged.
+
+Q: The sales day book records
+A: credit sales of goods only
+W: cash sales
+W: sale of fixed assets
+W: returns inwards
+E: Cash sales go in the cash book.
+
+Q: The purchase of a machine on credit is recorded first in the
+A: general journal
+W: purchases day book
+W: sales day book
+W: cash book
+E: The purchases day book is for goods for resale only.
+
+Q: Opening entries for a new business are recorded in the
+A: general journal
+W: sales day book
+W: returns outwards book
+W: petty cash book
+E: Assets, liabilities and capital are listed.
+
+Q: The cash book is both a book of original entry and
+A: a ledger account
+W: a source document
+W: a trial balance
+W: a balance sheet
+E: It contains the cash and bank accounts.
+
+Q: Correction of errors is first recorded in the
+A: general journal
+W: sales day book
+W: purchases day book
+W: cash book only
+E: The journal gives a narration for each correction.
+
+Q: A narration in the journal is
+A: a brief explanation of the entry
+W: the total of the day book
+W: the balance carried down
+W: a signature
+E: It describes why the entry was made.
+
+Q: The total of the sales day book is posted to the
+A: credit side of the sales account
+W: debit side of the sales account
+W: debit side of the purchases account
+W: credit side of the debtors' accounts
+E: Individual debtors are debited.
+
+Q: The total of the purchases day book is posted to the
+A: debit side of the purchases account
+W: credit side of the purchases account
+W: debit side of the creditors' accounts
+W: cash book
+E: Individual creditors are credited.
+
+Q: A statement of account is sent by a supplier to a customer to
+A: show the balance owed at a date
+W: order goods
+W: return goods
+W: correct depreciation
+E: It summarises transactions.
+
+Q: A pro-forma invoice is sent
+A: before goods are supplied, often requesting payment in advance
+W: after goods are returned
+W: as a receipt
+W: to correct an undercharge
+E: It shows the expected price.
+
+Q: Trade discount is
+A: not recorded in the books
+W: recorded in the cash book
+W: recorded in the discount account
+W: recorded in the journal
+E: The net amount after trade discount is recorded.
+
+Q: Goods with a list price of ₦50,000 are sold with 20% trade discount. The amount entered in the sales day book is
+A: ₦40,000
+W: ₦50,000
+W: ₦10,000
+W: ₦60,000
+E: 50,000 − 20% = 40,000.
+
+Q: The returns outwards journal records
+A: goods returned to suppliers
+W: goods returned by customers
+W: cash returned
+W: fixed assets sold
+E: It is also called the purchases returns book.
+
+Q: Day books are also called
+A: subsidiary books or journals
+W: ledgers
+W: trial balances
+W: balance sheets
+E: They are books of original entry.
+
+Q: An advantage of using day books is that they
+A: reduce the number of entries in the ledger
+W: replace the ledger
+W: remove the need for documents
+W: show profit directly
+E: Totals are posted periodically.
+
+Q: A debit note received from a supplier means the supplier
+A: undercharged and the buyer owes more
+W: overcharged
+W: has paid the buyer
+W: has sent free goods
+E: It increases the amount owed.
+
+Q: A voucher is
+A: a document that supports a payment
+W: a type of ledger
+W: a bank statement
+W: an invoice for sales only
+E: E.g. a petty cash voucher.
+
+Q: Which document is used to record goods returned by a customer?
+A: credit note
+W: invoice
+W: debit note from the customer's bank
+W: receipt
+E: The seller issues a credit note.
+
+@topic acc-double-entry
+
+Q: When a business pays rent by cash, the entries are
+A: debit rent account, credit cash account
+W: debit cash account, credit rent account
+W: debit capital, credit rent
+W: debit rent, credit capital
+E: The expense increases and cash decreases.
+
+Q: When a business receives commission by cheque, the entries are
+A: debit bank, credit commission received
+W: debit commission, credit bank
+W: debit cash, credit bank
+W: debit capital, credit commission
+E: Bank increases; income is credited.
+
+Q: When goods are bought on credit from Bello, the entries are
+A: debit purchases, credit Bello
+W: debit Bello, credit purchases
+W: debit purchases, credit cash
+W: debit sales, credit Bello
+E: Bello becomes a creditor.
+
+Q: When Bello is paid by cheque, the entries are
+A: debit Bello, credit bank
+W: debit bank, credit Bello
+W: debit purchases, credit Bello
+W: debit Bello, credit purchases
+E: The liability decreases.
+
+Q: When a customer, Ngozi, pays her debt in cash, the entries are
+A: debit cash, credit Ngozi
+W: debit Ngozi, credit cash
+W: debit sales, credit Ngozi
+W: debit Ngozi, credit sales
+E: The debtor's balance falls.
+
+Q: When furniture is bought by cheque, the entries are
+A: debit furniture, credit bank
+W: debit bank, credit furniture
+W: debit purchases, credit bank
+W: debit furniture, credit capital
+E: Furniture is a fixed asset.
+
+Q: When the owner withdraws cash for personal use, the entries are
+A: debit drawings, credit cash
+W: debit cash, credit drawings
+W: debit capital, credit drawings
+W: debit expenses, credit cash
+E: Drawings reduce capital.
+
+Q: When a loan is received from a bank into the business account, the entries are
+A: debit bank, credit loan
+W: debit loan, credit bank
+W: debit capital, credit bank
+W: debit bank, credit capital
+E: The loan is a liability.
+
+Q: When goods are returned to a supplier, Okafor, the entries are
+A: debit Okafor, credit returns outwards
+W: debit returns outwards, credit Okafor
+W: debit returns inwards, credit Okafor
+W: debit Okafor, credit sales
+E: The amount owed to Okafor falls.
+
+Q: When a customer, Emeka, returns goods, the entries are
+A: debit returns inwards, credit Emeka
+W: debit Emeka, credit returns inwards
+W: debit sales, credit returns inwards
+W: debit Emeka, credit sales
+E: Emeka owes less.
+
+Q: When cash is paid into the bank, the entries are
+A: debit bank, credit cash
+W: debit cash, credit bank
+W: debit capital, credit cash
+W: debit bank, credit capital
+E: This is a contra entry.
+
+Q: When an old machine is sold for cash, the entries are
+A: debit cash, credit machinery (or disposal) account
+W: debit machinery, credit cash
+W: debit sales, credit cash
+W: debit cash, credit sales
+E: Fixed asset sales do not go to the sales account.
+
+Q: Discount received is
+A: credited to the discount received account
+W: debited to the discount received account
+W: credited to cash
+W: debited to the supplier
+E: It is an income.
+
+Q: Discount allowed is
+A: debited to the discount allowed account
+W: credited to the discount allowed account
+W: debited to the debtor
+W: credited to cash
+E: It is an expense.
+
+Q: The rule "debit the receiver, credit the giver" applies to
+A: personal accounts
+W: nominal accounts
+W: real accounts only
+W: capital only
+E: E.g. debtors and creditors.
+
+Q: The rule "debit what comes in, credit what goes out" applies to
+A: real accounts
+W: personal accounts
+W: nominal accounts
+W: capital accounts
+E: E.g. cash, machinery.
+
+Q: The rule "debit expenses and losses, credit incomes and gains" applies to
+A: nominal accounts
+W: real accounts
+W: personal accounts
+W: bank accounts
+E: E.g. rent, wages, commission.
+
+Q: Wages paid in cash of ₦15,000 increase
+A: expenses and reduce cash by ₦15,000
+W: capital by ₦15,000
+W: cash by ₦15,000
+W: liabilities by ₦15,000
+E: Debit wages, credit cash.
+
+Q: When the owner brings a car into the business, the entries are
+A: debit motor vehicle, credit capital
+W: debit capital, credit motor vehicle
+W: debit motor vehicle, credit cash
+W: debit drawings, credit motor vehicle
+E: Capital increases.
+
+Q: When interest is charged by the bank, the entries are
+A: debit bank interest (expense), credit bank
+W: debit bank, credit interest
+W: debit capital, credit bank
+W: debit interest received, credit cash
+E: Bank balance falls.
+
+Q: A credit entry in an asset account
+A: decreases the asset
+W: increases the asset
+W: increases capital
+W: has no effect
+E: Assets increase on the debit side.
+
+Q: A debit entry in a liability account
+A: decreases the liability
+W: increases the liability
+W: increases capital
+W: has no effect
+E: Liabilities increase on the credit side.
+
+Q: Goods taken by the owner for personal use are credited to
+A: purchases account
+W: sales account
+W: drawings account
+W: capital account
+E: Debit drawings, credit purchases.
+
+Q: Every debit entry must have
+A: an equal credit entry
+W: a larger credit entry
+W: no credit entry
+W: a smaller credit entry
+E: This is the double entry principle.
+
+@topic acc-ledger
+
+Q: Accounts of creditors are kept in the
+A: purchases (bought) ledger
+W: sales ledger
+W: general ledger only
+W: cash book
+E: The purchases ledger holds suppliers' accounts.
+
+Q: Real accounts include accounts for
+A: assets such as land and machinery
+W: expenses
+W: incomes
+W: debtors
+E: Real accounts are for things owned.
+
+Q: Personal accounts are kept for
+A: people and firms the business deals with
+W: expenses
+W: fixed assets
+W: incomes
+E: E.g. debtors and creditors.
+
+Q: The nominal (general) ledger contains
+A: accounts for incomes, expenses, assets and capital
+W: only debtors
+W: only creditors
+W: only cash
+E: It is the main ledger.
+
+Q: Balancing an account means
+A: finding the difference between the two sides
+W: adding both sides together
+W: closing the business
+W: making both sides zero
+E: The balance is carried down.
+
+Q: An account has debits of ₦85,000 and credits of ₦60,000. The balance is
+A: ₦25,000 debit
+W: ₦25,000 credit
+W: ₦145,000 debit
+W: ₦60,000 credit
+E: 85,000 − 60,000 = 25,000 on the debit side.
+
+Q: An account has debits of ₦40,000 and credits of ₦72,000. The balance is
+A: ₦32,000 credit
+W: ₦32,000 debit
+W: ₦112,000 credit
+W: ₦40,000 debit
+E: Credits exceed debits by 32,000.
+
+Q: A credit balance on a supplier's account means the business
+A: owes the supplier
+W: is owed by the supplier
+W: has paid in full
+W: has made a profit
+E: It is a liability.
+
+Q: The balance carried down (c/d) is written on the
+A: side with the smaller total
+W: side with the larger total
+W: debit side always
+W: credit side always
+E: It makes both sides equal.
+
+Q: A folio column in a ledger is used to
+A: show the page reference of the other entry
+W: record dates
+W: record amounts
+W: record discounts only
+E: It aids cross-referencing.
+
+Q: A T-account is
+A: a simple form of ledger account
+W: a trial balance
+W: a tax account
+W: a petty cash voucher
+E: It has debit and credit sides.
+
+Q: The running balance (three-column) form of ledger account shows
+A: the balance after each transaction
+W: only the opening balance
+W: only totals
+W: no balance
+E: Banks use this format.
+
+Q: The sales account normally has a
+A: credit balance
+W: debit balance
+W: zero balance always
+W: mixed balance
+E: Sales are income.
+
+Q: The purchases account normally has a
+A: debit balance
+W: credit balance
+W: zero balance
+W: negative balance
+E: Purchases are an expense.
+
+Q: The capital account normally has a
+A: credit balance
+W: debit balance
+W: zero balance
+W: varying balance only
+E: Capital is owed to the owner.
+
+Q: The drawings account normally has a
+A: debit balance
+W: credit balance
+W: zero balance
+W: none
+E: Drawings reduce capital.
+
+Q: At the end of the year, the drawings account is transferred to the
+A: capital account
+W: sales account
+W: trading account
+W: balance sheet as an asset
+E: It reduces capital.
+
+Q: Expense accounts are closed at year end by transfer to the
+A: profit and loss account
+W: balance sheet
+W: capital account directly
+W: cash book
+E: They are charged against profit.
+
+Q: Asset accounts are not closed at year end because they
+A: are carried forward to the next period
+W: are expenses
+W: are incomes
+W: are not real
+E: Their balances appear in the balance sheet.
+
+Q: An account with equal totals on both sides
+A: has no balance
+W: has a debit balance
+W: has a credit balance
+W: must be wrong
+E: It is closed.
+
+Q: Posting means
+A: transferring entries from books of original entry to the ledger
+W: sending letters
+W: paying bills
+W: preparing a trial balance only
+E: It completes double entry.
+
+Q: A debtor's account shows sales of ₦50,000, returns of ₦5,000 and payment of ₦30,000. The balance is
+A: ₦15,000 debit
+W: ₦15,000 credit
+W: ₦25,000 debit
+W: ₦45,000 debit
+E: 50,000 − 5,000 − 30,000 = 15,000 owed.
+
+Q: A creditor's account shows purchases of ₦80,000, payment of ₦60,000 and discount received of ₦2,000. The balance is
+A: ₦18,000 credit
+W: ₦20,000 credit
+W: ₦18,000 debit
+W: ₦22,000 credit
+E: 80,000 − 60,000 − 2,000 = 18,000 owed.
+
+Q: The ledger is called the book of
+A: final entry
+W: original entry
+W: estimates
+W: source documents
+E: All entries end up in the ledger.
+
+@topic acc-cash-book
+
+Q: A single-column cash book records
+A: cash transactions only
+W: cash and bank
+W: cash, bank and discount
+W: credit sales
+E: It is the simplest form.
+
+Q: A two-column cash book has columns for
+A: cash and bank
+W: cash and discount
+W: bank and sales
+W: sales and purchases
+E: It records both cash and bank transactions.
+
+Q: Discount received is shown in the cash book on the
+A: credit side
+W: debit side
+W: both sides
+W: neither side
+E: It accompanies payments to suppliers.
+
+Q: The totals of the discount columns are posted to
+A: the discount allowed and discount received accounts
+W: the cash account
+W: the bank account
+W: the capital account
+E: The discount columns are memorandum columns.
+
+Q: A credit balance in the bank column of the cash book means
+A: an overdraft
+W: money in the bank
+W: cash in hand
+W: discount received
+E: The business owes the bank.
+
+Q: The cash column of the cash book can never have
+A: a credit balance
+W: a debit balance
+W: entries
+W: totals
+E: You cannot pay out more cash than you have.
+
+Q: Cash withdrawn from the bank for office use is recorded as
+A: debit cash column, credit bank column
+W: debit bank, credit cash
+W: debit drawings, credit bank
+W: debit cash, credit capital
+E: It is a contra entry marked "C".
+
+Q: The petty cash book is kept by the
+A: petty cashier
+W: chief accountant only
+W: bank
+W: auditor
+E: The petty cashier handles small payments.
+
+Q: Analysis columns in a petty cash book are used to
+A: group expenses by type
+W: record bank charges
+W: record sales
+W: record discounts
+E: E.g. postage, transport, cleaning.
+
+Q: Under the imprest system, the float at the start of each period is
+A: always the same fixed amount
+W: different each time
+W: zero
+W: decided by the bank
+E: The amount spent is reimbursed.
+
+Q: The petty cash float is ₦25,000. Payments total ₦18,750. The reimbursement is
+A: ₦18,750
+W: ₦6,250
+W: ₦25,000
+W: ₦43,750
+E: The amount spent is restored.
+
+Q: A petty cash float of ₦15,000 had ₦3,200 left at the end of the week. How much was spent?
+A: ₦11,800
+W: ₦3,200
+W: ₦18,200
+W: ₦15,000
+E: 15,000 − 3,200 = 11,800.
+
+Q: An advantage of the imprest system is that it
+A: makes it easy to check the petty cashier
+W: removes the need for vouchers
+W: allows large payments
+W: avoids all records
+E: Cash plus vouchers must equal the float.
+
+Q: Cash received from cash sales is recorded on the
+A: debit side of the cash book
+W: credit side of the cash book
+W: sales day book
+W: purchases book
+E: Cash comes in.
+
+Q: A dishonoured cheque from a customer is recorded in the cash book on the
+A: credit side of the bank column
+W: debit side of the bank column
+W: debit side of the cash column
+W: discount column
+E: The debtor is debited again.
+
+Q: The cash book has cash receipts of ₦120,000 and cash payments of ₦85,000. The cash balance is
+A: ₦35,000 debit
+W: ₦35,000 credit
+W: ₦205,000
+W: ₦85,000
+E: 120,000 − 85,000 = 35,000 in hand.
+
+Q: A debtor owing ₦40,000 pays by cheque after a 5% cash discount. The amount entered in the bank column is
+A: ₦38,000
+W: ₦40,000
+W: ₦2,000
+W: ₦42,000
+E: 40,000 − 2,000 = 38,000; ₦2,000 goes in the discount allowed column.
+
+Q: The business pays a creditor ₦60,000 less 2.5% discount. The discount received is
+A: ₦1,500
+W: ₦58,500
+W: ₦6,000
+W: ₦2,500
+E: 2.5% of 60,000 = 1,500.
+
+Q: Petty cash expenses are posted from the analysis column totals to the
+A: debit side of the expense accounts
+W: credit side of the expense accounts
+W: sales account
+W: capital account
+E: Each expense account is debited.
+
+Q: The letter "C" against an entry in the cash book indicates
+A: a contra entry
+W: a credit sale
+W: a cheque dishonoured
+W: commission
+E: Both sides of the entry are in the cash book.
+
+Q: The cash book is balanced
+A: periodically, e.g. at the end of each month
+W: only once in ten years
+W: never
+W: only after an audit
+E: Balances are carried down.
+
+Q: A debit balance on the bank column means
+A: the business has money in the bank
+W: an overdraft
+W: discount allowed
+W: no transactions
+E: It is an asset.
+
+Q: The petty cash book is usually written up from
+A: petty cash vouchers
+W: bank statements
+W: invoices only
+W: credit notes
+E: Each payment needs a voucher.
+
+Q: Which is a suitable petty cash expense?
+A: postage stamps
+W: buying a delivery van
+W: paying monthly salaries
+W: paying a large supplier
+E: Petty cash covers small items.
+
+@topic acc-trial-balance
+
+Q: The trial balance is a list of
+A: ledger balances at a date
+W: assets only
+W: transactions in a day book
+W: bank statements
+E: Debit and credit balances are listed.
+
+Q: If a trial balance agrees, it means that
+A: debits equal credits, though some errors may still exist
+W: the accounts are completely correct
+W: profit has been made
+W: no transactions took place
+E: Some errors do not affect agreement.
+
+Q: An error of omission occurs when
+A: a transaction is completely left out of the books
+W: an entry is made in the wrong class of account
+W: figures are reversed
+W: one side is entered twice
+E: Neither side is recorded.
+
+Q: An error of original entry occurs when
+A: a wrong amount is entered on both sides
+W: an entry is in the wrong account
+W: a transaction is omitted
+W: the sides are reversed
+E: The wrong figure is used throughout.
+
+Q: Complete reversal of entries means
+A: the correct accounts are used but debit and credit are swapped
+W: one entry is omitted
+W: wrong amounts on both sides
+W: two errors cancel out
+E: The trial balance still agrees.
+
+Q: Compensating errors are
+A: two or more errors that cancel each other out
+W: errors of omission
+W: errors of principle
+W: transposition errors only
+E: The trial balance still agrees.
+
+Q: Which error WILL cause the trial balance to disagree?
+A: entering a debit without a corresponding credit
+W: error of omission
+W: error of commission
+W: error of principle
+E: A single-sided entry upsets the balance.
+
+Q: A transposition error occurs when
+A: digits are reversed, e.g. ₦54 recorded as ₦45
+W: an entry is omitted
+W: wrong account of the same class is used
+W: debit and credit are swapped
+E: The difference is divisible by 9.
+
+Q: Which balance normally appears on the credit side of the trial balance?
+A: capital
+W: drawings
+W: purchases
+W: cash
+E: Capital, liabilities and incomes are credits.
+
+Q: Which balance normally appears on the debit side of the trial balance?
+A: drawings
+W: sales
+W: creditors
+W: loan
+E: Assets, expenses and drawings are debits.
+
+Q: A suspense account with a debit balance of ₦5,000 means
+A: the credit side of the trial balance was ₦5,000 more
+W: the debit side was ₦5,000 more
+W: there are no errors
+W: profit is ₦5,000
+E: The suspense entry goes on the short side.
+
+Q: The trial balance totals are debit ₦460,000 and credit ₦470,000. The suspense account will show
+A: ₦10,000 debit
+W: ₦10,000 credit
+W: ₦930,000 debit
+W: ₦470,000 credit
+E: The debit side is short by 10,000.
+
+Q: Sales of ₦20,000 to Tunde were debited to Tayo's account. This is an error of
+A: commission
+W: principle
+W: omission
+W: original entry
+E: The right type of account but the wrong person.
+
+Q: Repairs to a machine debited to the machinery account is an error of
+A: principle
+W: commission
+W: omission
+W: transposition
+E: Revenue expenditure was treated as capital expenditure.
+
+Q: The sales day book was undercast by ₦3,000. This error will
+A: cause the trial balance to disagree
+W: not affect the trial balance
+W: affect only the balance sheet
+W: affect only the cash book
+E: The sales account will be short by 3,000.
+
+Q: The correction of an error of omission requires
+A: entering the transaction in both accounts
+W: opening a suspense account
+W: deleting the account
+W: no action
+E: The missed transaction is recorded.
+
+Q: Errors are corrected through the
+A: general journal
+W: sales day book
+W: petty cash book
+W: bank statement
+E: Journal entries record corrections.
+
+Q: A trial balance is usually prepared
+A: before final accounts
+W: after the balance sheet
+W: only when there is a loss
+W: only once every ten years
+E: It is a check before final accounts.
+
+Q: Which of these does a trial balance NOT show?
+A: whether every transaction was recorded
+W: total debit balances
+W: total credit balances
+W: ledger balances
+E: Omitted transactions are not revealed.
+
+Q: Discount allowed of ₦800 was credited to the discount allowed account. The trial balance will
+A: disagree by ₦1,600
+W: agree
+W: disagree by ₦800
+W: disagree by ₦400
+E: A debit was entered as a credit, creating a difference of twice the amount.
+
+Q: Rent paid of ₦12,000 was recorded as ₦21,000 in both rent and cash accounts. This is an error of
+A: original entry
+W: principle
+W: commission
+W: omission
+E: The wrong amount was used on both sides.
+
+Q: A suspense account is closed when
+A: all errors affecting it are corrected
+W: the business is sold
+W: profit is calculated
+W: the bank statement arrives
+E: Its balance is eliminated by corrections.
+
+Q: The trial balance is not part of the
+A: double entry system
+W: accounting records
+W: checking process
+W: year-end work
+E: It is a list of balances, not an account.
+
+Q: A credit balance in the trial balance would include
+A: sales
+W: wages
+W: machinery
+W: debtors
+E: Sales is an income.
+
+@topic acc-bank-rec
+
+Q: The bank statement is prepared by
+A: the bank
+W: the business
+W: the auditor
+W: the government
+E: It shows the bank's record of the account.
+
+Q: A credit balance on the bank statement means
+A: the customer has money in the bank
+W: the customer is overdrawn
+W: the bank owes nothing
+W: there are no transactions
+E: To the bank, the deposit is a liability.
+
+Q: Starting from the bank statement balance, unpresented cheques should be
+A: deducted
+W: added
+W: ignored
+W: entered in the sales book
+E: The bank has not yet paid them, so the true balance is lower.
+
+Q: Starting from the cash book balance, unpresented cheques should be
+A: added
+W: deducted
+W: ignored
+W: doubled
+E: The cash book has already deducted them but the bank has not.
+
+Q: Starting from the bank statement balance, deposits not yet credited by the bank should be
+A: added
+W: subtracted
+W: ignored
+W: doubled
+E: The bank balance will rise when they are credited.
+
+Q: A standing order paid by the bank but not in the cash book should be
+A: entered on the credit side of the cash book
+W: entered on the debit side of the cash book
+W: ignored
+W: added to the bank statement
+E: It reduces the business's bank balance.
+
+Q: Dividends received directly by the bank should be
+A: debited in the cash book
+W: credited in the cash book
+W: ignored
+W: deducted from the bank statement
+E: They increase the bank balance.
+
+Q: Before preparing the reconciliation statement, the cash book should be
+A: updated with items on the bank statement not yet recorded
+W: destroyed
+W: sent to the bank
+W: left unchanged
+E: E.g. bank charges and direct credits.
+
+Q: The cash book shows ₦50,000 debit. Bank charges of ₦2,000 are not yet recorded. The updated cash book balance is
+A: ₦48,000
+W: ₦52,000
+W: ₦50,000
+W: ₦2,000
+E: Charges reduce the balance.
+
+Q: The cash book shows ₦80,000 debit. A credit transfer of ₦10,000 from a customer is not yet recorded. The updated balance is
+A: ₦90,000
+W: ₦70,000
+W: ₦80,000
+W: ₦10,000
+E: Direct credits increase the balance.
+
+Q: The bank statement shows ₦70,000. Unpresented cheques total ₦15,000. Uncredited lodgements total ₦5,000. The cash book balance should be
+A: ₦60,000
+W: ₦80,000
+W: ₦90,000
+W: ₦50,000
+E: 70,000 − 15,000 + 5,000 = 60,000.
+
+Q: The bank statement shows ₦100,000. Unpresented cheques are ₦30,000. The adjusted balance is
+A: ₦70,000
+W: ₦130,000
+W: ₦100,000
+W: ₦30,000
+E: Unpresented cheques will reduce the bank balance.
+
+Q: A reason for a difference between the cash book and bank statement is
+A: timing differences in recording transactions
+W: the bank never makes records
+W: the cash book records only sales
+W: both always agree
+E: Items are recorded at different times.
+
+Q: An overdraft in the cash book appears as
+A: a credit balance
+W: a debit balance
+W: a zero balance
+W: a discount
+E: The business owes the bank.
+
+Q: An overdraft on the bank statement appears as
+A: a debit balance
+W: a credit balance
+W: a zero balance
+W: a discount
+E: The bank's record is the mirror image.
+
+Q: Bank interest received not yet in the cash book is
+A: debited in the cash book
+W: credited in the cash book
+W: deducted from the bank statement
+W: ignored
+E: It increases the business's balance.
+
+Q: A dishonoured cheque from a customer shown on the bank statement should be
+A: credited in the cash book
+W: debited in the cash book
+W: added to the bank statement
+W: ignored
+E: The bank has reversed the deposit.
+
+Q: Bank reconciliation helps to
+A: detect errors and fraud
+W: calculate profit
+W: prepare a trial balance
+W: pay taxes
+E: Differences must be explained.
+
+Q: An error by the bank, such as charging another customer's cheque to the account, is
+A: corrected by the bank and shown in the reconciliation
+W: entered in the cash book
+W: ignored forever
+W: recorded as an expense
+E: The business does not change its records.
+
+Q: A direct debit for insurance on the bank statement should be
+A: credited in the cash book
+W: debited in the cash book
+W: ignored
+W: added to the bank statement
+E: It is a payment.
+
+Q: The updated cash book balance is ₦45,000. Unpresented cheques are ₦12,000 and uncredited lodgements are ₦7,000. The bank statement balance should be
+A: ₦50,000
+W: ₦40,000
+W: ₦64,000
+W: ₦26,000
+E: 45,000 + 12,000 − 7,000 = 50,000.
+
+Q: Bank reconciliation is usually prepared
+A: when the bank statement is received
+W: once in ten years
+W: only when a business closes
+W: before the business starts
+E: Often monthly.
+
+Q: The cash book has a debit balance of ₦30,000 and the bank statement a credit balance of ₦30,000. This suggests
+A: the two records agree
+W: an overdraft
+W: an error
+W: fraud
+E: A debit in the cash book matches a credit on the statement.
+
+Q: Cheques received and paid in on the last day may not appear on the bank statement because
+A: the bank has not yet processed them
+W: they are fake
+W: they were lost
+W: they are post-dated always
+E: This causes uncredited lodgements.
+
+@topic acc-control
+
+Q: The purchases ledger control account is also called the
+A: total creditors account
+W: total debtors account
+W: suspense account
+W: sales account
+E: It summarises all creditors.
+
+Q: Credit sales appear on the
+A: debit side of the sales ledger control account
+W: credit side of the sales ledger control account
+W: purchases ledger control account
+W: cash book only
+E: They increase debtors.
+
+Q: Cash received from debtors appears on the
+A: credit side of the sales ledger control account
+W: debit side of the sales ledger control account
+W: purchases ledger control account
+W: trading account
+E: It reduces debtors.
+
+Q: Credit purchases appear on the
+A: credit side of the purchases ledger control account
+W: debit side of the purchases ledger control account
+W: sales ledger control account
+W: cash book only
+E: They increase creditors.
+
+Q: Discount received appears on the
+A: debit side of the purchases ledger control account
+W: credit side of the purchases ledger control account
+W: sales ledger control account
+W: cash book debit side
+E: It reduces creditors.
+
+Q: Bad debts written off appear on the
+A: credit side of the sales ledger control account
+W: debit side of the sales ledger control account
+W: purchases ledger control account
+W: cash book
+E: They reduce debtors.
+
+Q: A dishonoured cheque from a debtor appears on the
+A: debit side of the sales ledger control account
+W: credit side of the sales ledger control account
+W: purchases ledger control account debit
+W: trading account
+E: The debt is restored.
+
+Q: Opening debtors ₦40,000, credit sales ₦200,000, cash received ₦180,000, discount allowed ₦5,000. Closing debtors are
+A: ₦55,000
+W: ₦65,000
+W: ₦45,000
+W: ₦60,000
+E: 40,000 + 200,000 − 180,000 − 5,000 = 55,000.
+
+Q: Opening creditors ₦30,000, credit purchases ₦150,000, payments ₦140,000, discount received ₦3,000. Closing creditors are
+A: ₦37,000
+W: ₦40,000
+W: ₦43,000
+W: ₦33,000
+E: 30,000 + 150,000 − 140,000 − 3,000 = 37,000.
+
+Q: Contra (set-off) entries arise when
+A: a person is both a debtor and a creditor of the business
+W: a debtor dies
+W: cash is banked
+W: goods are returned
+E: Balances are offset between ledgers.
+
+Q: A benefit of control accounts is that they
+A: help locate errors in the ledgers
+W: replace all ledgers
+W: calculate tax
+W: remove the need for a trial balance
+E: They check the arithmetical accuracy of a ledger.
+
+Q: Incomplete records are kept by
+A: businesses that do not use full double entry
+W: all public companies
+W: banks only
+W: governments only
+E: Many small traders keep incomplete records.
+
+Q: Profit from a statement of affairs is calculated as
+A: closing capital − opening capital + drawings − capital introduced
+W: opening capital + closing capital
+W: sales − purchases
+W: assets − liabilities only
+E: Changes in capital reveal profit.
+
+Q: Opening capital ₦150,000, closing capital ₦190,000, drawings ₦20,000, no new capital. The profit is
+A: ₦60,000
+W: ₦40,000
+W: ₦20,000
+W: ₦340,000
+E: 190,000 − 150,000 + 20,000 = 60,000.
+
+Q: Opening capital ₦100,000, closing capital ₦120,000, drawings ₦15,000, additional capital ₦10,000. The profit is
+A: ₦25,000
+W: ₦35,000
+W: ₦20,000
+W: ₦45,000
+E: 120,000 − 100,000 + 15,000 − 10,000 = 25,000.
+
+Q: A statement of affairs is similar to
+A: a balance sheet
+W: a trading account
+W: a cash book
+W: a sales day book
+E: It lists assets and liabilities to find capital.
+
+Q: Credit sales can be found from incomplete records using
+A: a total debtors account
+W: a petty cash book
+W: a trial balance only
+W: a suspense account
+E: The missing figure balances the account.
+
+Q: Cash received from debtors ₦90,000; closing debtors ₦25,000; opening debtors ₦15,000. Credit sales were
+A: ₦100,000
+W: ₦80,000
+W: ₦130,000
+W: ₦90,000
+E: 90,000 + 25,000 − 15,000 = 100,000.
+
+Q: Payments to creditors ₦70,000; opening creditors ₦20,000; closing creditors ₦30,000. Credit purchases were
+A: ₦80,000
+W: ₦60,000
+W: ₦120,000
+W: ₦70,000
+E: 70,000 + 30,000 − 20,000 = 80,000.
+
+Q: Mark-up is profit expressed as a percentage of
+A: cost price
+W: selling price
+W: capital
+W: assets
+E: Margin uses selling price.
+
+Q: Margin is profit expressed as a percentage of
+A: selling price
+W: cost price
+W: capital
+W: liabilities
+E: E.g. a 25% margin.
+
+Q: Goods costing ₦80,000 are sold at a mark-up of 25%. The sales figure is
+A: ₦100,000
+W: ₦105,000
+W: ₦64,000
+W: ₦125,000
+E: 80,000 × 1.25 = 100,000.
+
+Q: Sales are ₦200,000 and the gross margin is 20%. The cost of sales is
+A: ₦160,000
+W: ₦40,000
+W: ₦240,000
+W: ₦180,000
+E: Gross profit = 40,000; cost = 200,000 − 40,000.
+
+Q: Interest charged on overdue debtors' accounts appears on the
+A: debit side of the sales ledger control account
+W: credit side of the sales ledger control account
+W: purchases ledger control account
+W: profit and loss debit
+E: It increases debtors.
+
+@topic acc-partnership
+
+Q: In the absence of a partnership agreement, partners receive
+A: no salaries
+W: salaries of ₦100,000 each
+W: interest on capital at 10%
+W: unequal profit shares
+E: The Partnership Act applies.
+
+Q: In the absence of an agreement, interest on a partner's loan to the firm is
+A: 5% per annum
+W: 10% per annum
+W: nil
+W: 20% per annum
+E: Partners' loans earn 5% under the Act.
+
+Q: Partners' salaries are entered in the
+A: appropriation account
+W: trading account
+W: profit and loss account as wages
+W: balance sheet only
+E: They are appropriations of profit.
+
+Q: The current account of a partner records
+A: share of profit, salary, interest and drawings
+W: fixed capital only
+W: loans from the bank
+W: creditors
+E: Capital accounts are usually fixed.
+
+Q: A and B share profits equally. Profit after appropriations is ₦80,000. A's share is
+A: ₦40,000
+W: ₦80,000
+W: ₦20,000
+W: ₦60,000
+E: 80,000 ÷ 2.
+
+@topic acc-companies
+
+Q: Ordinary shareholders are entitled to
+A: dividends after preference shareholders and a vote
+W: fixed interest
+W: dividends before preference shareholders
+W: no dividends ever
+E: They own the company.
+
+Q: The share premium arises when shares are issued at
+A: more than their nominal value
+W: less than nominal value
+W: nominal value
+W: no value
+E: The excess is credited to share premium.
+
+Q: Debenture interest is
+A: an expense charged before profit is appropriated
+W: a dividend
+W: an appropriation of profit
+W: a capital receipt
+E: It must be paid whether or not there is a profit.
+
+Q: Called-up capital is
+A: the amount of issued capital that shareholders have been asked to pay
+W: authorised capital
+W: retained profit
+W: debentures
+E: Calls are made in instalments.
+
+Q: A general reserve is created by
+A: transferring profit from the appropriation account
+W: borrowing from a bank
+W: issuing debentures
+W: selling assets
+E: It strengthens the company's finances.
+
+Q: Prime cost in a manufacturing account is
+A: direct materials + direct labour + direct expenses
+W: factory overheads only
+W: selling expenses
+W: administration expenses
+E: It is the total direct cost.
+
+Q: Direct materials ₦60,000, direct labour ₦40,000, direct expenses ₦10,000. Prime cost is
+A: ₦110,000
+W: ₦100,000
+W: ₦50,000
+W: ₦70,000
+E: 60,000 + 40,000 + 10,000.
+
+Q: Prime cost ₦120,000 and factory overheads ₦30,000. Production cost (with no work-in-progress change) is
+A: ₦150,000
+W: ₦90,000
+W: ₦120,000
+W: ₦30,000
+E: 120,000 + 30,000.
+
+Q: Which is a factory overhead?
+A: depreciation of factory machinery
+W: salesmen's salaries
+W: office rent
+W: advertising
+E: It relates to production.
+
+Q: Work-in-progress refers to
+A: partly finished goods
+W: raw materials not yet used
+W: finished goods
+W: sold goods
+E: It is adjusted in the manufacturing account.
+
+Q: The cost of production is transferred from the manufacturing account to the
+A: trading account
+W: balance sheet
+W: appropriation account
+W: cash book
+E: It replaces purchases of finished goods.
+
+Q: Direct labour includes
+A: wages of workers who make the product
+W: office clerks' salaries
+W: sales commission
+W: directors' fees
+E: It can be traced to units produced.
+
+Q: Raw materials consumed = opening stock + purchases − closing stock. If opening is ₦10,000, purchases ₦70,000 and closing ₦15,000, materials consumed are
+A: ₦65,000
+W: ₦75,000
+W: ₦95,000
+W: ₦55,000
+E: 10,000 + 70,000 − 15,000.
+
+Q: An income and expenditure account is prepared by
+A: not-for-profit organisations
+W: sole traders
+W: public companies
+W: partnerships
+E: E.g. clubs and societies.
+
+Q: An excess of expenditure over income in a club is a
+A: deficit
+W: surplus
+W: profit
+W: dividend
+E: Clubs report surpluses or deficits.
+
+Q: The accumulated fund of a club is similar to
+A: capital
+W: profit
+W: debentures
+W: sales
+E: It is the club's net worth.
+
+Q: Subscriptions owing by members at year end are
+A: a current asset
+W: a current liability
+W: an expense
+W: a fixed asset
+E: Money is owed to the club.
+
+Q: Subscriptions paid in advance by members are
+A: a current liability
+W: a current asset
+W: an income of the current year
+W: a fixed asset
+E: They belong to next year.
+
+Q: A receipts and payments account is
+A: a summary of the cash book
+W: a profit statement
+W: a balance sheet
+W: a trial balance
+E: It shows cash and bank movements.
+
+Q: Life membership fees are usually
+A: credited to a separate fund and released over time
+W: treated wholly as income in one year
+W: ignored
+W: treated as expenses
+E: They cover many years.
+
+Q: A company's interim dividend is
+A: paid during the financial year
+W: paid after liquidation
+W: never paid
+W: paid only to debenture holders
+E: The final dividend follows the year end.
+
+Q: Preliminary expenses are costs of
+A: forming a company
+W: running a factory
+W: advertising products
+W: paying salaries
+E: They are often written off.
+
+Q: Corporation tax is charged on
+A: company profits
+W: shareholders' salaries
+W: sales
+W: purchases
+E: It appears in the appropriation account.
+
+Q: Goods produced in a factory and transferred to the warehouse at a profit create
+A: manufacturing profit
+W: a dividend
+W: a debenture
+W: a loss on disposal
+E: Some firms show this to measure factory efficiency.
+
+@topic acc-public
+
+Q: The Consolidated Revenue Fund is controlled by
+A: the legislature (National Assembly)
+W: commercial banks
+W: private companies
+W: the stock exchange
+E: Withdrawals need appropriation laws.
+
+Q: The Appropriation Act authorises
+A: government spending for the year
+W: company dividends
+W: bank loans
+W: tax evasion
+E: It is the budget passed into law.
+
+Q: Recurrent expenditure includes
+A: salaries and running costs
+W: building new roads
+W: buying land
+W: constructing hospitals
+E: It is spent regularly on day-to-day items.
+
+Q: Capital expenditure in government includes
+A: building roads and schools
+W: paying salaries
+W: buying stationery
+W: paying electricity bills
+E: It creates long-term assets.
+
+Q: A virement is
+A: transfer of funds from one budget head to another
+W: a tax
+W: a loan
+W: a type of audit
+E: It requires approval.
+
+Q: The Financial Regulations in public service
+A: guide how government money is handled
+W: set bank interest rates
+W: regulate private companies
+W: fix prices of goods
+E: They provide rules for public finance.
+
+Q: Supplementary estimates are prepared when
+A: approved funds are not enough
+W: there is a surplus
+W: taxes are abolished
+W: the government closes
+E: Extra spending needs approval.
+
+Q: The cash basis of public accounting records transactions when
+A: cash is received or paid
+W: goods are ordered
+W: invoices are issued only
+W: the year ends
+E: Accruals are ignored.
+
+Q: The accrual basis records transactions when
+A: they occur, regardless of cash movement
+W: cash is received only
+W: auditors decide
+W: the minister approves
+E: It is required by IPSAS accrual standards.
+
+Q: IPSAS stands for
+A: International Public Sector Accounting Standards
+W: Internal Private Sector Audit System
+W: International Payment and Savings Act
+W: Institute of Public Sector Auditors
+E: Nigeria adopted IPSAS.
+
+Q: The Treasury Single Account (TSA) is meant to
+A: consolidate government funds into one account
+W: abolish taxes
+W: pay private debts
+W: create new banks
+E: It improves control of public funds.
+
+Q: A warrant in public finance is
+A: authority to incur expenditure
+W: a tax receipt
+W: a share certificate
+W: a court summons only
+E: Funds are released by warrant.
+
+Q: The Public Accounts Committee of the legislature
+A: examines the Auditor-General's report
+W: prepares the budget
+W: collects taxes
+W: prints money
+E: It holds officials accountable.
+
+Q: Internally generated revenue (IGR) of a state comes from
+A: taxes, fees and charges collected by the state
+W: oil revenue from the federation account only
+W: foreign aid only
+W: loans only
+E: E.g. levies and licences.
+
+Q: The Federation Account is shared among
+A: federal, state and local governments
+W: banks
+W: private companies
+W: foreign governments
+E: Revenue allocation follows a formula.
+
+Q: An imprest in public service is
+A: a cash advance for small official expenses
+W: a type of tax
+W: a salary increase
+W: a bank loan
+E: It must be retired with receipts.
+
+Q: Retiring an imprest means
+A: accounting for how the advance was spent
+W: resigning from work
+W: increasing the advance
+W: paying tax
+E: Receipts and unspent cash are returned.
+
+Q: The vote book is used to
+A: control expenditure against approved provisions
+W: record elections
+W: record sales
+W: record share prices
+E: It prevents overspending.
+
+Q: The Fiscal Responsibility Act aims to
+A: promote prudent management of public finances
+W: increase borrowing without limit
+W: abolish budgets
+W: regulate banks only
+E: It was passed in 2007.
+
+Q: A budget deficit occurs when
+A: government spending exceeds revenue
+W: revenue exceeds spending
+W: revenue equals spending
+W: no budget is prepared
+E: It may be financed by borrowing.
+
+Q: The Accountant-General of the Federation is responsible for
+A: keeping government accounts and making payments
+W: auditing government accounts
+W: printing currency
+W: collecting customs duty
+E: The Auditor-General audits them.
+
+Q: Revenue from sale of government assets is a
+A: capital receipt
+W: recurrent revenue
+W: tax revenue
+W: dividend from shares
+E: It is non-recurring.
+
+Q: A Contingencies Fund is used for
+A: urgent and unforeseen expenditure
+W: salaries only
+W: debt repayment only
+W: buying shares
+E: It is replenished later by approval.
+
+Q: Personnel cost in a government budget refers to
+A: salaries and allowances of staff
+W: building costs
+W: road construction
+W: debt repayment
+E: It is part of recurrent expenditure.
+
+@topic acc-ratios
+
+Q: Current assets ₦240,000 and current liabilities ₦80,000. The current ratio is
+A: 3:1
+W: 2:1
+W: 1:3
+W: 4:1
+E: 240,000 ÷ 80,000 = 3.
+
+Q: Current assets ₦200,000 (including stock ₦50,000) and current liabilities ₦100,000. The quick ratio is
+A: 1.5:1
+W: 2:1
+W: 1:1
+W: 0.5:1
+E: (200,000 − 50,000) ÷ 100,000 = 1.5.
+
+Q: Net profit ₦30,000 on sales ₦150,000 gives a net profit margin of
+A: 20%
+W: 30%
+W: 15%
+W: 5%
+E: 30,000 ÷ 150,000 × 100.
+
+Q: Gross profit ₦80,000 on sales ₦320,000 gives a gross profit margin of
+A: 25%
+W: 20%
+W: 40%
+W: 80%
+E: 80,000 ÷ 320,000 × 100.
+
+Q: Cost of sales ₦120,000 and average stock ₦20,000. The rate of stock turnover is
+A: 6 times
+W: 4 times
+W: 12 times
+W: 2 times
+E: 120,000 ÷ 20,000.
+
+Q: Opening stock ₦18,000 and closing stock ₦22,000. Average stock is
+A: ₦20,000
+W: ₦40,000
+W: ₦18,000
+W: ₦4,000
+E: (18,000 + 22,000) ÷ 2.
+
+Q: Return on capital employed (ROCE) is
+A: net profit ÷ capital employed × 100
+W: sales ÷ capital
+W: current assets ÷ current liabilities
+W: gross profit ÷ purchases
+E: It measures how well capital is used.
+
+Q: Net profit ₦45,000 and capital employed ₦300,000 give ROCE of
+A: 15%
+W: 45%
+W: 30%
+W: 6.67%
+E: 45,000 ÷ 300,000 × 100.
+
+Q: A current ratio below 1:1 suggests
+A: possible difficulty paying short-term debts
+W: very strong liquidity
+W: high profit
+W: no debts
+E: Current liabilities exceed current assets.
+
+Q: A high rate of stock turnover generally means
+A: goods are selling quickly
+W: goods are not selling
+W: stock is very large
+W: prices are too high
+E: Fast-moving stock is efficient.
+
+Q: Debtors collection period is calculated as
+A: debtors ÷ credit sales × 365 days
+W: creditors ÷ purchases × 365
+W: sales ÷ debtors
+W: stock ÷ sales
+E: It shows how long customers take to pay.
+
+Q: Debtors ₦50,000 and credit sales ₦365,000. The collection period is
+A: 50 days
+W: 73 days
+W: 7 days
+W: 365 days
+E: 50,000 ÷ 365,000 × 365 = 50.
+
+Q: Creditors payment period is calculated as
+A: creditors ÷ credit purchases × 365 days
+W: debtors ÷ sales × 365
+W: purchases ÷ creditors
+W: stock ÷ purchases
+E: It shows how long the business takes to pay suppliers.
+
+Q: Liquidity ratios measure a business's ability to
+A: pay its short-term debts
+W: earn long-term profit
+W: borrow long-term loans
+W: issue shares
+E: E.g. current and quick ratios.
+
+Q: Profitability ratios include
+A: gross and net profit margins
+W: current ratio
+W: quick ratio
+W: gearing ratio only
+E: They measure profit performance.
+
+Q: Gearing measures the proportion of
+A: capital financed by long-term debt
+W: stock to sales
+W: debtors to creditors
+W: cash to bank
+E: High gearing means high borrowing.
+
+Q: Mark-up of 50% equals a margin of
+A: 33⅓%
+W: 50%
+W: 25%
+W: 66⅔%
+E: Profit 50 on cost 100 gives selling price 150; 50/150 = ⅓.
+
+Q: A margin of 20% equals a mark-up of
+A: 25%
+W: 20%
+W: 16⅔%
+W: 40%
+E: Profit 20 on sales 100 gives cost 80; 20/80 = 25%.
+
+Q: Expenses ₦40,000 and sales ₦200,000. The expenses-to-sales ratio is
+A: 20%
+W: 40%
+W: 5%
+W: 80%
+E: 40,000 ÷ 200,000 × 100.
+
+Q: Ratio analysis is useful to
+A: compare performance over time and between firms
+W: prepare source documents
+W: record daily transactions
+W: replace the ledger
+E: Ratios aid interpretation.
+
+Q: A limitation of ratio analysis is that
+A: ratios are based on historical data
+W: ratios are always perfect
+W: ratios need no figures
+W: ratios predict the future exactly
+E: Past figures may not reflect the future.
+
+Q: Capital employed is often measured as
+A: fixed assets plus working capital
+W: sales minus purchases
+W: cash only
+W: current liabilities only
+E: It is the long-term funds in use.
+
+Q: A quick ratio of 1:1 is generally considered
+A: satisfactory
+W: very poor
+W: impossible
+W: meaningless
+E: Liquid assets equal current liabilities.
+
+Q: If cost of sales is ₦90,000 and gross profit ₦30,000, sales are
+A: ₦120,000
+W: ₦60,000
+W: ₦90,000
+W: ₦150,000
+E: Sales = cost of sales + gross profit.

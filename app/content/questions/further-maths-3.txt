@@ -1,0 +1,1007 @@
+@subject further-maths
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic fmt-functions
+
+Q: If f(x) = 3x − 1, find f(−2).
+A: −7
+W: −5
+W: 5
+W: 7
+E: 3(−2) − 1.
+
+Q: If f(x) = x² + 1, find f(3).
+A: 10
+W: 7
+W: 9
+W: 6
+E: 9 + 1.
+
+Q: If f(x) = 2x and g(x) = x − 3, find g(f(4)).
+A: 5
+W: 2
+W: 8
+W: −2
+E: f(4) = 8; g(8) = 5.
+
+Q: If f(x) = x + 2 and g(x) = x², find f(g(3)).
+A: 11
+W: 25
+W: 9
+W: 7
+E: g(3) = 9; f(9) = 11.
+
+Q: Find the inverse of f(x) = (x + 4)/2.
+A: f⁻¹(x) = 2x − 4
+W: f⁻¹(x) = 2x + 4
+W: f⁻¹(x) = (x − 4)/2
+W: f⁻¹(x) = x/2 + 4
+E: Swap and solve: x = (y + 4)/2.
+
+Q: Find the inverse of f(x) = 5x + 1.
+A: f⁻¹(x) = (x − 1)/5
+W: f⁻¹(x) = 5x − 1
+W: f⁻¹(x) = (x + 1)/5
+W: f⁻¹(x) = 1/(5x + 1)
+E: Reverse the operations.
+
+Q: If f(x) = 4x − 3, find f⁻¹(5).
+A: 2
+W: 17
+W: 1/2
+W: 8
+E: 4x − 3 = 5 gives x = 2.
+
+Q: For what value of x is f(x) = 2/(x + 5) undefined?
+A: −5
+W: 5
+W: 0
+W: 2
+E: The denominator is zero.
+
+Q: The domain of f(x) = √(x − 2) for real values is
+A: x ≥ 2
+W: x ≤ 2
+W: x > 0
+W: all real numbers
+E: The expression under the root must be non-negative.
+
+Q: A function in which each element of the range has exactly one pre-image is
+A: one-to-one (injective)
+W: many-to-one
+W: constant
+W: undefined
+E: No two inputs share an output.
+
+Q: f(x) = x² is a many-to-one function on the real numbers because
+A: different inputs such as 2 and −2 give the same output
+W: each input has two outputs
+W: it has no outputs
+W: it is linear
+E: It fails the horizontal-line test.
+
+Q: A relation in which one input has two outputs is
+A: not a function
+W: a one-to-one function
+W: an inverse function
+W: a constant function
+E: Each input must have one output.
+
+Q: f(x) = 3 for all x is an example of a
+A: constant function
+W: identity function
+W: linear function with slope 3
+W: quadratic function
+E: Output does not change.
+
+Q: The identity function is
+A: f(x) = x
+W: f(x) = 1
+W: f(x) = 0
+W: f(x) = −x
+E: Output equals input.
+
+Q: If f(x) = 2x + 1, find f(f(1)).
+A: 7
+W: 3
+W: 5
+W: 9
+E: f(1) = 3; f(3) = 7.
+
+Q: An even function satisfies
+A: f(−x) = f(x)
+W: f(−x) = −f(x)
+W: f(x) = 0
+W: f(x) = x
+E: E.g. x².
+
+Q: An odd function satisfies
+A: f(−x) = −f(x)
+W: f(−x) = f(x)
+W: f(x) = 1
+W: f(x) = x²
+E: E.g. x³.
+
+Q: f: x → x² − 3 on the domain {0, 1, 2}. Find the range.
+A: {−3, −2, 1}
+W: {0, 1, 2}
+W: {−3, 1, 4}
+W: {3, 2, 1}
+E: f(0) = −3, f(1) = −2, f(2) = 1.
+
+Q: If f(x) = x/(x − 1), find f(2).
+A: 2
+W: 1
+W: −2
+W: 1/2
+E: 2 ÷ 1.
+
+Q: The composite function fg(x) means
+A: f applied to g(x)
+W: g applied to f(x)
+W: f(x) × g(x)
+W: f(x) + g(x)
+E: Work from the inside out.
+
+Q: If f(x) = x + 1 and g(x) = 3x, find gf(x).
+A: 3x + 3
+W: 3x + 1
+W: x + 3
+W: 3x² + 3x
+E: g(x + 1) = 3(x + 1).
+
+Q: Find the value of x for which f(x) = 2x − 6 equals zero.
+A: 3
+W: −3
+W: 6
+W: 2
+E: 2x = 6.
+
+Q: The range of f(x) = x² for real x is
+A: f(x) ≥ 0
+W: all real numbers
+W: f(x) ≤ 0
+W: f(x) > 1
+E: Squares are never negative.
+
+Q: A function that is onto (surjective) is one in which
+A: every element of the codomain is an image
+W: some elements of the codomain have no pre-image
+W: each input has two images
+W: the domain is empty
+E: The range equals the codomain.
+
+@topic fmt-logic
+
+Q: The negation of "All students passed" is
+A: Some students did not pass
+W: No student passed
+W: All students failed
+W: Some students passed
+E: Negating "all" gives "some … not".
+
+Q: The negation of p ∧ q is
+A: ¬p ∨ ¬q
+W: ¬p ∧ ¬q
+W: p ∨ q
+W: p ⇒ q
+E: De Morgan's law.
+
+Q: The negation of p ∨ q is
+A: ¬p ∧ ¬q
+W: ¬p ∨ ¬q
+W: p ∧ q
+W: ¬(p ⇒ q)
+E: De Morgan's law.
+
+Q: The inverse of p ⇒ q is
+A: ¬p ⇒ ¬q
+W: q ⇒ p
+W: ¬q ⇒ ¬p
+W: p ⇒ ¬q
+E: Negate both parts.
+
+Q: The contrapositive of p ⇒ q is
+A: ¬q ⇒ ¬p
+W: q ⇒ p
+W: ¬p ⇒ ¬q
+W: p ⇒ ¬q
+E: It is logically equivalent to the original.
+
+Q: The converse of p ⇒ q is
+A: q ⇒ p
+W: ¬q ⇒ ¬p
+W: ¬p ⇒ ¬q
+W: p ∧ q
+E: Swap hypothesis and conclusion.
+
+Q: The biconditional p ⇔ q is true when
+A: p and q have the same truth value
+W: p is true and q is false
+W: p is false and q is true
+W: neither is ever true
+E: Both true or both false.
+
+Q: A tautology is a statement that is
+A: always true
+W: always false
+W: sometimes true
+W: never meaningful
+E: E.g. p ∨ ¬p.
+
+Q: A contradiction is a statement that is
+A: always false
+W: always true
+W: sometimes true
+W: a question
+E: E.g. p ∧ ¬p.
+
+Q: If p is true and q is false, the value of p ⇒ q is
+A: false
+W: true
+W: undefined
+W: both
+E: The only false case of implication.
+
+Q: If p is false and q is true, the value of p ⇒ q is
+A: true
+W: false
+W: undefined
+W: neither
+E: A false hypothesis gives a true implication.
+
+Q: If p is false and q is false, the value of p ∨ q is
+A: false
+W: true
+W: undefined
+W: both
+E: At least one must be true.
+
+Q: If p is true and q is false, the value of p ∧ q is
+A: false
+W: true
+W: undefined
+W: both
+E: Both must be true.
+
+Q: A truth table for three simple statements has how many rows?
+A: 8
+W: 6
+W: 4
+W: 3
+E: 2³ = 8.
+
+Q: Which is logically equivalent to p ⇒ q?
+A: ¬p ∨ q
+W: p ∧ ¬q
+W: q ⇒ p
+W: ¬p ∧ q
+E: Material implication.
+
+Q: "If a number is divisible by 4, then it is even." The converse is
+A: If a number is even, then it is divisible by 4
+W: If a number is not even, then it is not divisible by 4
+W: If a number is not divisible by 4, then it is not even
+W: A number is divisible by 4 and even
+E: The converse need not be true.
+
+Q: In the statement above, which is true?
+A: the original statement
+W: the converse
+W: the inverse
+W: none of them
+E: 6 is even but not divisible by 4.
+
+Q: A simple statement is one that
+A: contains only one idea and cannot be broken down
+W: contains "and" or "or"
+W: is a question
+W: is a command
+E: E.g. "Abuja is in Nigeria."
+
+Q: Which of these is a proposition?
+A: Lagos is a city in Nigeria
+W: Close the door
+W: Where are you going?
+W: Oh dear!
+E: It can be judged true or false.
+
+Q: The symbol ¬ means
+A: not
+W: and
+W: or
+W: implies
+E: Negation.
+
+Q: The symbol ∧ means
+A: and
+W: or
+W: not
+W: if and only if
+E: Conjunction.
+
+Q: "p only if q" is written as
+A: p ⇒ q
+W: q ⇒ p
+W: p ∧ q
+W: p ∨ q
+E: q is necessary for p.
+
+Q: In "If it rains, the ground is wet", "it rains" is the
+A: antecedent (hypothesis)
+W: consequent
+W: negation
+W: conclusion
+E: The part after "if".
+
+Q: The statement p ∨ ¬p is
+A: a tautology
+W: a contradiction
+W: a contingency only
+W: undefined
+E: It is always true.
+
+@topic fmt-polynomials
+
+Q: Find the remainder when 2x³ + x − 4 is divided by x + 1.
+A: −7
+W: −1
+W: 1
+W: 7
+E: f(−1) = −2 − 1 − 4.
+
+Q: If x + 3 is a factor of x² + 5x + k, find k.
+A: 6
+W: −6
+W: 3
+W: 15
+E: 9 − 15 + k = 0.
+
+Q: Find the product of the roots of x³ − 6x² + 11x − 6 = 0.
+A: 6
+W: −6
+W: 11
+W: 1
+E: −d/a = 6.
+
+Q: Factorise x² − 9.
+A: (x − 3)(x + 3)
+W: (x − 9)(x + 1)
+W: (x − 3)²
+W: (x + 9)(x − 1)
+E: Difference of two squares.
+
+Q: Divide x² + 5x + 6 by x + 2.
+A: x + 3
+W: x + 2
+W: x − 3
+W: x + 6
+E: (x + 2)(x + 3).
+
+@topic fmt-binomial
+
+Q: Find the coefficient of x³ in (1 + x)⁶.
+A: 20
+W: 15
+W: 6
+W: 10
+E: ⁶C₃.
+
+Q: Evaluate ⁷C₃.
+A: 35
+W: 21
+W: 210
+W: 7
+E: 7! ÷ (3! 4!).
+
+Q: Find the coefficient of x in (2 + x)⁴.
+A: 32
+W: 8
+W: 16
+W: 4
+E: ⁴C₁ × 2³.
+
+Q: The sum of the coefficients in (1 + x)⁵ is
+A: 32
+W: 5
+W: 10
+W: 25
+E: Put x = 1: 2⁵.
+
+Q: Find the first two terms of (1 + 2x)⁵ in ascending powers of x.
+A: 1 + 10x
+W: 1 + 5x
+W: 1 + 2x
+W: 2 + 10x
+E: ⁵C₁ × 2x = 10x.
+
+@topic fmt-statistics
+
+Q: Find the mean of 3, 5, 7, 9 and 11.
+A: 7
+W: 5
+W: 9
+W: 35
+E: 35 ÷ 5.
+
+Q: Find the variance of 3, 5, 7, 9 and 11.
+A: 8
+W: 2√2
+W: 4
+W: 40
+E: Deviations²: 16, 4, 0, 4, 16; sum 40 ÷ 5.
+
+Q: Find the standard deviation of 3, 5, 7, 9 and 11.
+A: 2√2
+W: 8
+W: 4
+W: √40
+E: √8.
+
+Q: Find the variance of 5, 5, 5, 5.
+A: 0
+W: 5
+W: 25
+W: 1
+E: No spread.
+
+Q: Find the variance of 1, 3 and 5.
+A: 8/3
+W: 4
+W: 2
+W: 8
+E: Deviations²: 4, 0, 4; 8 ÷ 3.
+
+Q: The mean deviation of 2, 4 and 6 is
+A: 4/3
+W: 2
+W: 4
+W: 8/3
+E: |−2| + 0 + 2 = 4; 4 ÷ 3.
+
+Q: If the variance of a data set is 16, its standard deviation is
+A: 4
+W: 16
+W: 256
+W: 8
+E: √16.
+
+Q: If every value in a data set has 5 subtracted, the mean
+A: decreases by 5
+W: is unchanged
+W: increases by 5
+W: is multiplied by 5
+E: Shifts move the mean.
+
+Q: If every value is multiplied by 2, the standard deviation
+A: is doubled
+W: is unchanged
+W: is quadrupled
+W: is halved
+E: Spread scales with the multiplier.
+
+Q: The variance of x is 4. The variance of 3x is
+A: 36
+W: 12
+W: 4
+W: 7
+E: 3² × 4.
+
+Q: The formula for variance is
+A: Σ(x − x̄)² ÷ n
+W: Σ(x − x̄) ÷ n
+W: Σx ÷ n
+W: √Σx
+E: The mean of the squared deviations.
+
+Q: An alternative formula for variance is
+A: Σx²/n − (x̄)²
+W: Σx/n − x̄
+W: Σx² − n
+W: (Σx)² / n only
+E: Mean of squares minus square of mean.
+
+Q: For 2, 4, 6, Σx² = 56 and x̄ = 4. The variance is
+A: 8/3
+W: 16
+W: 56/3
+W: 4
+E: 56/3 − 16 = 8/3.
+
+Q: The range of 4, 9, 12, 20 is
+A: 16
+W: 20
+W: 45
+W: 11.25
+E: 20 − 4.
+
+Q: The interquartile range is
+A: upper quartile minus lower quartile
+W: highest minus lowest value
+W: the median
+W: the mean deviation
+E: It measures the spread of the middle half.
+
+Q: For the ordered data 2, 4, 6, 8, 10, 12, 14, the lower quartile is
+A: 4
+W: 6
+W: 2
+W: 8
+E: The median of 2, 4, 6.
+
+Q: For the same data, the upper quartile is
+A: 12
+W: 10
+W: 14
+W: 8
+E: The median of 10, 12, 14.
+
+Q: The coefficient of variation is
+A: standard deviation ÷ mean × 100%
+W: mean ÷ standard deviation
+W: variance × mean
+W: range ÷ mean
+E: It compares relative spread.
+
+Q: A data set with mean 50 and standard deviation 5 has a coefficient of variation of
+A: 10%
+W: 5%
+W: 250%
+W: 50%
+E: 5 ÷ 50 × 100.
+
+Q: The standard deviation is always
+A: non-negative
+W: negative
+W: greater than the mean
+W: equal to the range
+E: It is a square root.
+
+Q: The weights of four boxes are 2, 4, 4 and 6 kg. Find the variance.
+A: 2
+W: 4
+W: 1
+W: √2
+E: Mean 4; deviations² 4, 0, 0, 4; 8 ÷ 4.
+
+Q: In a grouped frequency distribution, the mean is found using
+A: Σfx ÷ Σf
+W: Σx ÷ n only
+W: Σf ÷ Σx
+W: Σf²
+E: x is the class midpoint.
+
+Q: Scores 1, 2, 3 have frequencies 2, 3, 5. The mean is
+A: 2.3
+W: 2
+W: 3.3
+W: 6
+E: (2 + 6 + 15) ÷ 10.
+
+Q: Which measure of spread is most affected by extreme values?
+A: the range
+W: the interquartile range
+W: the median
+W: the mode
+E: It uses only the extremes.
+
+@topic fmt-vectors
+
+Q: Find the magnitude of 5i − 12j.
+A: 13
+W: 17
+W: 7
+W: 60
+E: √(25 + 144).
+
+Q: If a = 3i + 2j, find 2a.
+A: 6i + 4j
+W: 5i + 4j
+W: 6i + 2j
+W: 3i + 4j
+E: Multiply each component.
+
+Q: Find a − b if a = 4i + 3j and b = i − j.
+A: 3i + 4j
+W: 5i + 2j
+W: 3i + 2j
+W: 5i + 4j
+E: (4 − 1)i + (3 + 1)j.
+
+Q: Find the scalar product of i + 2j and 3i − j.
+A: 1
+W: 5
+W: −1
+W: 7
+E: 3 − 2.
+
+Q: If 3i + kj is perpendicular to 2i − 6j, find k.
+A: 1
+W: −1
+W: 3
+W: 6
+E: 6 − 6k = 0.
+
+Q: The position vector of point (2, −5) is
+A: 2i − 5j
+W: −5i + 2j
+W: 2i + 5j
+W: −2i − 5j
+E: x-component then y-component.
+
+@topic fmt-trig
+
+Q: Simplify 1 − sin²θ.
+A: cos²θ
+W: sin²θ
+W: tan²θ
+W: 1
+E: From sin²θ + cos²θ = 1.
+
+Q: cos 2θ can be written as
+A: cos²θ − sin²θ
+W: 2 sin θ cos θ
+W: 2 cos θ
+W: 1 + sin²θ
+E: A double-angle formula.
+
+Q: cos 2θ is also equal to
+A: 1 − 2 sin²θ
+W: 1 + 2 sin²θ
+W: 2 sin²θ − 1
+W: sin²θ − 1
+E: Using cos²θ = 1 − sin²θ.
+
+Q: tan 2θ equals
+A: 2 tan θ ÷ (1 − tan²θ)
+W: 2 tan θ
+W: tan²θ − 1
+W: 1 ÷ (2 tan θ)
+E: A double-angle formula.
+
+Q: sin (A − B) equals
+A: sin A cos B − cos A sin B
+W: sin A cos B + cos A sin B
+W: cos A cos B + sin A sin B
+W: sin A − sin B
+E: Compound angle formula.
+
+Q: cos (A − B) equals
+A: cos A cos B + sin A sin B
+W: cos A cos B − sin A sin B
+W: sin A cos B − cos A sin B
+W: cos A − cos B
+E: Compound angle formula.
+
+Q: Find the exact value of cos 75°.
+A: (√6 − √2)/4
+W: (√6 + √2)/4
+W: √3/2
+W: 1/2
+E: cos (45° + 30°).
+
+Q: Find the exact value of sin 75°.
+A: (√6 + √2)/4
+W: (√6 − √2)/4
+W: √3/2
+W: 1/√2
+E: sin (45° + 30°).
+
+Q: If sin θ = 3/5 and θ is acute, find sin 2θ.
+A: 24/25
+W: 6/5
+W: 12/25
+W: 7/25
+E: 2 × 3/5 × 4/5.
+
+Q: If cos θ = 4/5 and θ is acute, find cos 2θ.
+A: 7/25
+W: 8/5
+W: 24/25
+W: 9/25
+E: 2(16/25) − 1.
+
+Q: 1 + cot²θ equals
+A: cosec²θ
+W: sec²θ
+W: tan²θ
+W: 1
+E: Divide the Pythagorean identity by sin²θ.
+
+Q: sec θ is defined as
+A: 1/cos θ
+W: 1/sin θ
+W: 1/tan θ
+W: sin θ/cos θ
+E: The reciprocal of cosine.
+
+Q: cosec θ is defined as
+A: 1/sin θ
+W: 1/cos θ
+W: 1/tan θ
+W: cos θ/sin θ
+E: The reciprocal of sine.
+
+Q: Simplify sin θ/cos θ.
+A: tan θ
+W: cot θ
+W: sec θ
+W: 1
+E: Definition of tangent.
+
+Q: Solve cos θ = 0.5 for 0° ≤ θ ≤ 360°.
+A: 60° and 300°
+W: 30° and 150°
+W: 60° and 120°
+W: 120° and 240°
+E: Cosine is positive in quadrants 1 and 4.
+
+Q: Solve tan θ = 1 for 0° ≤ θ ≤ 360°.
+A: 45° and 225°
+W: 45° and 135°
+W: 135° and 315°
+W: 45° only
+E: Tangent repeats every 180°.
+
+Q: Solve sin θ = −1/2 for 0° ≤ θ ≤ 360°.
+A: 210° and 330°
+W: 30° and 150°
+W: 150° and 210°
+W: 240° and 300°
+E: Sine is negative in quadrants 3 and 4.
+
+Q: The maximum value of 3 sin θ is
+A: 3
+W: 1
+W: 0
+W: −3
+E: sin θ has maximum 1.
+
+Q: The minimum value of 2 + cos θ is
+A: 1
+W: 0
+W: 2
+W: 3
+E: cos θ has minimum −1.
+
+Q: Express sin θ cos θ in terms of sin 2θ.
+A: (1/2) sin 2θ
+W: 2 sin 2θ
+W: sin 2θ
+W: sin²θ
+E: sin 2θ = 2 sin θ cos θ.
+
+Q: The period of y = sin x is
+A: 360°
+W: 180°
+W: 90°
+W: 720°
+E: The graph repeats every full turn.
+
+Q: The period of y = tan x is
+A: 180°
+W: 360°
+W: 90°
+W: 720°
+E: Tangent repeats more often.
+
+Q: The sine rule states that a/sin A equals
+A: b/sin B
+W: sin B/b
+W: a/cos A
+W: b/cos B
+E: It holds in any triangle.
+
+Q: The cosine rule gives a² as
+A: b² + c² − 2bc cos A
+W: b² + c² + 2bc cos A
+W: b² − c²
+W: 2bc sin A
+E: It generalises Pythagoras.
+
+@topic fmt-calculus
+
+Q: Find ∫ (4x + 1) dx.
+A: 2x² + x + c
+W: 4x² + x + c
+W: 2x² + c
+W: 4 + c
+E: Integrate term by term.
+
+Q: Differentiate cos x with respect to x.
+A: −sin x
+W: sin x
+W: −cos x
+W: tan x
+E: Standard result.
+
+Q: Differentiate eˣ with respect to x.
+A: eˣ
+W: xeˣ⁻¹
+W: ln x
+W: 1/x
+E: The exponential is its own derivative.
+
+Q: Evaluate ∫ from 1 to 2 of 3x² dx.
+A: 7
+W: 8
+W: 9
+W: 3
+E: [x³] = 8 − 1.
+
+Q: Differentiate ln x with respect to x.
+A: 1/x
+W: x
+W: ln x / x
+W: eˣ
+E: Standard result.
+
+@topic fmt-mechanics
+
+Q: A particle has displacement s = 4t² metres. Find its velocity at t = 2 s.
+A: 16 m/s
+W: 8 m/s
+W: 4 m/s
+W: 32 m/s
+E: v = 8t.
+
+Q: A particle has velocity v = 6t m/s. Find its acceleration.
+A: 6 m/s²
+W: 6t m/s²
+W: 3t² m/s²
+W: 0 m/s²
+E: a = dv/dt.
+
+Q: A body starts from rest with acceleration 2 m/s². Find its velocity after 5 s.
+A: 10 m/s
+W: 25 m/s
+W: 7 m/s
+W: 2.5 m/s
+E: v = u + at.
+
+Q: A body starts from rest with acceleration 4 m/s². How far does it travel in 3 s?
+A: 18 m
+W: 12 m
+W: 36 m
+W: 6 m
+E: s = ½at².
+
+Q: A car moving at 20 m/s decelerates uniformly to rest in 4 s. Find the deceleration.
+A: 5 m/s²
+W: 80 m/s²
+W: 4 m/s²
+W: 16 m/s²
+E: (20 − 0) ÷ 4.
+
+Q: A car moving at 20 m/s decelerates to rest in 4 s. Find the distance travelled.
+A: 40 m
+W: 80 m
+W: 20 m
+W: 10 m
+E: Average speed 10 m/s × 4 s.
+
+Q: A stone is dropped from a height of 45 m. How long does it take to reach the ground? (g = 10 m/s²)
+A: 3 s
+W: 4.5 s
+W: 9 s
+W: 2 s
+E: 45 = 5t².
+
+Q: A ball is thrown upwards at 30 m/s. How long does it take to reach its highest point? (g = 10 m/s²)
+A: 3 s
+W: 6 s
+W: 30 s
+W: 1.5 s
+E: v = u − gt = 0.
+
+Q: A force of 20 N acts on a mass of 4 kg. Find the acceleration.
+A: 5 m/s²
+W: 80 m/s²
+W: 16 m/s²
+W: 0.2 m/s²
+E: a = F ÷ m.
+
+Q: Find the momentum of a 5 kg body moving at 6 m/s.
+A: 30 kg m/s
+W: 11 kg m/s
+W: 90 kg m/s
+W: 1.2 kg m/s
+E: p = mv.
+
+Q: A 2 kg mass moving at 3 m/s collides and sticks to a stationary 1 kg mass. Find their common velocity.
+A: 2 m/s
+W: 3 m/s
+W: 1 m/s
+W: 6 m/s
+E: 6 = 3v.
+
+Q: Find the kinetic energy of a 4 kg mass moving at 5 m/s.
+A: 50 J
+W: 20 J
+W: 100 J
+W: 10 J
+E: ½ × 4 × 25.
+
+Q: A force of 10 N moves a body 5 m in its direction. Find the work done.
+A: 50 J
+W: 2 J
+W: 15 J
+W: 500 J
+E: W = Fd.
+
+Q: A force of 10 N acts at 60° to the direction of motion over 4 m. Find the work done.
+A: 20 J
+W: 40 J
+W: 34.6 J
+W: 10 J
+E: 10 × 4 × cos 60°.
+
+Q: Two forces of 6 N and 8 N act at right angles. The angle the resultant makes with the 8 N force is
+A: tan⁻¹(3/4)
+W: tan⁻¹(4/3)
+W: 45°
+W: 90°
+E: tan θ = 6 ÷ 8.
+
+Q: Three forces in equilibrium can be represented by
+A: a closed triangle
+W: an open line
+W: a circle
+W: parallel lines
+E: The triangle of forces.
+
+Q: A uniform rod of weight 20 N is supported at its midpoint. A weight of 10 N hangs 1 m from the support. What weight 2 m from the support on the other side balances it?
+A: 5 N
+W: 10 N
+W: 20 N
+W: 2.5 N
+E: 10 × 1 = W × 2.
+
+Q: A projectile is fired horizontally at 20 m/s from a height of 20 m. How long does it take to land? (g = 10 m/s²)
+A: 2 s
+W: 1 s
+W: 4 s
+W: 20 s
+E: 20 = 5t².
+
+Q: In the question above, how far horizontally does it travel?
+A: 40 m
+W: 20 m
+W: 80 m
+W: 10 m
+E: 20 m/s × 2 s.
+
+Q: The maximum height of a projectile with vertical speed component u is
+A: u²/2g
+W: u/g
+W: 2u/g
+W: u²/g
+E: v² = u² − 2gh with v = 0.
+
+Q: A body slides down a smooth plane inclined at 30°. Its acceleration is (g = 10 m/s²)
+A: 5 m/s²
+W: 10 m/s²
+W: 8.7 m/s²
+W: 0 m/s²
+E: a = g sin 30°.
+
+Q: The impulse of a force is
+A: force × time
+W: force ÷ time
+W: mass × acceleration
+W: force × distance
+E: It equals the change in momentum.
+
+Q: A body of mass 3 kg on a rough horizontal surface with coefficient of friction 0.2 needs a force of (g = 10 m/s²)
+A: 6 N to overcome friction
+W: 0.6 N
+W: 15 N
+W: 30 N
+E: μmg = 0.2 × 30.
+
+Q: Power is the rate of doing work. A machine does 600 J in 30 s. Its power is
+A: 20 W
+W: 18,000 W
+W: 630 W
+W: 0.05 W
+E: 600 ÷ 30.

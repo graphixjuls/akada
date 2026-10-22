@@ -1,0 +1,1150 @@
+@subject chemistry
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic chm-lab
+
+Q: A conical flask is commonly used in titration to
+A: hold the solution being titrated
+W: measure exact volumes
+W: heat solids strongly
+W: store gases
+E: Its shape allows swirling without spilling.
+
+Q: A burette is read at the
+A: bottom of the meniscus
+W: top of the meniscus
+W: side of the tube
+W: tap
+E: For clear liquids, read the lowest point.
+
+Q: A crucible is used for
+A: heating solids to very high temperatures
+W: measuring liquids
+W: filtering
+W: collecting gases
+E: It is made of porcelain or metal.
+
+Q: A desiccator is used to
+A: keep substances dry
+W: heat liquids
+W: measure mass
+W: separate liquids
+E: It contains a drying agent.
+
+Q: A Liebig condenser is used in
+A: distillation
+W: filtration
+W: titration
+W: chromatography
+E: It cools vapour into liquid.
+
+Q: A separating funnel is used to separate
+A: immiscible liquids
+W: solids from liquids
+W: gases
+W: dissolved salts
+E: The denser liquid is run off first.
+
+Q: A Bunsen burner gives its hottest flame when the air hole is
+A: open
+W: closed
+W: half-blocked with paper
+W: removed
+E: Complete combustion gives a blue flame.
+
+Q: A luminous (yellow) flame is produced when the air hole is
+A: closed
+W: open
+W: removed
+W: wet
+E: Incomplete combustion produces soot.
+
+Q: A volumetric flask is used to
+A: prepare solutions of accurate concentration
+W: heat solids
+W: collect gas
+W: filter mixtures
+E: It holds an exact volume at the mark.
+
+Q: A measuring cylinder is less accurate than a
+A: pipette
+W: beaker
+W: conical flask
+W: test tube
+E: Pipettes and burettes are more precise.
+
+Q: A thistle funnel is used to
+A: add liquids to a reaction flask
+W: filter mixtures
+W: measure volume
+W: heat solids
+E: It is used in gas preparation.
+
+Q: A Kipp's apparatus is used for
+A: producing gases on demand
+W: heating liquids
+W: filtration
+W: titration
+E: E.g. hydrogen sulphide or hydrogen.
+
+Q: A gas jar is used to
+A: collect gases
+W: measure liquids
+W: heat solids
+W: filter mixtures
+E: Gases are collected over water or by displacement of air.
+
+Q: A tripod stand is used to
+A: support apparatus over a Bunsen burner
+W: measure temperature
+W: separate liquids
+W: weigh substances
+E: A wire gauze is placed on it.
+
+Q: A wire gauze helps to
+A: spread heat evenly
+W: increase flame height
+W: cool liquids
+W: filter solids
+E: It prevents cracking of glassware.
+
+Q: The hazard symbol of a skull and crossbones indicates a substance is
+A: toxic
+W: flammable
+W: corrosive
+W: harmless
+E: It can cause death if swallowed or inhaled.
+
+Q: The hazard symbol showing a test tube spilling onto a hand indicates a substance is
+A: corrosive
+W: toxic
+W: flammable
+W: radioactive
+E: It destroys skin and materials.
+
+Q: In the laboratory, you should never
+A: taste chemicals
+W: wear safety goggles
+W: wash your hands
+W: read labels
+E: Many chemicals are poisonous.
+
+Q: To smell a gas safely, you should
+A: waft it gently towards your nose
+W: inhale directly from the tube
+W: put your nose into the gas jar
+W: heat it first
+E: This avoids inhaling large amounts.
+
+Q: When diluting a concentrated acid, you should
+A: add the acid slowly to water
+W: add water to the acid
+W: heat the acid first
+W: shake vigorously
+E: Adding water to acid can cause violent spitting.
+
+Q: A fume cupboard is used when
+A: working with poisonous or smelly gases
+W: weighing solids
+W: measuring liquids
+W: filtering
+E: It removes fumes from the room.
+
+Q: A fire caused by burning oil should be put out with
+A: a carbon dioxide or foam extinguisher
+W: water
+W: paper
+W: a fan
+E: Water spreads oil fires.
+
+Q: An electronic balance is used to
+A: measure mass
+W: measure volume
+W: measure temperature
+W: measure pressure
+E: It gives precise readings.
+
+Q: A pipette filler is used to
+A: draw liquid into a pipette safely
+W: weigh chemicals
+W: heat liquids
+W: filter mixtures
+E: Mouth pipetting is dangerous.
+
+@topic chm-kinetic
+
+Q: According to the kinetic theory, particles of matter are
+A: in constant motion
+W: always at rest
+W: never in contact
+W: larger in gases
+E: Movement increases with temperature.
+
+Q: In a solid, particles
+A: vibrate about fixed positions
+W: move freely and randomly
+W: are far apart
+W: do not move at all
+E: They are held by strong forces.
+
+Q: In a liquid, particles
+A: are close together but can slide past each other
+W: are fixed in position
+W: are very far apart
+W: do not move
+E: Liquids take the shape of their container.
+
+Q: Gases are easily compressed because
+A: their particles are far apart
+W: their particles are very close
+W: they have no particles
+W: they are heavy
+E: There is much empty space.
+
+Q: Melting is the change from
+A: solid to liquid
+W: liquid to gas
+W: gas to liquid
+W: liquid to solid
+E: Heat is absorbed.
+
+Q: Freezing is the change from
+A: liquid to solid
+W: solid to liquid
+W: gas to solid
+W: liquid to gas
+E: Heat is released.
+
+Q: Condensation is the change from
+A: gas to liquid
+W: liquid to gas
+W: solid to gas
+W: solid to liquid
+E: Cooling vapour forms liquid.
+
+Q: Sublimation is the change from
+A: solid directly to gas
+W: liquid to gas
+W: gas to liquid
+W: solid to liquid
+E: E.g. iodine and ammonium chloride.
+
+Q: Which substance sublimes on heating?
+A: ammonium chloride
+W: sodium chloride
+W: copper(II) sulphate
+W: sand
+E: It turns directly to vapour.
+
+Q: The boiling point of a liquid is the temperature at which
+A: its vapour pressure equals atmospheric pressure
+W: it starts to freeze
+W: it becomes a solid
+W: it stops evaporating
+E: Bubbles form throughout the liquid.
+
+Q: Water boils at a lower temperature on a mountain because
+A: atmospheric pressure is lower
+W: atmospheric pressure is higher
+W: water is purer there
+W: the air is warmer
+E: Lower pressure lowers the boiling point.
+
+Q: A pure substance has
+A: a sharp, fixed melting point
+W: a melting range
+W: no melting point
+W: a changing boiling point
+E: Impurities lower and broaden the melting point.
+
+Q: Impurities in a solid usually
+A: lower its melting point
+W: raise its melting point
+W: have no effect
+W: make it boil
+E: They disrupt the crystal lattice.
+
+Q: Graham's law states that the rate of diffusion of a gas is
+A: inversely proportional to the square root of its density
+W: directly proportional to its density
+W: independent of mass
+W: proportional to its volume
+E: Lighter gases diffuse faster.
+
+Q: Ammonia diffuses faster than hydrogen chloride because
+A: ammonia has a lower molar mass
+W: ammonia is heavier
+W: hydrogen chloride is lighter
+W: they have equal masses
+E: NH₃ = 17; HCl = 36.5.
+
+Q: In the ammonia–hydrogen chloride diffusion experiment, the white ring forms
+A: nearer the hydrogen chloride end
+W: nearer the ammonia end
+W: exactly in the middle
+W: outside the tube
+E: Ammonia travels further in the same time.
+
+Q: Deliquescent substances
+A: absorb moisture from the air and dissolve in it
+W: lose water of crystallisation to the air
+W: do not absorb water
+W: sublime
+E: E.g. sodium hydroxide pellets.
+
+Q: Efflorescent substances
+A: lose water of crystallisation to the atmosphere
+W: absorb water and dissolve
+W: never change
+W: melt easily
+E: E.g. washing soda crystals.
+
+Q: Calcium chloride is used as a
+A: drying agent
+W: catalyst
+W: fuel
+W: dye
+E: It is hygroscopic.
+
+Q: Brownian motion is evidence that
+A: particles of matter are moving
+W: particles are stationary
+W: matter is continuous
+W: gases have no mass
+E: Tiny particles are bombarded by moving molecules.
+
+Q: As temperature increases, the average kinetic energy of gas particles
+A: increases
+W: decreases
+W: stays the same
+W: becomes zero
+E: Kinetic energy is proportional to absolute temperature.
+
+Q: The pressure of a gas is caused by
+A: collisions of gas particles with the walls of the container
+W: the colour of the gas
+W: the size of the container only
+W: the gas being heavy
+E: More collisions mean higher pressure.
+
+Q: Evaporation is faster when
+A: temperature is higher and air is moving
+W: temperature is low
+W: surface area is small
+W: air is humid and still
+E: These conditions remove vapour quickly.
+
+Q: The latent heat of fusion is heat absorbed when a substance
+A: melts without temperature change
+W: boils
+W: cools
+W: condenses
+E: Energy breaks forces between particles.
+
+@topic chm-separation
+
+Q: Filtration separates
+A: an insoluble solid from a liquid
+W: two miscible liquids
+W: dissolved salt from water
+W: two gases
+E: The solid remains as the residue.
+
+Q: The liquid that passes through the filter paper is called the
+A: filtrate
+W: residue
+W: solvent only
+W: solute
+E: The solid left behind is the residue.
+
+Q: Evaporation is used to obtain
+A: a dissolved solid from a solution
+W: pure water from sea water
+W: a liquid from a solid
+W: gases from liquids
+E: The solvent evaporates leaving the solid.
+
+Q: Crystallisation is used to obtain
+A: pure crystals of a soluble solid
+W: insoluble solids
+W: gases
+W: immiscible liquids
+E: The solution is concentrated and cooled.
+
+Q: Simple distillation separates
+A: a solvent from a solution
+W: two immiscible liquids
+W: insoluble solids
+W: gases from solids
+E: The solvent is boiled and condensed.
+
+Q: Fractional distillation separates
+A: miscible liquids with different boiling points
+W: insoluble solids
+W: immiscible liquids only
+W: magnetic substances
+E: E.g. ethanol and water.
+
+Q: Liquid air is separated into nitrogen and oxygen by
+A: fractional distillation
+W: filtration
+W: sublimation
+W: chromatography
+E: They have different boiling points.
+
+Q: Chromatography separates substances based on
+A: their different rates of movement through a medium
+W: their colour only
+W: their magnetic properties
+W: their boiling points
+E: Different solubility and adsorption.
+
+Q: In paper chromatography, the solvent is called the
+A: mobile phase
+W: stationary phase
+W: residue
+W: filtrate
+E: The paper is the stationary phase.
+
+Q: The Rf value in chromatography is
+A: distance moved by substance ÷ distance moved by solvent
+W: distance moved by solvent ÷ distance moved by substance
+W: always greater than 1
+W: the mass of the substance
+E: It helps identify substances.
+
+Q: A spot moves 3 cm while the solvent front moves 6 cm. The Rf value is
+A: 0.5
+W: 2
+W: 3
+W: 9
+E: 3 ÷ 6.
+
+Q: Magnetic separation can be used to separate
+A: iron filings from sulphur
+W: salt from water
+W: sand from water
+W: ethanol from water
+E: Iron is magnetic.
+
+Q: Decantation is
+A: pouring off a liquid from a settled solid
+W: boiling a liquid
+W: filtering a gas
+W: heating a solid
+E: It is a quick but rough method.
+
+Q: Centrifugation separates
+A: fine solids from liquids by spinning
+W: gases
+W: dissolved salts
+W: miscible liquids
+E: E.g. blood cells from plasma.
+
+Q: Sieving separates
+A: solid particles of different sizes
+W: dissolved substances
+W: liquids
+W: gases
+E: E.g. stones from sand.
+
+Q: Winnowing separates
+A: chaff from grain using wind
+W: salt from water
+W: oil from water
+W: iron from sulphur
+E: Lighter chaff is blown away.
+
+Q: A mixture of salt and sand can be separated by
+A: dissolving, filtering and evaporating
+W: magnet only
+W: sublimation
+W: fractional distillation
+E: Salt dissolves; sand does not.
+
+Q: Sublimation can separate
+A: ammonium chloride from sodium chloride
+W: salt from water
+W: oil from water
+W: ethanol from water
+E: Ammonium chloride sublimes.
+
+Q: Solvent extraction uses
+A: a solvent in which one component dissolves better
+W: magnets
+W: filter paper only
+W: heat only
+E: E.g. extracting oil from seeds.
+
+Q: Kerosene and water can be separated using
+A: a separating funnel
+W: filtration
+W: sublimation
+W: chromatography
+E: They are immiscible.
+
+Q: Crude oil is separated into fractions in a
+A: fractionating column
+W: separating funnel
+W: filter funnel
+W: centrifuge
+E: Fractions condense at different heights.
+
+Q: The purity of a liquid can be checked by
+A: measuring its boiling point
+W: looking at its colour
+W: measuring its volume
+W: weighing it
+E: Pure liquids boil at fixed temperatures.
+
+Q: Fractional crystallisation separates
+A: solids with different solubilities
+W: gases
+W: immiscible liquids
+W: insoluble solids
+E: The less soluble solid crystallises first.
+
+Q: Which method is best to obtain salt from sea water?
+A: evaporation
+W: filtration
+W: sublimation
+W: decantation
+E: Water evaporates leaving salt.
+
+@topic chm-matter
+
+Q: An element is a substance that
+A: cannot be split into simpler substances by chemical means
+W: contains two or more elements
+W: is always a liquid
+W: is always a mixture
+E: It is made of one type of atom.
+
+Q: A compound is formed when
+A: two or more elements combine chemically
+W: substances are mixed physically
+W: a solid dissolves
+W: a liquid freezes
+E: It has a fixed composition.
+
+Q: A mixture
+A: can be separated by physical methods
+W: has a fixed composition always
+W: is formed by chemical reaction
+W: has properties different from its components always
+E: Components keep their properties.
+
+Q: Air is a
+A: mixture
+W: compound
+W: element
+W: pure substance
+E: Its composition varies.
+
+Q: Water is a
+A: compound
+W: element
+W: mixture
+W: alloy
+E: It contains hydrogen and oxygen chemically combined.
+
+Q: Brass is an example of
+A: an alloy (a mixture of metals)
+W: an element
+W: a compound
+W: a pure metal
+E: It contains copper and zinc.
+
+Q: Sea water is an example of
+A: a mixture
+W: a compound
+W: an element
+W: a pure substance
+E: It contains water and dissolved salts.
+
+Q: Which of these is a compound?
+A: sodium chloride
+W: oxygen
+W: iron
+W: air
+E: It contains sodium and chlorine.
+
+Q: Which of these is a metal?
+A: copper
+W: sulphur
+W: carbon
+W: oxygen
+E: Copper conducts electricity.
+
+Q: Which of these is a non-metal?
+A: sulphur
+W: iron
+W: zinc
+W: sodium
+E: Sulphur is a yellow non-metal.
+
+Q: A property of metals is that they are
+A: good conductors of heat and electricity
+W: always brittle
+W: dull
+W: poor conductors
+E: Metals have free electrons.
+
+Q: A property of most non-metals is that they are
+A: poor conductors of electricity
+W: shiny
+W: malleable
+W: ductile
+E: Graphite is an exception.
+
+Q: Malleability is the ability to
+A: be hammered into sheets
+W: be drawn into wires
+W: conduct heat
+W: dissolve in water
+E: Metals are malleable.
+
+Q: Ductility is the ability to
+A: be drawn into wires
+W: be hammered into sheets
+W: break easily
+W: dissolve
+E: E.g. copper wires.
+
+Q: Melting ice is a physical change because
+A: no new substance is formed
+W: a new substance is formed
+W: it cannot be reversed
+W: heat is released
+E: It is easily reversed.
+
+Q: Burning paper is a chemical change because
+A: new substances are formed
+W: it is easily reversed
+W: there is no energy change
+W: mass is unchanged in the paper
+E: Ash, smoke and gases are produced.
+
+Q: Rusting of iron is a
+A: chemical change
+W: physical change
+W: mixture
+W: separation
+E: Iron oxide is formed.
+
+Q: Dissolving sugar in water is a
+A: physical change
+W: chemical change
+W: nuclear change
+W: compound formation
+E: Sugar can be recovered by evaporation.
+
+Q: The symbol for potassium is
+A: K
+W: P
+W: Po
+W: Pt
+E: From the Latin kalium.
+
+Q: The symbol for iron is
+A: Fe
+W: Ir
+W: I
+W: In
+E: From the Latin ferrum.
+
+Q: The symbol for lead is
+A: Pb
+W: Le
+W: L
+W: Ld
+E: From the Latin plumbum.
+
+Q: The symbol for silver is
+A: Ag
+W: Si
+W: S
+W: Sv
+E: From the Latin argentum.
+
+Q: Which is a homogeneous mixture?
+A: salt solution
+W: sand and water
+W: oil and water
+W: chalk in water
+E: It is uniform throughout.
+
+Q: The law of conservation of mass states that in a chemical reaction
+A: matter is neither created nor destroyed
+W: mass increases
+W: mass decreases
+W: energy is destroyed
+E: Total mass of reactants equals products.
+
+@topic chm-periodic
+
+Q: Elements in the periodic table are arranged in order of increasing
+A: atomic number
+W: mass number only
+W: density
+W: number of neutrons
+E: This is the modern periodic law.
+
+Q: The horizontal rows of the periodic table are called
+A: periods
+W: groups
+W: families
+W: blocks only
+E: Elements in a period have the same number of shells.
+
+Q: The vertical columns of the periodic table are called
+A: groups
+W: periods
+W: rows
+W: series
+E: Elements in a group have similar properties.
+
+Q: Group 2 elements are called
+A: alkaline earth metals
+W: alkali metals
+W: halogens
+W: noble gases
+E: E.g. magnesium and calcium.
+
+Q: Group 17 elements are called the
+A: halogens
+W: noble gases
+W: alkali metals
+W: transition metals
+E: E.g. fluorine and chlorine.
+
+Q: Noble gases are unreactive because
+A: they have full outer electron shells
+W: they are metals
+W: they are heavy
+W: they are liquids
+E: Their configurations are stable.
+
+Q: Down group 1, reactivity
+A: increases
+W: decreases
+W: stays the same
+W: becomes zero
+E: The outer electron is lost more easily.
+
+Q: Down group 17, reactivity
+A: decreases
+W: increases
+W: stays the same
+W: becomes zero
+E: It is harder to gain an electron.
+
+Q: Across a period from left to right, electronegativity generally
+A: increases
+W: decreases
+W: stays the same
+W: becomes zero
+E: Nuclear charge increases.
+
+Q: Down a group, atomic radius
+A: increases
+W: decreases
+W: stays the same
+W: becomes zero
+E: More electron shells are added.
+
+Q: Ionisation energy is the energy required to
+A: remove an electron from a gaseous atom
+W: add an electron
+W: form a bond
+W: melt a solid
+E: It increases across a period.
+
+Q: Transition metals are found in the
+A: d-block
+W: s-block
+W: p-block
+W: f-block only
+E: E.g. iron and copper.
+
+Q: A property of transition metals is that they
+A: form coloured compounds
+W: are all gases
+W: are all non-metals
+W: never act as catalysts
+E: E.g. blue copper(II) salts.
+
+Q: An element with electron configuration 2, 8, 1 is in group
+A: 1
+W: 2
+W: 8
+W: 3
+E: It has one outer electron.
+
+Q: An element with electron configuration 2, 8, 7 is in group
+A: 17 (VII)
+W: 7 only as a metal group
+W: 2
+W: 8
+E: It has seven outer electrons.
+
+Q: An element with electron configuration 2, 8, 8 is a
+A: noble gas
+W: halogen
+W: alkali metal
+W: transition metal
+E: It has a full outer shell (argon).
+
+Q: Mendeleev arranged elements according to
+A: their atomic masses and properties
+W: their colours
+W: their discoverers
+W: their uses
+E: He left gaps for undiscovered elements.
+
+Q: Metallic character across a period
+A: decreases
+W: increases
+W: stays the same
+W: becomes maximum at the end
+E: Elements become more non-metallic.
+
+Q: Electron affinity is the energy change when
+A: an atom gains an electron
+W: an atom loses an electron
+W: a bond is formed
+W: a solid melts
+E: Halogens have high electron affinities.
+
+Q: Elements in the same period have the same number of
+A: electron shells
+W: outer electrons
+W: protons
+W: neutrons
+E: Period 3 elements have three shells.
+
+Q: Which element is a metalloid?
+A: silicon
+W: sodium
+W: chlorine
+W: argon
+E: It has properties of metals and non-metals.
+
+@topic chm-bonding
+
+Q: An ionic bond is formed by
+A: transfer of electrons from one atom to another
+W: sharing of electrons
+W: sharing of protons
+W: attraction between neutrons
+E: Positive and negative ions attract.
+
+Q: A covalent bond is formed by
+A: sharing of a pair of electrons
+W: transfer of electrons
+W: attraction between ions
+W: sharing of protons
+E: It occurs between non-metals.
+
+Q: In a dative (coordinate) bond,
+A: both shared electrons come from one atom
+W: each atom gives one electron
+W: electrons are transferred
+W: no electrons are shared
+E: E.g. in the ammonium ion.
+
+Q: A triple covalent bond contains
+A: six shared electrons
+W: three shared electrons
+W: two shared electrons
+W: four shared electrons
+E: Three pairs, as in N₂.
+
+Q: The bond in a chlorine molecule (Cl₂) is
+A: covalent
+W: ionic
+W: metallic
+W: dative
+E: Two chlorine atoms share electrons.
+
+Q: Magnesium oxide is held together by
+A: ionic bonds
+W: covalent bonds only
+W: hydrogen bonds
+W: metallic bonds
+E: Mg²⁺ and O²⁻ ions attract.
+
+Q: Ionic compounds conduct electricity when
+A: molten or dissolved in water
+W: solid
+W: frozen
+W: in the gas phase only
+E: Ions become free to move.
+
+Q: Covalent compounds generally have
+A: low melting and boiling points
+W: very high melting points always
+W: high electrical conductivity
+W: ionic lattices
+E: Weak forces between molecules.
+
+Q: Metallic bonding is the attraction between
+A: positive metal ions and a sea of delocalised electrons
+W: two non-metal atoms
+W: positive and negative ions only
+W: neutrons and protons
+E: It explains conductivity.
+
+Q: Hydrogen bonding occurs between molecules containing hydrogen bonded to
+A: highly electronegative atoms such as N, O or F
+W: carbon only
+W: metals
+W: noble gases
+E: It explains water's high boiling point.
+
+Q: Van der Waals forces are
+A: weak intermolecular forces
+W: strong ionic bonds
+W: nuclear forces
+W: metallic bonds
+E: They hold noble gas atoms in liquids.
+
+Q: The shape of a methane molecule is
+A: tetrahedral
+W: linear
+W: bent
+W: trigonal planar
+E: Bond angle about 109.5°.
+
+Q: The shape of a water molecule is
+A: bent (V-shaped)
+W: linear
+W: tetrahedral
+W: trigonal planar
+E: Lone pairs push bonds closer.
+
+Q: The shape of a carbon dioxide molecule is
+A: linear
+W: bent
+W: tetrahedral
+W: pyramidal
+E: Bond angle 180°.
+
+Q: The shape of an ammonia molecule is
+A: trigonal pyramidal
+W: linear
+W: bent
+W: tetrahedral with no lone pairs
+E: Nitrogen has one lone pair.
+
+Q: Diamond is hard because
+A: each carbon atom is covalently bonded to four others in a giant structure
+W: it has free electrons
+W: it is ionic
+W: it has weak forces between layers
+E: Its giant covalent network is rigid.
+
+Q: Sodium chloride has a high melting point because
+A: of strong electrostatic forces in its giant ionic lattice
+W: it is covalent
+W: it has weak forces
+W: it is a metal
+E: Much energy is needed to separate ions.
+
+Q: The ammonium ion (NH₄⁺) contains
+A: a dative bond
+W: only ionic bonds
+W: a metallic bond
+W: no bonds
+E: N donates a lone pair to H⁺.
+
+Q: Electronegativity is the ability of an atom to
+A: attract shared electrons in a bond
+W: lose electrons
+W: conduct electricity
+W: form ions only
+E: Fluorine is the most electronegative.
+
+Q: A polar covalent bond is one in which
+A: electrons are shared unequally
+W: electrons are shared equally
+W: electrons are transferred
+W: there are no electrons
+E: E.g. the O–H bond.
+
+Q: Hydrogen chloride gas is
+A: covalent but forms ions in water
+W: ionic in the gas state
+W: metallic
+W: a noble gas
+E: It ionises to give H⁺ and Cl⁻.
+
+@topic chm-equations
+
+Q: The formula of sodium hydroxide is
+A: NaOH
+W: NaO
+W: NaH
+W: Na₂OH
+E: Na⁺ and OH⁻.
+
+Q: The formula of magnesium chloride is
+A: MgCl₂
+W: MgCl
+W: Mg₂Cl
+W: MgCl₃
+E: Mg²⁺ needs two Cl⁻.
+
+Q: The formula of calcium hydroxide is
+A: Ca(OH)₂
+W: CaOH
+W: CaOH₂
+W: Ca₂OH
+E: Ca²⁺ and two OH⁻.
+
+Q: The formula of ammonium sulphate is
+A: (NH₄)₂SO₄
+W: NH₄SO₄
+W: NH₄(SO₄)₂
+W: (NH₄)₃SO₄
+E: Two NH₄⁺ balance SO₄²⁻.
+
+Q: The formula of copper(II) sulphate is
+A: CuSO₄
+W: Cu₂SO₄
+W: Cu(SO₄)₂
+W: CuSO₃
+E: Cu²⁺ and SO₄²⁻.
+
+Q: The formula of iron(III) oxide is
+A: Fe₂O₃
+W: FeO
+W: Fe₃O₄
+W: FeO₃
+E: Two Fe³⁺ and three O²⁻.
+
+Q: The valency of aluminium is
+A: 3
+W: 1
+W: 2
+W: 4
+E: Al³⁺.
+
+Q: The valency of the nitrate radical is
+A: 1
+W: 2
+W: 3
+W: 4
+E: NO₃⁻.
+
+Q: The valency of the sulphate radical is
+A: 2
+W: 1
+W: 3
+W: 4
+E: SO₄²⁻.
+
+Q: The valency of the phosphate radical is
+A: 3
+W: 1
+W: 2
+W: 4
+E: PO₄³⁻.
+
+Q: The name of HNO₃ is
+A: nitric acid
+W: nitrous acid
+W: hydrochloric acid
+W: sulphuric acid
+E: It is a strong acid.
+
+Q: The name of Na₂CO₃ is
+A: sodium carbonate
+W: sodium hydrogencarbonate
+W: sodium nitrate
+W: sodium sulphate
+E: It is washing soda when hydrated.
+
+Q: The name of KNO₃ is
+A: potassium nitrate
+W: potassium nitrite
+W: potassium carbonate
+W: potassium sulphate
+E: It is saltpetre.
+
+Q: In the balanced equation 2Mg + O₂ → 2MgO, the number of oxygen atoms on each side is
+A: 2
+W: 1
+W: 4
+W: 3
+E: O₂ on the left; 2 in 2MgO.
+
+Q: Balance: N₂ + H₂ → NH₃. The coefficient of H₂ is
+A: 3
+W: 1
+W: 2
+W: 6
+E: N₂ + 3H₂ → 2NH₃.
+
+Q: Balance: CH₄ + O₂ → CO₂ + H₂O. The coefficient of O₂ is
+A: 2
+W: 1
+W: 3
+W: 4
+E: CH₄ + 2O₂ → CO₂ + 2H₂O.
+
+Q: Balance: Al + O₂ → Al₂O₃. The coefficient of Al is
+A: 4
+W: 2
+W: 3
+W: 1
+E: 4Al + 3O₂ → 2Al₂O₃.
+
+Q: The state symbol (s) means
+A: solid
+W: solution
+W: steam
+W: salt
+E: (l) liquid, (g) gas, (aq) aqueous.
+
+Q: The state symbol (g) means
+A: gas
+W: glass
+W: granule
+W: gel
+E: E.g. CO₂(g).
+
+Q: An ionic equation shows
+A: only the ions that take part in the reaction
+W: all ions including spectators
+W: only the products
+W: only the reactants
+E: Spectator ions are left out.
+
+Q: The ionic equation for neutralisation is
+A: H⁺ + OH⁻ → H₂O
+W: Na⁺ + Cl⁻ → NaCl
+W: H₂ + O₂ → H₂O
+W: Cu²⁺ + Zn → Cu + Zn²⁺
+E: Acid and alkali produce water.
+
+Q: Spectator ions are ions that
+A: do not take part in the reaction
+W: form the precipitate
+W: are always coloured
+W: are gases
+E: They remain unchanged in solution.
+
+Q: The empirical formula shows
+A: the simplest whole-number ratio of atoms
+W: the actual number of atoms
+W: the structure of the molecule
+W: the mass of the compound
+E: E.g. CH₂O for glucose.
+
+Q: The molecular formula of ethane is
+A: C₂H₆
+W: CH₄
+W: C₂H₄
+W: C₃H₈
+E: Its empirical formula is CH₃.

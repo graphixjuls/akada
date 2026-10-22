@@ -1,0 +1,1532 @@
+@subject biology
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic bio-organisation
+
+Q: Chlamydomonas is best described as an organism at the level of
+A: a single cell
+W: a tissue
+W: an organ
+W: a colony
+E: Chlamydomonas is unicellular: one cell carries out all life processes.
+
+Q: The heart, blood vessels and blood together form
+A: an organ system
+W: a tissue
+W: an organ
+W: a cell
+E: Several organs and tissues working together for one function form an organ system, here the circulatory system.
+
+Q: Which of the following is a tissue?
+A: xylem
+W: leaf
+W: stomach
+W: kidney
+E: Xylem is a group of similar cells carrying water. Leaf, stomach and kidney are organs.
+
+Q: Which organism shows the colonial level of organisation?
+A: Volvox
+W: Amoeba
+W: Hydra
+W: Spirogyra
+E: Volvox is a colony of many similar cells held together in a jelly-like ball.
+
+Q: Spirogyra is an example of a
+A: filamentous organism
+W: colonial organism
+W: single cell
+W: organ system
+E: Spirogyra cells are joined end to end to form a long thread called a filament.
+
+Q: In a multicellular organism, cells take on different jobs. This is called
+A: division of labour
+W: osmosis
+W: binary fission
+W: homeostasis
+E: Division of labour means groups of cells specialise for particular functions.
+
+Q: The stomach is regarded as an organ because it
+A: is made of different tissues working together
+W: is made of only one type of cell
+W: carries out every life process alone
+W: is found only in mammals
+E: An organ is a structure made of several tissues that work together for a function.
+
+Q: Which is a correct example of an organ in a plant?
+A: root
+W: phloem
+W: epidermal cell
+W: palisade cell
+E: A root contains several tissues (epidermis, cortex, xylem, phloem), so it is an organ.
+
+Q: An advantage of the cellular level of organisation in Amoeba is that
+A: materials diffuse quickly across its short distances
+W: it has a heart to pump food
+W: it has separate organs for each function
+W: it can never be harmed by its environment
+E: A single small cell has a large surface area to volume ratio, so diffusion is enough for its needs.
+
+Q: Which of the following organisms is multicellular?
+A: Hydra
+W: Paramecium
+W: Euglena
+W: Amoeba
+E: Hydra is made of many cells arranged in tissues. The others are single-celled.
+
+Q: Muscle cells, nerve cells and red blood cells look different because
+A: each is specialised for its function
+W: they come from different organisms
+W: they have no nucleus
+W: they all carry out photosynthesis
+E: Cells in a multicellular body are shaped to suit their particular job.
+
+Q: The level of organisation between a tissue and an organ system is the
+A: organ
+W: cell
+W: organism
+W: population
+E: The order is cell → tissue → organ → organ system → organism.
+
+Q: Which human system includes the kidneys, ureters and bladder?
+A: excretory system
+W: digestive system
+W: nervous system
+W: skeletal system
+E: These organs work together to remove urea and excess water as urine.
+
+Q: Which problem arises as organisms become larger and more complex?
+A: diffusion alone cannot supply inner cells
+W: cells can no longer divide
+W: they cannot carry out respiration
+W: they stop needing food
+E: Large organisms have a small surface area to volume ratio, so they need transport systems.
+
+Q: The epidermis of a leaf is an example of a
+A: tissue
+W: organ
+W: cell organelle
+W: organ system
+E: The epidermis is a layer of similar cells with one function: protection.
+
+Q: Which feature makes Paramecium an organism at the cellular level?
+A: it is made of one cell that performs all life processes
+W: it has organs for digestion
+W: it lives in colonies
+W: it forms tissues
+E: Paramecium is unicellular; its single cell feeds, moves, excretes and reproduces.
+
+Q: A flower is best described as
+A: an organ for reproduction
+W: a tissue for support
+W: a single cell
+W: an organ system for transport
+E: A flower is made of several tissues and is the reproductive organ of flowering plants.
+
+Q: Blood is classified as a tissue because it
+A: is made of cells and a fluid that work together
+W: is an organ
+W: is a single cell
+W: is found only in plants
+E: Blood is a fluid tissue: red cells, white cells and platelets in plasma.
+
+Q: In which order would a biologist list these: organism, cell, tissue?
+A: cell, tissue, organism
+W: organism, cell, tissue
+W: tissue, organism, cell
+W: cell, organism, tissue
+E: Cells make tissues, and tissues (through organs and systems) make the organism.
+
+Q: Euglena is unusual because it
+A: can make its own food and also feed on other matter
+W: is multicellular
+W: has a backbone
+W: forms tissues
+E: Euglena has chloroplasts but can also absorb food, so it shows features of plants and animals.
+
+Q: Which of these is NOT a tissue?
+A: liver
+W: bone
+W: phloem
+W: muscle
+E: The liver is an organ made of several tissues.
+
+Q: The digestive system and the circulatory system working together is an example of
+A: systems cooperating in a whole organism
+W: two cells working alone
+W: a tissue
+W: a colony
+E: In an organism, organ systems depend on each other: digestion supplies food that blood carries.
+
+Q: Which of these is a disadvantage of the cellular level of organisation?
+A: the cell is easily harmed by changes in its surroundings
+W: it needs a heart
+W: it cannot reproduce
+W: it is too large to feed
+E: A single cell has no protective tissues, so harsh conditions can easily damage it.
+
+Q: Specialised cells in a tissue are usually
+A: similar in structure and function
+W: from different organisms
+W: unable to divide ever
+W: all nerve cells
+E: A tissue is a group of similar cells doing the same job.
+
+@topic bio-plant-structure
+
+Q: The part of a root that protects the growing tip is the
+A: root cap
+W: root hair
+W: xylem
+W: cortex
+E: The root cap shields the delicate tip as it pushes through the soil.
+
+Q: Root hairs increase water absorption because they
+A: increase the surface area of the root
+W: make food for the root
+W: store starch
+W: carry water upwards
+E: Many thin root hairs give a large surface area for absorbing water and mineral salts.
+
+Q: The yam tuber is a modified
+A: stem
+W: root
+W: leaf
+W: flower
+E: Yam tubers have buds and are swollen underground stems that store food.
+
+Q: Sweet potato and carrot store food in their
+A: roots
+W: stems
+W: leaves
+W: flowers
+E: They are tap roots swollen with stored food.
+
+Q: Onion is an example of a
+A: bulb
+W: rhizome
+W: corm
+W: stem tuber
+E: An onion bulb has fleshy leaf bases that store food around a short stem.
+
+Q: Ginger stores food in a
+A: rhizome
+W: bulb
+W: tap root
+W: corm
+E: Ginger is a horizontal underground stem called a rhizome.
+
+Q: Which structure carries manufactured food from the leaves to other parts?
+A: phloem
+W: xylem
+W: cuticle
+W: cambium
+E: Phloem transports sugars made in photosynthesis.
+
+Q: The waxy layer covering a leaf surface is the
+A: cuticle
+W: stoma
+W: mesophyll
+W: midrib
+E: The cuticle reduces water loss from the leaf surface.
+
+Q: The stalk that attaches a leaf to the stem is the
+A: petiole
+W: lamina
+W: node
+W: internode
+E: The petiole (leaf stalk) holds the lamina out to the light.
+
+Q: The part of a stem between two nodes is the
+A: internode
+W: petiole
+W: axil
+W: lamina
+E: Nodes are where leaves join; the length between them is the internode.
+
+Q: A bud found in the angle between a leaf and the stem is
+A: an axillary bud
+W: a terminal bud
+W: a root hair
+W: a stoma
+E: Axillary buds grow in the leaf axil and can form side branches.
+
+Q: Prop roots that grow from the stem and support plants such as maize are
+A: adventitious roots
+W: tap roots
+W: root hairs
+W: tubers
+E: Adventitious roots arise from parts other than the radicle, such as the stem.
+
+Q: Which tissue in a dicotyledonous stem divides to increase its girth?
+A: cambium
+W: xylem
+W: epidermis
+W: pith
+E: The cambium produces new xylem and phloem, making the stem thicker.
+
+Q: Tendrils in plants such as pumpkin help the plant to
+A: climb and get support
+W: store water
+W: absorb minerals
+W: make seeds
+E: Tendrils coil round supports so the weak stem can climb towards light.
+
+Q: Which of these is a monocotyledonous plant?
+A: maize
+W: beans
+W: groundnut
+W: hibiscus
+E: Maize has one seed leaf, parallel veins and fibrous roots.
+
+Q: The spines of cactus are modified
+A: leaves
+W: roots
+W: flowers
+W: fruits
+E: Spines are reduced leaves that cut down water loss in dry places.
+
+Q: Mistletoe obtains water and minerals from its host using
+A: haustoria
+W: root hairs
+W: prop roots
+W: tendrils
+E: Haustoria are special roots that grow into the host's tissues.
+
+Q: In a cross-section of a dicot root, xylem is usually arranged
+A: in a star shape at the centre
+W: in a ring of bundles near the edge
+W: scattered all over
+W: only in the root hairs
+E: Dicot roots have a central star-shaped xylem with phloem between its arms.
+
+Q: In a monocot stem, the vascular bundles are
+A: scattered throughout the stem
+W: arranged in a single ring
+W: found only in the pith
+W: absent
+E: Scattered vascular bundles are a feature of monocot stems such as maize.
+
+Q: The main function of the leaf is
+A: photosynthesis
+W: absorption of water
+W: anchorage
+W: storage of seeds
+E: Leaves are adapted to trap light and make food.
+
+Q: The cassava root is useful to the plant because it
+A: stores food
+W: carries out photosynthesis
+W: produces flowers
+W: traps insects
+E: Cassava roots are swollen with stored starch.
+
+Q: Which part of the plant anchors it firmly in the soil?
+A: root
+W: leaf
+W: flower
+W: petiole
+E: Roots hold the plant in place and absorb water.
+
+Q: Cocoyam stores food in a
+A: corm
+W: bulb
+W: rhizome
+W: tap root
+E: A cocoyam corm is a short, swollen, upright underground stem.
+
+Q: Which of the following best describes a herbaceous plant?
+A: a plant with a soft, green, non-woody stem
+W: a tall tree with a woody trunk
+W: a plant without roots
+W: a plant that never flowers
+E: Herbaceous plants have soft stems and little or no wood.
+
+@topic bio-cycles
+
+Q: Which organisms are the main decomposers in nutrient cycles?
+A: bacteria and fungi
+W: grasses and trees
+W: birds and insects
+W: algae only
+E: Bacteria and fungi break down dead matter and return nutrients to the soil.
+
+Q: Nitrogen-fixing bacteria such as Rhizobium are found in
+A: root nodules of legumes
+W: the leaves of maize
+W: the stomach of cows
+W: sea water only
+E: Rhizobium lives in nodules on the roots of beans, groundnut and other legumes.
+
+Q: Plants absorb nitrogen from the soil mainly in the form of
+A: nitrates
+W: nitrogen gas
+W: nitrites
+W: ammonia gas
+E: Most plants take up nitrogen as nitrate ions dissolved in soil water.
+
+Q: The process in which nitrites are changed into nitrates is
+A: nitrification
+W: denitrification
+W: ammonification
+W: putrefaction
+E: Nitrifying bacteria such as Nitrobacter convert nitrites into nitrates.
+
+Q: Nitrobacter converts
+A: nitrites into nitrates
+W: nitrates into nitrogen gas
+W: nitrogen gas into ammonia
+W: proteins into amino acids
+E: Nitrobacter carries out the second step of nitrification.
+
+Q: The breakdown of proteins in dead organisms to release ammonia is called
+A: ammonification
+W: nitrification
+W: denitrification
+W: photosynthesis
+E: Decomposers release ammonia from dead proteins; this is ammonification (putrefaction).
+
+Q: Which process removes carbon dioxide from the atmosphere?
+A: photosynthesis
+W: respiration
+W: burning of fuel
+W: decay
+E: Green plants take in carbon dioxide to make food.
+
+Q: Burning firewood adds which gas to the atmosphere?
+A: carbon dioxide
+W: oxygen
+W: nitrogen
+W: hydrogen
+E: Combustion of carbon-containing fuels releases carbon dioxide.
+
+Q: Which of the following does NOT add carbon dioxide to the air?
+A: photosynthesis
+W: respiration of animals
+W: decay of dead leaves
+W: burning of petrol
+E: Photosynthesis uses carbon dioxide; the others release it.
+
+Q: Waterlogged soils lose nitrogen mainly through
+A: denitrification
+W: nitrification
+W: nitrogen fixation
+W: photosynthesis
+E: Denitrifying bacteria thrive in waterlogged, airless soil and release nitrogen gas.
+
+Q: The loss of water vapour from plants into the air is part of the water cycle and is called
+A: transpiration
+W: precipitation
+W: condensation
+W: infiltration
+E: Transpiration returns water from leaves to the atmosphere.
+
+Q: Rain, snow and hail falling to the ground are forms of
+A: precipitation
+W: evaporation
+W: condensation
+W: transpiration
+E: Precipitation brings water from clouds back to the land and sea.
+
+Q: Fossil fuels are part of the carbon cycle because they
+A: are carbon from organisms that lived long ago
+W: are made of pure oxygen
+W: absorb carbon dioxide when burnt
+W: contain no carbon
+E: Coal and crude oil formed from dead organisms, so burning them releases stored carbon.
+
+Q: Which organism takes in carbon dioxide during the day?
+A: a green plant
+W: a goat
+W: a mushroom
+W: a lion
+E: Only green plants photosynthesise, taking in carbon dioxide in light.
+
+Q: The oxygen cycle is closely linked to the carbon cycle because
+A: photosynthesis releases oxygen and respiration uses it
+W: oxygen is made by burning fuels
+W: animals release oxygen
+W: decomposers release oxygen
+E: Photosynthesis and respiration exchange carbon dioxide and oxygen in opposite directions.
+
+Q: Planting legumes such as cowpea improves soil fertility because they
+A: add nitrogen compounds to the soil
+W: remove nitrogen from the soil
+W: kill all soil bacteria
+W: make the soil waterlogged
+E: Nitrogen-fixing bacteria in their root nodules enrich the soil with nitrogen.
+
+Q: Animals obtain nitrogen mainly by
+A: eating plants or other animals
+W: breathing in nitrogen gas
+W: absorbing nitrates through their skin
+W: drinking rain water
+E: Animals get nitrogen as protein in their food.
+
+Q: Nitrosomonas converts
+A: ammonium compounds into nitrites
+W: nitrites into nitrates
+W: nitrates into nitrogen gas
+W: nitrogen gas into nitrates
+E: Nitrosomonas carries out the first step of nitrification.
+
+Q: Large-scale burning of fossil fuels is linked to
+A: global warming
+W: more oxygen in the air
+W: fewer greenhouse gases
+W: colder climate everywhere
+E: Extra carbon dioxide traps heat in the atmosphere, causing global warming.
+
+Q: In the water cycle, water seeping into the ground is called
+A: infiltration
+W: transpiration
+W: evaporation
+W: condensation
+E: Infiltration refills soil water and groundwater.
+
+Q: Which of the following is the main reservoir of nitrogen?
+A: the atmosphere
+W: the oceans
+W: rocks
+W: living animals
+E: About 78% of air is nitrogen gas.
+
+Q: Decay is faster in warm, moist conditions because
+A: decomposers are more active
+W: oxygen is absent
+W: plants grow faster
+W: nitrogen gas is released
+E: Bacteria and fungi grow and work fastest when warm and moist.
+
+Q: Which two processes in the carbon cycle are exact opposites in what they take in and give out?
+A: photosynthesis and respiration
+W: decay and burning
+W: transpiration and precipitation
+W: nitrification and denitrification
+E: Photosynthesis takes in CO₂ and gives out O₂; respiration does the reverse.
+
+Q: Cutting down forests affects the carbon cycle by
+A: reducing the removal of carbon dioxide from the air
+W: increasing photosynthesis
+W: adding more oxygen
+W: stopping respiration
+E: Fewer trees means less carbon dioxide taken up by photosynthesis.
+
+@topic bio-classification
+
+Q: The correct order of classification groups from largest to smallest is
+A: kingdom, phylum, class, order, family, genus, species
+W: species, genus, family, order, class, phylum, kingdom
+W: kingdom, class, phylum, order, genus, family, species
+W: phylum, kingdom, class, order, family, species, genus
+E: Kingdom is the largest group and species the smallest.
+
+Q: In the scientific name Homo sapiens, sapiens is the
+A: species name
+W: genus name
+W: family name
+W: kingdom name
+E: The first word is the genus and the second is the species.
+
+Q: Who introduced the binomial system of naming organisms?
+A: Carolus Linnaeus
+W: Charles Darwin
+W: Gregor Mendel
+W: Robert Hooke
+E: Linnaeus gave each organism a genus and a species name.
+
+Q: Bacteria belong to the kingdom
+A: Monera
+W: Protista
+W: Fungi
+W: Plantae
+E: Monera (prokaryotes) have no true nucleus.
+
+Q: Amoeba and Paramecium belong to the kingdom
+A: Protista
+W: Monera
+W: Fungi
+W: Animalia
+E: They are single-celled organisms with a true nucleus.
+
+Q: Which feature is shared by all vertebrates?
+A: a backbone
+W: feathers
+W: scales
+W: six legs
+E: Vertebrates have a vertebral column.
+
+Q: Animals with feathers and beaks belong to the class
+A: Aves
+W: Reptilia
+W: Amphibia
+W: Mammalia
+E: Aves (birds) have feathers, beaks and lay hard-shelled eggs.
+
+Q: The toad belongs to the class
+A: Amphibia
+W: Reptilia
+W: Pisces
+W: Aves
+E: Amphibians have moist skin and live part of their life in water.
+
+Q: Which group of animals has an exoskeleton and jointed legs?
+A: arthropods
+W: mammals
+W: annelids
+W: molluscs
+E: Arthropods such as insects and crabs have jointed limbs and a hard outer skeleton.
+
+Q: Earthworms belong to the phylum
+A: Annelida
+W: Arthropoda
+W: Mollusca
+W: Chordata
+E: Annelids have soft, ringed (segmented) bodies.
+
+Q: Snails belong to the phylum
+A: Mollusca
+W: Annelida
+W: Arthropoda
+W: Chordata
+E: Molluscs have soft bodies, often protected by a shell.
+
+Q: How many legs does an adult insect have?
+A: six
+W: four
+W: eight
+W: ten
+E: Insects have three pairs of jointed legs.
+
+Q: Spiders differ from insects because spiders have
+A: eight legs
+W: six legs
+W: three body parts
+W: antennae
+E: Spiders (arachnids) have four pairs of legs and two body parts.
+
+Q: Plants that produce seeds in cones, such as pine, are called
+A: gymnosperms
+W: angiosperms
+W: ferns
+W: mosses
+E: Gymnosperms have naked seeds, usually in cones.
+
+Q: Flowering plants are called
+A: angiosperms
+W: gymnosperms
+W: bryophytes
+W: pteridophytes
+E: Angiosperms produce seeds enclosed in fruits.
+
+Q: Mosses belong to the group
+A: Bryophyta
+W: Pteridophyta
+W: Spermatophyta
+W: Thallophyta
+E: Bryophytes are small, non-vascular plants such as mosses and liverworts.
+
+Q: Ferns differ from mosses because ferns have
+A: vascular tissue
+W: no roots at all
+W: flowers
+W: seeds
+E: Ferns (pteridophytes) have xylem and phloem; mosses do not.
+
+Q: Which of these is a cold-blooded animal?
+A: lizard
+W: goat
+W: eagle
+W: bat
+E: Reptiles cannot keep a constant body temperature; their temperature changes with the surroundings.
+
+Q: Which characteristic is used to place an animal in the class Mammalia?
+A: it has mammary glands and hair
+W: it lays eggs in water
+W: it has gills
+W: it has scales and fins
+E: Mammals feed their young on milk and have hair or fur.
+
+Q: Fish breathe with
+A: gills
+W: lungs
+W: skin only
+W: spiracles
+E: Gills take oxygen from water.
+
+Q: A virus is not placed in any of the five kingdoms mainly because it
+A: is not made of cells and reproduces only inside living cells
+W: is too large
+W: makes its own food
+W: has a backbone
+E: Viruses are not cellular and show life only inside a host cell.
+
+Q: Which of these organisms makes its own food?
+A: Spirogyra
+W: Rhizopus
+W: Amoeba
+W: Mucor
+E: Spirogyra has chloroplasts; Rhizopus and Mucor are fungi and Amoeba is a protist.
+
+Q: Which of these is a characteristic of fungi?
+A: they feed on dead or living matter and have no chlorophyll
+W: they make food by photosynthesis
+W: they have a backbone
+W: they are all single-celled
+E: Fungi are saprophytes or parasites and lack chlorophyll.
+
+Q: The snake belongs to the class
+A: Reptilia
+W: Amphibia
+W: Aves
+W: Mammalia
+E: Snakes are reptiles: dry, scaly skin and they lay leathery eggs.
+
+@topic bio-cells
+
+Q: Which structure controls what enters and leaves the cell?
+A: cell membrane
+W: cell wall
+W: nucleus
+W: vacuole
+E: The cell membrane is partially permeable and regulates movement of substances.
+
+Q: The cell wall of plant cells is made mainly of
+A: cellulose
+W: chitin
+W: protein
+W: starch
+E: Cellulose gives the plant cell wall strength.
+
+Q: Which organelle stores cell sap in plant cells?
+A: large central vacuole
+W: mitochondrion
+W: ribosome
+W: nucleus
+E: The vacuole holds cell sap and keeps the cell firm.
+
+Q: Which of the following is found in both plant and animal cells?
+A: mitochondria
+W: chloroplasts
+W: cellulose cell wall
+W: large permanent vacuole
+E: Both plant and animal cells respire, so both contain mitochondria.
+
+Q: Which instrument is used to see the fine details of organelles such as ribosomes?
+A: electron microscope
+W: hand lens
+W: light microscope at low power
+W: telescope
+E: Ribosomes are too small for a light microscope; an electron microscope is needed.
+
+Q: The jelly-like substance in which organelles are found is the
+A: cytoplasm
+W: cell sap
+W: nucleolus
+W: cell wall
+E: Chemical reactions of the cell take place in the cytoplasm.
+
+Q: Genetic material is found mainly in the
+A: nucleus
+W: vacuole
+W: cell wall
+W: chloroplast
+E: The nucleus contains chromosomes made of DNA.
+
+Q: Mature red blood cells in humans have no
+A: nucleus
+W: cell membrane
+W: cytoplasm
+W: haemoglobin
+E: Lacking a nucleus leaves more space for haemoglobin to carry oxygen.
+
+Q: Which organelle packages and transports proteins in the cell?
+A: Golgi body
+W: ribosome
+W: chloroplast
+W: vacuole
+E: The Golgi body modifies, packs and sends out proteins.
+
+Q: The cell theory states that
+A: all living things are made of cells
+W: all cells have a cell wall
+W: cells are found only in animals
+W: cells come from non-living matter
+E: The cell theory says cells are the basic unit of life and come from existing cells.
+
+Q: Which part of the nucleus makes ribosomes?
+A: nucleolus
+W: nuclear membrane
+W: chromosome
+W: vacuole
+E: The nucleolus produces ribosomal material.
+
+Q: Lysosomes in a cell are important because they
+A: contain digestive enzymes
+W: make food by photosynthesis
+W: store cell sap
+W: give the cell its shape
+E: Lysosomes break down worn-out parts and engulfed materials.
+
+Q: Which feature is found in bacterial cells but not in animal cells?
+A: a cell wall
+W: a cell membrane
+W: cytoplasm
+W: ribosomes
+E: Bacteria have a cell wall; animal cells do not.
+
+Q: In plant cells, chloroplasts are most numerous in the
+A: palisade mesophyll
+W: root cells
+W: xylem vessels
+W: epidermis of the root
+E: Palisade cells near the upper leaf surface receive the most light.
+
+Q: The total magnification of a microscope with ×10 eyepiece and ×40 objective is
+A: ×400
+W: ×50
+W: ×30
+W: ×4
+E: Multiply the two: 10 × 40 = 400.
+
+Q: Which stain is commonly used to show the nucleus in onion cells?
+A: iodine solution
+W: Benedict's solution
+W: limewater
+W: Sudan III
+E: Iodine stains the nucleus and makes cells easier to see.
+
+Q: A cell that lacks chloroplasts but has a cell wall and a large vacuole is most likely
+A: a plant root cell
+W: an animal cell
+W: a red blood cell
+W: a nerve cell
+E: Root cells are plant cells but receive no light, so they have no chloroplasts.
+
+Q: Which organelle is called the powerhouse of the cell?
+A: mitochondrion
+W: nucleus
+W: ribosome
+W: Golgi body
+E: Mitochondria release energy from food in aerobic respiration.
+
+Q: The endoplasmic reticulum is a network of membranes that
+A: transports materials within the cell
+W: stores starch
+W: traps sunlight
+W: controls cell division only
+E: The ER forms channels for moving substances; rough ER carries ribosomes.
+
+Q: Which cell is adapted for carrying messages around the body?
+A: nerve cell
+W: red blood cell
+W: guard cell
+W: root hair cell
+E: Nerve cells (neurones) have long fibres to carry impulses.
+
+Q: Guard cells are found
+A: around stomata in leaves
+W: in the human stomach
+W: in red blood cells
+W: at the root tip only
+E: Pairs of guard cells open and close the stomata.
+
+Q: The cell wall is described as fully permeable because it
+A: allows most substances to pass through
+W: lets nothing pass
+W: allows only water to pass
+W: stops all gases
+E: Unlike the membrane, the cell wall does not control entry of substances.
+
+Q: Which of these organisms has cells without a true nucleus?
+A: bacterium
+W: Amoeba
+W: yeast
+W: mushroom
+E: Bacteria are prokaryotes; their DNA lies free in the cytoplasm.
+
+Q: Which feature allows a root hair cell to absorb water efficiently?
+A: its long, thin extension giving a large surface area
+W: its many chloroplasts
+W: its thick waxy cuticle
+W: its lack of a cell membrane
+E: The root hair extension greatly increases surface area for absorption.
+
+@topic bio-environment
+
+Q: Diffusion is the movement of particles from a region of
+A: higher concentration to lower concentration
+W: lower concentration to higher concentration
+W: low pressure to high pressure only
+W: dead cells to living cells
+E: Particles spread out down a concentration gradient.
+
+Q: Osmosis needs a
+A: partially permeable membrane
+W: fully permeable cell wall
+W: source of light
+W: supply of enzymes
+E: Osmosis is diffusion of water through a partially permeable membrane.
+
+Q: A plant cell placed in pure water becomes
+A: turgid
+W: plasmolysed
+W: flaccid
+W: shrunken
+E: Water enters by osmosis and the cell swells against its wall.
+
+Q: The shrinking of the cytoplasm away from the cell wall in a concentrated solution is called
+A: plasmolysis
+W: turgidity
+W: haemolysis
+W: diffusion
+E: Water leaves the vacuole by osmosis, pulling the membrane away from the wall.
+
+Q: A red blood cell placed in a concentrated salt solution will
+A: shrink
+W: burst
+W: stay the same
+W: grow a cell wall
+E: Water leaves the cell by osmosis, so it shrinks (crenates).
+
+Q: The bursting of red blood cells placed in water is called
+A: haemolysis
+W: plasmolysis
+W: crenation
+W: osmosis only
+E: Water floods in by osmosis and, without a cell wall, the cell bursts.
+
+Q: Which factor increases the rate of diffusion?
+A: a higher temperature
+W: a smaller surface area
+W: a thicker membrane
+W: a smaller concentration difference
+E: Particles move faster at higher temperatures.
+
+Q: Active transport differs from diffusion because it
+A: uses energy to move substances against a concentration gradient
+W: needs no energy
+W: moves only water
+W: happens only in dead cells
+E: Active transport uses energy from respiration.
+
+Q: Root hair cells take up mineral ions from soil with low concentrations by
+A: active transport
+W: osmosis
+W: plasmolysis
+W: transpiration
+E: Ions are moved in against the gradient using energy.
+
+Q: Fresh vegetables kept in salted water become limp because
+A: water leaves their cells by osmosis
+W: salt enters and makes them swell
+W: they absorb too much water
+W: they carry out photosynthesis
+E: The salty solution is more concentrated than the cell sap.
+
+Q: Oxygen moves from the alveoli into the blood by
+A: diffusion
+W: active transport
+W: osmosis
+W: plasmolysis
+E: Oxygen diffuses from high concentration in the air sacs to lower concentration in blood.
+
+Q: Turgidity in plant cells helps to
+A: support non-woody plants
+W: kill the cells
+W: stop photosynthesis
+W: remove the cell wall
+E: Firm, turgid cells keep soft stems and leaves upright.
+
+Q: A solution with a higher water concentration than the cell contents is described as
+A: hypotonic
+W: hypertonic
+W: isotonic
+W: saturated
+E: Water enters cells placed in a hypotonic solution.
+
+Q: A solution with the same concentration as the cell contents is
+A: isotonic
+W: hypotonic
+W: hypertonic
+W: concentrated
+E: There is no net movement of water in an isotonic solution.
+
+Q: Why do plants wilt on a hot, dry afternoon?
+A: their cells lose turgor as water is lost faster than it is absorbed
+W: they gain too much water
+W: their cells burst
+W: photosynthesis stops completely
+E: When water loss exceeds uptake, cells become flaccid and the plant droops.
+
+Q: Which of these is an example of osmosis?
+A: water entering root hairs from the soil
+W: carbon dioxide entering a leaf
+W: ink spreading in water
+W: smoke spreading in a room
+E: Water moves into root cells across their partially permeable membranes.
+
+Q: Preserving fish with plenty of salt works because
+A: bacteria lose water by osmosis and die
+W: salt adds water to the fish
+W: salt feeds the bacteria
+W: salt makes the fish turgid
+E: The salt draws water out of microorganisms, preventing decay.
+
+Q: Visking tubing is often used in experiments on osmosis because it
+A: is partially permeable
+W: is fully permeable
+W: lets nothing pass
+W: makes food
+E: It lets small molecules like water through but not larger ones like sucrose.
+
+Q: Which is NOT a factor affecting the rate of diffusion?
+A: the colour of the particles
+W: temperature
+W: concentration gradient
+W: surface area
+E: Colour does not change how quickly particles diffuse.
+
+Q: Amoeba removes excess water that enters by osmosis using its
+A: contractile vacuole
+W: cell wall
+W: chloroplast
+W: nucleus
+E: The contractile vacuole collects and expels water.
+
+Q: A potato strip placed in strong sugar solution becomes
+A: softer and shorter
+W: harder and longer
+W: unchanged
+W: green
+E: Water leaves the potato cells by osmosis, so the strip shrinks and goes limp.
+
+Q: Carbon dioxide enters a leaf through the stomata by
+A: diffusion
+W: osmosis
+W: active transport
+W: capillarity
+E: It diffuses from the air, where it is more concentrated, into the leaf.
+
+Q: Which statement about osmosis is correct?
+A: it involves water molecules moving through a membrane
+W: it moves only solute particles
+W: it always needs light
+W: it happens only in animals
+E: Osmosis is the movement of water across a partially permeable membrane.
+
+Q: Wilted vegetables become firm again when placed in clean water because
+A: water enters their cells by osmosis
+W: salt leaves their cells
+W: they carry out photosynthesis in water
+W: their cell walls dissolve
+E: The cells take in water and regain turgor.
+
+@topic bio-photosynthesis
+
+Q: The word equation for photosynthesis is
+A: carbon dioxide + water → glucose + oxygen
+W: glucose + oxygen → carbon dioxide + water
+W: oxygen + water → glucose + carbon dioxide
+W: starch + oxygen → glucose + water
+E: Plants use light energy and chlorophyll to make glucose and release oxygen.
+
+Q: In which part of the cell does photosynthesis take place?
+A: chloroplast
+W: mitochondrion
+W: nucleus
+W: vacuole
+E: Chloroplasts contain chlorophyll which traps light.
+
+Q: The pigment that traps light energy for photosynthesis is
+A: chlorophyll
+W: haemoglobin
+W: melanin
+W: carotene only
+E: Chlorophyll absorbs light energy.
+
+Q: Before testing a leaf for starch, it is boiled in alcohol to
+A: remove the chlorophyll
+W: add starch
+W: soften the cuticle only
+W: kill bacteria
+E: Removing the green colour makes the iodine colour change easier to see.
+
+Q: A leaf that contains starch turns which colour with iodine?
+A: blue-black
+W: brick red
+W: purple
+W: green
+E: Iodine turns blue-black when starch is present.
+
+Q: A plant is destarched by
+A: keeping it in darkness for about two days
+W: watering it heavily
+W: placing it in sunlight
+W: adding fertiliser
+E: In darkness the plant uses up its stored starch.
+
+Q: Soda lime is used in photosynthesis experiments to
+A: absorb carbon dioxide
+W: supply oxygen
+W: supply light
+W: absorb water only
+E: It removes carbon dioxide to show the gas is needed.
+
+Q: The gas released during photosynthesis comes from
+A: water
+W: carbon dioxide
+W: glucose
+W: chlorophyll
+E: Water molecules are split in the light stage, releasing oxygen.
+
+Q: Which factor is NOT needed for photosynthesis?
+A: oxygen
+W: light
+W: carbon dioxide
+W: chlorophyll
+E: Oxygen is a product, not a requirement.
+
+Q: The first product of photosynthesis that is easily detected in leaves is
+A: starch
+W: protein
+W: oil
+W: vitamin
+E: Glucose made is quickly converted to starch for storage.
+
+Q: Magnesium deficiency in plants causes
+A: yellowing of leaves
+W: red flowers
+W: extra-long roots
+W: thicker stems
+E: Magnesium is needed to make chlorophyll, so its lack causes chlorosis.
+
+Q: Plants such as mistletoe that live on another plant and take food from it are
+A: parasites
+W: autotrophs only
+W: saprophytes
+W: insectivorous
+E: Mistletoe draws water and minerals from its host.
+
+Q: Organisms that make their own food from simple substances are called
+A: autotrophs
+W: heterotrophs
+W: saprophytes
+W: parasites
+E: Green plants are autotrophs.
+
+Q: Which mineral element is important for root growth in plants?
+A: phosphorus
+W: iron
+W: copper
+W: sodium
+E: Phosphorus encourages strong roots.
+
+Q: Nitrogen is needed by plants mainly to make
+A: proteins
+W: starch
+W: cellulose only
+W: oxygen
+E: Nitrogen is part of amino acids and proteins.
+
+Q: Increasing light intensity increases the rate of photosynthesis up to a point because
+A: another factor such as carbon dioxide then becomes limiting
+W: light kills the chloroplasts
+W: plants stop needing water
+W: oxygen runs out
+E: Beyond a point, rate is limited by another factor such as CO₂ or temperature.
+
+Q: The light stage of photosynthesis produces
+A: oxygen and energy-carrying molecules
+W: glucose only
+W: carbon dioxide
+W: starch
+E: Light splits water, releasing oxygen and making ATP and reduced carriers.
+
+Q: The dark stage of photosynthesis is also called the
+A: light-independent stage
+W: light stage
+W: photolysis
+W: respiration stage
+E: It uses carbon dioxide to make sugars and does not need light directly.
+
+Q: Variegated leaves are useful in experiments to show that photosynthesis needs
+A: chlorophyll
+W: oxygen
+W: soil
+W: darkness
+E: Only the green parts turn blue-black with iodine.
+
+Q: Which of the following organisms is a saprophyte?
+A: mushroom
+W: hibiscus
+W: tapeworm
+W: maize
+E: Saprophytes feed on dead and decaying matter.
+
+Q: The broad, flat shape of a leaf helps photosynthesis because it
+A: gives a large surface area to absorb light
+W: stores more water
+W: keeps light out
+W: prevents gas exchange
+E: More surface means more light and carbon dioxide can be absorbed.
+
+Q: The air spaces in the spongy mesophyll help photosynthesis by
+A: allowing gases to diffuse to the cells
+W: storing starch
+W: carrying water
+W: trapping sunlight
+E: Carbon dioxide spreads through the air spaces to the photosynthesising cells.
+
+Q: When a green plant is in bright light, which gas is it releasing in the greatest amount?
+A: oxygen
+W: carbon dioxide
+W: nitrogen
+W: hydrogen
+E: In bright light photosynthesis is faster than respiration, so there is net oxygen release.
+
+Q: Bubbles given off by a water plant such as Elodea in light are mainly
+A: oxygen
+W: carbon dioxide
+W: nitrogen
+W: water vapour
+E: The plant releases oxygen during photosynthesis.
+
+@topic bio-ecology
+
+Q: All the populations living and interacting in an area form a
+A: community
+W: species
+W: biosphere
+W: niche
+E: A community is all the different populations in one place.
+
+Q: The place where an organism lives is its
+A: habitat
+W: niche
+W: population
+W: community
+E: A habitat provides the conditions an organism needs.
+
+Q: A community together with its non-living environment is an
+A: ecosystem
+W: population
+W: organism
+W: habitat
+E: An ecosystem includes living things and their physical surroundings.
+
+Q: Organisms that feed only on plants are
+A: herbivores
+W: carnivores
+W: omnivores
+W: decomposers
+E: Herbivores such as goats are primary consumers.
+
+Q: Which organism is an omnivore?
+A: human
+W: goat
+W: lion
+W: cow
+E: Humans eat both plant and animal food.
+
+Q: In a food chain, energy is lost at each level mainly as
+A: heat from respiration
+W: light
+W: sound
+W: oxygen
+E: Organisms use energy and lose much of it as heat, so less passes on.
+
+Q: A food web is
+A: many interconnected food chains
+W: a single food chain
+W: the number of animals in a habitat
+W: a pyramid of numbers
+E: Most animals eat more than one food, so food chains link into webs.
+
+Q: Which organism occupies the first trophic level?
+A: a producer
+W: a primary consumer
+W: a secondary consumer
+W: a decomposer
+E: Producers (green plants) start every food chain.
+
+Q: In a pyramid of energy, the base represents
+A: producers
+W: top carnivores
+W: decomposers
+W: herbivores
+E: Producers hold the most energy, so they form the wide base.
+
+Q: Why are food chains rarely longer than five links?
+A: too little energy is left at the higher levels
+W: animals cannot eat more than one food
+W: plants cannot support animals
+W: decomposers stop the chain
+E: About 90% of energy is lost at each level.
+
+Q: The relationship in which one organism benefits and the other is neither harmed nor helped is
+A: commensalism
+W: mutualism
+W: parasitism
+W: predation
+E: In commensalism only one partner benefits.
+
+Q: Lichen is an example of
+A: mutualism between an alga and a fungus
+W: parasitism
+W: predation
+W: competition
+E: The alga makes food and the fungus provides water and shelter.
+
+Q: A hawk feeding on chicks is an example of
+A: predation
+W: parasitism
+W: commensalism
+W: mutualism
+E: The predator kills and eats its prey.
+
+Q: Competition between organisms is most likely when they
+A: need the same limited resource
+W: live in different habitats
+W: feed on different foods
+W: are of different sizes
+E: Competition happens when resources such as food or space are scarce.
+
+Q: The role an organism plays in its ecosystem is its
+A: niche
+W: habitat
+W: population
+W: biome
+E: The niche includes what it eats, where it lives and what it does.
+
+Q: Which group of organisms returns nutrients from dead bodies to the soil?
+A: decomposers
+W: producers
+W: herbivores
+W: predators
+E: Decomposers break down dead matter.
+
+Q: In the food chain maize → rat → snake → eagle, the snake is a
+A: secondary consumer
+W: primary consumer
+W: producer
+W: tertiary consumer
+E: The snake eats a primary consumer (the rat).
+
+Q: In the food chain maize → rat → snake → eagle, which organism has the least total energy?
+A: eagle
+W: maize
+W: rat
+W: snake
+E: Energy decreases along the chain, so the top carnivore has least.
+
+Q: A pyramid of numbers can be inverted when
+A: one large tree supports many insects
+W: grass supports a few cows
+W: producers outnumber consumers
+W: there are no consumers
+E: A single big producer can feed many small herbivores, inverting the pyramid.
+
+Q: Tick feeding on a cow is an example of
+A: parasitism
+W: mutualism
+W: commensalism
+W: predation
+E: The tick benefits and the cow is harmed.
+
+Q: The total mass of living organisms at each trophic level is shown in a pyramid of
+A: biomass
+W: numbers
+W: energy
+W: habitats
+E: A biomass pyramid shows the dry mass at each level.
+
+Q: Which of these is an aquatic producer?
+A: phytoplankton
+W: tilapia
+W: crab
+W: zooplankton
+E: Phytoplankton are tiny plants that photosynthesise in water.
+
+Q: Removing all snakes from a farm would most likely lead to
+A: an increase in the rat population
+W: fewer rats
+W: more snakes
+W: no change at all
+E: Snakes eat rats, so without them rats multiply.
+
+Q: Organisms that feed on dead organic matter such as millipedes are
+A: detritivores
+W: producers
+W: predators
+W: parasites
+E: Detritivores eat dead material and help decomposition.
+
+@topic bio-skeleton
+
+Q: The skeleton of mammals is described as an
+A: endoskeleton
+W: exoskeleton
+W: hydrostatic skeleton
+W: cuticle
+E: Mammals have an internal skeleton of bone and cartilage.
+
+Q: The earthworm is supported by
+A: a hydrostatic skeleton
+W: an endoskeleton
+W: an exoskeleton
+W: bones
+E: Fluid under pressure in its body supports the earthworm.
+
+Q: Which of these is a function of the skeleton?
+A: protection of delicate organs
+W: digestion of food
+W: production of urine
+W: photosynthesis
+E: The skull protects the brain and the ribs protect the heart and lungs.
+
+Q: Red blood cells are made in the
+A: bone marrow
+W: cartilage
+W: ligaments
+W: tendons
+E: Red bone marrow produces blood cells.
+
+Q: Which tissue joins one bone to another at a joint?
+A: ligament
+W: tendon
+W: cartilage
+W: muscle
+E: Ligaments are tough, slightly elastic bands that hold bones together.
+
+Q: The knee is an example of a
+A: hinge joint
+W: ball and socket joint
+W: gliding joint
+W: pivot joint
+E: The knee moves mainly in one plane, like a door hinge.
+
+Q: The joint between the skull bones is an example of a
+A: fixed (immovable) joint
+W: hinge joint
+W: ball and socket joint
+W: pivot joint
+E: The skull bones are joined by sutures that do not move.
+
+Q: The joint between the atlas and axis vertebrae, which lets the head turn, is a
+A: pivot joint
+W: hinge joint
+W: fixed joint
+W: gliding joint
+E: The atlas rotates round a peg on the axis.
+
+Q: Synovial fluid in a joint
+A: lubricates the joint
+W: makes blood cells
+W: joins muscle to bone
+W: hardens the bone
+E: It reduces friction so bones move smoothly.
+
+Q: Cartilage at the ends of bones
+A: reduces friction and absorbs shock
+W: produces blood cells
+W: joins muscle to bone
+W: stores fat only
+E: Smooth cartilage cushions the bones at joints.
+
+Q: Muscles that work in pairs, one contracting while the other relaxes, are called
+A: antagonistic muscles
+W: cardiac muscles
+W: involuntary muscles
+W: smooth muscles
+E: The biceps and triceps are a classic antagonistic pair.
+
+Q: Contraction of the biceps causes the arm to
+A: bend at the elbow
+W: straighten at the elbow
+W: rotate at the shoulder
+W: stay rigid
+E: The biceps pulls the forearm up, bending the elbow.
+
+Q: Which vertebrae are found in the neck?
+A: cervical vertebrae
+W: thoracic vertebrae
+W: lumbar vertebrae
+W: sacral vertebrae
+E: Cervical vertebrae support the neck and head.
+
+Q: The ribs are attached to the
+A: thoracic vertebrae
+W: cervical vertebrae
+W: lumbar vertebrae
+W: caudal vertebrae
+E: Thoracic vertebrae carry facets for the ribs.
+
+Q: The largest and strongest vertebrae, found in the lower back, are the
+A: lumbar vertebrae
+W: cervical vertebrae
+W: thoracic vertebrae
+W: atlas
+E: Lumbar vertebrae carry much of the body's weight.
+
+Q: The bone of the upper arm is the
+A: humerus
+W: femur
+W: tibia
+W: radius
+E: The humerus runs from shoulder to elbow.
+
+Q: The longest bone in the human body is the
+A: femur
+W: humerus
+W: tibia
+W: ulna
+E: The femur (thigh bone) is the longest and strongest bone.
+
+Q: Which of the following is a ball and socket joint?
+A: hip joint
+W: elbow joint
+W: knee joint
+W: joint between skull bones
+E: The head of the femur fits into a socket in the pelvis.
+
+Q: Lack of vitamin D in children may cause
+A: rickets
+W: scurvy
+W: goitre
+W: beriberi
+E: Vitamin D is needed to absorb calcium for strong bones.
+
+Q: In plants, support is provided mainly by
+A: turgid cells and lignified tissue such as xylem
+W: bones
+W: an exoskeleton
+W: cartilage
+E: Turgor pressure and woody (lignified) tissues keep plants upright.
+
+Q: The exoskeleton of insects is made mainly of
+A: chitin
+W: bone
+W: cellulose
+W: cartilage
+E: Chitin forms a tough outer covering.
+
+Q: A disadvantage of an exoskeleton is that
+A: the animal must moult to grow
+W: it gives no protection
+W: it is inside the body
+W: it is made of bone
+E: The hard covering cannot grow, so it is shed and replaced.
+
+Q: The shoulder blade is the
+A: scapula
+W: clavicle
+W: sternum
+W: patella
+E: The scapula is a flat, triangular bone at the back of the shoulder.
+
+Q: Which part of the skeleton protects the spinal cord?
+A: vertebral column
+W: rib cage
+W: skull
+W: pelvic girdle
+E: The spinal cord runs through the neural canal of the vertebrae.

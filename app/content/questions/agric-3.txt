@@ -1,0 +1,2652 @@
+@subject agric
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic agr-intro
+
+Q: Agriculture is best defined as
+A: the cultivation of crops and rearing of animals for human use
+W: the mining of minerals
+W: the building of houses
+W: the manufacture of cars
+E: It provides food and raw materials.
+
+Q: Agriculture contributes to industrial development by providing
+A: raw materials such as cotton and cocoa
+W: crude oil
+W: steel
+W: plastics only
+E: Agro-based industries depend on it.
+
+Q: Agriculture earns foreign exchange when farm products are
+A: exported
+W: imported
+W: stored
+W: wasted
+E: E.g. cocoa and sesame exports.
+
+Q: Commercial agriculture is farming
+A: mainly for sale and profit
+W: only for family use
+W: without any tools
+W: only for animals
+E: Produce is sold in markets.
+
+Q: A disadvantage of subsistence agriculture is that
+A: output is low
+W: it uses modern machines
+W: it produces huge surpluses
+W: it needs large capital
+E: Simple tools limit production.
+
+Q: Mixed farming means
+A: growing crops and rearing animals on the same farm
+W: growing only one crop
+W: growing crops in water
+W: fishing only
+E: Animals supply manure; crops supply feed.
+
+Q: Monocropping means
+A: growing a single crop on a piece of land
+W: growing many crops together
+W: keeping animals only
+W: fishing
+E: It is common on plantations.
+
+Q: An advantage of mixed cropping is that
+A: it reduces the risk of total crop failure
+W: it makes harvesting easier always
+W: it increases pest build-up
+W: it needs only machines
+E: If one crop fails, another may survive.
+
+Q: An advantage of crop rotation is that it
+A: helps control pests and maintain soil fertility
+W: increases soil erosion
+W: exhausts the soil
+W: encourages weeds
+E: Different crops use different nutrients.
+
+Q: Pastoral farming involves
+A: rearing livestock
+W: growing cereals only
+W: fishing only
+W: tree planting only
+E: E.g. cattle herding.
+
+Q: Taungya farming combines
+A: food crops with young forest trees
+W: fish with poultry
+W: cattle with cocoa only
+W: rice with yam in water
+E: It is an agroforestry practice.
+
+Q: Agroforestry is
+A: growing trees together with crops and/or animals
+W: cutting down all trees
+W: fishing in forests
+W: mining in forests
+E: It conserves soil and gives extra income.
+
+Q: The Operation Feed the Nation programme was launched in
+A: 1976
+W: 1960
+W: 1999
+W: 1986
+E: It was started by the Obasanjo military regime.
+
+Q: The Green Revolution programme was launched in Nigeria in
+A: 1980
+W: 1960
+W: 2010
+W: 1975
+E: It was introduced by the Shagari government.
+
+Q: The Agricultural Development Projects (ADPs) mainly aimed to
+A: increase food production through extension and inputs
+W: build oil refineries
+W: export crude oil
+W: build schools only
+E: They were funded with World Bank support.
+
+Q: Agriculture provides employment because
+A: many Nigerians work on farms and in related businesses
+W: it uses only robots
+W: it needs no labour
+W: it is done only by the government
+E: It is a major employer.
+
+Q: A problem of agriculture in Nigeria is
+A: inadequate credit facilities
+W: excess storage facilities
+W: too many tractors
+W: very low population
+E: Farmers struggle to get loans.
+
+Q: Poor transport affects agriculture by
+A: making it hard to move produce to markets
+W: reducing pests
+W: increasing soil fertility
+W: making land cheap
+E: Produce may spoil.
+
+Q: Land fragmentation is a problem because it
+A: makes mechanisation difficult
+W: increases farm size
+W: improves soil
+W: reduces pests
+E: Farms become small and scattered.
+
+Q: Agriculture helps to reduce rural-urban migration by
+A: providing jobs and income in rural areas
+W: building factories in cities
+W: removing farmland
+W: increasing city wages
+E: People stay to farm.
+
+Q: Horticulture is the branch of agriculture concerned with
+A: fruits, vegetables and flowers
+W: cattle rearing
+W: fishing
+W: forestry only
+E: E.g. tomatoes and oranges.
+
+Q: Apiculture is
+A: bee keeping
+W: fish farming
+W: snail rearing
+W: rabbit rearing
+E: It produces honey and wax.
+
+Q: Heliciculture is
+A: snail farming
+W: bee keeping
+W: fish farming
+W: pig farming
+E: Snails are a source of protein.
+
+Q: Aquaculture is
+A: the farming of fish and other aquatic organisms
+W: crop farming
+W: poultry farming
+W: bee keeping
+E: E.g. catfish ponds.
+
+@topic agr-land
+
+Q: Land as a factor of production is
+A: fixed in supply
+W: unlimited
+W: easily increased
+W: always mobile
+E: Its total area cannot be increased.
+
+Q: The communal land tenure system means land is owned by
+A: the community or family
+W: one individual by purchase
+W: a foreign company
+W: the bank
+E: Members have rights to use it.
+
+Q: Under leasehold, a farmer
+A: uses land for an agreed period in return for payment
+W: owns the land permanently
+W: inherits the land
+W: gets land free forever
+E: The land returns to the owner afterwards.
+
+Q: An advantage of freehold ownership is that the farmer
+A: can make long-term improvements on the land
+W: cannot use the land
+W: must leave after a year
+W: has no security
+E: Ownership gives security.
+
+Q: Under the Land Use Act, the Governor issues a
+A: Certificate of Occupancy
+W: passport
+W: driving licence
+W: tax receipt
+E: It grants the right to use land.
+
+Q: Tenancy means a farmer
+A: rents land from the owner
+W: owns the land
+W: steals land
+W: works for free
+E: Rent may be in cash or kind.
+
+Q: Pledging land means
+A: giving land as security for a loan
+W: selling land permanently
+W: abandoning land
+W: inheriting land
+E: Land returns when the loan is repaid.
+
+Q: A factor that affects land availability for agriculture is
+A: population pressure
+W: the colour of the soil
+W: the language spoken
+W: the type of music
+E: More people means more land for housing.
+
+Q: Land used for building roads and houses is an example of
+A: non-agricultural land use
+W: crop farming
+W: livestock farming
+W: forestry
+E: It removes land from farming.
+
+Q: Land used for grazing is called
+A: pasture or rangeland
+W: forest reserve
+W: industrial land
+W: residential land
+E: Animals feed on grass there.
+
+Q: A forest reserve is land set aside for
+A: conserving trees and wildlife
+W: building factories
+W: mining
+W: housing
+E: It protects resources.
+
+Q: Topography affects land use because
+A: steep slopes are difficult to farm and erode easily
+W: all slopes are good for tractors
+W: flat land cannot be farmed
+W: hills have no soil
+E: Gentle land is easier to cultivate.
+
+Q: Climate affects land use by
+A: determining the crops that can be grown
+W: changing the colour of crops
+W: changing land ownership
+W: deciding prices
+E: Rainfall and temperature are key.
+
+Q: Soil type affects land use because
+A: different crops need different soils
+W: soil has no effect
+W: all crops grow anywhere
+W: soil affects only buildings
+E: E.g. rice in clayey soils.
+
+Q: A disadvantage of the communal land system is that
+A: it may discourage long-term investment
+W: it gives full security
+W: it makes land easy to sell
+W: it encourages large farms
+E: Individuals lack exclusive rights.
+
+Q: Land reform means
+A: changes in land ownership and use to improve farming
+W: building more roads
+W: reducing farmland
+W: increasing taxes on farms
+E: E.g. the Land Use Act.
+
+Q: Land capability classification groups land according to
+A: its suitability for different uses
+W: the owner's name
+W: the colour of the land
+W: the price of the land
+E: It guides land planning.
+
+Q: Overgrazing leads to
+A: soil erosion and loss of pasture
+W: better soil
+W: more grass
+W: higher fertility
+E: Animals remove plant cover.
+
+Q: Land degradation can be caused by
+A: deforestation and poor farming practices
+W: tree planting
+W: cover cropping
+W: contour farming
+E: These remove protection.
+
+Q: Land is important in agriculture because it
+A: provides space and nutrients for crops and animals
+W: only provides minerals
+W: is used only for houses
+W: has no value
+E: Farming depends on land.
+
+Q: The rent paid for land is the reward for
+A: land as a factor of production
+W: labour
+W: capital
+W: entrepreneurship
+E: Rent rewards land.
+
+Q: Surveying land helps farmers to
+A: determine its size and boundaries
+W: increase its fertility
+W: kill pests
+W: harvest crops
+E: It prevents disputes.
+
+Q: Tenancy agreements should be written to
+A: avoid disputes between landlord and tenant
+W: increase rent
+W: confuse farmers
+W: prevent farming
+E: Terms are clear.
+
+Q: Inheritance as a land tenure system often leads to
+A: fragmentation of land
+W: consolidation of land
+W: larger farms
+W: mechanisation
+E: Land is divided among heirs.
+
+@topic agr-tools
+
+Q: A hoe is used mainly for
+A: making ridges and weeding
+W: felling trees
+W: spraying chemicals
+W: harvesting rice by machine
+E: It is a common hand tool.
+
+Q: An axe is used for
+A: felling trees and splitting wood
+W: weeding
+W: spraying
+W: harvesting grains
+E: It has a sharp heavy blade.
+
+Q: A cutlass (machete) is used for
+A: clearing bush and cutting
+W: digging deep holes
+W: measuring land
+W: spraying pesticides
+E: It is widely used in Nigeria.
+
+Q: A sickle is used for
+A: harvesting cereals and cutting grass
+W: felling trees
+W: ploughing
+W: spraying
+E: It has a curved blade.
+
+Q: A rake is used for
+A: gathering debris and levelling soil
+W: felling trees
+W: ploughing
+W: milking cows
+E: It has teeth.
+
+Q: A shovel is used for
+A: moving soil, sand and manure
+W: harvesting cocoa
+W: felling trees
+W: spraying
+E: It has a broad blade.
+
+Q: A wheelbarrow is used for
+A: carrying loads on the farm
+W: ploughing
+W: weeding
+W: spraying
+E: It transports materials.
+
+Q: A pruning knife (secateurs) is used for
+A: cutting small branches
+W: felling big trees
+W: digging
+W: spraying
+E: Pruning shapes plants.
+
+Q: A watering can is used for
+A: watering seedlings in nurseries
+W: spraying pesticides
+W: ploughing
+W: harvesting
+E: It has a rose (sprinkler head).
+
+Q: A hand trowel is used for
+A: transplanting seedlings
+W: felling trees
+W: ploughing land
+W: harvesting rice
+E: It is a small digging tool.
+
+Q: A mattock (pickaxe) is used for
+A: digging hard ground and removing stumps
+W: weeding nurseries
+W: spraying
+W: harvesting
+E: It has a heavy blade.
+
+Q: A spade is used for
+A: digging and turning soil
+W: cutting grass
+W: spraying chemicals
+W: milking
+E: It has a flat blade.
+
+Q: A garden fork is used for
+A: loosening soil and turning compost
+W: felling trees
+W: spraying
+W: cutting grass
+E: It has prongs.
+
+Q: A soil auger is used for
+A: taking soil samples
+W: ploughing
+W: weeding
+W: harvesting
+E: It bores into the soil.
+
+Q: A measuring tape is used on the farm for
+A: measuring distances when laying out plots
+W: weeding
+W: spraying
+W: harvesting
+E: It helps spacing.
+
+Q: A knapsack sprayer is carried
+A: on the back
+W: on a tractor only
+W: by an aeroplane
+W: on a cow
+E: It is used for spraying chemicals.
+
+Q: Farm tools should be cleaned after use to
+A: prevent rusting and prolong their life
+W: make them blunt
+W: make them heavy
+W: attract pests
+E: Dirt and moisture cause rust.
+
+Q: Oiling metal tools before storage helps to
+A: prevent rust
+W: make them sharper
+W: increase their weight
+W: change their colour
+E: Oil keeps moisture away.
+
+Q: Sharpening cutting tools makes them
+A: more efficient
+W: less efficient
+W: heavier
+W: rusty
+E: Sharp tools cut easily.
+
+Q: A disadvantage of hand tools is that they
+A: are slow and tiring to use
+W: are expensive to buy
+W: need fuel
+W: need skilled mechanics
+E: They limit farm size.
+
+Q: An advantage of hand tools is that they
+A: are cheap and easy to maintain
+W: are very fast
+W: need diesel
+W: replace all workers
+E: Small farmers can afford them.
+
+Q: Secateurs are used mainly for
+A: pruning
+W: digging
+W: spraying
+W: ploughing
+E: They cut stems neatly.
+
+Q: A dibber is used to
+A: make holes for planting seeds or seedlings
+W: fell trees
+W: harvest grain
+W: spray chemicals
+E: It is a pointed stick.
+
+Q: A hand fork is used for
+A: loosening soil around plants in small beds
+W: felling trees
+W: ploughing large fields
+W: milking
+E: It is a small garden tool.
+
+@topic agr-machinery
+
+Q: A tractor is a source of
+A: mechanical power on the farm
+W: animal power
+W: solar power only
+W: human power
+E: It pulls implements.
+
+Q: Human labour as a source of farm power is
+A: cheap to start but slow and tiring
+W: very fast
+W: always expensive
+W: never used
+E: Most smallholders rely on it.
+
+Q: Wind power on farms can be used to
+A: pump water
+W: plough land
+W: harvest crops
+W: spray chemicals
+E: Windmills drive pumps.
+
+Q: Electricity on farms can be used for
+A: lighting, incubators and water pumps
+W: ploughing only
+W: harvesting yams only
+W: weeding
+E: It powers equipment.
+
+Q: A disc plough is suitable for
+A: hard, stony or root-filled soils
+W: very soft sand only
+W: water only
+W: rooftops
+E: The discs roll over obstacles.
+
+Q: A ridger is used to
+A: make ridges
+W: harvest grain
+W: spray chemicals
+W: plant trees
+E: Ridges suit yams and cassava.
+
+Q: A planter is used to
+A: sow seeds at the right spacing and depth
+W: harvest crops
+W: plough land
+W: spray weeds
+E: It saves labour.
+
+Q: A cultivator is used for
+A: secondary tillage and weed control between rows
+W: felling trees
+W: harvesting
+W: milking
+E: It stirs the soil.
+
+Q: A sprayer attached to a tractor is used to
+A: apply pesticides and herbicides on large farms
+W: plough land
+W: harvest maize
+W: plant yams
+E: It covers large areas quickly.
+
+Q: A mower is used for
+A: cutting grass
+W: ploughing
+W: planting seeds
+W: harvesting yams
+E: It is used for pastures and lawns.
+
+Q: A trailer is used for
+A: transporting farm produce and materials
+W: ploughing
+W: spraying
+W: planting
+E: It is pulled by a tractor.
+
+Q: A sheller is used to
+A: remove grains from maize cobs
+W: plough land
+W: spray crops
+W: harvest cocoa
+E: It is a processing machine.
+
+Q: A cassava grater is used for
+A: processing cassava into mash for garri
+W: harvesting cassava
+W: planting cassava
+W: spraying cassava
+E: It speeds garri production.
+
+Q: An advantage of farm mechanisation is that it
+A: increases output and saves time
+W: increases drudgery
+W: reduces farm size
+W: always reduces employment in all sectors
+E: Machines work faster.
+
+Q: A disadvantage of farm mechanisation is that it
+A: may cause unemployment of farm workers
+W: increases output
+W: saves time
+W: reduces drudgery
+E: Machines replace labour.
+
+Q: A limitation of mechanisation in Nigeria is
+A: small and fragmented farm holdings
+W: very large farms everywhere
+W: too many mechanics
+W: cheap spare parts everywhere
+E: Machines need large plots.
+
+Q: Routine tractor maintenance includes
+A: checking oil, water and tyre pressure
+W: never servicing it
+W: driving it into water
+W: leaving it in the rain
+E: Regular checks prevent breakdowns.
+
+Q: A tractor's engine oil should be changed
+A: at regular intervals recommended by the manufacturer
+W: never
+W: every ten years
+W: only when it breaks down
+E: Old oil damages the engine.
+
+Q: Tractor hire services help farmers who
+A: cannot afford to buy their own tractors
+W: already own many tractors
+W: do not farm
+W: farm only by hand by choice
+E: They rent tractors for a fee.
+
+Q: Primary tillage involves
+A: the first breaking of the soil, e.g. ploughing
+W: weeding only
+W: harvesting
+W: spraying
+E: Secondary tillage follows.
+
+Q: Secondary tillage includes
+A: harrowing
+W: ploughing
+W: felling trees
+W: stumping
+E: It produces a fine seedbed.
+
+Q: A combine harvester can
+A: cut, thresh and clean grain in one operation
+W: only plough land
+W: only plant seeds
+W: only spray chemicals
+E: It is used for rice and wheat.
+
+Q: A tractor's power take-off (PTO) is used to
+A: drive attached implements such as mowers
+W: steer the tractor
+W: brake the tractor
+W: inflate tyres
+E: It transmits engine power.
+
+Q: Ergonomics in farm machinery aims to
+A: make machines safe and comfortable for operators
+W: make machines heavier
+W: increase noise
+W: reduce efficiency
+E: Good design reduces fatigue and accidents.
+
+@topic agr-soil
+
+Q: Soil formation is the process of
+A: breaking down rocks and adding organic matter
+W: burning plants
+W: building houses
+W: mining minerals
+E: Weathering produces soil.
+
+Q: Factors of soil formation include parent material, climate, organisms, topography and
+A: time
+W: tractors
+W: fertilisers
+W: rainfall only
+E: Soil takes many years to form.
+
+Q: Physical weathering of rocks can be caused by
+A: changes in temperature
+W: plant hormones
+W: fertilisers
+W: tractors
+E: Expansion and contraction break rocks.
+
+Q: Chemical weathering includes
+A: oxidation and hydrolysis
+W: freezing only
+W: wind abrasion
+W: animal trampling only
+E: Chemical reactions change minerals.
+
+Q: The topsoil is important because it
+A: contains most of the humus and nutrients
+W: is solid rock
+W: has no living organisms
+W: is always waterlogged
+E: Plant roots feed there.
+
+Q: Clay soil has
+A: very fine particles and high water-holding capacity
+W: large particles and poor water retention
+W: no particles
+W: only stones
+E: It can become waterlogged.
+
+Q: Loam soil is a mixture of
+A: sand, silt and clay
+W: only sand
+W: only clay
+W: only stones
+E: It is best for most crops.
+
+Q: Soil structure refers to
+A: the arrangement of soil particles into aggregates
+W: the colour of soil
+W: the size of particles only
+W: the age of soil
+E: Good structure aids drainage and aeration.
+
+Q: Soil pH measures
+A: acidity or alkalinity
+W: temperature
+W: colour
+W: texture
+E: Most crops prefer pH 6–7.
+
+Q: A soil with a pH of 4.5 is
+A: strongly acidic
+W: neutral
+W: alkaline
+W: strongly alkaline
+E: Lime may be needed.
+
+Q: Soil water that plants can use is mainly
+A: capillary water
+W: gravitational water
+W: hygroscopic water
+W: frozen water
+E: Hygroscopic water is held too tightly.
+
+Q: Gravitational water is
+A: water that drains away through the soil under gravity
+W: water held tightly by particles
+W: water used by plants mainly
+W: water vapour
+E: It drains after heavy rain.
+
+Q: Soil air is important because roots need
+A: oxygen for respiration
+W: carbon monoxide
+W: nitrogen gas only
+W: no air
+E: Waterlogged soils lack oxygen.
+
+Q: Soil micro-organisms help by
+A: decomposing organic matter
+W: destroying soil
+W: making soil acidic only
+W: eating roots always
+E: E.g. bacteria and fungi.
+
+Q: Nitrogen-fixing bacteria in legume roots are
+A: Rhizobium
+W: Salmonella
+W: Plasmodium
+W: Trypanosoma
+E: They live in root nodules.
+
+Q: Leaching is
+A: the washing down of nutrients beyond the root zone
+W: the adding of manure
+W: the burning of bush
+W: the growing of legumes
+E: It is common in high-rainfall areas.
+
+Q: Soil erosion by water includes sheet, rill and
+A: gully erosion
+W: leaf erosion
+W: root erosion
+W: mineral erosion
+E: Gully erosion forms deep channels.
+
+Q: Contour ploughing helps to
+A: reduce soil erosion on slopes
+W: increase erosion
+W: make soil acidic
+W: remove nutrients
+E: Ridges across slopes slow water.
+
+Q: Terracing is used on
+A: steep slopes to prevent erosion
+W: flat land only
+W: swamps
+W: deserts only
+E: Steps hold soil.
+
+Q: Cover cropping protects soil by
+A: shielding it from rain impact and erosion
+W: exposing the soil
+W: increasing leaching
+W: removing humus
+E: E.g. Centrosema and Mucuna.
+
+Q: Windbreaks protect soil from
+A: wind erosion
+W: water only
+W: pests only
+W: fire only
+E: Rows of trees reduce wind speed.
+
+Q: Soil sampling is done to
+A: test soil fertility and pH
+W: kill pests
+W: plant seeds
+W: harvest crops
+E: It guides fertiliser use.
+
+Q: Bulk density of soil is
+A: mass of dry soil per unit volume
+W: the colour of soil
+W: pH of soil
+W: temperature of soil
+E: Compacted soils have high bulk density.
+
+Q: Earthworms improve soil by
+A: mixing it and improving aeration and drainage
+W: destroying humus
+W: compacting it
+W: making it acidic
+E: Their burrows let in air and water.
+
+@topic agr-fertility
+
+Q: Soil fertility is the ability of soil to
+A: supply nutrients in the right amounts for plant growth
+W: hold buildings
+W: produce rocks
+W: remain dry always
+E: Fertile soil supports good yields.
+
+Q: Macronutrients needed in large amounts include
+A: nitrogen, phosphorus and potassium
+W: iron, zinc and copper
+W: boron and molybdenum
+W: sodium only
+E: Calcium, magnesium and sulphur are also macronutrients.
+
+Q: Micronutrients include
+A: iron, zinc and boron
+W: nitrogen and potassium
+W: carbon and oxygen only
+W: phosphorus
+E: They are needed in small amounts.
+
+Q: Nitrogen deficiency in plants causes
+A: yellowing of older leaves
+W: purple leaves only
+W: very dark green leaves
+W: excessive flowering
+E: This is chlorosis.
+
+Q: Potassium is important for
+A: disease resistance and fruit quality
+W: only root growth
+W: only leaf colour
+W: nothing
+E: It also helps water balance.
+
+Q: Phosphorus deficiency can cause
+A: poor root growth and purplish leaves
+W: excessive leaf growth
+W: early maturity
+W: very tall plants
+E: Phosphorus aids roots and energy transfer.
+
+Q: Straight fertilisers supply
+A: one main nutrient
+W: all nutrients
+W: no nutrients
+W: only organic matter
+E: E.g. urea for nitrogen.
+
+Q: Compound fertilisers supply
+A: two or more nutrients
+W: only one nutrient
+W: only water
+W: no nutrients
+E: E.g. NPK 15-15-15.
+
+Q: Urea contains about
+A: 46% nitrogen
+W: 10% nitrogen
+W: 90% nitrogen
+W: 0% nitrogen
+E: It is a high-nitrogen fertiliser.
+
+Q: Single superphosphate mainly supplies
+A: phosphorus
+W: nitrogen
+W: potassium
+W: iron
+E: It is a phosphate fertiliser.
+
+Q: Muriate of potash supplies
+A: potassium
+W: nitrogen
+W: phosphorus
+W: calcium
+E: It is potassium chloride.
+
+Q: Broadcasting fertiliser means
+A: spreading it evenly over the soil surface
+W: placing it in a ring
+W: injecting it into the soil
+W: dissolving it for spraying
+E: It is quick but less precise.
+
+Q: Side placement (band placement) means
+A: applying fertiliser in a band near the plants
+W: spreading it over the whole field
+W: mixing it with seeds
+W: spraying it on leaves
+E: It reduces waste.
+
+Q: Foliar application means
+A: spraying fertiliser solution on leaves
+W: burying it deep
+W: broadcasting
+W: ring application
+E: Leaves absorb nutrients quickly.
+
+Q: Compost is made from
+A: decomposed plant and animal wastes
+W: chemical salts
+W: plastic
+W: crude oil
+E: It is an organic manure.
+
+Q: Green manure is
+A: green plants ploughed into the soil
+W: animal dung
+W: urea
+W: lime
+E: E.g. legume crops.
+
+Q: Farmyard manure consists of
+A: animal dung, urine and bedding
+W: chemical fertilisers
+W: sand
+W: ash only
+E: It improves soil structure.
+
+Q: An advantage of organic manure is that it
+A: improves soil structure
+W: acts very quickly
+W: is easy to transport in bulk
+W: has high nutrient concentration
+E: It also adds humus.
+
+Q: A disadvantage of inorganic fertilisers is that they
+A: may increase soil acidity with continuous use
+W: improve soil structure
+W: release nutrients slowly
+W: are bulky
+E: Overuse harms the soil.
+
+Q: Liming is necessary when soil is
+A: too acidic
+W: too alkaline
+W: neutral
+W: too dry
+E: Lime raises pH.
+
+Q: The nitrogen cycle involves the conversion of nitrogen by
+A: fixation, nitrification and denitrification
+W: photosynthesis only
+W: respiration only
+W: evaporation
+E: Bacteria play key roles.
+
+Q: Nitrifying bacteria convert
+A: ammonium compounds to nitrates
+W: nitrates to nitrogen gas
+W: carbon to oxygen
+W: water to hydrogen
+E: E.g. Nitrosomonas and Nitrobacter.
+
+Q: Denitrifying bacteria convert
+A: nitrates to nitrogen gas
+W: nitrogen gas to nitrates
+W: ammonia to nitrates
+W: oxygen to carbon dioxide
+E: This occurs in waterlogged soils.
+
+Q: Bush burning reduces soil fertility by
+A: destroying organic matter and soil organisms
+W: adding humus
+W: fixing nitrogen
+W: improving soil structure
+E: Nutrients are lost in smoke.
+
+@topic agr-propagation
+
+Q: Sexual propagation uses
+A: seeds
+W: stem cuttings
+W: suckers
+W: tubers
+E: Seeds come from fertilisation.
+
+Q: Asexual (vegetative) propagation uses
+A: plant parts such as stems, roots or leaves
+W: seeds only
+W: pollen only
+W: flowers only
+E: Offspring are identical to the parent.
+
+Q: An advantage of vegetative propagation is that
+A: plants mature faster and are true to type
+W: it produces new varieties
+W: it is always cheaper than seeds
+W: it spreads diseases less
+E: Desirable traits are preserved.
+
+Q: A disadvantage of vegetative propagation is that
+A: diseases can be transferred from the parent
+W: plants are not identical
+W: it takes longer
+W: it needs pollination
+E: Infected planting materials spread disease.
+
+Q: Budding involves
+A: inserting a bud of one plant into the stem of another
+W: planting seeds
+W: dividing tubers
+W: layering branches
+E: It is used for citrus.
+
+Q: Marcotting (air layering) involves
+A: rooting a branch while it is still on the parent plant
+W: planting seeds in pots
+W: grafting a scion
+W: cutting tubers
+E: The branch is wrapped with moist material.
+
+Q: Pineapple is commonly propagated by
+A: suckers, slips and crowns
+W: seeds
+W: tubers
+W: bulbs
+E: These shoots grow into new plants.
+
+Q: Sugarcane is propagated by
+A: stem cuttings (setts)
+W: seeds
+W: tubers
+W: bulbs
+E: Each sett has buds.
+
+Q: Onion is propagated by
+A: bulbs or seeds
+W: stem cuttings
+W: suckers
+W: rhizomes
+E: Bulbs are underground storage organs.
+
+Q: Ginger is propagated by
+A: rhizomes
+W: seeds
+W: bulbs
+W: suckers
+E: Rhizomes are underground stems.
+
+Q: Irish potato is propagated by
+A: stem tubers
+W: seeds only
+W: bulbs
+W: suckers
+E: The eyes are buds.
+
+Q: Seed dormancy is
+A: a period when a viable seed does not germinate
+W: when a seed is dead
+W: when a seed germinates quickly
+W: when a seed is planted
+E: Conditions must be right.
+
+Q: Seed viability means
+A: the ability of a seed to germinate
+W: the size of a seed
+W: the colour of a seed
+W: the price of a seed
+E: It is tested before planting.
+
+Q: Seed dressing involves
+A: treating seeds with chemicals to protect them
+W: painting seeds
+W: removing seed coats always
+W: soaking seeds in oil
+E: It prevents pests and diseases.
+
+Q: Scarification is used to
+A: break the hard seed coat to aid germination
+W: kill the seed
+W: store the seed
+W: colour the seed
+E: E.g. rubbing with sandpaper.
+
+Q: The conditions necessary for germination are water, oxygen and
+A: suitable temperature
+W: darkness only
+W: fertiliser
+W: soil only
+E: Light is not usually required.
+
+Q: A nursery is
+A: a place where seedlings are raised before transplanting
+W: a place for harvesting
+W: a fish pond
+W: a poultry house
+E: Seedlings are protected there.
+
+Q: Transplanting means
+A: moving seedlings from the nursery to the field
+W: harvesting crops
+W: storing seeds
+W: grafting
+E: It is done carefully to avoid damage.
+
+Q: Hardening off seedlings means
+A: gradually exposing them to field conditions
+W: keeping them in the dark
+W: watering them heavily
+W: cutting their roots
+E: It reduces transplanting shock.
+
+Q: Planting depth depends on
+A: the size of the seed
+W: the colour of the seed
+W: the farmer's height
+W: the time of day only
+E: Larger seeds are planted deeper.
+
+Q: Spacing of crops is important to
+A: reduce competition and give optimum yield
+W: increase competition
+W: increase weeds
+W: waste land
+E: Plants need light, water and nutrients.
+
+Q: The seed rate is
+A: the quantity of seed sown per unit area
+W: the speed of germination
+W: the price of seeds
+W: the colour of seeds
+E: E.g. kg per hectare.
+
+Q: Mulching helps to
+A: conserve soil moisture and suppress weeds
+W: increase evaporation
+W: increase weeds
+W: harden the soil
+E: Mulch covers the soil surface.
+
+Q: Vegetative propagation of cassava uses
+A: stem cuttings
+W: seeds
+W: tubers
+W: suckers
+E: Cuttings of 20–25 cm are planted.
+
+@topic agr-crops
+
+Q: Cereal crops include
+A: maize, rice, sorghum and millet
+W: yam, cassava and cocoyam
+W: cowpea and groundnut
+W: tomato and pepper
+E: They are grasses grown for grain.
+
+Q: Root and tuber crops include
+A: yam, cassava and cocoyam
+W: maize and rice
+W: cocoa and coffee
+W: cotton and jute
+E: They store food underground.
+
+Q: Pulses (grain legumes) include
+A: cowpea and soybean
+W: maize and millet
+W: yam and cassava
+W: cocoa and kola
+E: They are rich in protein.
+
+Q: Vegetable crops include
+A: tomato, okra and pepper
+W: cocoa and coffee
+W: rubber and cotton
+W: maize and rice
+E: They are eaten fresh or cooked.
+
+Q: Rubber is grown for its
+A: latex
+W: leaves
+W: roots
+W: seeds only
+E: Latex is tapped from the bark.
+
+Q: Cocoa thrives best in
+A: a hot, humid climate with well-drained soil
+W: deserts
+W: cold mountains
+W: swamps
+E: It grows in the rainforest belt.
+
+Q: Cotton is grown mainly for
+A: fibre
+W: oil only
+W: latex
+W: beverage
+E: The lint is spun into thread.
+
+Q: Groundnut is grown mainly in
+A: northern Nigeria
+W: the Niger Delta
+W: the rainforest only
+W: Lagos
+E: It suits sandy soils and lower rainfall.
+
+Q: Yam is usually planted on
+A: mounds or ridges
+W: flooded fields
+W: rooftops
+W: rocks
+E: Loose soil aids tuber growth.
+
+Q: Staking yam vines helps to
+A: expose leaves to sunlight
+W: kill the vines
+W: increase pests
+W: reduce yield
+E: Better light improves yield.
+
+Q: Maize is ready for harvest as dry grain when
+A: the husks turn brown and dry
+W: the tassels first appear
+W: the leaves are green
+W: the seeds are milky
+E: Fresh maize is harvested earlier.
+
+Q: Rice is threshed to
+A: separate grains from the stalks
+W: plant the seed
+W: water the crop
+W: spray the crop
+E: It follows harvesting.
+
+Q: Cocoa beans are fermented to
+A: develop flavour and colour
+W: kill the seeds only
+W: increase weight
+W: make them grow
+E: Fermentation lasts several days.
+
+Q: Oil palm produces
+A: palm oil and palm kernel oil
+W: latex
+W: fibre only
+W: cocoa beans
+E: Oil is extracted from the fruit.
+
+Q: Cassava contains a poisonous substance called
+A: hydrocyanic acid (cyanide)
+W: caffeine
+W: nicotine
+W: alcohol
+E: Processing removes it.
+
+Q: Sorghum is also known as
+A: guinea corn
+W: maize
+W: millet
+W: rice
+E: It is drought tolerant.
+
+Q: Okra belongs to the group of
+A: vegetables
+W: cereals
+W: beverages
+W: fibres
+E: Its pods are eaten.
+
+Q: Kola nut is classified as a
+A: stimulant crop
+W: fibre crop
+W: oil crop only
+W: root crop
+E: It contains caffeine.
+
+Q: Sesame (beniseed) is grown mainly as
+A: an oil crop
+W: a fibre crop
+W: a root crop
+W: a beverage
+E: It is a valuable export.
+
+Q: Pre-harvest operations in crop production include
+A: weeding and fertiliser application
+W: processing and marketing
+W: storage and packaging
+W: grading
+E: These are done before harvest.
+
+@topic agr-pests
+
+Q: The stem borer attacks
+A: maize and sorghum
+W: cattle
+W: poultry
+W: fish
+E: Larvae tunnel into stems.
+
+Q: Aphids are pests that
+A: suck sap and transmit viruses
+W: chew roots only
+W: eat grains in storage only
+W: attack animals
+E: They are piercing-sucking insects.
+
+Q: The variegated grasshopper is a
+A: biting and chewing pest
+W: piercing and sucking pest
+W: fungus
+W: virus
+E: It eats leaves.
+
+Q: The cocoa mirid (capsid) damages cocoa by
+A: sucking sap from pods and stems
+W: eating roots
+W: attacking seeds in storage
+W: causing black pod
+E: It is a major cocoa pest.
+
+Q: Rodents such as rats damage crops by
+A: eating grains and tubers
+W: fixing nitrogen
+W: pollinating flowers
+W: improving soil
+E: They also damage stored produce.
+
+Q: Quelea birds are pests of
+A: cereal crops such as millet and rice
+W: cocoa
+W: yam only
+W: cattle
+E: They feed in large flocks.
+
+Q: Rice blast disease is caused by a
+A: fungus
+W: virus
+W: bacterium
+W: insect
+E: It causes lesions on leaves.
+
+Q: Maize streak disease is caused by a
+A: virus
+W: fungus
+W: bacterium
+W: nematode
+E: It is spread by leafhoppers.
+
+Q: Root-knot nematodes cause
+A: swellings (galls) on roots
+W: leaf spots
+W: stem rot only
+W: fruit rot only
+E: They are microscopic worms.
+
+Q: Cultural control of pests includes
+A: crop rotation and early planting
+W: spraying insecticides
+W: introducing predators
+W: using traps only
+E: Farming practices reduce pests.
+
+Q: Chemical control of pests involves
+A: using pesticides
+W: using predators
+W: crop rotation
+W: hand picking
+E: E.g. insecticides and fungicides.
+
+Q: Integrated pest management combines
+A: several methods of pest control
+W: only chemicals
+W: only predators
+W: no control
+E: It reduces reliance on chemicals.
+
+Q: Fungicides are chemicals used to control
+A: fungal diseases
+W: weeds
+W: insects
+W: rodents
+E: E.g. for black pod.
+
+Q: Rodenticides are used to kill
+A: rats and mice
+W: weeds
+W: insects
+W: fungi
+E: They are poisons for rodents.
+
+Q: Nematicides are used to control
+A: nematodes
+W: birds
+W: weeds
+W: fungi only
+E: They kill soil worms.
+
+Q: A precaution when using pesticides is to
+A: wear protective clothing
+W: spray against the wind
+W: eat while spraying
+W: store them with food
+E: Pesticides are toxic.
+
+Q: Weeds are plants that
+A: grow where they are not wanted
+W: are always useful
+W: are crops
+W: never compete with crops
+E: They reduce crop yields.
+
+Q: Spear grass (Imperata) is a
+A: troublesome weed
+W: cereal crop
+W: legume
+W: beverage crop
+E: It spreads by rhizomes.
+
+Q: Weeds can be controlled mechanically by
+A: hoeing and hand pulling
+W: spraying herbicides
+W: introducing insects
+W: crop rotation only
+E: Physical removal.
+
+Q: Storage pests can be controlled by
+A: proper drying and fumigation of produce
+W: storing wet grains
+W: leaving stores open
+W: mixing with fresh grain
+E: Dry, clean stores reduce pests.
+
+Q: Yam beetles attack yam by
+A: boring into the tubers
+W: sucking sap
+W: eating leaves only
+W: causing viruses
+E: They damage tubers in the soil.
+
+@topic agr-animals
+
+Q: Livestock are
+A: domesticated animals reared on farms
+W: wild animals only
+W: fish in rivers only
+W: insects
+E: E.g. cattle, goats and poultry.
+
+Q: The young of a sheep is called a
+A: lamb
+W: kid
+W: calf
+W: piglet
+E: A young goat is a kid.
+
+Q: The young of a cow is called a
+A: calf
+W: kid
+W: lamb
+W: foal
+E: A young horse is a foal.
+
+Q: A male goat is called a
+A: buck (billy)
+W: ewe
+W: sow
+W: heifer
+E: A female goat is a doe (nanny).
+
+Q: A female sheep is called a
+A: ewe
+W: doe
+W: sow
+W: cow
+E: A male sheep is a ram.
+
+Q: A heifer is a
+A: young female cow that has not calved
+W: castrated bull
+W: male goat
+W: female pig
+E: After calving she becomes a cow.
+
+Q: Giving birth in cattle is called
+A: calving
+W: farrowing
+W: kidding
+W: lambing
+E: Farrowing is in pigs.
+
+Q: Giving birth in goats is called
+A: kidding
+W: calving
+W: farrowing
+W: lambing
+E: Lambing is in sheep.
+
+Q: The White Fulani (Bunaji) is a breed of
+A: cattle
+W: goat
+W: sheep
+W: pig
+E: It is common in Nigeria.
+
+Q: The Large White is a breed of
+A: pig
+W: cattle
+W: sheep
+W: goat
+E: It is an exotic breed.
+
+Q: The West African Dwarf goat is known for
+A: tolerance to trypanosomiasis and prolificacy
+W: very large size
+W: high milk yield only
+W: wool production
+E: It is common in southern Nigeria.
+
+Q: The Yankasa is a breed of
+A: sheep
+W: cattle
+W: pig
+W: goat
+E: It is found in northern Nigeria.
+
+Q: The gestation period of a cow is about
+A: 9 months (about 283 days)
+W: 3 months
+W: 5 months
+W: 12 months
+E: It is similar to humans.
+
+Q: The gestation period of a pig is about
+A: 114 days
+W: 21 days
+W: 283 days
+W: 150 days
+E: Often remembered as 3 months, 3 weeks, 3 days.
+
+Q: The gestation period of a goat is about
+A: 150 days
+W: 114 days
+W: 283 days
+W: 21 days
+E: About five months.
+
+Q: Castration of male animals helps to
+A: make them docile and improve meat quality
+W: increase fertility
+W: make them aggressive
+W: reduce growth always
+E: It also prevents unwanted breeding.
+
+Q: Dehorning cattle helps to
+A: prevent injury to other animals and handlers
+W: increase milk
+W: improve fertility
+W: change their colour
+E: Horns can cause injury.
+
+Q: Ruminants digest cellulose with the help of
+A: micro-organisms in the rumen
+W: teeth only
+W: the liver
+W: the lungs
+E: Bacteria break down fibre.
+
+Q: A ruminant's stomach has four compartments: rumen, reticulum, omasum and
+A: abomasum
+W: caecum
+W: crop
+W: gizzard
+E: The abomasum is the true stomach.
+
+Q: Artificial insemination is
+A: introducing semen into a female without mating
+W: natural mating
+W: castration
+W: dehorning
+E: It spreads good genes widely.
+
+Q: Flushing in livestock means
+A: feeding females well before mating to increase ovulation
+W: washing animals
+W: removing horns
+W: castrating males
+E: It improves conception and litter size.
+
+@topic agr-animal-health
+
+Q: A disease is
+A: any condition that impairs normal body function
+W: a type of food
+W: a breed of animal
+W: a farm tool
+E: Diseases reduce productivity.
+
+Q: Diseases caused by bacteria include
+A: anthrax and tuberculosis
+W: Newcastle disease
+W: foot-and-mouth disease
+W: coccidiosis
+E: Antibiotics may treat bacterial diseases.
+
+Q: Diseases caused by viruses include
+A: foot-and-mouth disease and rinderpest
+W: anthrax
+W: coccidiosis
+W: trypanosomiasis
+E: Vaccination prevents many viral diseases.
+
+Q: Foot-and-mouth disease affects
+A: cloven-hoofed animals such as cattle and pigs
+W: poultry only
+W: fish
+W: horses only
+E: It causes blisters on feet and mouth.
+
+Q: Rinderpest was a serious disease of
+A: cattle
+W: poultry
+W: fish
+W: rabbits
+E: It was declared eradicated worldwide in 2011.
+
+Q: Anthrax is caused by
+A: a bacterium
+W: a virus
+W: a protozoan
+W: a worm
+E: Bacillus anthracis.
+
+Q: Helminths (worms) that affect animals include
+A: tapeworms and roundworms
+W: ticks
+W: lice
+W: mites
+E: They are internal parasites.
+
+Q: External parasites of animals include
+A: ticks, lice and mites
+W: tapeworms
+W: liver flukes
+W: roundworms
+E: They live on the skin.
+
+Q: Ticks can transmit
+A: diseases such as red-water fever
+W: no diseases
+W: only nutrients
+W: vaccines
+E: They spread protozoa.
+
+Q: Deworming animals involves
+A: giving drugs to kill internal worms
+W: removing horns
+W: castration
+W: spraying crops
+E: It improves growth.
+
+Q: Dipping or spraying animals helps to control
+A: external parasites
+W: internal worms only
+W: viruses only
+W: weeds
+E: Acaricides kill ticks.
+
+Q: Quarantine means
+A: isolating new or sick animals to prevent spread of disease
+W: mixing all animals together
+W: selling animals
+W: slaughtering all animals
+E: It protects the herd.
+
+Q: A healthy animal usually has
+A: bright eyes and a good appetite
+W: dull coat and diarrhoea
+W: loss of appetite
+W: discharge from the nose
+E: These are signs of good health.
+
+Q: A sign of disease in poultry is
+A: drooping wings and loss of appetite
+W: active movement
+W: bright comb
+W: normal droppings
+E: Sick birds are dull.
+
+Q: Gumboro disease (infectious bursal disease) affects
+A: poultry
+W: cattle
+W: pigs
+W: goats
+E: It damages the bursa of Fabricius.
+
+Q: Fowl pox is caused by a
+A: virus
+W: bacterium
+W: fungus
+W: worm
+E: It causes scabs on combs.
+
+Q: Mastitis is the inflammation of the
+A: udder
+W: lungs
+W: liver
+W: brain
+E: It reduces milk yield.
+
+Q: Bloat in ruminants is caused by
+A: accumulation of gas in the rumen
+W: worms in the liver
+W: ticks
+W: bacteria in the eyes
+E: Lush legumes can cause it.
+
+Q: Predisposing factors to disease include
+A: poor nutrition and overcrowding
+W: good housing
+W: clean water
+W: vaccination
+E: Stress lowers resistance.
+
+Q: Hygiene in animal housing helps to
+A: reduce the spread of disease
+W: increase disease
+W: attract pests
+W: lower production
+E: Clean pens reduce germs.
+
+Q: A veterinarian is
+A: a doctor who treats animals
+W: a crop farmer
+W: a fisherman
+W: a tractor driver
+E: They diagnose and treat animal diseases.
+
+Q: A zoonotic disease is one that
+A: can pass between animals and humans
+W: affects only plants
+W: affects only fish
+W: cannot spread
+E: E.g. rabies and tuberculosis.
+
+Q: Rabies is transmitted mainly by
+A: the bite of an infected animal such as a dog
+W: drinking clean water
+W: eating vegetables
+W: mosquitoes
+E: It affects the nervous system.
+
+Q: Antibiotics are used to treat
+A: bacterial infections
+W: viral infections
+W: worm infestations only
+W: nutritional deficiencies
+E: They do not kill viruses.
+
+@topic agr-poultry
+
+Q: Layers are chickens kept mainly for
+A: egg production
+W: meat only
+W: feathers
+W: fighting
+E: They start laying at about 18–20 weeks.
+
+Q: A cockerel is
+A: a young male chicken
+W: a young female chicken
+W: an adult female
+W: a duck
+E: An adult male is a cock.
+
+Q: Brooding is
+A: providing warmth and care to young chicks
+W: killing birds
+W: selling eggs
+W: removing feathers
+E: Chicks cannot regulate their temperature.
+
+Q: The ideal brooding temperature for day-old chicks is about
+A: 32–35 °C
+W: 10 °C
+W: 50 °C
+W: 0 °C
+E: It is reduced gradually each week.
+
+Q: If chicks crowd under the heat source, the temperature is
+A: too low
+W: too high
+W: just right
+W: irrelevant
+E: They seek warmth.
+
+Q: If chicks move away from the heat source and pant, the temperature is
+A: too high
+W: too low
+W: just right
+W: irrelevant
+E: They are overheating.
+
+Q: Debeaking is done to
+A: prevent cannibalism and feather pecking
+W: help birds eat more
+W: make birds lay more eggs directly
+W: improve their colour
+E: The tip of the beak is trimmed.
+
+Q: The free-range system allows birds to
+A: roam freely during the day
+W: stay in cages all the time
+W: live in water
+W: never go outside
+E: It is cheap but output is low.
+
+Q: An advantage of the battery cage system is that
+A: eggs are clean and easy to collect
+W: birds have plenty of space
+W: it is very cheap to set up
+W: birds can roam
+E: Eggs roll out of the cage.
+
+Q: Litter used in the deep litter system may be made of
+A: wood shavings or rice husks
+W: stones
+W: metal sheets
+W: plastic bags
+E: It absorbs moisture.
+
+Q: Candling eggs means
+A: examining eggs against light to check fertility
+W: boiling eggs
+W: painting eggs
+W: breaking eggs
+E: It detects cracks and embryos.
+
+Q: The incubation period of a duck egg is about
+A: 28 days
+W: 21 days
+W: 14 days
+W: 7 days
+E: Chicken eggs take 21 days.
+
+Q: Turning eggs during incubation prevents
+A: the embryo from sticking to the shell
+W: hatching
+W: the egg from warming
+W: fertilisation
+E: Eggs are turned several times a day.
+
+Q: Broilers are usually ready for market at about
+A: 6–8 weeks
+W: 6 months
+W: 1 year
+W: 2 weeks
+E: They grow very quickly.
+
+Q: A good layer has
+A: a bright red comb and a moist vent
+W: a pale shrunken comb
+W: a dry, small vent
+W: dull eyes
+E: These indicate active laying.
+
+Q: Culling in poultry means
+A: removing unproductive or sick birds
+W: adding new birds
+W: vaccinating birds
+W: feeding birds
+E: It improves flock efficiency.
+
+Q: Vaccination against Newcastle disease is often given through
+A: drinking water or eye drops
+W: feathers
+W: eggs
+W: litter
+E: E.g. Lasota vaccine.
+
+Q: A poultry house should be built
+A: on well-drained land with good ventilation
+W: in a swamp
+W: without ventilation
+W: facing strong winds directly
+E: Fresh air prevents disease.
+
+Q: Feeders and drinkers should be cleaned to
+A: prevent disease
+W: attract rodents
+W: waste feed
+W: increase pests
+E: Hygiene is essential.
+
+Q: Moulting in poultry is
+A: the shedding and renewal of feathers
+W: laying eggs
+W: hatching chicks
+W: a disease only
+E: Laying often stops during moulting.
+
+Q: A broody hen is one that
+A: wants to sit on eggs to hatch them
+W: lays many eggs
+W: is sick
+W: is a young male
+E: Broodiness reduces egg laying.
+
+Q: Eggs are stored with the broad end
+A: up
+W: down
+W: sideways only
+W: in water
+E: This keeps the air cell in place.
+
+Q: Poultry manure is useful as
+A: fertiliser for crops
+W: feed for chicks
+W: building material
+W: fuel for cars
+E: It is rich in nitrogen.
+
+Q: The breed of chicken commonly used for egg production is the
+A: Isa Brown
+W: Large White
+W: White Fulani
+W: Yankasa
+E: Isa Brown is a commercial layer.
+
+@topic agr-nutrition
+
+Q: Carbohydrates in animal feeds mainly provide
+A: energy
+W: body building
+W: minerals
+W: vitamins only
+E: E.g. maize and cassava.
+
+Q: Proteins in animal feeds are needed for
+A: growth and repair of tissues
+W: energy only
+W: bones only
+W: nothing
+E: E.g. soybean meal and fish meal.
+
+Q: Vitamins are needed by animals in
+A: small amounts for normal body functions
+W: large amounts for energy
+W: no amount
+W: only for colour
+E: Deficiencies cause diseases.
+
+Q: Vitamin D deficiency in young animals causes
+A: rickets
+W: scurvy
+W: night blindness
+W: beriberi
+E: Bones become soft.
+
+Q: Calcium and phosphorus are important for
+A: bone formation and eggshells
+W: blood clotting only
+W: vision only
+W: energy only
+E: Layers need much calcium.
+
+Q: Oyster shell is added to layers' feed to supply
+A: calcium
+W: protein
+W: carbohydrate
+W: fat
+E: It strengthens eggshells.
+
+Q: Fish meal is a source of
+A: protein
+W: carbohydrate
+W: fibre only
+W: water
+E: It is a high-quality protein.
+
+Q: Roughages are feeds that are
+A: high in fibre
+W: high in protein only
+W: low in fibre
+W: always dry grains
+E: E.g. hay and grass.
+
+Q: A maintenance ration is fed to keep an animal
+A: alive without gaining or losing weight
+W: growing fast
+W: producing milk
+W: fat
+E: It meets basic needs.
+
+Q: A production ration is fed to animals for
+A: growth, milk or egg production
+W: survival only
+W: no purpose
+W: weight loss
+E: It is above maintenance needs.
+
+Q: Water is important in animal nutrition because it
+A: aids digestion and regulates body temperature
+W: has no use
+W: provides protein
+W: provides fibre
+E: Animals need clean water always.
+
+Q: Feed additives such as antibiotics are added to
+A: promote growth and prevent disease
+W: make feed tasteless
+W: reduce growth
+W: colour the feed
+E: Use is regulated.
+
+Q: Pasture is land covered with
+A: grasses and legumes for grazing
+W: trees only
+W: crops only
+W: water
+E: It feeds livestock.
+
+Q: Stylosanthes and Centrosema are examples of
+A: pasture legumes
+W: pasture grasses
+W: cereals
+W: tubers
+E: They are rich in protein.
+
+Q: Guinea grass (Panicum maximum) is a
+A: pasture grass
+W: legume
+W: weed only
+W: root crop
+E: It is palatable.
+
+Q: Rotational grazing helps to
+A: allow pastures to recover
+W: overgraze the land
+W: kill grass
+W: increase erosion
+E: Animals move between paddocks.
+
+Q: Overstocking a pasture leads to
+A: overgrazing
+W: better pastures
+W: more grass
+W: higher yields
+E: Too many animals damage grass.
+
+Q: Silage is made in a
+A: silo
+W: pond
+W: incubator
+W: barn only open to air
+E: Air is excluded.
+
+Q: Molasses is added to silage to
+A: provide sugars for fermentation
+W: dry it
+W: colour it
+W: add protein
+E: It speeds up fermentation.
+
+Q: Kwashiorkor-like protein deficiency in animals leads to
+A: poor growth
+W: rapid growth
+W: excess weight
+W: high milk yield
+E: Protein is essential.
+
+Q: Digestible crude protein (DCP) measures
+A: the protein an animal can actually digest
+W: total energy
+W: fibre content
+W: water content
+E: It indicates feed value.
+
+Q: Iodine deficiency in animals causes
+A: goitre
+W: rickets
+W: anaemia
+W: milk fever
+E: The thyroid enlarges.
+
+Q: Iron deficiency in piglets causes
+A: anaemia
+W: rickets
+W: goitre
+W: bloat
+E: Piglets are often given iron injections.
+
+Q: A balanced ration contains carbohydrates, proteins, fats, vitamins, minerals and
+A: water
+W: soil
+W: stones
+W: plastic
+E: All nutrients in correct proportions.
+
+@topic agr-irrigation
+
+Q: Surface irrigation involves
+A: flowing water over the soil surface
+W: spraying water into the air
+W: dripping water at roots
+W: water from below the soil only
+E: E.g. furrow and basin irrigation.
+
+Q: Furrow irrigation delivers water through
+A: channels between crop rows
+W: overhead sprinklers
+W: drip pipes
+W: aeroplanes
+E: It suits row crops.
+
+Q: Sprinkler irrigation
+A: sprays water over crops like rain
+W: floods the field
+W: drips water at the base of plants
+W: uses canals only
+E: It needs pumps and pipes.
+
+Q: Drip (trickle) irrigation is the most efficient because it
+A: delivers water directly to the root zone with little waste
+W: floods the whole field
+W: sprays water widely
+W: uses no pipes
+E: Evaporation losses are small.
+
+Q: Basin irrigation is suitable for
+A: rice and orchards
+W: hilly areas only
+W: deserts with no water
+W: rooftops
+E: Fields are flooded within bunds.
+
+Q: Overhead irrigation can cause
+A: leaf diseases due to wet foliage
+W: no problems
+W: drought
+W: soil acidity only
+E: Wet leaves encourage fungi.
+
+Q: Over-irrigation can lead to
+A: waterlogging and salinity
+W: drought
+W: better yields always
+W: less water use
+E: Excess water raises the water table.
+
+Q: Salinisation is
+A: the build-up of salts in the soil
+W: the loss of salts
+W: soil erosion
+W: soil formation
+E: It is common in poorly drained irrigated land.
+
+Q: Sources of irrigation water include
+A: rivers, wells and dams
+W: the air only
+W: stones
+W: trees
+E: Water is pumped or channelled.
+
+Q: The Bakolori Dam irrigation project is in
+A: Zamfara (formerly Sokoto) State
+W: Lagos State
+W: Rivers State
+W: Enugu State
+E: It supports farming in the north-west.
+
+Q: The Hadejia-Jama'are River Basin supports irrigation in
+A: northern Nigeria
+W: the Niger Delta
+W: Lagos
+W: Ogun State
+E: It covers Kano and Jigawa areas.
+
+Q: Fadama farming refers to cultivation on
+A: low-lying flood plains
+W: hilltops
+W: rooftops
+W: deserts
+E: Fadama land retains moisture.
+
+Q: Drainage is necessary in
+A: waterlogged soils
+W: very dry soils
+W: deserts
+W: well-drained soils
+E: It removes excess water.
+
+Q: Surface drainage removes water using
+A: open ditches
+W: underground pipes only
+W: sprinklers
+W: drip lines
+E: Channels carry water away.
+
+Q: Subsurface drainage uses
+A: buried pipes or tiles
+W: open canals only
+W: sprinklers
+W: buckets
+E: Water drains through underground channels.
+
+Q: An advantage of drainage is that it
+A: improves soil aeration
+W: causes waterlogging
+W: reduces root growth
+W: increases salinity
+E: Roots get oxygen.
+
+Q: A disadvantage of irrigation is that
+A: it can be expensive to set up
+W: it always reduces yield
+W: it requires no water
+W: it is never useful
+E: Pumps and canals cost money.
+
+Q: Irrigation allows farmers to
+A: grow crops during the dry season
+W: stop farming
+W: avoid all labour
+W: reduce yields
+E: Year-round production is possible.
+
+Q: Water-logging harms crops because
+A: roots lack oxygen
+W: roots get too much air
+W: soil becomes too dry
+W: nutrients increase
+E: Roots may rot.
+
+Q: The quantity of water needed for irrigation depends on
+A: the crop, soil type and climate
+W: the colour of the crop
+W: the farmer's age
+W: the size of the tractor only
+E: Different crops need different amounts.
+
+Q: Shadoof is a
+A: traditional device for lifting water for irrigation
+W: type of tractor
+W: fertiliser
+W: weed
+E: It is used along rivers.
+
+Q: Wells for irrigation can be powered by
+A: hand pumps, motor pumps or windmills
+W: tractors only
+W: fertilisers
+W: animals only
+E: Water is lifted to the field.
+
+Q: Proper irrigation scheduling means
+A: giving water at the right time and in the right amount
+W: watering whenever convenient
+W: never watering
+W: flooding every day
+E: It saves water and improves yields.
+
+Q: Mole drains are
+A: unlined underground channels made by a special plough
+W: open canals
+W: sprinklers
+W: dams
+E: They are used in clay soils.
+
+@topic agr-fisheries
+
+Q: Pisciculture is
+A: fish farming
+W: bee keeping
+W: snail farming
+W: tree planting
+E: It is a type of aquaculture.
+
+Q: A fish pond should be sited
+A: near a reliable water supply with suitable soil
+W: on a rocky hilltop
+W: in a desert without water
+W: on sandy soil that cannot hold water
+E: Clay soils retain water.
+
+Q: Liming a fish pond helps to
+A: correct acidity
+W: kill all fish
+W: add oxygen
+W: remove water
+E: It improves water quality.
+
+Q: Fertilising a fish pond encourages the growth of
+A: plankton, which fish eat
+W: weeds only
+W: predators
+W: algae that kill fish always
+E: Plankton is natural fish food.
+
+Q: Tilapia and catfish (Clarias) are popular in Nigeria because they
+A: grow fast and tolerate pond conditions
+W: are very rare
+W: cannot be eaten
+W: live only in the sea
+E: They are hardy species.
+
+Q: Fish breathe using
+A: gills
+W: lungs only
+W: skin only
+W: fins
+E: Gills extract dissolved oxygen.
+
+Q: A disadvantage of overfishing is
+A: depletion of fish stocks
+W: more fish
+W: better ponds
+W: cleaner rivers
+E: Fish populations decline.
+
+Q: Fishing nets with very small mesh are discouraged because they
+A: catch young fish
+W: catch only big fish
+W: are cheap
+W: are easy to use
+E: Young fish should be allowed to grow.
+
+Q: Smoking fish is a method of
+A: preservation
+W: catching
+W: breeding
+W: feeding
+E: It reduces moisture and kills microbes.
+
+Q: Fish is an important source of
+A: protein
+W: carbohydrate only
+W: fibre only
+W: vitamin C only
+E: It is rich in high-quality protein.
+
+Q: Forestry is
+A: the management of forests and their resources
+W: crop farming
+W: fish farming
+W: poultry farming
+E: It includes planting and harvesting trees.
+
+Q: Teak and Gmelina are
+A: timber trees commonly planted in Nigeria
+W: fruit trees
+W: cereals
+W: legumes
+E: They are fast-growing plantation species.
+
+Q: Iroko is a
+A: valuable hardwood
+W: softwood
+W: fruit tree
+W: shrub
+E: It is used for furniture.
+
+Q: Forests are important because they
+A: provide timber, conserve soil and regulate climate
+W: cause erosion
+W: reduce rainfall always
+W: have no value
+E: They also provide habitats.
+
+Q: Deforestation can lead to
+A: soil erosion and loss of wildlife
+W: more forests
+W: more rainfall
+W: better soil
+E: Tree cover protects the land.
+
+Q: Selective felling means
+A: cutting only mature trees of chosen species
+W: cutting all trees
+W: burning forests
+W: planting new trees only
+E: It allows regeneration.
+
+Q: Clear felling means
+A: cutting down all trees in an area
+W: cutting only a few trees
+W: planting trees
+W: pruning trees
+E: It is used before replanting plantations.
+
+Q: Minor forest products include
+A: honey, bush meat and medicinal plants
+W: timber only
+W: crude oil
+W: cement
+E: They are non-timber products.
+
+Q: A forest reserve is protected by
+A: law
+W: farmers only
+W: no one
+W: animals
+E: Exploitation is controlled.
+
+Q: Wildlife conservation helps to
+A: protect animals from extinction
+W: increase hunting
+W: destroy habitats
+W: reduce biodiversity
+E: E.g. national parks.
+
+Q: Fingerlings are stocked in a pond at the correct density to
+A: avoid overcrowding and ensure growth
+W: make fish fight
+W: reduce oxygen
+W: waste space
+E: Too many fish stunt growth.
+
+Q: Fish ponds should be drained periodically to
+A: remove silt and control predators
+W: kill all fish
+W: dry up water permanently
+W: plant crops only
+E: It renews the pond.
+
+Q: Fish feed may include
+A: pelleted feed, maize bran and fish meal
+W: stones
+W: sand
+W: plastic
+E: Feeds supply nutrients.
+
+Q: Sun-drying fish is a cheap method of
+A: preservation
+W: catching
+W: breeding
+W: transportation
+E: Moisture is removed.
+
+@topic agr-economics
+
+Q: Farm management involves
+A: planning and organising farm resources for profit
+W: only harvesting
+W: only selling
+W: only buying tools
+E: The farm manager makes decisions.
+
+Q: The factors of production in agriculture are land, labour, capital and
+A: management (entrepreneurship)
+W: rainfall
+W: fertiliser
+W: tractors only
+E: The entrepreneur combines them.
+
+Q: Fixed costs are costs that
+A: do not change with the level of output
+W: change with output
+W: are always zero
+W: are paid only at harvest
+E: E.g. rent and depreciation.
+
+Q: Variable costs are costs that
+A: change with the level of output
+W: do not change with output
+W: are paid only once
+W: are always zero
+E: E.g. seeds and fertiliser.
+
+Q: Gross margin is
+A: total revenue minus variable costs
+W: total revenue plus costs
+W: fixed costs only
+W: profit after tax
+E: It helps compare enterprises.
+
+Q: Profit is
+A: total revenue minus total cost
+W: total cost minus revenue
+W: revenue only
+W: costs only
+E: A loss occurs if costs exceed revenue.
+
+Q: A farm produces 100 bags of maize sold at ₦20,000 each. Total costs are ₦1,500,000. The profit is
+A: ₦500,000
+W: ₦2,000,000
+W: ₦1,500,000
+W: ₦3,500,000
+E: Revenue ₦2,000,000 − ₦1,500,000.
+
+Q: Farm records help a farmer to
+A: know whether the farm is making a profit
+W: avoid paying workers
+W: increase pests
+W: reduce yields
+E: Records support planning.
+
+Q: A sales record shows
+A: produce sold and the money received
+W: daily activities only
+W: tools only
+W: animal births only
+E: It tracks income.
+
+Q: A labour record shows
+A: workers employed and wages paid
+W: crop yields
+W: animal diseases
+W: fertiliser stocks only
+E: It records labour costs.
+
+Q: Agricultural marketing includes
+A: all activities involved in moving produce from farm to consumer
+W: only growing crops
+W: only buying seeds
+W: only rearing animals
+E: E.g. storage, transport and selling.
+
+Q: A problem of agricultural marketing in Nigeria is
+A: poor storage and transport facilities
+W: too many good roads
+W: excess processing factories
+W: stable prices
+E: Produce is lost before sale.
+
+Q: A middleman in agricultural marketing
+A: buys from farmers and sells to consumers or processors
+W: grows crops
+W: makes tractors
+W: is always a government agency
+E: They link producers and buyers.
+
+Q: Agricultural credit is
+A: loans given to farmers
+W: subsidies for factories
+W: taxes on farmers
+W: profits from crops
+E: It provides capital.
+
+Q: The Bank of Agriculture (formerly NACRDB) provides
+A: credit to farmers
+W: free tractors to everyone
+W: seeds to banks
+W: loans only to industries
+E: It is a specialised bank.
+
+Q: Collateral is
+A: security for a loan
+W: a type of crop
+W: a farm tool
+W: a disease
+E: Many farmers lack collateral.
+
+Q: Agricultural insurance protects farmers against
+A: losses from risks such as drought, pests and fire
+W: high profits
+W: good harvests
+W: rising prices
+E: The Nigerian Agricultural Insurance Corporation provides it.
+
+Q: Supply of farm produce often fluctuates because of
+A: weather and seasonal production
+W: constant demand
+W: fixed rainfall
+W: unlimited land
+E: Harvests vary.
+
+Q: A cooperative helps farmers to
+A: buy inputs and sell produce together at better prices
+W: compete against each other
+W: avoid all markets
+W: increase costs
+E: Members share benefits.
+
+Q: Extension agents help farmers by
+A: teaching new farming methods
+W: buying all their land
+W: collecting taxes
+W: selling tractors only
+E: They transfer research results.
+
+Q: An extension teaching method is
+A: a demonstration plot
+W: a tax receipt
+W: a bank loan
+W: a fishing net
+E: Farmers see the results directly.
+
+Q: Depreciation of farm machinery is
+A: the loss in value of the machine over time
+W: the increase in value
+W: the repair cost
+W: the fuel cost
+E: It is a fixed cost.
+
+Q: A farm budget is
+A: an estimate of expected costs and returns
+W: a type of crop
+W: a farm tool
+W: an animal record
+E: It helps planning.
+
+Q: Price support (guaranteed minimum price) protects farmers from
+A: very low prices
+W: high prices
+W: rainfall
+W: pests
+E: The government buys at a set price.

@@ -1,0 +1,1320 @@
+@subject chemistry
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic chm-acids
+
+Q: An acid is a substance that
+A: produces hydrogen ions (H⁺) in water
+W: produces hydroxide ions in water
+W: has a pH above 7
+W: turns red litmus blue
+E: Arrhenius definition.
+
+Q: A base is a substance that
+A: reacts with an acid to form salt and water only
+W: produces H⁺ ions
+W: always dissolves in water
+W: has a pH below 7
+E: Soluble bases are alkalis.
+
+Q: According to Brønsted–Lowry, an acid is a
+A: proton donor
+W: proton acceptor
+W: electron donor
+W: neutron donor
+E: A base is a proton acceptor.
+
+Q: A weak acid is one that
+A: ionises only partially in water
+W: ionises completely
+W: has no hydrogen
+W: is always dilute
+E: E.g. ethanoic acid.
+
+Q: A concentrated acid contains
+A: a large amount of acid in a small volume of water
+W: a small amount of acid
+W: no water
+W: only weak acids
+E: Concentration is different from strength.
+
+Q: Which of these is a weak acid?
+A: ethanoic acid
+W: hydrochloric acid
+W: nitric acid
+W: sulphuric acid
+E: It partially ionises.
+
+Q: Which of these is a strong alkali?
+A: sodium hydroxide
+W: ammonia solution
+W: magnesium hydroxide
+W: water
+E: It ionises completely.
+
+Q: Methyl orange is red in acid and
+A: yellow in alkali
+W: pink in alkali
+W: blue in alkali
+W: colourless in alkali
+E: It changes around pH 3–4.
+
+Q: A solution with pH 12 is
+A: strongly alkaline
+W: strongly acidic
+W: neutral
+W: weakly acidic
+E: pH above 7 is alkaline.
+
+Q: A solution with pH 6 is
+A: weakly acidic
+W: strongly acidic
+W: neutral
+W: strongly alkaline
+E: Slightly below 7.
+
+Q: An acid reacts with a metal oxide to produce
+A: salt and water
+W: salt and hydrogen
+W: salt and carbon dioxide
+W: only water
+E: Metal oxides are bases.
+
+Q: An acid reacts with a reactive metal to produce
+A: salt and hydrogen
+W: salt and water
+W: salt and oxygen
+W: salt and carbon dioxide
+E: E.g. Mg + 2HCl → MgCl₂ + H₂.
+
+Q: An acid reacts with a carbonate to produce
+A: salt, water and carbon dioxide
+W: salt and hydrogen
+W: salt only
+W: water only
+E: Effervescence occurs.
+
+Q: The basicity of an acid is
+A: the number of replaceable hydrogen ions per molecule
+W: its pH
+W: its concentration
+W: its colour
+E: H₂SO₄ is dibasic.
+
+Q: Phosphoric acid (H₃PO₄) is
+A: tribasic
+W: monobasic
+W: dibasic
+W: not an acid
+E: It has three replaceable hydrogens.
+
+Q: An amphoteric oxide reacts with
+A: both acids and bases
+W: only acids
+W: only bases
+W: neither
+E: E.g. zinc oxide and aluminium oxide.
+
+Q: Ammonia solution is a
+A: weak alkali
+W: strong alkali
+W: strong acid
+W: neutral salt
+E: It partially ionises.
+
+Q: The pH of 0.01 mol/dm³ HCl is
+A: 2
+W: 1
+W: 0.01
+W: 12
+E: [H⁺] = 10⁻²; pH = 2.
+
+Q: Antacid tablets relieve indigestion by
+A: neutralising excess stomach acid
+W: increasing stomach acid
+W: killing bacteria
+W: dissolving food
+E: They contain bases such as magnesium hydroxide.
+
+Q: Bee stings are acidic and can be treated with
+A: a mild alkali such as baking soda
+W: vinegar
+W: lemon juice
+W: hydrochloric acid
+E: The base neutralises the acid.
+
+Q: Universal indicator is useful because it
+A: shows the approximate pH of a solution
+W: shows only acid or alkali
+W: is colourless always
+W: measures temperature
+E: It gives a range of colours.
+
+@topic chm-salts
+
+Q: A salt is formed when
+A: the hydrogen of an acid is replaced by a metal or ammonium ion
+W: a metal is heated alone
+W: water is boiled
+W: an acid evaporates
+E: E.g. NaCl from HCl.
+
+Q: A normal salt is one in which
+A: all replaceable hydrogen has been replaced
+W: some hydrogen remains
+W: hydroxide ions remain
+W: no metal is present
+E: E.g. Na₂SO₄.
+
+Q: Sodium hydrogensulphate (NaHSO₄) is an example of
+A: an acid salt
+W: a normal salt
+W: a basic salt
+W: a double salt
+E: It still has a replaceable hydrogen.
+
+Q: A basic salt contains
+A: hydroxide or oxide ions as well as the anion of the acid
+W: replaceable hydrogen
+W: no metal
+W: only water
+E: E.g. basic zinc chloride.
+
+Q: Potash alum is an example of
+A: a double salt
+W: an acid salt
+W: a basic salt
+W: a complex acid
+E: It contains two cations.
+
+Q: Soluble salts can be prepared by
+A: reacting an acid with an excess of an insoluble base, then filtering
+W: precipitation only
+W: sublimation
+W: fractional distillation
+E: The excess solid is filtered off.
+
+Q: Titration is used to prepare soluble salts of
+A: sodium, potassium and ammonium
+W: lead and silver only
+W: barium only
+W: all insoluble salts
+E: The acid and alkali are both soluble.
+
+Q: Insoluble salts are prepared by
+A: double decomposition (precipitation)
+W: titration
+W: reacting acid with metal
+W: evaporation of a solution
+E: Two soluble salts react to form a precipitate.
+
+Q: Which of these salts is soluble in water?
+A: sodium chloride
+W: silver chloride
+W: barium sulphate
+W: lead(II) chloride in cold water
+E: All sodium salts are soluble.
+
+Q: All nitrates are
+A: soluble in water
+W: insoluble
+W: coloured
+W: gases
+E: This is a solubility rule.
+
+Q: Most carbonates are insoluble except those of
+A: sodium, potassium and ammonium
+W: calcium and barium
+W: lead and copper
+W: iron and zinc
+E: Group 1 and ammonium carbonates dissolve.
+
+Q: Lead(II) iodide is
+A: yellow and insoluble
+W: white and soluble
+W: blue and soluble
+W: colourless gas
+E: It forms a bright yellow precipitate.
+
+Q: Hydrated salts contain
+A: water of crystallisation
+W: no water
+W: only hydrogen
+W: acids
+E: E.g. CuSO₄·5H₂O.
+
+Q: Anhydrous copper(II) sulphate is
+A: white
+W: blue
+W: green
+W: red
+E: It turns blue with water.
+
+Q: Hygroscopic substances
+A: absorb water from the air without dissolving
+W: lose water to the air
+W: dissolve in their own water
+W: never absorb water
+E: E.g. concentrated sulphuric acid.
+
+Q: Calcium sulphate (plaster of Paris) is used for
+A: making casts for broken bones
+W: baking bread
+W: fertiliser only
+W: making soap
+E: It sets hard when wet.
+
+Q: Sodium hydrogencarbonate is used in
+A: baking powder
+W: fertilisers
+W: dyes
+W: batteries
+E: It releases CO₂ when heated.
+
+Q: Copper(II) sulphate is used as a
+A: fungicide
+W: fertiliser for nitrogen
+W: food preservative
+W: fuel
+E: E.g. Bordeaux mixture.
+
+Q: Ammonium nitrate is used as
+A: a fertiliser
+W: a food
+W: a cleaning agent only
+W: a fuel for cars
+E: It is rich in nitrogen.
+
+Q: Silver bromide is used in
+A: photography
+W: fertilisers
+W: baking
+W: soaps
+E: It is sensitive to light.
+
+Q: Calcium carbonate is the main compound in
+A: limestone and marble
+W: salt
+W: sugar
+W: glass
+E: It is used in making cement.
+
+Q: Washing soda is
+A: hydrated sodium carbonate
+W: sodium chloride
+W: sodium hydroxide
+W: calcium carbonate
+E: Na₂CO₃·10H₂O.
+
+Q: When hydrated copper(II) sulphate is heated, it
+A: turns white as water is driven off
+W: turns red
+W: melts into a gas
+W: becomes black immediately
+E: The water of crystallisation is lost.
+
+Q: Salts of which metal give a lilac flame?
+A: potassium
+W: sodium
+W: calcium
+W: copper
+E: Sodium gives yellow.
+
+@topic chm-carbon
+
+Q: Allotropy is the existence of an element in
+A: different physical forms
+W: different compounds
+W: different isotopes only
+W: different states only
+E: E.g. diamond and graphite.
+
+Q: Graphite conducts electricity because it has
+A: delocalised electrons between layers
+W: ions
+W: no electrons
+W: strong bonds in all directions
+E: Each carbon uses three electrons in bonding.
+
+Q: In graphite, each carbon atom is bonded to
+A: three other carbon atoms
+W: four other carbon atoms
+W: two other carbon atoms
+W: one other carbon atom
+E: It forms hexagonal layers.
+
+Q: In diamond, each carbon atom is bonded to
+A: four other carbon atoms
+W: three other carbon atoms
+W: two other carbon atoms
+W: five other carbon atoms
+E: It forms a tetrahedral network.
+
+Q: Fullerenes such as buckminsterfullerene contain
+A: 60 carbon atoms in a ball shape
+W: 4 carbon atoms
+W: only hydrogen
+W: diamond layers
+E: C₆₀ is shaped like a football.
+
+Q: Amorphous forms of carbon include
+A: charcoal, soot and coke
+W: diamond
+W: graphite
+W: fullerene
+E: They lack a regular structure.
+
+Q: Coke is used in the extraction of iron as
+A: a reducing agent and fuel
+W: an oxidising agent
+W: a flux
+W: a catalyst
+E: It produces carbon monoxide.
+
+Q: Carbon dioxide is prepared in the laboratory by reacting
+A: calcium carbonate with dilute hydrochloric acid
+W: zinc with dilute acid
+W: water with sodium
+W: copper with nitric acid
+E: Marble chips are used.
+
+Q: Carbon dioxide is collected by
+A: downward delivery (upward displacement of air)
+W: upward delivery
+W: over water always
+W: a burette
+E: It is denser than air.
+
+Q: Carbon dioxide turns limewater milky because it forms
+A: calcium carbonate
+W: calcium hydroxide
+W: calcium oxide
+W: calcium chloride
+E: CaCO₃ is insoluble.
+
+Q: Excess carbon dioxide makes milky limewater clear again because it forms
+A: soluble calcium hydrogencarbonate
+W: calcium oxide
+W: calcium sulphate
+W: water only
+E: Ca(HCO₃)₂ dissolves.
+
+Q: Carbon dioxide is used in fire extinguishers because it
+A: does not support combustion and is denser than air
+W: burns easily
+W: is lighter than air
+W: is poisonous
+E: It blankets the fire.
+
+Q: Solid carbon dioxide (dry ice) is used for
+A: refrigeration
+W: fuel
+W: fertiliser
+W: dyes
+E: It sublimes at −78 °C.
+
+Q: Carbon dioxide is used in fizzy drinks because it
+A: dissolves under pressure and gives a sharp taste
+W: is sweet
+W: is colourful
+W: is a preservative only
+E: Carbonic acid forms.
+
+Q: Carbon monoxide is formed by
+A: incomplete combustion of carbon compounds
+W: complete combustion
+W: electrolysis of water
+W: rusting
+E: There is not enough oxygen.
+
+Q: Carbon monoxide is a
+A: reducing agent
+W: oxidising agent
+W: drying agent
+W: bleaching agent
+E: It reduces metal oxides.
+
+Q: Carbon monoxide burns with a
+A: blue flame
+W: yellow flame
+W: green flame
+W: red flame
+E: It forms carbon dioxide.
+
+Q: The carbon cycle shows how carbon moves between
+A: the atmosphere, living things, oceans and rocks
+W: metals only
+W: the sun and moon
+W: water and salt only
+E: Photosynthesis and respiration are key processes.
+
+Q: Photosynthesis removes carbon dioxide from the air and releases
+A: oxygen
+W: nitrogen
+W: methane
+W: carbon monoxide
+E: Plants make glucose.
+
+Q: Carbonates decompose on heating to give
+A: a metal oxide and carbon dioxide
+W: a metal and oxygen
+W: hydrogen
+W: water only
+E: E.g. CaCO₃ → CaO + CO₂.
+
+Q: Sodium carbonate does not decompose on heating in a Bunsen flame because
+A: it is thermally stable
+W: it is a gas
+W: it is an acid
+W: it is already decomposed
+E: Group 1 carbonates are stable.
+
+Q: Charcoal is a good adsorbent because it
+A: has a very large surface area
+W: is very heavy
+W: is a metal
+W: is a liquid
+E: It traps impurities.
+
+Q: Synthesis gas is a mixture of
+A: carbon monoxide and hydrogen
+W: carbon dioxide and oxygen
+W: nitrogen and hydrogen
+W: methane and ethane
+E: It is used to make methanol.
+
+Q: Carbon is in group
+A: 14 (IV)
+W: 1
+W: 17
+W: 2
+E: It has four outer electrons.
+
+@topic chm-redox
+
+Q: Reduction can be defined as
+A: gain of electrons
+W: loss of electrons
+W: gain of oxygen
+W: loss of hydrogen
+E: OIL RIG: Reduction Is Gain.
+
+Q: In terms of oxygen, oxidation is
+A: gain of oxygen
+W: loss of oxygen
+W: gain of hydrogen
+W: gain of electrons
+E: E.g. Mg + O₂ → MgO.
+
+Q: An oxidising agent
+A: accepts electrons and is itself reduced
+W: donates electrons
+W: is itself oxidised
+W: never reacts
+E: E.g. chlorine.
+
+Q: A reducing agent
+A: donates electrons and is itself oxidised
+W: accepts electrons
+W: is itself reduced
+W: never reacts
+E: E.g. hydrogen and carbon.
+
+Q: The oxidation number of oxygen in most compounds is
+A: −2
+W: +2
+W: 0
+W: −1
+E: Except in peroxides (−1).
+
+Q: The oxidation number of an element in its free state is
+A: 0
+W: +1
+W: −1
+W: +2
+E: E.g. O₂, Na, Cl₂.
+
+Q: The oxidation number of sulphur in H₂SO₄ is
+A: +6
+W: +4
+W: −2
+W: +2
+E: 2(+1) + S + 4(−2) = 0.
+
+Q: The oxidation number of manganese in KMnO₄ is
+A: +7
+W: +2
+W: +4
+W: +6
+E: +1 + Mn + 4(−2) = 0.
+
+Q: The oxidation number of nitrogen in NH₃ is
+A: −3
+W: +3
+W: 0
+W: +5
+E: N + 3(+1) = 0.
+
+Q: The oxidation number of chromium in K₂Cr₂O₇ is
+A: +6
+W: +3
+W: +7
+W: +2
+E: 2(+1) + 2Cr + 7(−2) = 0.
+
+Q: In 2Na + Cl₂ → 2NaCl, chlorine is
+A: reduced
+W: oxidised
+W: unchanged
+W: a catalyst
+E: Cl gains electrons (0 → −1).
+
+Q: In Fe²⁺ → Fe³⁺ + e⁻, iron(II) is
+A: oxidised
+W: reduced
+W: unchanged
+W: neutralised
+E: It loses an electron.
+
+Q: Acidified potassium manganate(VII) changes from purple to colourless when it acts as
+A: an oxidising agent
+W: a reducing agent
+W: an acid only
+W: a catalyst
+E: MnO₄⁻ is reduced to Mn²⁺.
+
+Q: Acidified potassium dichromate(VI) changes from orange to
+A: green when reduced
+W: purple
+W: colourless
+W: blue
+E: Cr₂O₇²⁻ becomes Cr³⁺.
+
+Q: Hydrogen peroxide can act as
+A: both an oxidising and a reducing agent
+W: only an acid
+W: only a base
+W: neither
+E: It depends on the reaction.
+
+Q: Rusting requires
+A: oxygen and water
+W: oxygen only
+W: water only
+W: nitrogen and water
+E: Iron is oxidised.
+
+Q: Sacrificial protection of iron uses a
+A: more reactive metal such as zinc or magnesium
+W: less reactive metal such as copper
+W: paint only
+W: plastic coating only
+E: The more reactive metal corrodes instead.
+
+Q: A redox reaction is one in which
+A: oxidation and reduction occur together
+W: only oxidation occurs
+W: only reduction occurs
+W: no electrons move
+E: Electrons lost by one species are gained by another.
+
+Q: In the displacement reaction Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag, copper is
+A: oxidised
+W: reduced
+W: unchanged
+W: a catalyst
+E: Cu → Cu²⁺.
+
+Q: Chlorine displaces bromine from potassium bromide because chlorine is
+A: a stronger oxidising agent
+W: a weaker oxidising agent
+W: a metal
+W: a reducing agent
+E: More reactive halogens displace less reactive ones.
+
+Q: The IUPAC name of FeCl₃ is
+A: iron(III) chloride
+W: iron(II) chloride
+W: ferrous chloride
+W: iron chloride(II)
+E: Iron has oxidation number +3.
+
+@topic chm-electrolysis
+
+Q: Electrolysis is
+A: the decomposition of a compound by passing electricity through it
+W: the dissolving of salts
+W: burning a substance
+W: freezing a liquid
+E: The electrolyte must be molten or dissolved.
+
+Q: In electrolysis, cations move to the
+A: cathode
+W: anode
+W: electrolyte surface
+W: battery
+E: Cations are positive.
+
+Q: In electrolysis, anions move to the
+A: anode
+W: cathode
+W: battery
+W: beaker wall
+E: Anions are negative.
+
+Q: At the cathode, ions are
+A: reduced
+W: oxidised
+W: unchanged
+W: neutralised by acid
+E: They gain electrons.
+
+Q: At the anode, ions are
+A: oxidised
+W: reduced
+W: unchanged
+W: precipitated
+E: They lose electrons.
+
+Q: Electrolysis of molten sodium chloride produces
+A: sodium at the cathode and chlorine at the anode
+W: hydrogen and oxygen
+W: sodium hydroxide only
+W: chlorine at the cathode
+E: Na⁺ is reduced; Cl⁻ is oxidised.
+
+Q: Electrolysis of brine (concentrated NaCl solution) produces
+A: hydrogen, chlorine and sodium hydroxide
+W: sodium metal and chlorine
+W: oxygen only
+W: hydrogen only
+E: It is the chlor-alkali process.
+
+Q: Electrolysis of copper(II) sulphate solution with copper electrodes results in
+A: copper dissolving from the anode and depositing at the cathode
+W: oxygen at the cathode
+W: no change
+W: hydrogen at the anode
+E: This is used to purify copper.
+
+Q: Inert electrodes are made of
+A: platinum or carbon
+W: copper
+W: zinc
+W: iron
+E: They do not react.
+
+Q: Faraday's first law states that the mass deposited is proportional to
+A: the quantity of electricity passed
+W: the voltage only
+W: the size of the electrode
+W: the temperature
+E: m ∝ Q.
+
+Q: One faraday is the charge carried by
+A: one mole of electrons (about 96,500 C)
+W: one electron
+W: one proton
+W: one mole of protons only
+E: F = 96,500 C/mol.
+
+Q: The quantity of electricity is calculated as
+A: current × time
+W: voltage × time
+W: current ÷ time
+W: resistance × current
+E: Q = It.
+
+Q: A current of 2 A flows for 100 s. The quantity of electricity is
+A: 200 C
+W: 50 C
+W: 102 C
+W: 2 C
+E: 2 × 100.
+
+Q: How many faradays are needed to deposit one mole of copper from Cu²⁺?
+A: 2
+W: 1
+W: 3
+W: 0.5
+E: Cu²⁺ + 2e⁻ → Cu.
+
+Q: How many faradays are needed to deposit one mole of aluminium from Al³⁺?
+A: 3
+W: 1
+W: 2
+W: 6
+E: Al³⁺ + 3e⁻ → Al.
+
+Q: How many faradays are needed to deposit one mole of silver from Ag⁺?
+A: 1
+W: 2
+W: 3
+W: 0.5
+E: Ag⁺ + e⁻ → Ag.
+
+Q: The preferential discharge of ions depends on the electrochemical series, concentration and
+A: the nature of the electrode
+W: the colour of the solution
+W: the shape of the beaker
+W: the room size
+E: These decide which ion is discharged.
+
+Q: In electrolysis of dilute sulphuric acid, the ratio of hydrogen to oxygen volumes is
+A: 2:1
+W: 1:2
+W: 1:1
+W: 3:1
+E: As in water, H₂O.
+
+Q: Aluminium is extracted by electrolysis of
+A: molten alumina dissolved in cryolite
+W: aqueous aluminium sulphate
+W: bauxite in water
+W: aluminium chloride solution
+E: Cryolite lowers the melting point.
+
+Q: A use of electrolysis is
+A: electroplating
+W: distillation
+W: filtration
+W: crystallisation
+E: It coats objects with metals.
+
+Q: In electroplating, the metal to be plated is made the
+A: cathode
+W: anode
+W: electrolyte
+W: battery
+E: Metal ions are deposited on it.
+
+Q: A non-electrolyte is a substance that
+A: does not conduct electricity when molten or dissolved
+W: conducts electricity in solution
+W: is always an ionic compound
+W: contains free ions
+E: E.g. sugar solution.
+
+Q: A strong electrolyte is
+A: completely ionised in solution
+W: partially ionised
+W: not ionised at all
+W: a metal
+E: E.g. sodium chloride solution.
+
+Q: Copper is purified by electrolysis using
+A: an impure copper anode and a pure copper cathode
+W: carbon electrodes only
+W: a pure copper anode
+W: zinc electrodes
+E: Impurities fall as anode sludge.
+
+@topic chm-rates
+
+Q: The rate of a reaction is
+A: the change in amount of reactant or product per unit time
+W: the total amount of product
+W: the temperature of the reaction
+W: the colour change only
+E: E.g. cm³ of gas per second.
+
+Q: Increasing the concentration of a reactant increases the rate because
+A: particles collide more frequently
+W: particles move slower
+W: activation energy increases
+W: fewer particles are present
+E: More particles in a given volume.
+
+Q: Powdered marble reacts faster with acid than marble chips because
+A: it has a larger surface area
+W: it is heavier
+W: it is more concentrated
+W: it is cooler
+E: More particles are exposed.
+
+Q: Activation energy is
+A: the minimum energy needed for a reaction to occur
+W: the energy released
+W: the total energy of products
+W: the heat of the room
+E: Catalysts lower it.
+
+Q: A catalyst is
+A: a substance that speeds up a reaction and is not used up
+W: a reactant
+W: a product
+W: a substance that slows reactions always
+E: It provides an alternative pathway.
+
+Q: Enzymes are
+A: biological catalysts
+W: metals
+W: acids
+W: fuels
+E: They are proteins.
+
+Q: Light increases the rate of
+A: photochemical reactions such as photosynthesis
+W: all reactions
+W: neutralisation only
+W: rusting only
+E: E.g. reaction of hydrogen with chlorine.
+
+Q: Food is kept in a refrigerator to
+A: slow down reactions that cause spoilage
+W: speed up spoilage
+W: add flavour
+W: cook it
+E: Lower temperature lowers the rate.
+
+Q: A reversible reaction is one that
+A: can proceed in both directions
+W: goes to completion only
+W: never occurs
+W: occurs only with catalysts
+E: Shown by ⇌.
+
+Q: Dynamic equilibrium means
+A: forward and backward reactions occur at the same rate
+W: all reactions stop
+W: only the forward reaction occurs
+W: reactants are used up
+E: Concentrations remain constant.
+
+Q: Le Chatelier's principle states that when a system at equilibrium is disturbed,
+A: it shifts to oppose the change
+W: it stops reacting
+W: it increases the change
+W: nothing happens
+E: The position of equilibrium moves.
+
+Q: For an exothermic forward reaction, increasing temperature shifts equilibrium to the
+A: left (towards reactants)
+W: right (towards products)
+W: neither side
+W: products always
+E: The system absorbs the added heat.
+
+Q: A catalyst affects equilibrium by
+A: helping it to be reached faster without changing its position
+W: shifting it to the right
+W: shifting it to the left
+W: stopping the reaction
+E: Both rates increase equally.
+
+Q: In the Haber process, the catalyst is
+A: finely divided iron
+W: platinum
+W: vanadium(V) oxide
+W: nickel
+E: It speeds up ammonia production.
+
+Q: In the Contact process, the catalyst is
+A: vanadium(V) oxide
+W: iron
+W: nickel
+W: copper
+E: SO₂ is oxidised to SO₃.
+
+Q: An endothermic reaction
+A: absorbs heat from the surroundings
+W: releases heat
+W: has no energy change
+W: is always fast
+E: ΔH is positive.
+
+Q: The enthalpy change (ΔH) for an exothermic reaction is
+A: negative
+W: positive
+W: zero
+W: always infinite
+E: Energy is released.
+
+Q: Combustion of fuels is
+A: exothermic
+W: endothermic
+W: neither
+W: always slow
+E: Heat is released.
+
+Q: Dissolving ammonium nitrate in water is
+A: endothermic
+W: exothermic
+W: neither
+W: explosive always
+E: The solution becomes cold.
+
+Q: Heat of neutralisation is the heat change when
+A: one mole of water is formed from acid and alkali
+W: one mole of salt melts
+W: an acid is diluted
+W: a base is heated
+E: About −57 kJ/mol for strong acids and bases.
+
+Q: Increasing pressure favours the side of an equilibrium with
+A: fewer gas molecules
+W: more gas molecules
+W: more solids
+W: more liquids
+E: The system reduces pressure.
+
+Q: A positive catalyst works by
+A: lowering the activation energy
+W: raising the activation energy
+W: changing the products
+W: being consumed
+E: More particles have enough energy.
+
+Q: An inhibitor (negative catalyst) is used to
+A: slow down a reaction
+W: speed up a reaction
+W: change the products
+W: increase yield
+E: E.g. in preserving food.
+
+Q: The rate of reaction can be measured by
+A: collecting gas given off over time
+W: weighing the beaker once
+W: smelling the products
+W: looking at the colour once
+E: Volume or mass changes are measured.
+
+@topic chm-water
+
+Q: Permanent hardness of water is caused by dissolved
+A: calcium and magnesium sulphates or chlorides
+W: calcium hydrogencarbonate only
+W: sodium chloride
+W: carbon dioxide
+E: It is not removed by boiling.
+
+Q: Permanent hardness can be removed by
+A: adding washing soda or ion exchange
+W: boiling
+W: filtration
+W: adding salt
+E: Ca²⁺ and Mg²⁺ are removed.
+
+Q: Temporary hardness is caused by dissolved
+A: calcium hydrogencarbonate
+W: calcium sulphate
+W: magnesium chloride
+W: sodium chloride
+E: It is removed by boiling.
+
+Q: Boiling removes temporary hardness because
+A: calcium hydrogencarbonate decomposes to insoluble calcium carbonate
+W: calcium sulphate evaporates
+W: the water becomes salty
+W: the water is distilled
+E: Scale forms in kettles.
+
+Q: An advantage of hard water is that it
+A: provides calcium for strong bones and teeth
+W: lathers easily with soap
+W: causes no scale
+W: is always pure
+E: It also tastes better.
+
+Q: A disadvantage of hard water is that it
+A: wastes soap and forms scale in kettles
+W: is good for drinking
+W: is soft
+W: contains no minerals
+E: Scale reduces efficiency.
+
+Q: Water is called a universal solvent because it
+A: dissolves many substances
+W: dissolves nothing
+W: is a metal
+W: is a gas
+E: It is polar.
+
+Q: Solubility is
+A: the maximum mass of solute that dissolves in a given amount of solvent at a given temperature
+W: the mass of solvent
+W: the temperature of the solution
+W: the colour of the solution
+E: Often in g per 100 g of water.
+
+Q: The solubility of most solids in water
+A: increases with temperature
+W: decreases with temperature
+W: does not change
+W: becomes zero
+E: Solubility curves usually rise.
+
+Q: The solubility of gases in water
+A: decreases as temperature rises
+W: increases as temperature rises
+W: is unaffected
+W: becomes infinite
+E: Warm drinks go flat.
+
+Q: A supersaturated solution contains
+A: more solute than a saturated solution at that temperature
+W: less solute than saturated
+W: no solute
+W: only solvent
+E: It is unstable.
+
+Q: An unsaturated solution
+A: can dissolve more solute
+W: cannot dissolve more solute
+W: contains no solvent
+W: is always coloured
+E: It is below saturation.
+
+Q: 20 g of a salt dissolves in 50 g of water at 30 °C. Its solubility in g per 100 g of water is
+A: 40 g
+W: 20 g
+W: 10 g
+W: 70 g
+E: 20 × 100 ÷ 50.
+
+Q: A colloid is
+A: a mixture with particles larger than in a solution but not settling
+W: a true solution
+W: a suspension that settles quickly
+W: a pure substance
+E: E.g. milk.
+
+Q: A suspension is
+A: a mixture in which solid particles settle on standing
+W: a true solution
+W: a colloid that never settles
+W: a compound
+E: E.g. chalk in water.
+
+Q: The Tyndall effect is shown by
+A: colloids that scatter light
+W: true solutions
+W: pure water
+W: gases only
+E: A beam is visible through a colloid.
+
+Q: In water treatment, sedimentation allows
+A: suspended particles to settle
+W: water to evaporate
+W: chlorine to be added
+W: water to freeze
+E: Large particles sink.
+
+Q: In water treatment, filtration through sand beds removes
+A: fine suspended particles
+W: dissolved salts
+W: chlorine
+W: bacteria completely always
+E: It clarifies water.
+
+Q: Fluoride is added to some water supplies to
+A: help prevent tooth decay
+W: kill bacteria
+W: soften water
+W: add colour
+E: It strengthens tooth enamel.
+
+Q: Distilled water is
+A: water purified by boiling and condensing
+W: sea water
+W: rain water only
+W: hard water
+E: It contains no dissolved salts.
+
+Q: Water pollution can be caused by
+A: industrial waste and sewage
+W: rainfall
+W: photosynthesis
+W: evaporation
+E: Harmful substances enter water bodies.
+
+Q: Anhydrous cobalt(II) chloride paper turns from blue to
+A: pink in the presence of water
+W: green
+W: white
+W: yellow
+E: It is a test for water.
+
+Q: The test for pure water is that it
+A: boils at 100 °C and freezes at 0 °C at standard pressure
+W: is colourless only
+W: has no smell only
+W: turns litmus red
+E: Pure substances have fixed points.
+
+Q: Water is formed when hydrogen burns in
+A: oxygen
+W: nitrogen
+W: carbon dioxide
+W: argon
+E: 2H₂ + O₂ → 2H₂O.
+
+@topic chm-qualitative
+
+Q: Adding sodium hydroxide solution to a solution containing Fe²⁺ gives
+A: a green precipitate
+W: a blue precipitate
+W: a reddish-brown precipitate
+W: a white precipitate
+E: Iron(II) hydroxide.
+
+Q: Adding sodium hydroxide solution to a solution containing Fe³⁺ gives
+A: a reddish-brown precipitate
+W: a green precipitate
+W: a blue precipitate
+W: no precipitate
+E: Iron(III) hydroxide.
+
+Q: A white precipitate with NaOH that dissolves in excess indicates
+A: Zn²⁺, Al³⁺ or Pb²⁺
+W: Fe³⁺
+W: Cu²⁺
+W: Fe²⁺
+E: These hydroxides are amphoteric.
+
+Q: A white precipitate with NaOH that does not dissolve in excess indicates
+A: Ca²⁺ or Mg²⁺
+W: Zn²⁺
+W: Al³⁺
+W: Cu²⁺
+E: Their hydroxides are not amphoteric.
+
+Q: A white precipitate with ammonia solution that dissolves in excess indicates
+A: Zn²⁺
+W: Al³⁺
+W: Pb²⁺
+W: Ca²⁺
+E: Zinc forms a soluble complex.
+
+Q: A blue precipitate with ammonia solution that dissolves in excess to give a deep blue solution indicates
+A: Cu²⁺
+W: Fe²⁺
+W: Zn²⁺
+W: Al³⁺
+E: A tetraammine copper complex forms.
+
+Q: Ammonium ions are detected by warming with NaOH and testing for
+A: ammonia gas, which turns damp red litmus blue
+W: hydrogen gas
+W: carbon dioxide
+W: chlorine
+E: NH₄⁺ + OH⁻ → NH₃ + H₂O.
+
+Q: Carbonate ions are detected by adding dilute acid and testing the gas with
+A: limewater
+W: a glowing splint
+W: damp blue litmus
+W: a lighted splint for a pop
+E: CO₂ turns limewater milky.
+
+Q: A cream precipitate with silver nitrate in dilute nitric acid indicates
+A: bromide ions
+W: chloride ions
+W: iodide ions
+W: sulphate ions
+E: AgBr is cream.
+
+Q: A yellow precipitate with silver nitrate in dilute nitric acid indicates
+A: iodide ions
+W: chloride ions
+W: bromide ions
+W: nitrate ions
+E: AgI is yellow.
+
+Q: Nitrate ions can be detected by the
+A: brown ring test
+W: limewater test
+W: flame test
+W: litmus test only
+E: A brown ring forms with iron(II) sulphate and concentrated H₂SO₄.
+
+Q: Sulphite ions with dilute acid release
+A: sulphur dioxide, which turns acidified dichromate green
+W: carbon dioxide
+W: hydrogen
+W: oxygen
+E: SO₂ is a reducing agent.
+
+Q: Calcium ions give a flame colour of
+A: brick red
+W: lilac
+W: golden yellow
+W: blue-green
+E: A flame test identifies metal ions.
+
+Q: Copper(II) ions give a flame colour of
+A: blue-green
+W: brick red
+W: lilac
+W: crimson
+E: Copper compounds colour flames green.
+
+Q: Lithium ions give a flame colour of
+A: crimson red
+W: golden yellow
+W: lilac
+W: blue-green
+E: Strontium also gives red.
+
+Q: Chlorine gas is identified by
+A: bleaching damp litmus paper
+W: turning limewater milky
+W: relighting a glowing splint
+W: burning with a pop
+E: It is greenish-yellow.
+
+Q: Hydrogen chloride gas forms white fumes with
+A: ammonia
+W: oxygen
+W: nitrogen
+W: water vapour only
+E: Ammonium chloride is formed.
+
+Q: Hydrogen sulphide gas is identified by
+A: its rotten egg smell and blackening lead(II) ethanoate paper
+W: relighting a glowing splint
+W: turning limewater milky
+W: bleaching litmus
+E: Black lead(II) sulphide forms.
+
+Q: Sulphur dioxide turns acidified potassium dichromate(VI) paper from
+A: orange to green
+W: green to orange
+W: purple to red
+W: blue to pink
+E: SO₂ reduces dichromate.
+
+Q: Nitrogen dioxide is
+A: a brown gas
+W: a colourless gas
+W: a green gas
+W: a yellow solid
+E: It is acidic and poisonous.
+
+Q: Water vapour can be detected using
+A: anhydrous copper(II) sulphate, which turns blue
+W: limewater
+W: a glowing splint
+W: litmus only
+E: White to blue.
+
+Q: A sulphate is confirmed by adding barium chloride in dilute hydrochloric acid to give
+A: a white precipitate of barium sulphate
+W: a yellow precipitate
+W: a blue precipitate
+W: a gas
+E: BaSO₄ is insoluble in acid.
+
+Q: Oxygen is identified by
+A: relighting a glowing splint
+W: a squeaky pop
+W: turning limewater milky
+W: bleaching litmus
+E: Oxygen supports combustion.
+
+Q: A green precipitate formed with NaOH slowly turns brown on standing in air because
+A: iron(II) hydroxide is oxidised to iron(III) hydroxide
+W: copper(II) hydroxide is reduced
+W: zinc hydroxide dissolves
+W: calcium hydroxide decomposes
+E: Oxygen in the air oxidises Fe²⁺ to Fe³⁺.

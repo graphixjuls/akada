@@ -1,0 +1,2170 @@
+@subject computer
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic cmp-history
+
+Q: Charles Babbage designed a mechanical computer called the
+A: Analytical Engine
+W: ENIAC
+W: UNIVAC
+W: Abacus
+E: It had the main parts of a modern computer.
+
+Q: Blaise Pascal invented an early mechanical
+A: calculator (the Pascaline)
+W: printer
+W: transistor
+W: microprocessor
+E: It could add and subtract.
+
+Q: The Jacquard loom is important in computer history because it used
+A: punched cards to control patterns
+W: transistors
+W: vacuum tubes
+W: microchips
+E: Punched cards later stored data and programs.
+
+Q: Herman Hollerith used punched cards to process the
+A: 1890 United States census
+W: first moon landing
+W: Second World War codes only
+W: first email
+E: His company later became part of IBM.
+
+Q: ENIAC was an example of a
+A: first-generation computer
+W: second-generation computer
+W: fourth-generation computer
+W: fifth-generation computer
+E: It used vacuum tubes.
+
+Q: Second-generation computers used
+A: transistors
+W: vacuum tubes
+W: integrated circuits
+W: microprocessors
+E: Transistors were smaller and more reliable.
+
+Q: Fourth-generation computers are based on
+A: microprocessors (VLSI)
+W: vacuum tubes
+W: transistors only
+W: punched cards
+E: Very large scale integration put a CPU on one chip.
+
+Q: Fifth-generation computers are associated with
+A: artificial intelligence
+W: vacuum tubes
+W: punched cards
+W: mechanical gears
+E: They aim to reason and learn.
+
+Q: A disadvantage of first-generation computers was that they
+A: produced a lot of heat and were very large
+W: were very small
+W: used microprocessors
+W: were cheap
+E: Vacuum tubes overheated.
+
+Q: The Napier's bones were used for
+A: multiplication
+W: storing files
+W: printing
+W: drawing
+E: John Napier created these rods.
+
+Q: The slide rule was used mainly for
+A: multiplication and division using logarithms
+W: storing data
+W: sending email
+W: printing
+E: It was widely used before calculators.
+
+Q: The first commercially available microprocessor was the
+A: Intel 4004
+W: Pentium
+W: Core i7
+W: ENIAC
+E: It was released in 1971.
+
+Q: UNIVAC I was one of the first computers used for
+A: commercial (business) purposes
+W: playing games
+W: mobile phones
+W: AI research only
+E: It was delivered in 1951.
+
+Q: Computers are classified by size into micro, mini, mainframe and
+A: supercomputers
+W: hybrid computers
+W: analogue computers
+W: digital computers
+E: Supercomputers are the most powerful.
+
+Q: Computers are classified by type of data into digital, analogue and
+A: hybrid
+W: mainframe
+W: micro
+W: super
+E: Hybrids combine digital and analogue features.
+
+Q: An analogue computer works with
+A: continuously varying quantities
+W: discrete binary digits only
+W: punched cards
+W: letters only
+E: E.g. a speedometer.
+
+Q: A digital computer works with
+A: discrete values, usually binary
+W: continuous quantities only
+W: gears only
+W: water flow
+E: Most modern computers are digital.
+
+Q: A laptop is an example of a
+A: microcomputer
+W: mainframe
+W: supercomputer
+W: minicomputer
+E: Personal computers are microcomputers.
+
+Q: Supercomputers are mostly used for
+A: weather forecasting and scientific research
+W: typing letters
+W: playing music
+W: browsing social media
+E: They perform enormous calculations.
+
+Q: Mainframe computers are commonly used by
+A: large organisations such as banks
+W: individual students
+W: small kiosks
+W: children's toys
+E: They handle many users at once.
+
+Q: Integrated circuits contain many components on a
+A: silicon chip
+W: vacuum tube
+W: punched card
+W: magnetic drum
+E: They were used in third-generation computers.
+
+Q: The first generation of computers was programmed mainly in
+A: machine language
+W: Python
+W: Java
+W: natural language
+E: Instructions were binary codes.
+
+Q: High-level languages such as FORTRAN and COBOL became common in the
+A: second generation
+W: first generation only
+W: fifth generation only
+W: era of the abacus
+E: They made programming easier.
+
+Q: John von Neumann is known for proposing
+A: the stored-program concept
+W: the abacus
+W: the internet
+W: the mouse
+E: Programs and data are stored in memory.
+
+@topic cmp-hardware
+
+Q: A keyboard is an example of
+A: an input device
+W: an output device
+W: a storage device
+W: a processing device
+E: It enters data into the computer.
+
+Q: A plotter is used to
+A: print large drawings and graphs
+W: scan documents
+W: store data
+W: type text
+E: It is used in engineering.
+
+Q: A light pen is used to
+A: draw or select directly on a screen
+W: print documents
+W: store files
+W: play sound
+E: It is an input device.
+
+Q: A barcode reader is commonly used in
+A: supermarkets
+W: kitchens only
+W: swimming pools
+W: farms only
+E: It reads product codes at checkout.
+
+Q: MICR is used mainly by banks to read
+A: cheque numbers printed in magnetic ink
+W: barcodes
+W: fingerprints
+W: photographs
+E: Magnetic ink character recognition.
+
+Q: OCR converts
+A: printed text into editable text
+W: sound into text
+W: images into sound
+W: text into video
+E: Optical character recognition.
+
+Q: A touchscreen acts as both
+A: an input and an output device
+W: a storage and printing device
+W: a processor and memory
+W: a power supply and modem
+E: It displays and receives input.
+
+Q: Speakers are
+A: output devices
+W: input devices
+W: storage devices
+W: processing devices
+E: They produce sound.
+
+Q: A webcam is an
+A: input device
+W: output device
+W: storage device
+W: processing unit
+E: It captures video.
+
+Q: The control unit of the CPU
+A: directs and coordinates the operations of the computer
+W: performs arithmetic
+W: stores files permanently
+W: prints documents
+E: It fetches and decodes instructions.
+
+Q: Registers are
+A: very small, fast storage locations inside the CPU
+W: external hard drives
+W: printers
+W: keyboards
+E: They hold data being processed.
+
+Q: The motherboard is
+A: the main circuit board connecting all components
+W: a type of printer
+W: a storage disk
+W: a keyboard
+E: The CPU and memory sit on it.
+
+Q: Clock speed of a processor is measured in
+A: gigahertz (GHz)
+W: gigabytes
+W: pixels
+W: watts only
+E: It shows how many cycles per second.
+
+Q: The resolution of a monitor is measured in
+A: pixels
+W: hertz only
+W: bytes
+W: volts
+E: E.g. 1920 × 1080.
+
+Q: An inkjet printer works by
+A: spraying tiny drops of ink onto paper
+W: using a laser and toner
+W: striking a ribbon
+W: burning paper
+E: It is common for home use.
+
+Q: A dot-matrix printer is an example of
+A: an impact printer
+W: a non-impact printer
+W: a 3D printer
+W: a plotter
+E: Pins strike an inked ribbon.
+
+Q: A laser printer uses
+A: toner and a laser beam
+W: ribbons
+W: liquid ink sprayed only
+W: pens
+E: It is fast and quiet.
+
+Q: A biometric scanner reads
+A: fingerprints or facial features
+W: barcodes
+W: magnetic ink
+W: punched cards
+E: It is used for identification.
+
+Q: A joystick is mostly used for
+A: playing games
+W: printing
+W: storing data
+W: typing letters
+E: It controls movement.
+
+Q: The power supply unit converts
+A: AC mains electricity to DC for the computer
+W: DC to light
+W: data to sound
+W: text to images
+E: Components need low-voltage DC.
+
+Q: A graphics card (GPU) is mainly used to
+A: process images and video
+W: store documents
+W: connect to Wi-Fi only
+W: print files
+E: It speeds up graphics processing.
+
+@topic cmp-software
+
+Q: System software includes
+A: operating systems and utility programs
+W: word processors only
+W: games only
+W: spreadsheets only
+E: It manages the computer.
+
+Q: Application software is designed for
+A: end users to perform specific tasks
+W: managing hardware only
+W: starting the computer only
+W: translating code only
+E: E.g. word processors.
+
+Q: An interpreter translates and executes a program
+A: one line at a time
+W: all at once into a file
+W: only in assembly
+W: without reading it
+E: Errors stop execution at the line.
+
+Q: An assembler translates
+A: assembly language into machine code
+W: high-level language into English
+W: machine code into images
+W: text into sound
+E: Assembly uses mnemonics.
+
+Q: Antivirus software is an example of
+A: a utility program
+W: an application suite
+W: an operating system
+W: a compiler
+E: It protects against malware.
+
+Q: A disk defragmenter
+A: rearranges fragmented files to speed up access
+W: deletes all files
+W: creates viruses
+W: prints documents
+E: It is a utility.
+
+Q: A compression utility
+A: reduces file size
+W: increases file size
+W: deletes files
+W: prints files
+E: E.g. ZIP files.
+
+Q: Proprietary software is
+A: owned by a company and used under licence
+W: free with open source
+W: in the public domain
+W: written by users only
+E: E.g. Microsoft Office.
+
+Q: Shareware is software that
+A: can be tried free for a period before paying
+W: must be paid for before trying
+W: is always open source
+W: cannot be copied at all
+E: Users pay to keep using it.
+
+Q: Freeware is software that
+A: is free to use but may not be modified
+W: must always be bought
+W: has no copyright
+W: is open source always
+E: The author keeps copyright.
+
+Q: An example of open-source software is
+A: Linux
+W: Microsoft Windows
+W: Adobe Photoshop
+W: macOS
+E: Its source code is available.
+
+Q: Custom-written (tailor-made) software is
+A: developed for a specific organisation's needs
+W: sold to everyone off the shelf
+W: always free
+W: a virus
+E: It meets particular requirements.
+
+Q: Off-the-shelf software is
+A: ready-made software sold to the public
+W: written only for one company
+W: always free
+W: part of hardware
+E: E.g. a spreadsheet package.
+
+Q: Which of these is presentation software?
+A: Microsoft PowerPoint
+W: Microsoft Excel
+W: Microsoft Access
+W: Notepad
+E: It creates slide shows.
+
+Q: Which of these is a database management system?
+A: Microsoft Access
+W: Microsoft Paint
+W: Google Chrome
+W: Windows Media Player
+E: It stores and manages records.
+
+Q: Which of these is a graphics package?
+A: CorelDRAW
+W: Microsoft Excel
+W: Notepad
+W: Linux
+E: It is used for design.
+
+Q: Desktop publishing software is used to
+A: design newsletters, posters and magazines
+W: play games
+W: store databases
+W: control printers only
+E: E.g. Microsoft Publisher.
+
+Q: A software licence
+A: gives legal permission to use software
+W: is a virus
+W: is a storage device
+W: is a programming language
+E: It sets terms of use.
+
+Q: A software bug is
+A: an error in a program
+W: an insect inside the computer
+W: a type of virus only
+W: a hardware component
+E: Bugs cause wrong behaviour.
+
+Q: A software update or patch is used to
+A: fix errors and security holes
+W: delete the program
+W: slow the computer
+W: increase viruses
+E: Updates improve software.
+
+Q: Firmware is stored in
+A: read-only memory (ROM)
+W: RAM only
+W: the printer
+W: the keyboard
+E: E.g. BIOS.
+
+Q: A device driver is
+A: system software that controls a hardware device
+W: application software for typing
+W: a person who drives
+W: a virus
+E: E.g. a printer driver.
+
+Q: Machine language consists of
+A: binary codes
+W: English words
+W: pictures
+W: musical notes
+E: It is directly executed by the CPU.
+
+Q: Low-level languages are
+A: close to machine code
+W: close to human language
+W: only used in word processing
+W: never used
+E: E.g. assembly language.
+
+@topic cmp-storage
+
+Q: Primary memory includes
+A: RAM and ROM
+W: hard disks and flash drives
+W: CDs and DVDs
+W: magnetic tapes
+E: It is directly accessed by the CPU.
+
+Q: Secondary storage is used to
+A: store data permanently
+W: hold data only while power is on
+W: process instructions
+W: display output
+E: E.g. hard disks.
+
+Q: A hard disk drive stores data
+A: magnetically on spinning platters
+W: optically with a laser
+W: in flash chips only
+W: on paper
+E: It has moving parts.
+
+Q: A DVD can store more data than a CD because
+A: its data tracks are packed more closely
+W: it is larger in diameter
+W: it is made of paper
+W: it uses magnetic tape
+E: A DVD holds about 4.7 GB.
+
+Q: A Blu-ray disc uses a
+A: blue-violet laser
+W: red laser
+W: magnet
+W: punched hole
+E: It stores much more than a DVD.
+
+Q: Magnetic tape is mainly used for
+A: backup of large amounts of data
+W: quick random access
+W: running programs
+W: displaying images
+E: Access is sequential.
+
+Q: Sequential access means data is read
+A: in order from the beginning
+W: from any point directly
+W: only by a printer
+W: in random order
+E: E.g. magnetic tape.
+
+Q: Direct (random) access means data
+A: can be read from any location directly
+W: must be read from the beginning
+W: cannot be read
+W: is stored only on tape
+E: E.g. hard disks.
+
+Q: A flash drive uses
+A: flash (solid-state) memory
+W: magnetic tape
+W: an optical laser
+W: punched cards
+E: It has no moving parts.
+
+Q: Cloud storage means files are stored
+A: on remote servers accessed through the internet
+W: on paper
+W: only in RAM
+W: on a CD only
+E: E.g. Google Drive.
+
+Q: One terabyte is equal to
+A: 1024 gigabytes
+W: 1024 megabytes
+W: 1000 kilobytes
+W: 8 gigabytes
+E: In binary units.
+
+Q: One byte is made up of
+A: 8 bits
+W: 4 bits
+W: 16 bits
+W: 2 bits
+E: Half a byte is a nibble.
+
+Q: A nibble is
+A: 4 bits
+W: 8 bits
+W: 2 bytes
+W: 1 bit
+E: It is half a byte.
+
+Q: PROM is ROM that
+A: can be programmed once by the user
+W: can be erased with ultraviolet light
+W: is erased electrically
+W: loses data when power is off
+E: Programmable ROM.
+
+Q: EPROM can be erased by
+A: ultraviolet light
+W: water
+W: switching off power
+W: magnets
+E: Erasable PROM.
+
+Q: EEPROM can be erased by
+A: electrical signals
+W: ultraviolet light only
+W: heat
+W: sound
+E: Flash memory is a type of EEPROM.
+
+Q: Virtual memory uses
+A: part of the hard disk as extra RAM
+W: cloud servers only
+W: the printer's memory
+W: ROM
+E: It allows more programs to run.
+
+Q: Storage capacity of a disk is measured in
+A: bytes
+W: hertz
+W: pixels
+W: watts
+E: E.g. gigabytes, terabytes.
+
+Q: The access time of a storage device is
+A: the time taken to locate and read data
+W: its weight
+W: its colour
+W: its price
+E: SSDs have short access times.
+
+Q: An SSD is faster than an HDD mainly because it
+A: has no moving parts
+W: is larger
+W: uses tape
+W: spins faster
+E: Data is accessed electronically.
+
+Q: RAM is called random access memory because
+A: any location can be accessed directly
+W: it stores data randomly
+W: it is always erased
+W: it is used only by games
+E: Access time is the same for any location.
+
+Q: Which storage device is most portable?
+A: flash drive
+W: magnetic tape library
+W: mainframe disk
+W: supercomputer
+E: It is small and light.
+
+Q: A memory card is commonly used in
+A: cameras and phones
+W: printers only
+W: keyboards
+W: monitors
+E: E.g. SD cards.
+
+Q: Formatting a disk
+A: prepares it for storing data and erases existing data
+W: increases its capacity permanently
+W: copies files
+W: prints documents
+E: It sets up the file system.
+
+@topic cmp-os
+
+Q: The operating system manages
+A: hardware, software and files
+W: only printing
+W: only the internet
+W: only games
+E: It is the main system software.
+
+Q: Windows, macOS and Linux are examples of
+A: operating systems
+W: application packages
+W: programming languages
+W: viruses
+E: They control computers.
+
+Q: Android and iOS are
+A: mobile operating systems
+W: desktop printers
+W: databases
+W: compilers
+E: They run smartphones.
+
+Q: A command-line interface requires users to
+A: type commands
+W: click icons only
+W: speak only
+W: use a joystick
+E: E.g. MS-DOS.
+
+Q: WIMP in a graphical user interface stands for
+A: windows, icons, menus and pointer
+W: wires, inputs, memory and printers
+W: web, internet, mail and phone
+W: words, images, music and pictures
+E: It describes GUI elements.
+
+Q: Cold booting means
+A: starting the computer from power off
+W: restarting without switching off
+W: shutting down
+W: installing software
+E: Warm booting restarts while on.
+
+Q: Warm booting means
+A: restarting a computer that is already on
+W: starting from power off
+W: formatting a disk
+W: unplugging the computer
+E: E.g. pressing restart.
+
+Q: A file is
+A: a named collection of related data
+W: a hardware device
+W: a type of virus
+W: a computer cable
+E: Files are stored on disks.
+
+Q: A folder (directory) is used to
+A: organise files
+W: delete the operating system
+W: print documents
+W: increase RAM
+E: Folders group related files.
+
+Q: A file extension such as ".docx" shows
+A: the type of file
+W: the file's size
+W: the owner's name
+W: the date created
+E: It tells which program opens it.
+
+Q: Multitasking means
+A: running several programs at the same time
+W: running only one program
+W: using many computers
+W: typing fast
+E: The OS shares CPU time.
+
+Q: Multi-user operating systems allow
+A: many users to use the system at the same time
+W: only one user ever
+W: no users
+W: only printers
+E: E.g. on servers.
+
+Q: A real-time operating system is used where
+A: immediate response is needed
+W: delays are acceptable
+W: no input is required
+W: only games are played
+E: E.g. in aircraft control.
+
+Q: Batch processing means
+A: grouping jobs and processing them together without user interaction
+W: processing each item instantly
+W: printing one page
+W: using only a mouse
+E: E.g. payroll processing.
+
+Q: The taskbar in Windows shows
+A: running programs and the Start button
+W: only the printer
+W: hardware parts
+W: the internet speed only
+E: It is at the bottom of the screen by default.
+
+Q: The Recycle Bin holds
+A: deleted files that can be restored
+W: new files
+W: programs being installed
+W: printed documents
+E: Files stay until it is emptied.
+
+Q: Memory management by the OS
+A: allocates RAM to programs
+W: prints documents
+W: designs graphics
+W: types text
+E: It prevents programs clashing.
+
+Q: The kernel is
+A: the core of the operating system
+W: a type of printer
+W: a web browser
+W: a storage device
+E: It controls the hardware.
+
+Q: Spooling allows
+A: print jobs to be queued while the computer does other work
+W: faster typing
+W: virus creation
+W: larger screens
+E: The printer works from the queue.
+
+Q: Desktop icons are
+A: small pictures representing programs or files
+W: hardware parts
+W: viruses
+W: printers
+E: Double-click to open.
+
+Q: A user account with a password helps to
+A: protect files and settings
+W: slow the computer
+W: delete files
+W: install viruses
+E: It controls access.
+
+Q: Shutting down properly is important because it
+A: prevents data loss and damage to files
+W: increases viruses
+W: deletes files
+W: wastes power
+E: Files are saved and closed.
+
+Q: Plug and play means
+A: devices work as soon as they are connected
+W: devices must be rebuilt
+W: games run automatically
+W: the computer plays music
+E: The OS installs drivers automatically.
+
+Q: Time-sharing systems allocate
+A: short slices of CPU time to many users in turn
+W: whole days to one user
+W: no time to users
+W: printing time only
+E: Users seem to work at once.
+
+@topic cmp-data-processing
+
+Q: Data becomes information when it is
+A: processed and given meaning
+W: deleted
+W: stored without processing
+W: printed in binary
+E: Information is useful to the user.
+
+Q: The stages of the data processing cycle include input, processing, output and
+A: storage
+W: deletion
+W: printing only
+W: burning
+E: Data may be stored for later use.
+
+Q: A range check ensures that data
+A: falls within allowed limits
+W: is spelt correctly
+W: is entered twice
+W: is encrypted
+E: E.g. age between 10 and 20.
+
+Q: A presence check ensures that
+A: a required field is not left empty
+W: data is within range
+W: data is encrypted
+W: data is duplicated
+E: Important fields must be filled.
+
+Q: A type check ensures that
+A: data is of the correct type, such as numbers only
+W: data is in range
+W: data is entered twice
+W: data is deleted
+E: E.g. no letters in a price field.
+
+Q: A check digit is used to
+A: detect errors in codes such as ISBNs
+W: encrypt files
+W: delete records
+W: print reports
+E: It is calculated from the other digits.
+
+Q: Double entry verification means
+A: entering data twice and comparing the two
+W: entering data once
+W: deleting data twice
+W: printing twice
+E: Mismatches show errors.
+
+Q: Sorting data means
+A: arranging it in order
+W: deleting it
+W: encrypting it
+W: printing it
+E: E.g. alphabetical order.
+
+Q: Merging means
+A: combining two or more files into one
+W: deleting files
+W: printing files
+W: encrypting files
+E: Records are joined.
+
+Q: Collation means
+A: gathering and arranging data in a particular order
+W: deleting data
+W: hacking data
+W: copying viruses
+E: It prepares data for processing.
+
+Q: Manual data processing is done
+A: by hand, without machines
+W: by supercomputers
+W: by robots only
+W: by the internet
+E: It is slow and error-prone.
+
+Q: Electronic data processing uses
+A: computers
+W: only pens and paper
+W: only abacuses
+W: only typewriters
+E: It is fast and accurate.
+
+Q: Online processing means
+A: data is processed immediately as it is entered
+W: data is processed in batches later
+W: data is never processed
+W: data is printed only
+E: E.g. ATM transactions.
+
+Q: Information is useful when it is
+A: accurate, timely and relevant
+W: old and inaccurate
+W: incomplete
+W: unreadable
+E: These are qualities of good information.
+
+Q: A questionnaire is a method of
+A: data collection
+W: data deletion
+W: encryption
+W: printing
+E: It gathers responses.
+
+Q: OMR is used mainly to
+A: mark multiple-choice answer sheets
+W: read cheques
+W: scan barcodes
+W: read fingerprints
+E: Optical mark recognition.
+
+Q: Data integrity means
+A: data is accurate and consistent
+W: data is deleted
+W: data is copied illegally
+W: data is printed
+E: It is protected from corruption.
+
+Q: Data security means
+A: protecting data from unauthorised access
+W: making data public
+W: deleting all data
+W: printing data
+E: E.g. passwords and encryption.
+
+Q: A field in a record is
+A: a single item of data, such as a name
+W: a whole table
+W: a printer
+W: a file
+E: Fields make up records.
+
+Q: Records are grouped together to form a
+A: file
+W: bit
+W: field
+W: character
+E: Data hierarchy: bit, byte, field, record, file.
+
+Q: The correct data hierarchy from smallest to largest is
+A: bit, byte, field, record, file
+W: file, record, field, byte, bit
+W: byte, bit, file, record, field
+W: field, bit, file, byte, record
+E: Each level is built from the one before.
+
+Q: A transcription error occurs when
+A: data is copied incorrectly
+W: a computer overheats
+W: a virus deletes files
+W: the printer jams
+E: E.g. typing 125 as 152.
+
+Q: A transposition error occurs when
+A: two characters are swapped
+W: data is omitted
+W: data is encrypted
+W: power fails
+E: E.g. 56 typed as 65.
+
+Q: Information processing helps organisations to
+A: make better decisions
+W: avoid all records
+W: increase errors
+W: stop work
+E: Information supports planning.
+
+@topic cmp-networks
+
+Q: A WAN covers
+A: a large geographical area
+W: a single room only
+W: one computer
+W: a printer
+E: The internet is the largest WAN.
+
+Q: A MAN covers
+A: a city or town
+W: a single room
+W: a whole continent
+W: one device
+E: Metropolitan area network.
+
+Q: A PAN connects devices
+A: close to one person, such as a phone and headphones
+W: across countries
+W: across a city
+W: in a factory only
+E: Personal area network.
+
+Q: A modem
+A: converts digital signals to analogue and back
+W: prints documents
+W: stores data
+W: displays images
+E: Modulator-demodulator.
+
+Q: A switch in a network
+A: connects devices and sends data to the right device
+W: prints data
+W: stores files permanently
+W: displays web pages
+E: It works within a LAN.
+
+Q: A hub sends incoming data to
+A: all connected devices
+W: only one device
+W: no device
+W: the printer only
+E: It is less efficient than a switch.
+
+Q: In a bus topology,
+A: all devices share one main cable
+W: devices connect to a central hub
+W: devices form a closed loop
+W: every device connects to every other
+E: A break in the cable affects all.
+
+Q: In a ring topology,
+A: devices are connected in a closed loop
+W: all share one cable with ends
+W: all connect to a hub
+W: there are no connections
+E: Data travels round the ring.
+
+Q: In a mesh topology,
+A: devices have multiple connections to each other
+W: there is only one cable
+W: devices form a loop only
+W: no device connects
+E: It is very reliable.
+
+Q: An advantage of a star topology is that
+A: failure of one cable affects only one device
+W: it uses the least cable
+W: the hub never fails
+W: it needs no hub
+E: Other devices keep working.
+
+Q: An IP address
+A: identifies a device on a network
+W: is a type of virus
+W: is a printer
+W: is a cable
+E: E.g. 192.168.1.1.
+
+Q: DNS translates
+A: domain names into IP addresses
+W: text into sound
+W: images into text
+W: binary into hexadecimal only
+E: Domain Name System.
+
+Q: Bandwidth refers to
+A: the amount of data that can be transmitted per second
+W: the length of a cable
+W: the colour of a screen
+W: the size of a hard disk
+E: Measured in bits per second.
+
+Q: Wi-Fi is a technology for
+A: wireless local networking
+W: printing
+W: storage
+W: typing
+E: Devices connect without cables.
+
+Q: Bluetooth is used for
+A: short-range wireless connections
+W: long-distance satellite links
+W: printing only
+W: storing data
+E: E.g. wireless earphones.
+
+Q: Fibre optic cables transmit data using
+A: light
+W: sound
+W: water
+W: magnetism only
+E: They are very fast.
+
+Q: A server is a computer that
+A: provides services to other computers on a network
+W: is only used for games
+W: has no network
+W: is a printer
+E: E.g. web or file servers.
+
+Q: A client is a computer that
+A: requests services from a server
+W: serves all other computers
+W: is a printer
+W: is a router
+E: Client-server networks are common.
+
+Q: In a peer-to-peer network,
+A: all computers share resources equally
+W: one central server controls all
+W: there are no computers
+W: only printers connect
+E: There is no dedicated server.
+
+Q: A firewall
+A: blocks unauthorised network traffic
+W: prints documents
+W: speeds up typing
+W: stores files
+E: It protects networks.
+
+Q: The internet is
+A: a global network of networks
+W: a single computer
+W: a printer
+W: a type of software only
+E: It connects millions of networks.
+
+Q: An intranet is
+A: a private network within an organisation
+W: the public internet
+W: a printer
+W: a virus
+E: It uses internet technology privately.
+
+Q: An ISP is
+A: a company that provides internet access
+W: a type of printer
+W: a programming language
+W: a storage device
+E: Internet service provider.
+
+Q: TCP/IP is
+A: the set of protocols used on the internet
+W: a type of printer
+W: a web browser
+W: a virus
+E: It controls data transmission.
+
+@topic cmp-internet-services
+
+Q: In an email, the "Subject" line
+A: gives a short summary of the message
+W: contains the recipient's address
+W: holds attachments
+W: shows the date only
+E: It helps the reader.
+
+Q: CC in email stands for
+A: carbon copy
+W: computer code
+W: central control
+W: clear copy
+E: Other recipients can see the CC list.
+
+Q: An attachment in email is
+A: a file sent with the message
+W: the sender's name
+W: the subject line
+W: a virus always
+E: E.g. a document or photo.
+
+Q: Spam is
+A: unwanted bulk email
+W: a type of attachment
+W: a storage device
+W: a browser
+E: It is often advertising.
+
+Q: Uploading means
+A: sending files from your computer to a server
+W: receiving files from the internet
+W: deleting files
+W: printing files
+E: The opposite of downloading.
+
+Q: A hyperlink is
+A: a link that takes you to another page or resource
+W: a type of virus
+W: a printer
+W: a storage device
+E: Clicking it opens the target.
+
+Q: HTML is used to
+A: create web pages
+W: send email only
+W: store files
+W: protect networks
+E: Hypertext Markup Language.
+
+Q: HTTP stands for
+A: Hypertext Transfer Protocol
+W: High Text Transfer Program
+W: Home Tool Transfer Protocol
+W: Hyper Terminal Text Protocol
+E: It transfers web pages.
+
+Q: A website's home page is
+A: its main starting page
+W: the last page
+W: an error page
+W: a printer page
+E: It links to other pages.
+
+Q: E-learning allows students to
+A: study using online resources
+W: avoid all learning
+W: print only
+W: avoid computers
+E: E.g. online courses.
+
+Q: Video conferencing allows
+A: people in different places to meet by video
+W: printing of videos
+W: storing of photos only
+W: typing letters
+E: E.g. Zoom and Google Meet.
+
+Q: Social networking sites allow users to
+A: share messages, photos and connect with others
+W: repair computers
+W: store hardware
+W: print documents only
+E: E.g. Facebook.
+
+Q: A blog is
+A: an online journal or website with regular posts
+W: a printer
+W: a virus
+W: a storage device
+E: Short for weblog.
+
+Q: Online banking allows customers to
+A: carry out banking transactions over the internet
+W: print money
+W: avoid banks completely
+W: repair ATMs
+E: E.g. transfers and bill payments.
+
+Q: E-commerce is
+A: buying and selling over the internet
+W: printing money
+W: sending only emails
+W: storing files
+E: E.g. online shopping.
+
+Q: Instant messaging allows
+A: real-time text communication
+W: only printing
+W: only storage
+W: only gaming
+E: E.g. WhatsApp.
+
+Q: A web browser's bookmarks (favourites) are used to
+A: save links to websites for later
+W: delete websites
+W: print websites
+W: block websites only
+E: Users can return quickly.
+
+Q: The "Reply all" button sends a reply to
+A: the sender and all other recipients
+W: only the sender
+W: only yourself
+W: no one
+E: Use it carefully.
+
+Q: Forwarding an email means
+A: sending a received email on to someone else
+W: deleting it
+W: printing it
+W: blocking it
+E: The original content is included.
+
+Q: Cookies are
+A: small files websites store on your computer
+W: viruses always
+W: printers
+W: hard disks
+E: They remember preferences.
+
+Q: An online search can be narrowed by
+A: using specific keywords and quotation marks
+W: typing random letters
+W: turning off the screen
+W: using fewer words always
+E: Quotes search for exact phrases.
+
+Q: FTP is used to
+A: transfer files between computers
+W: browse web pages only
+W: print files
+W: send voice calls
+E: File Transfer Protocol.
+
+Q: A podcast is
+A: an audio or video programme available online
+W: a printer
+W: a storage device
+W: a virus
+E: Listeners can download or stream it.
+
+Q: Streaming means
+A: playing media over the internet without fully downloading first
+W: printing videos
+W: deleting music
+W: storing on CD
+E: E.g. watching online videos.
+
+@topic cmp-safety
+
+Q: A worm is malware that
+A: spreads across networks by itself
+W: needs to be printed
+W: only displays adverts
+W: is a hardware fault
+E: It replicates without a host file.
+
+Q: A Trojan horse is
+A: malware disguised as useful software
+W: a type of printer
+W: an antivirus
+W: a storage device
+E: It tricks users into installing it.
+
+Q: Ransomware
+A: locks files and demands payment
+W: speeds up computers
+W: cleans viruses
+W: prints documents
+E: Victims are asked to pay a ransom.
+
+Q: Spyware
+A: secretly collects information about a user
+W: protects the user
+W: prints documents
+W: increases speed
+E: It may record keystrokes.
+
+Q: Hacking means
+A: gaining unauthorised access to a computer system
+W: typing fast
+W: printing
+W: shutting down
+E: It is illegal without permission.
+
+Q: Software piracy is
+A: illegal copying or distribution of software
+W: buying software legally
+W: updating software
+W: deleting software
+E: It breaks copyright law.
+
+Q: Cyberbullying is
+A: using digital technology to harass or hurt others
+W: playing online games
+W: sending birthday wishes
+W: learning online
+E: It should be reported.
+
+Q: A good practice to protect personal data online is to
+A: avoid sharing passwords and personal details
+W: post your address publicly
+W: use the same password everywhere
+W: click every link
+E: Protect your privacy.
+
+Q: Two-factor authentication adds security by
+A: requiring a second proof of identity, such as a code
+W: removing passwords
+W: sharing passwords
+W: slowing the computer
+E: It is harder to break in.
+
+Q: Repetitive strain injury (RSI) can be reduced by
+A: taking regular breaks and using correct posture
+W: typing for hours without rest
+W: using a small chair
+W: sitting very close to the screen
+E: Ergonomics prevents strain.
+
+Q: To reduce eye strain when using a computer,
+A: take breaks and adjust screen brightness
+W: sit in total darkness
+W: stare without blinking
+W: put the screen very close
+E: Good lighting helps.
+
+Q: A surge protector protects computers against
+A: sudden increases in voltage
+W: viruses
+W: hacking
+W: spam
+E: Power surges can damage components.
+
+Q: The computer laboratory should be kept free from
+A: dust, water and food
+W: chairs
+W: lights
+W: windows
+E: These can damage equipment.
+
+Q: Computer ethics refers to
+A: moral principles guiding the use of computers
+W: computer speed
+W: computer price
+W: computer colour
+E: E.g. respecting privacy.
+
+Q: Copyright protects
+A: creators' rights over their work
+W: viruses
+W: hardware
+W: cables
+E: Copying without permission is illegal.
+
+Q: The Nigerian law that deals with cybercrime is the
+A: Cybercrimes (Prohibition, Prevention, etc.) Act 2015
+W: Companies Act 1990
+W: Land Use Act
+W: Electoral Act
+E: It criminalises hacking and fraud.
+
+Q: Updating antivirus software regularly is important because
+A: new viruses appear all the time
+W: it slows the computer
+W: it deletes files
+W: it is required for printing
+E: Updates detect new threats.
+
+Q: Identity theft occurs when
+A: someone uses another person's personal information fraudulently
+W: someone forgets a password
+W: a computer is switched off
+W: a file is printed
+E: It can cause financial loss.
+
+Q: A digital footprint is
+A: the record of a person's online activities
+W: a foot scanner
+W: a type of virus
+W: a printer
+E: Posts and searches leave traces.
+
+Q: Pharming redirects users to
+A: fake websites without their knowledge
+W: farms
+W: safe websites
+W: printers
+E: It steals information.
+
+Q: An acceptable use policy sets
+A: rules for using computers in an organisation
+W: computer prices
+W: printer speeds
+W: internet speed
+E: Users must follow it.
+
+Q: A strong password should include
+A: a mix of letters, numbers and symbols
+W: only your name
+W: "123456"
+W: your birthday only
+E: It is harder to guess.
+
+Q: Keeping drinks away from computers prevents
+A: damage from spills
+W: viruses
+W: hacking
+W: spam
+E: Liquids damage electronics.
+
+Q: Data protection laws aim to
+A: protect people's personal information
+W: increase hacking
+W: ban computers
+W: slow the internet
+E: E.g. Nigeria's Data Protection Act 2023.
+
+@topic cmp-careers
+
+Q: A systems analyst
+A: studies an organisation's needs and designs computer systems
+W: repairs printers only
+W: sells phones
+W: types letters only
+E: They bridge users and developers.
+
+Q: A database administrator
+A: manages and maintains databases
+W: designs logos
+W: repairs keyboards
+W: sells hardware only
+E: They ensure data is secure and available.
+
+Q: A web developer
+A: builds and maintains websites
+W: repairs cars
+W: prints books
+W: manages farms
+E: They write HTML, CSS and code.
+
+Q: A computer technician
+A: installs and repairs computer hardware
+W: writes novels
+W: designs clothes
+W: sells food
+E: They maintain equipment.
+
+Q: A data analyst
+A: examines data to find useful patterns
+W: repairs printers
+W: types letters only
+W: delivers parcels
+E: Their work supports decisions.
+
+Q: A graphic designer uses computers to
+A: create visual content
+W: repair networks
+W: manage databases only
+W: write compilers
+E: E.g. logos and posters.
+
+Q: A UX/UI designer focuses on
+A: how users experience and interact with software
+W: building hardware
+W: repairing cables
+W: printing documents
+E: They design usable interfaces.
+
+Q: The Nigerian body that regulates the IT industry is
+A: NITDA
+W: NAFDAC
+W: NIPOST
+W: NERC
+E: National Information Technology Development Agency.
+
+Q: The Computer Professionals (Registration Council of Nigeria) is known as
+A: CPN
+W: NCC
+W: NITDA
+W: NUC
+E: It registers computing professionals.
+
+Q: The digital economy refers to
+A: economic activities based on digital technology
+W: farming with hoes
+W: trade by barter
+W: manual printing
+E: E.g. e-commerce and fintech.
+
+Q: Telecommuting means
+A: working from home using computers and the internet
+W: travelling to work daily
+W: working in a factory
+W: farming
+E: Also called remote work.
+
+Q: Automation means
+A: using machines and computers to do tasks without human effort
+W: doing all work by hand
+W: banning computers
+W: printing only
+E: It increases productivity.
+
+Q: A negative effect of computers on employment is
+A: some jobs are replaced by automation
+W: more jobs in every field
+W: no change in jobs
+W: lower productivity
+E: Workers may need new skills.
+
+Q: A positive effect of ICT on society is
+A: faster communication
+W: increased isolation only
+W: more paperwork
+W: slower services
+E: People connect instantly.
+
+Q: Robotics involves
+A: designing and using robots
+W: printing books
+W: farming by hand
+W: writing letters
+E: Robots perform tasks automatically.
+
+Q: The Internet of Things (IoT) refers to
+A: everyday devices connected to the internet
+W: books about the internet
+W: printers only
+W: offline computers
+E: E.g. smart meters.
+
+Q: Big data refers to
+A: very large data sets analysed for patterns
+W: a large printer
+W: a large keyboard
+W: a big monitor
+E: It needs special tools.
+
+Q: Machine learning is a branch of AI in which computers
+A: learn from data to improve performance
+W: are built from machines
+W: print data
+W: switch off automatically
+E: E.g. recommendation systems.
+
+Q: A cybersecurity analyst mainly
+A: monitors and defends systems against attacks
+W: designs posters
+W: repairs printers
+W: manages farms
+E: They protect data and networks.
+
+Q: A software tester
+A: checks programs for errors before release
+W: writes novels
+W: sells hardware
+W: delivers mail
+E: Testing ensures quality.
+
+Q: Digital literacy means
+A: the ability to use digital technology effectively
+W: reading printed books only
+W: writing by hand
+W: avoiding computers
+E: It is an essential modern skill.
+
+Q: Cloud computing allows businesses to
+A: rent computing resources over the internet
+W: avoid the internet
+W: print more paper
+W: buy only typewriters
+E: E.g. storage and servers on demand.
+
+Q: An entrepreneur in ICT could start a business in
+A: app development
+W: only farming
+W: only fishing
+W: only carpentry
+E: ICT offers many opportunities.
+
+Q: Fintech companies combine finance with
+A: technology
+W: farming
+W: fishing
+W: mining
+E: E.g. mobile payment apps.
+
+@topic cmp-programming
+
+Q: A constant in a program is
+A: a value that does not change while the program runs
+W: a value that always changes
+W: a loop
+W: a syntax error
+E: E.g. PI = 3.14.
+
+Q: A logic error causes a program to
+A: run but give wrong results
+W: refuse to start
+W: delete files
+W: print in colour
+E: The syntax is correct but the reasoning is wrong.
+
+Q: A runtime error occurs
+A: while the program is running
+W: before writing code
+W: only in flowcharts
+W: only in printers
+E: E.g. division by zero.
+
+Q: Pseudocode is
+A: an informal description of an algorithm in plain language
+W: machine code
+W: a programming language compiler
+W: a virus
+E: It is used for planning.
+
+Q: In a flowchart, the oval (terminator) symbol shows
+A: start or stop
+W: a decision
+W: a process
+W: input or output
+E: Every flowchart begins and ends with it.
+
+Q: In a flowchart, the parallelogram symbol shows
+A: input or output
+W: a decision
+W: start or stop
+W: a process
+E: E.g. "Read X".
+
+Q: In a flowchart, the rectangle symbol shows
+A: a process
+W: a decision
+W: start or stop
+W: input
+E: E.g. "Sum = A + B".
+
+Q: A selection structure in a program
+A: chooses between alternatives using conditions
+W: repeats instructions
+W: runs instructions in order only
+W: stops the program
+E: E.g. IF...THEN...ELSE.
+
+Q: A sequence structure means
+A: instructions run one after another in order
+W: instructions are repeated
+W: instructions are skipped
+W: a decision is made
+E: It is the simplest structure.
+
+Q: A FOR loop is used when
+A: the number of repetitions is known
+W: no repetition is needed
+W: a decision is required only
+W: the program must stop
+E: E.g. FOR I = 1 TO 10.
+
+Q: In BASIC, which statement is used to accept input from the user?
+A: INPUT
+W: PRINT
+W: END
+W: REM
+E: INPUT reads data from the keyboard.
+
+Q: In BASIC, the REM statement is used for
+A: comments (remarks)
+W: printing
+W: input
+W: looping
+E: REM lines are ignored when the program runs.
+
+Q: In BASIC, LET X = 5 is an example of
+A: an assignment statement
+W: a loop
+W: a comment
+W: an input statement
+E: It stores 5 in X.
+
+Q: Python is an example of
+A: a high-level programming language
+W: an operating system
+W: a machine code
+W: a web browser
+E: It is widely used today.
+
+Q: An array is
+A: a collection of values of the same type stored under one name
+W: a single number
+W: a loop
+W: a printer
+E: Elements are accessed by index.
+
+Q: What is the output of PRINT 7 + 3 * 2 in BASIC?
+A: 13
+W: 20
+W: 12
+W: 17
+E: Multiplication first: 3 × 2 = 6; 7 + 6 = 13.
+
+Q: An algorithm should be
+A: clear, finite and correct
+W: endless and vague
+W: written only in binary
+W: impossible to follow
+E: It must stop after a finite number of steps.
+
+Q: A subroutine (function or procedure) is
+A: a named block of code that can be reused
+W: a type of hardware
+W: a virus
+W: an error
+E: It avoids repeating code.
+
+Q: Object-oriented programming organises code into
+A: objects and classes
+W: only loops
+W: only flowcharts
+W: only binary
+E: E.g. Java and Python support it.
+
+Q: Program documentation is important because it
+A: helps others understand and maintain the program
+W: slows the program
+W: deletes errors automatically
+W: replaces testing
+E: It explains how the program works.
+
+Q: Testing a program with sample data is done to
+A: check that it gives correct results
+W: delete it
+W: make it slower
+W: hide errors
+E: Test data reveals errors.
+
+@topic cmp-logic
+
+Q: An AND gate has inputs 1 and 0. The output is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: AND gives 1 only if both inputs are 1.
+
+Q: An AND gate has inputs 1 and 1. The output is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: Both inputs are 1.
+
+Q: An OR gate has inputs 0 and 0. The output is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: OR gives 1 if at least one input is 1.
+
+Q: An OR gate has inputs 1 and 1. The output is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: At least one input is 1.
+
+Q: A NOT gate has input 1. The output is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: NOT reverses the input.
+
+Q: A NOT gate has input 0. The output is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: The input is inverted.
+
+Q: A NAND gate has inputs 1 and 1. The output is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: NAND is NOT AND: AND gives 1, so NAND gives 0.
+
+Q: A NAND gate has inputs 0 and 1. The output is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: AND gives 0, so NAND gives 1.
+
+Q: A NOR gate has inputs 1 and 0. The output is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: OR gives 1, so NOR gives 0.
+
+Q: An XOR gate gives an output of 1 when
+A: the inputs are different
+W: both inputs are 1
+W: both inputs are 0
+W: there are no inputs
+E: Exclusive OR.
+
+Q: An XOR gate has inputs 1 and 1. The output is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: The inputs are the same.
+
+Q: An XOR gate has inputs 0 and 1. The output is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: The inputs differ.
+
+Q: A truth table for a gate with two inputs has how many rows of input combinations?
+A: 4
+W: 2
+W: 8
+W: 3
+E: 2² = 4 combinations.
+
+Q: A truth table for three inputs has how many rows?
+A: 8
+W: 4
+W: 6
+W: 3
+E: 2³ = 8.
+
+Q: The Boolean expression for an AND gate with inputs A and B is
+A: A · B
+W: A + B
+W: A'
+W: A ⊕ B
+E: The dot means AND.
+
+Q: The Boolean expression for an OR gate with inputs A and B is
+A: A + B
+W: A · B
+W: A'
+W: A ⊕ B
+E: The plus means OR.
+
+Q: The output of NOT(A AND B) when A = 1 and B = 0 is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: A AND B = 0; NOT 0 = 1.
+
+Q: The output of (A OR B) AND C when A = 0, B = 1 and C = 1 is
+A: 1
+W: 0
+W: 2
+W: undefined
+E: A OR B = 1; 1 AND 1 = 1.
+
+Q: The output of (A AND B) OR C when A = 1, B = 0 and C = 0 is
+A: 0
+W: 1
+W: 2
+W: undefined
+E: A AND B = 0; 0 OR 0 = 0.
+
+Q: Which gate is called a universal gate?
+A: NAND
+W: XOR
+W: AND only
+W: OR only
+E: Any circuit can be built from NAND gates alone (NOR is also universal).
+
+Q: Logic gates are built from
+A: transistors
+W: punched cards
+W: vacuum tubes only in modern computers
+W: magnetic tape
+E: Modern chips contain billions of transistors.
+
+Q: Boolean algebra was developed by
+A: George Boole
+W: Charles Babbage
+W: Alan Turing
+W: John von Neumann
+E: It is the basis of digital logic.
+
+Q: In logic circuits, 1 usually represents
+A: true or high voltage
+W: false or no voltage
+W: an error
+W: a printer
+E: 0 represents false or low voltage.
+
+Q: A half adder adds
+A: two single binary digits
+W: two decimal numbers
+W: three bytes
+W: letters
+E: It produces a sum and a carry.
+
+@topic cmp-applications
+
+Q: In a spreadsheet, the formula =AVERAGE(B1:B4) calculates
+A: the mean of the values in B1 to B4
+W: the total of B1 to B4
+W: the largest value
+W: the number of cells
+E: AVERAGE gives the arithmetic mean.
+
+Q: In a spreadsheet, =MAX(C1:C10) returns
+A: the largest value in C1 to C10
+W: the smallest value
+W: the total
+W: the average
+E: MAX finds the highest value.
+
+Q: In a spreadsheet, =MIN(A1:A6) returns
+A: the smallest value
+W: the largest value
+W: the total
+W: the count
+E: MIN finds the lowest value.
+
+Q: In a spreadsheet, cell D3 is in column
+A: D and row 3
+W: 3 and row D
+W: D and row D
+W: 3 and row 3
+E: Columns are letters; rows are numbers.
+
+Q: An absolute cell reference such as $A$1
+A: does not change when a formula is copied
+W: changes when copied
+W: deletes the cell
+W: hides the cell
+E: The dollar signs fix the reference.
+
+Q: In a spreadsheet, a chart is used to
+A: display data graphically
+W: delete data
+W: print only text
+W: encrypt data
+E: E.g. bar and pie charts.
+
+Q: In a spreadsheet, if A1 = 4 and A2 = 6, =A1*A2 gives
+A: 24
+W: 10
+W: 46
+W: 2
+E: 4 × 6.
+
+Q: In a spreadsheet, if B1 = 10 and B2 = 5, =B1/B2+3 gives
+A: 5
+W: 1.25
+W: 13
+W: 8
+E: 10 ÷ 5 = 2; 2 + 3 = 5.
+
+Q: In a word processor, the shortcut Ctrl+B usually makes text
+A: bold
+W: italic
+W: underlined
+W: deleted
+E: B for bold.
+
+Q: In a word processor, Ctrl+Z usually
+A: undoes the last action
+W: saves the document
+W: prints the document
+W: makes text bold
+E: It reverses the previous step.
+
+Q: In a word processor, Ctrl+V usually
+A: pastes copied text
+W: copies text
+W: cuts text
+W: saves text
+E: Paste inserts the clipboard content.
+
+Q: Mail merge is used to
+A: create personalised letters for many recipients
+W: delete emails
+W: print photos only
+W: design spreadsheets
+E: It combines a letter with a data source.
+
+Q: Justified text alignment means
+A: text is aligned evenly on both left and right margins
+W: text is aligned left only
+W: text is centred
+W: text is aligned right only
+E: Spaces are adjusted between words.
+
+Q: A header in a document appears
+A: at the top of every page
+W: at the bottom of every page
+W: only on the first page always
+W: in the middle
+E: Footers appear at the bottom.
+
+Q: In a database, a query is used to
+A: find records that meet certain conditions
+W: delete the database
+W: print the screen
+W: design logos
+E: E.g. all students in SS3.
+
+Q: In a database, a form is used to
+A: enter and view data in a user-friendly way
+W: delete tables
+W: encrypt fields
+W: print only charts
+E: Forms simplify data entry.
+
+Q: In a database, a report is used to
+A: present data in a printed or formatted layout
+W: enter data only
+W: delete records
+W: create viruses
+E: Reports summarise information.
+
+Q: A database table is made up of
+A: rows (records) and columns (fields)
+W: slides
+W: pages and chapters
+W: cells only in a word processor
+E: Each record has the same fields.
+
+Q: A foreign key in a database
+A: links a table to the primary key of another table
+W: is the main key of every table
+W: deletes records
+W: encrypts data
+E: It creates relationships.
+
+Q: A presentation program shows information in
+A: slides
+W: cells
+W: tables only
+W: records
+E: E.g. PowerPoint.
+
+Q: Slide transitions are
+A: effects that occur when moving from one slide to the next
+W: printing settings
+W: database queries
+W: spreadsheet formulas
+E: E.g. fade or wipe.
+
+Q: The "Save As" command is used to
+A: save a file with a new name or location
+W: delete a file
+W: print a file
+W: close the program
+E: It creates a copy.
+
+Q: Word wrap in a word processor
+A: moves text automatically to the next line
+W: deletes text
+W: wraps text in a box
+W: prints text
+E: You do not need to press Enter at line ends.
+
+Q: In a spreadsheet, =COUNT(A1:A10) returns
+A: the number of cells containing numbers
+W: the total of the numbers
+W: the largest value
+W: the average
+E: COUNT counts numeric entries.

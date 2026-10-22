@@ -1,0 +1,2170 @@
+@subject history
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic his-early
+
+Q: The Nok culture was first discovered in 1943 by
+A: tin miners
+W: Portuguese traders
+W: missionaries
+W: colonial soldiers
+E: Tin miners found terracotta pieces near Nok village; Bernard Fagg later studied them.
+
+Q: Which archaeologist is closely linked with the study of the Nok culture?
+A: Bernard Fagg
+W: Thurstan Shaw only
+W: Mungo Park
+W: Frederick Lugard
+E: Fagg collected and studied Nok terracottas.
+
+Q: The Nok people are also known for early
+A: iron working
+W: gold mining
+W: shipbuilding
+W: printing
+E: Evidence of iron smelting was found at Nok sites.
+
+Q: The Igbo-Ukwu bronzes were excavated mainly by
+A: Thurstan Shaw
+W: Bernard Fagg
+W: Mary Kingsley
+W: Leo Frobenius
+E: Shaw excavated the site in 1959–60.
+
+Q: The Igbo-Ukwu artefacts are believed to date from about the
+A: 9th to 10th century AD
+W: 19th century AD
+W: 500 BC
+W: 15th century AD
+E: Radiocarbon dating places them around the 9th–10th centuries.
+
+Q: Ife art is especially famous for its
+A: naturalistic bronze and terracotta heads
+W: rock paintings
+W: iron weapons
+W: woven cloth only
+E: Ife heads are admired for their realism.
+
+Q: The Benin bronzes were produced by guilds working for the
+A: Oba
+W: Alaafin
+W: Emir of Kano
+W: Eze Nri
+E: Brass casters' guilds served the royal court.
+
+Q: Which of these is a written source of Nigerian history?
+A: the Kano Chronicle
+W: oral tradition
+W: archaeology
+W: folk songs
+E: The Kano Chronicle records the history of Kano's rulers.
+
+Q: A disadvantage of oral tradition as a source of history is that
+A: it may be altered as it is passed on
+W: it is always written down
+W: it is too exact
+W: it cannot be heard
+E: Details can change from one teller to the next.
+
+Q: Radiocarbon dating is used by historians to
+A: estimate the age of organic remains
+W: read old manuscripts
+W: interview elders
+W: measure rainfall
+E: It measures carbon-14 decay.
+
+Q: Linguistics helps the study of history by
+A: showing relationships between peoples through their languages
+W: dating metals
+W: measuring rocks
+W: counting population
+E: Related languages suggest shared origins.
+
+Q: Which of these is an archaeological site in Nigeria?
+A: Igbo-Ukwu
+W: Timbuktu
+W: Kumbi Saleh
+W: Zimbabwe
+E: Igbo-Ukwu is in present-day Anambra State.
+
+Q: The Stone Age in Nigeria is known from finds at sites such as
+A: Iwo Eleru
+W: Abuja city centre
+W: Lagos Island
+W: Kano Airport
+E: A human skeleton about 13,000 years old was found at Iwo Eleru.
+
+Q: The Iwo Eleru rock shelter is located in present-day
+A: Ondo State
+W: Kano State
+W: Borno State
+W: Rivers State
+E: It is near Akure.
+
+Q: The ancient Kano city walls are an example of
+A: historical monuments
+W: oral tradition
+W: radiocarbon dating
+W: written sources
+E: Monuments are physical remains of the past.
+
+Q: A museum helps history by
+A: preserving and displaying historical objects
+W: writing new laws
+W: conducting elections
+W: printing newspapers
+E: Museums keep artefacts for study.
+
+Q: Which of these is a feature of the Nok terracottas?
+A: elaborate hairstyles and stylised eyes
+W: bronze casting
+W: gold decoration
+W: carved ivory
+E: Nok heads have distinctive eyes and hairstyles.
+
+Q: The Esie soapstone figures are found in present-day
+A: Kwara State
+W: Edo State
+W: Cross River State
+W: Sokoto State
+E: Hundreds of stone figures are kept at the Esie Museum.
+
+Q: A primary source of history is
+A: a document or object from the time being studied
+W: a textbook written today
+W: a film about the past
+W: a teacher's summary
+E: Diaries, letters and artefacts are primary sources.
+
+Q: The Ikom monoliths are carved in
+A: stone
+W: wood
+W: bronze
+W: ivory
+E: They are basalt stones with carved faces and patterns.
+
+Q: Which people are associated with the ancient city of Ile-Ife?
+A: the Yoruba
+W: the Igbo
+W: the Hausa
+W: the Tiv
+E: Ile-Ife is the spiritual home of the Yoruba.
+
+Q: The coming of iron working in Nigeria helped to
+A: improve farming and warfare
+W: end farming
+W: stop trade
+W: reduce population
+E: Iron tools and weapons were stronger than stone.
+
+Q: Which source of history uses written records left by Arab scholars and travellers?
+A: Arabic documents
+W: archaeology
+W: oral tradition
+W: linguistics
+E: Writers such as Ibn Battuta described West Africa.
+
+Q: The Igbo-Ukwu finds were first discovered in 1938 by
+A: Isaiah Anozie, while digging a well
+W: a British officer
+W: Thurstan Shaw
+W: a missionary
+E: He found bronze objects while digging in his compound.
+
+@topic his-societies
+
+Q: The Nri kingdom was important in Igboland mainly for its
+A: religious and ritual authority
+W: large standing army
+W: control of the Atlantic trade
+W: Islamic learning
+E: The Eze Nri performed rituals and cleansed abominations.
+
+Q: The Jukun kingdom of Kwararafa had its later capital at
+A: Wukari
+W: Bida
+W: Kano
+W: Ife
+E: Wukari became the seat of the Aku Uka.
+
+Q: The ruler of the Jukun was known as the
+A: Aku Uka
+W: Etsu
+W: Oba
+W: Mai
+E: The Aku Uka was a divine king.
+
+Q: The ruler of the Nupe kingdom was known as the
+A: Etsu
+W: Aku Uka
+W: Alaafin
+W: Shehu
+E: The Etsu Nupe is the traditional ruler.
+
+Q: After the Fulani jihad, the capital of the Nupe kingdom became
+A: Bida
+W: Jebba
+W: Wukari
+W: Ilorin
+E: Bida became the seat of the Nupe emirate.
+
+Q: The Nupe were famous for their skill in
+A: glass and brass work
+W: shipbuilding
+W: ivory carving only
+W: silk weaving
+E: Bida craftsmen produced glass beads and brassware.
+
+Q: Tiv society was organised on the basis of
+A: segmentary lineages
+W: a central king
+W: emirates
+W: city-states
+E: Lineage groups balanced each other without a single ruler.
+
+Q: The Tiv mainly live in present-day
+A: Benue State
+W: Lagos State
+W: Sokoto State
+W: Bayelsa State
+E: The Tiv are the largest group in Benue.
+
+Q: The main occupation of the Tiv was
+A: farming
+W: fishing on the sea
+W: long-distance trading only
+W: mining gold
+E: The Tiv are known as skilled yam farmers.
+
+Q: Igbo society was largely
+A: republican and decentralised
+W: ruled by emirs
+W: ruled by an emperor
+W: governed by Portuguese
+E: Villages were governed by elders and assemblies.
+
+Q: Which group in Igbo society acted as messengers of the ancestors and enforced decisions?
+A: masquerade societies
+W: emirs
+W: Alkalis
+W: Oyo Mesi
+E: Masquerades had social and judicial roles.
+
+Q: The Aro of Igboland were famous for their oracle called
+A: Ibini Ukpabi (the Long Juju)
+W: Ifa
+W: Sango
+W: Ogun
+E: The Aro used the oracle to settle disputes and extend influence.
+
+Q: The Aro trading network spread mainly through
+A: Aro settlements across Igboland
+W: Arab caravans
+W: Portuguese forts
+W: British railways
+E: Aro colonies linked the hinterland to the coast.
+
+Q: The British destroyed the Aro oracle during the
+A: Aro Expedition of 1901–1902
+W: Benin Expedition of 1897
+W: Ijebu Expedition of 1892
+W: Satiru revolt of 1906
+E: The expedition broke Aro power.
+
+Q: In Igbo society, title holders such as Ozo
+A: had high social status and influence
+W: were slaves
+W: were foreign traders
+W: had no influence
+E: Titles were earned through achievement.
+
+Q: The Kwararafa raided which Hausa states?
+A: Kano and Zaria
+W: Lagos and Badagry
+W: Bonny and Opobo
+W: Ife and Oyo
+E: Kwararafa raids are recorded in the Kano Chronicle.
+
+Q: According to Nupe tradition, the founder Tsoede (Edegi) came from
+A: Idah, the Igala kingdom
+W: Ife
+W: Kano
+W: Benin
+E: He is said to have fled from Idah.
+
+Q: The Igala kingdom's ruler is known as the
+A: Attah
+W: Etsu
+W: Mai
+W: Obi
+E: The Attah of Igala rules from Idah.
+
+Q: In Tiv society, disputes were often settled by
+A: elders and lineage heads
+W: an emperor
+W: an emir
+W: Portuguese judges
+E: Lineage elders handled disputes.
+
+Q: Which society used the Umuada (married daughters) as a powerful group?
+A: Igbo
+W: Hausa
+W: Kanuri
+W: Nupe
+E: The Umuada helped settle family disputes.
+
+Q: The Jukun are associated with a strong tradition of
+A: divine kingship
+W: democracy by voting
+W: Islamic caliphate
+W: absence of rulers
+E: The Aku Uka was regarded as sacred.
+
+Q: The Nupe kingdom lies mainly in present-day
+A: Niger State
+W: Rivers State
+W: Ogun State
+W: Abia State
+E: Bida is in Niger State.
+
+Q: The age grade system in Igbo society also helped in
+A: defence of the community
+W: foreign diplomacy only
+W: collection of Islamic taxes
+W: choosing a king
+E: Young age grades served as warriors and guards.
+
+Q: Which of these societies was centralised?
+A: Nupe
+W: Tiv
+W: most Igbo communities
+W: Ibibio villages
+E: Nupe had a king, the Etsu.
+
+@topic his-states
+
+Q: Which ruler of Kano introduced reforms such as the Kurmi market and built the Gidan Rumfa?
+A: Muhammad Rumfa
+W: Bagauda
+W: Idris Alooma
+W: Usman dan Fodio
+E: Rumfa ruled Kano in the late 15th century.
+
+Q: Which of these was one of the Hausa Bakwai (seven true Hausa states)?
+A: Katsina
+W: Nupe
+W: Kebbi
+W: Zamfara
+E: The Hausa Bakwai were Daura, Kano, Katsina, Zazzau, Gobir, Rano and Biram.
+
+Q: The Banza Bakwai included
+A: Kebbi and Zamfara
+W: Kano and Katsina
+W: Daura and Biram
+W: Rano and Gobir
+E: The Banza Bakwai were states with Hausa influence but different origins.
+
+Q: The Hausa state known as the "guardian of the north" was
+A: Gobir
+W: Zazzau
+W: Kano
+W: Rano
+E: Gobir protected the northern frontier.
+
+Q: Zazzau (Zaria) was known in Hausaland for supplying
+A: slaves and serving as the "southern" state
+W: salt from the desert
+W: horses from Arabia
+W: books
+E: Zazzau traded southwards and supplied slaves.
+
+Q: The Kanem-Bornu Empire moved its centre from Kanem to Bornu mainly because of
+A: attacks by the Bulala
+W: the Atlantic slave trade
+W: British conquest
+W: a flood of the Niger
+E: Pressure from the Bulala forced the move west of Lake Chad.
+
+Q: The capital of Bornu built in the 15th century was
+A: Ngazargamu
+W: Kukawa
+W: Njimi
+W: Sokoto
+E: Ngazargamu was the Saifawa capital in Bornu.
+
+Q: Mai Idris Alooma's reign is known for
+A: military reforms and the use of firearms
+W: introducing Christianity
+W: ending trade with North Africa
+W: creating the Oyo Empire
+E: He reorganised the army with Turkish musketeers.
+
+Q: After the Saifawa, Bornu came to be ruled by the
+A: El-Kanemi (Shehu) dynasty
+W: Alaafin dynasty
+W: Fulani emirs of Sokoto
+W: Portuguese
+E: Muhammad al-Amin al-Kanemi founded the Shehu dynasty.
+
+Q: The capital of Bornu under the El-Kanemi dynasty was
+A: Kukawa
+W: Ngazargamu
+W: Njimi
+W: Kano
+E: Kukawa was founded in the 19th century.
+
+Q: The founder of the Oyo dynasty according to tradition was
+A: Oranmiyan
+W: Oduduwa only
+W: Afonja
+W: Ewuare
+E: Oranmiyan was a son (or grandson) of Oduduwa.
+
+Q: The Oyo Empire's army was strong mainly because of its
+A: cavalry
+W: navy
+W: elephants
+W: camels
+E: Horses gave Oyo a military advantage in the savanna.
+
+Q: Old Oyo (Oyo-Ile) was abandoned in the 1830s mainly because of
+A: Fulani attacks from Ilorin
+W: British bombardment
+W: a volcanic eruption
+W: the slave trade ending
+E: The capital moved south to the present Oyo.
+
+Q: The Benin Empire reached its height under
+A: Oba Ewuare the Great
+W: Oba Ovonramwen
+W: Oranmiyan
+W: Tsoede
+E: Ewuare ruled in the 15th century.
+
+Q: Before the Oba dynasty, Benin was ruled by the
+A: Ogiso
+W: Alaafin
+W: Mai
+W: Etsu
+E: The Ogiso were the earlier rulers of Benin.
+
+Q: A feature shared by Oyo, Benin and Bornu was
+A: a centralised monarchy
+W: rule by age grades
+W: absence of rulers
+W: rule by foreign governors
+E: All had powerful kings and officials.
+
+Q: According to the Bayajidda legend, Bayajidda married the queen of
+A: Daura
+W: Kano
+W: Zazzau
+W: Gobir
+E: Their son Bawo's children founded the Hausa states.
+
+Q: The decline of the Oyo Empire was partly caused by the revolt of
+A: Afonja, the Are-Ona-Kakanfo, at Ilorin
+W: Jaja of Opobo
+W: Nana of the Itsekiri
+W: Ovonramwen
+E: Afonja's revolt weakened Oyo's power.
+
+Q: Kanem-Bornu became wealthy partly through
+A: control of trans-Saharan trade routes
+W: the oil palm trade only
+W: rubber exports
+W: tin mining
+E: Bornu controlled routes from Lake Chad to Tripoli.
+
+Q: Benin had trading contacts with Europeans from the
+A: 15th century
+W: 19th century only
+W: 20th century
+W: 10th century
+E: The Portuguese arrived in the late 15th century.
+
+@topic his-trade
+
+Q: Which of these goods was imported into West Africa through the trans-Saharan trade?
+A: horses
+W: kola nuts
+W: gold
+W: ivory
+E: Horses, cloth, books and salt came from the north.
+
+Q: Kola nuts were exported northwards mainly from
+A: the forest regions of West Africa
+W: the Sahara Desert
+W: Egypt
+W: Morocco
+E: Kola grows in the forest belt.
+
+Q: The trans-Saharan trade helped the spread of
+A: Islam
+W: Christianity
+W: Buddhism
+W: Hinduism
+E: Muslim traders and scholars came with the caravans.
+
+Q: Which Mali ruler made a famous pilgrimage to Mecca in 1324?
+A: Mansa Musa
+W: Sunni Ali
+W: Askia Muhammad
+W: Sundiata only
+E: He carried so much gold that its price fell in Cairo.
+
+Q: The founder of the Mali Empire was
+A: Sundiata Keita
+W: Mansa Musa
+W: Sunni Ali
+W: Tunka Manin
+E: Sundiata defeated Sumanguru around 1235.
+
+Q: The Songhai Empire was destroyed in 1591 by an invasion from
+A: Morocco
+W: Egypt
+W: Portugal
+W: Bornu
+E: Moroccan troops with firearms defeated Songhai at Tondibi.
+
+Q: The decline of the trans-Saharan trade was mainly due to
+A: the growth of the Atlantic trade with Europeans
+W: the end of all trade in Africa
+W: the discovery of oil
+W: the building of railways only
+E: Coastal trade offered cheaper routes.
+
+Q: Which Hausa city became a major commercial centre of the trans-Saharan trade?
+A: Kano
+W: Lagos
+W: Calabar
+W: Benin
+E: Kano's markets attracted traders from North Africa.
+
+Q: The main desert towns that supplied salt included
+A: Taghaza and Bilma
+W: Lagos and Badagry
+W: Kano and Zaria
+W: Ife and Oyo
+E: Salt was mined in the Sahara.
+
+Q: Traders in the trans-Saharan trade travelled in groups called
+A: caravans
+W: fleets
+W: convoys of ships
+W: regiments
+E: Camel caravans crossed the desert together.
+
+Q: Which ancient Ghana Empire city was a major trading centre?
+A: Kumbi Saleh
+W: Timbuktu
+W: Kano
+W: Gao
+E: Kumbi Saleh was the capital of ancient Ghana.
+
+Q: The trans-Saharan trade encouraged the growth of
+A: towns and cities along the routes
+W: fishing villages only
+W: forest kingdoms only
+W: European colonies
+E: Market towns grew in the savanna.
+
+Q: Gold for the trans-Saharan trade came mainly from
+A: Bambuk, Bure and Akan areas
+W: Kano
+W: the Niger Delta
+W: Lake Chad
+E: West African goldfields supplied North Africa.
+
+Q: A social effect of the trans-Saharan trade was
+A: the introduction of Arabic literacy
+W: the spread of Christianity in the North
+W: the end of slavery
+W: the use of English
+E: Arabic writing came with Islam.
+
+Q: Which of these goods was exported from West Africa across the Sahara?
+A: gold and slaves
+W: horses and books
+W: glass and swords from Europe
+W: salt from Taghaza
+E: Gold, slaves, ivory and kola went north.
+
+Q: Timbuktu became famous for its
+A: Sankore University and Islamic scholarship
+W: Christian monasteries
+W: shipyards
+W: oil wells
+E: Timbuktu was a centre of learning.
+
+Q: Askia Muhammad was a ruler of
+A: Songhai
+W: Mali
+W: Ghana
+W: Bornu
+E: He ruled Songhai from 1493 and made a pilgrimage to Mecca.
+
+Q: Sunni Ali is remembered for expanding the empire of
+A: Songhai
+W: Mali
+W: Kanem
+W: Oyo
+E: He captured Timbuktu and Jenne.
+
+Q: One reason the camel was ideal for the Sahara trade was that it could
+A: go for long periods without water
+W: swim across rivers
+W: fly over dunes
+W: carry no load
+E: Camels endure heat and thirst.
+
+Q: The trans-Saharan route from Kano led north to
+A: Tripoli and Tunis
+W: Lagos
+W: Cape Town
+W: Lisbon
+E: Routes linked Kano with North African ports.
+
+Q: Silent trade (dumb barter) was a method of exchanging goods in which
+A: traders did not meet face to face
+W: money was always used
+W: goods were exchanged at banks
+W: kings did the trading
+E: Goods were left and exchanged without speech, as reported for gold.
+
+Q: Which group of North African Berbers controlled much of the desert trade?
+A: Tuareg
+W: Zulu
+W: Ashanti
+W: Fulani of Sokoto
+E: Tuareg guided and protected caravans.
+
+@topic his-delta
+
+Q: Jaja of Opobo was originally a
+A: slave who rose in the House system of Bonny
+W: prince of Benin
+W: British officer
+W: missionary
+E: He became head of the Anna Pepple House.
+
+Q: Jaja was deported by the British in 1887 because he
+A: resisted British control of trade
+W: helped the British
+W: converted to Christianity
+W: refused to trade at all
+E: Consul Harry Johnston exiled him to the West Indies.
+
+Q: King William Dappa Pepple was a ruler of
+A: Bonny
+W: Opobo
+W: Brass
+W: Calabar
+E: He was deposed by the British in 1854.
+
+Q: Nana Olomu's headquarters, captured by the British in 1894, was
+A: Ebrohimi
+W: Opobo
+W: Akassa
+W: Bonny
+E: Nana was exiled to Ghana after the capture.
+
+Q: King Koko of Nembe (Brass) led the 1895 attack on the Royal Niger Company at
+A: Akassa
+W: Lokoja
+W: Opobo
+W: Badagry
+E: Brass traders resented the company's monopoly.
+
+Q: The Efik people traded mainly at
+A: Old Calabar
+W: Lagos
+W: Bonny
+W: Opobo
+E: Old Calabar was a major Efik trading centre.
+
+Q: The Court of Equity in the Niger Delta was set up to
+A: settle trade disputes between Africans and Europeans
+W: crown kings
+W: try murder cases only
+W: collect slaves
+E: Traders and consuls used it to resolve disputes.
+
+Q: "Comey" in the Delta trade was
+A: a duty paid by European traders to local rulers
+W: a type of ship
+W: a palm wine
+W: a house in Bonny
+E: Rulers charged comey for the right to trade.
+
+Q: The trust system meant that European traders
+A: gave goods on credit to African middlemen
+W: paid cash for every item
+W: stopped trading
+W: built banks
+E: Middlemen repaid with palm oil later.
+
+Q: Niger Delta middlemen resisted British penetration of the hinterland because
+A: it threatened their control of trade
+W: they wanted British rule
+W: they had no trade
+W: they were farmers only
+E: Direct trade would bypass them.
+
+Q: The first British consul for the Bights of Benin and Biafra was
+A: John Beecroft
+W: Harry Johnston
+W: Frederick Lugard
+W: George Goldie
+E: Beecroft was appointed in 1849.
+
+Q: Opobo was founded after a civil war in
+A: Bonny
+W: Calabar
+W: Brass
+W: Lagos
+E: Jaja left Bonny with his followers in 1869.
+
+Q: The Itsekiri kingdom was centred around
+A: Warri (Ode-Itsekiri)
+W: Calabar
+W: Opobo
+W: Lokoja
+E: The Itsekiri traded along the Benin River.
+
+Q: Palm oil became the main export of the Niger Delta mainly after
+A: the abolition of the slave trade
+W: independence
+W: the discovery of crude oil
+W: the First World War
+E: Legitimate trade replaced the slave trade.
+
+Q: Palm oil was in demand in Europe mainly for making
+A: soap and lubricants
+W: bread
+W: gunpowder only
+W: cloth
+E: Industrial Britain needed it for soap, candles and machines.
+
+Q: The head of a House in the Delta House system was responsible for
+A: trading activities and the welfare of its members
+W: religious worship only
+W: conducting elections
+W: building churches
+E: Houses were trading corporations and families.
+
+Q: Kalabari (New Calabar) was an important city-state of the
+A: Ijaw
+W: Efik
+W: Itsekiri
+W: Yoruba
+E: Kalabari was an Ijaw trading state.
+
+Q: The Ekpe society in Calabar helped to
+A: enforce laws and collect debts
+W: crown the Oba of Benin
+W: run the trans-Saharan trade
+W: fight the jihad
+E: It was a powerful secret society.
+
+Q: The Niger Delta states' power declined mainly because of
+A: British colonial penetration and the Royal Niger Company's monopoly
+W: the trans-Saharan trade
+W: the Fulani jihad
+W: the discovery of gold
+E: The British took over trade and politics.
+
+Q: Brass (Nembe) was badly affected by the Royal Niger Company because
+A: the company stopped them from trading on the Niger
+W: the company paid them very well
+W: the company gave them independence
+W: the company built schools there
+E: The monopoly cut off their markets.
+
+Q: A "canoe house" in the Delta referred to
+A: a trading unit able to man war canoes
+W: a building for boats only
+W: a church
+W: a court
+E: Houses were measured by the war canoes they could supply.
+
+Q: Jaja of Opobo was exiled to
+A: the West Indies
+W: Ghana
+W: England
+W: Sierra Leone
+E: He died on his way back in 1891.
+
+Q: Who was the Itsekiri leader whom the British appointed "Governor of the River"?
+A: Nana Olomu
+W: Jaja
+W: Koko
+W: Dappa Pepple
+E: The title made him the main trade agent on the Benin River.
+
+Q: The Delta city-states were also called
+A: trading states
+W: emirates
+W: caliphates
+W: savanna kingdoms
+E: Trade was the basis of their wealth.
+
+@topic his-europeans
+
+Q: The Portuguese explorer who visited Benin in 1485 was
+A: João Afonso de Aveiro
+W: Vasco da Gama
+W: Mungo Park
+W: Richard Lander
+E: He established early trade relations with Benin.
+
+Q: The main goods Europeans bought from the Benin coast early on included
+A: pepper, ivory and cloth
+W: crude oil
+W: tin
+W: rubber only
+E: Benin pepper and ivory were in demand.
+
+Q: The Atlantic slave trade took enslaved Africans mainly to
+A: the Americas
+W: Asia
+W: Australia
+W: North Africa only
+E: They were taken to plantations in the Americas and Caribbean.
+
+Q: The triangular trade linked Europe, West Africa and
+A: the Americas
+W: India
+W: China
+W: Russia
+E: Manufactured goods, slaves and plantation produce moved in a triangle.
+
+Q: Badagry was important in the 19th century as
+A: a slave port and the site of the first Christian missions
+W: the capital of the Sokoto Caliphate
+W: a Hausa state
+W: a Delta oil town
+E: The first mission was established there in 1842.
+
+Q: The first Christian mission in Nigeria was established at Badagry in 1842 by
+A: Thomas Birch Freeman
+W: Mary Slessor
+W: Henry Townsend
+W: Hope Waddell
+E: Freeman was a Methodist missionary.
+
+Q: Samuel Ajayi Crowther became the first African Anglican bishop in
+A: 1864
+W: 1807
+W: 1900
+W: 1960
+E: He was consecrated Bishop of the Niger.
+
+Q: The first newspaper in Nigeria, Iwe Irohin, was founded at Abeokuta in 1859 by
+A: Henry Townsend
+W: Herbert Macaulay
+W: Nnamdi Azikiwe
+W: Thomas Birch Freeman
+E: It was published in Yoruba.
+
+Q: Which factor helped bring about the abolition of the slave trade?
+A: humanitarian campaigns and economic change in Britain
+W: the discovery of oil in Nigeria
+W: independence of Nigeria
+W: the trans-Saharan trade
+E: Abolitionists and the industrial revolution changed attitudes.
+
+Q: The British used naval patrols off West Africa after 1807 to
+A: stop slave ships
+W: buy slaves
+W: carry palm oil
+W: explore the Sahara
+E: The West Africa Squadron intercepted slave ships.
+
+Q: Freed slaves resettled by Britain were taken mainly to
+A: Freetown in Sierra Leone
+W: Lagos only
+W: Accra
+W: Dakar
+E: Many later returned to Nigeria as "Saro".
+
+Q: The Lander brothers are known for
+A: tracing the course of the River Niger to the sea in 1830
+W: founding Lagos
+W: building the railway
+W: ending the slave trade
+E: Richard and John Lander reached the Niger delta.
+
+Q: Mungo Park died in 1806 at
+A: Bussa rapids on the Niger
+W: Lagos lagoon
+W: Lake Chad
+W: Calabar
+E: He drowned while exploring the Niger.
+
+Q: Lagos was bombarded by the British in 1851 to remove
+A: Kosoko, who supported the slave trade
+W: Jaja
+W: Akitoye
+W: Nana
+E: Akitoye was restored as king.
+
+Q: Christian missionaries contributed to Nigeria by introducing
+A: Western education and health care
+W: Islam
+W: the trans-Saharan trade
+W: indirect rule
+E: Mission schools and hospitals were founded.
+
+Q: Hope Waddell is associated with missionary work in
+A: Calabar
+W: Kano
+W: Ibadan
+W: Lokoja
+E: The Hope Waddell Training Institution was founded in 1895.
+
+Q: One negative effect of the slave trade on Nigerian societies was
+A: depopulation and insecurity
+W: rapid industrial growth
+W: peace between states
+W: growth of agriculture
+E: Raids and wars disrupted communities.
+
+Q: The Church Missionary Society (CMS) was mainly a
+A: Anglican missionary body
+W: Catholic order
+W: Methodist group
+W: trading company
+E: The CMS worked in Badagry, Abeokuta and the Niger.
+
+Q: The "Saro" were
+A: freed slaves from Sierra Leone who returned to Nigeria
+W: Portuguese traders
+W: Fulani jihadists
+W: British soldiers
+E: Many became educated professionals.
+
+Q: The Catholic mission work in Nigeria was advanced by the
+A: Society of African Missions (SMA)
+W: CMS
+W: Methodist Society
+W: Baptist Convention only
+E: SMA priests worked in Lagos from the 1860s.
+
+Q: The first European explorers sought the River Niger mainly to
+A: find trade routes into the interior
+W: build cities
+W: start a war
+W: find oil
+E: They wanted to reach inland markets.
+
+Q: Europeans paid African traders for slaves partly with
+A: guns, cloth and manillas
+W: oil wells
+W: railways
+W: naira notes
+E: Manillas were brass rings used as currency.
+
+Q: The Abolition of Slavery Act ending slavery in British colonies was passed in
+A: 1833
+W: 1807
+W: 1861
+W: 1914
+E: The 1807 Act ended the trade; the 1833 Act ended slavery itself.
+
+Q: The arrival of Europeans on the coast shifted the focus of trade from
+A: the Sahara routes to the Atlantic coast
+W: the coast to the Sahara
+W: Africa to Asia
+W: farming to mining
+E: Coastal states grew rich from European trade.
+
+@topic his-jihad
+
+Q: Usman dan Fodio's conflict was mainly with the Gobir king
+A: Yunfa
+W: Nafata
+W: Bawa only
+W: Alooma
+E: Yunfa's hostility led to the jihad in 1804.
+
+Q: The flight of Usman dan Fodio and his followers from Degel to Gudu is known as the
+A: Hijra
+W: Jihad
+W: Hajj
+W: Zakat
+E: It echoed the Prophet's migration.
+
+Q: The first major victory of the jihadists was at the Battle of
+A: Tabkin Kwotto
+W: Osogbo
+W: Akassa
+W: Tondibi
+E: It took place in 1804.
+
+Q: Usman dan Fodio divided the caliphate into two parts, giving the west to
+A: his brother Abdullahi at Gwandu
+W: Muhammad Bello at Kano
+W: El-Kanemi
+W: Afonja
+E: The east was under Muhammad Bello at Sokoto.
+
+Q: The head of the Sokoto Caliphate came to be called the
+A: Sultan (Sarkin Musulmi)
+W: Alaafin
+W: Mai
+W: Obi
+E: He was the Commander of the Faithful.
+
+Q: Which woman scholar of the Sokoto Caliphate was a daughter of Usman dan Fodio?
+A: Nana Asma'u
+W: Queen Amina
+W: Moremi
+W: Emotan
+E: She wrote poems and promoted women's education.
+
+Q: The jihadists' advance into Yorubaland was checked at the Battle of
+A: Osogbo in 1840
+W: Tabkin Kwotto in 1804
+W: Akassa in 1895
+W: Gilgal
+E: Ibadan forces defeated the Ilorin army.
+
+Q: Why did Bornu resist the jihad?
+A: it was already a Muslim state with its own leadership
+W: it had no army
+W: it was ruled by the British
+W: it supported Gobir
+E: El-Kanemi argued that Bornu was Muslim.
+
+Q: A reason for the Sokoto Jihad was
+A: dissatisfaction with corruption and un-Islamic practices of Hausa rulers
+W: the British invasion
+W: the slave trade on the coast
+W: the discovery of oil
+E: Dan Fodio called for religious reform.
+
+Q: The Sokoto Jihad led to the spread of
+A: Islamic education and Arabic learning
+W: Christianity in the North
+W: the Atlantic trade
+W: English language
+E: Schools of Islamic learning spread.
+
+Q: The jihad resulted in the replacement of Hausa kings by
+A: Fulani emirs
+W: Yoruba obas
+W: British residents
+W: Igbo elders
+E: Flag-bearers became emirs.
+
+Q: Leaders who received flags from Usman dan Fodio to lead the jihad in their areas were called
+A: flag-bearers
+W: warrant chiefs
+W: consuls
+W: alkalis
+E: They became the first emirs.
+
+Q: Adamawa emirate was founded by the flag-bearer
+A: Modibbo Adama
+W: Afonja
+W: El-Kanemi
+W: Abdullahi
+E: Its capital became Yola.
+
+Q: The Sokoto Caliphate was finally conquered by the British in
+A: 1903
+W: 1804
+W: 1960
+W: 1914
+E: Lugard's forces took Kano and Sokoto in 1903.
+
+Q: The Satiru revolt against British rule in the North took place in
+A: 1906
+W: 1903
+W: 1929
+W: 1945
+E: It was crushed by British troops.
+
+Q: Usman dan Fodio was a
+A: Fulani Islamic scholar
+W: Hausa king
+W: Kanuri general
+W: Yoruba priest
+E: He was a learned teacher and preacher.
+
+Q: The jihad brought most of Hausaland under
+A: a single political authority
+W: Yoruba rule
+W: British rule immediately
+W: Bornu
+E: The caliphate united many states.
+
+Q: Ilorin became part of the Sokoto Caliphate after Afonja was killed by
+A: Fulani forces led by Alimi's followers
+W: the British
+W: the Oyo Mesi
+W: Jaja
+E: Abdulsalami, son of Alimi, became the first emir.
+
+Q: One political effect of the jihad was the
+A: establishment of the emirate system
+W: creation of the Delta city-states
+W: rise of the Oyo Empire
+W: end of Islam in the North
+E: Emirates had a common administrative pattern.
+
+Q: Muhammad Bello is remembered for
+A: consolidating the caliphate and founding Sokoto
+W: leading the British conquest
+W: founding Opobo
+W: ruling Bornu
+E: He succeeded his father as leader.
+
+Q: The jihad encouraged trade within the caliphate because
+A: it created a large, secure area under one authority
+W: it closed all markets
+W: it banned money
+W: it stopped travel
+E: Unity improved movement and commerce.
+
+Q: Which of these areas was NOT conquered by the Sokoto jihadists?
+A: Bornu
+W: Kano
+W: Zaria
+W: Katsina
+E: El-Kanemi successfully defended Bornu.
+
+Q: The jihad influenced which Middle Belt area through the Nupe emirate?
+A: Bida
+W: Wukari
+W: Makurdi
+W: Jos
+E: Nupe became an emirate with its capital at Bida.
+
+Q: Abdullahi dan Fodio was the
+A: brother of Usman dan Fodio
+W: son of Muhammad Bello
+W: king of Gobir
+W: emir of Ilorin
+E: He ruled the western sector from Gwandu.
+
+@topic his-colonial
+
+Q: The Ijebu Expedition of 1892 was carried out by the British to
+A: open trade routes into the interior
+W: end the jihad
+W: crown a new Alaafin
+W: build Lagos port
+E: The Ijebu had blocked traders' access.
+
+Q: The British conquest of Benin in 1897 followed the killing of
+A: a British party led by James Phillips
+W: Jaja of Opobo
+W: Mungo Park
+W: Lord Lugard
+E: The punitive expedition sacked Benin City.
+
+Q: Many Benin bronzes were taken in 1897 by
+A: British soldiers
+W: Portuguese traders
+W: Fulani jihadists
+W: Igbo traders
+E: They are now in museums abroad.
+
+Q: Oba Ovonramwen was exiled to
+A: Calabar
+W: Sierra Leone
+W: the West Indies
+W: London
+E: He died in Calabar in 1914.
+
+Q: The Royal Niger Company was granted a charter in
+A: 1886
+W: 1900
+W: 1914
+W: 1851
+E: It governed the Niger area until 1900.
+
+Q: Kano and Sokoto were occupied by British forces in
+A: 1903
+W: 1897
+W: 1914
+W: 1929
+E: Lugard's troops defeated the caliphate.
+
+Q: The colonial administrator in charge of a province was called a
+A: Resident
+W: Consul
+W: Governor-General
+W: Emir
+E: Residents supervised native authorities.
+
+Q: The Adubi War of 1918 broke out in
+A: Abeokuta (Egbaland)
+W: Kano
+W: Calabar
+W: Benin
+E: The Egba resisted direct taxation and forced labour.
+
+Q: Lugard's system of indirect rule was first developed in
+A: Northern Nigeria
+W: Lagos
+W: Eastern Nigeria
+W: the Niger Delta
+E: He used the emirs to govern.
+
+Q: Colonial rule introduced which currency in place of cowries and manillas?
+A: British coins and notes
+W: the naira
+W: the CFA franc
+W: the dollar
+E: The West African Currency Board issued coins from 1912.
+
+Q: A positive effect of colonial rule on Nigeria was
+A: the building of roads and railways
+W: destruction of traditional institutions only
+W: exploitation of resources
+W: forced labour
+E: Infrastructure linked different parts of the country.
+
+Q: The Berlin Conference recognised British claims in Nigeria partly because of
+A: effective occupation and existing treaties
+W: the wishes of Nigerians
+W: votes in Lagos
+W: the jihad
+E: Powers had to show effective control.
+
+Q: The man who led the British conquest of Northern Nigeria was
+A: Frederick Lugard
+W: George Goldie
+W: John Beecroft
+W: Hugh Clifford
+E: Lugard became High Commissioner in 1900.
+
+Q: The British signed many "treaties of protection" with local rulers to
+A: claim territory against other Europeans
+W: give independence
+W: end trade
+W: build universities
+E: Treaties were used to justify British control.
+
+Q: The Ekumeku resistance against the British took place among the
+A: western Igbo
+W: Hausa
+W: Kanuri
+W: Ijebu
+E: It lasted from about 1898 to 1911.
+
+Q: Which mineral resource was mined at Jos during the colonial period?
+A: tin
+W: gold
+W: crude oil
+W: diamonds
+E: Tin mining began in the early 1900s.
+
+Q: Coal was discovered and mined during the colonial period at
+A: Enugu
+W: Jos
+W: Kano
+W: Lagos
+E: The Enugu coal mines opened in 1915.
+
+Q: Which explorer of the Niger died in Bussa in 1806?
+A: Mungo Park
+W: Hugh Clapperton
+W: Richard Lander
+W: Heinrich Barth
+E: He drowned after an attack.
+
+Q: Lord Lugard's wife, Flora Shaw, is credited with
+A: suggesting the name "Nigeria"
+W: writing the 1922 constitution
+W: founding Iwe Irohin
+W: leading the Aba Women's Riot
+E: She proposed the name in 1897.
+
+Q: Colonial rule in Nigeria ended on
+A: 1 October 1960
+W: 1 January 1914
+W: 29 May 1999
+W: 1 October 1963
+E: Nigeria gained independence on that date.
+
+Q: An effect of colonial rule on traditional rulers in the East was that
+A: warrant chiefs without traditional legitimacy were imposed
+W: emirs became stronger
+W: kings were elected
+W: rulers were abolished completely
+E: This caused resentment.
+
+Q: Hugh Clapperton is known for travelling to
+A: Sokoto and Kano in the 1820s
+W: Lagos in 1960
+W: Calabar in 1900
+W: Benin in 1897
+E: He visited the caliphate and died near Sokoto.
+
+Q: The colonial government's main source of revenue was
+A: customs duties on imports and exports
+W: oil royalties
+W: VAT
+W: foreign aid
+E: Trade duties funded colonial administration.
+
+Q: The colonial Legislative Council was mainly an advisory body that
+A: included British officials and a few African members
+W: had only Nigerian members
+W: elected the Governor
+W: was abolished in 1900
+E: Officials held the majority.
+
+@topic his-colonial-economy
+
+Q: Colonial agriculture in Nigeria concentrated mainly on
+A: cash crops for export
+W: food crops for local markets only
+W: manufactured goods
+W: fishing
+E: Crops such as cocoa and groundnuts were grown for export.
+
+Q: The main cash crop of Eastern Nigeria during the colonial period was
+A: palm produce
+W: cocoa
+W: groundnut
+W: cotton
+E: Palm oil and kernels were the main exports of the East.
+
+Q: Cotton and groundnuts were mainly produced in
+A: Northern Nigeria
+W: Eastern Nigeria
+W: Lagos Colony
+W: the Niger Delta
+E: The savanna suited these crops.
+
+Q: The railway line reached Kano in
+A: 1912
+W: 1901
+W: 1960
+W: 1890
+E: This boosted the groundnut trade.
+
+Q: Marketing boards were set up in Nigeria from 1947 to
+A: buy and export cash crops
+W: build schools
+W: run elections
+W: print money
+E: They fixed producer prices and marketed crops.
+
+Q: A criticism of the marketing boards was that they
+A: paid farmers low prices and kept the surpluses
+W: paid farmers too much
+W: had no money
+W: did not export crops
+E: Surpluses were used by governments rather than farmers.
+
+Q: The Iva Valley shooting of 1949 involved
+A: coal miners in Enugu
+W: cocoa farmers in Ibadan
+W: groundnut farmers in Kano
+W: market women in Lagos
+E: Police shot striking miners, killing 21.
+
+Q: The 1945 general strike in Nigeria was led by
+A: Michael Imoudu
+W: Herbert Macaulay
+W: Ahmadu Bello
+W: Tafawa Balewa
+E: Workers demanded a cost-of-living allowance.
+
+Q: The Bank of British West Africa was established in
+A: 1894
+W: 1960
+W: 1912
+W: 1933
+E: It was the first commercial bank in Nigeria.
+
+Q: The first indigenous bank in Nigeria that survived was the
+A: National Bank of Nigeria (1933)
+W: Central Bank of Nigeria (1959)
+W: Bank of British West Africa
+W: Barclays Bank
+E: It was founded by Nigerians in 1933.
+
+Q: The Central Bank of Nigeria began operations in
+A: 1959
+W: 1945
+W: 1973
+W: 1914
+E: It was set up just before independence.
+
+Q: The colonial economy mainly benefited
+A: British companies and the colonial power
+W: Nigerian farmers
+W: local industries
+W: traditional rulers in the East
+E: Profits went abroad.
+
+Q: The United Africa Company (UAC) was a
+A: large British trading company
+W: Nigerian political party
+W: mission society
+W: trade union
+E: It dominated colonial trade.
+
+Q: Cocoa production was concentrated in
+A: Western Nigeria
+W: Northern Nigeria
+W: the Niger Delta only
+W: Bornu
+E: The forests of the West suited cocoa.
+
+Q: The colonial transport system was designed mainly to
+A: carry raw materials to the ports
+W: link all villages equally
+W: help local industries
+W: serve tourism
+E: Railways ran from producing areas to the coast.
+
+Q: The introduction of a money economy during the colonial period led to
+A: the decline of trade by barter
+W: more use of cowries
+W: the end of all trade
+W: the return of the trans-Saharan trade
+E: People increasingly used cash.
+
+Q: Colonial taxation was introduced partly to
+A: force people to work for wages or grow cash crops
+W: reduce government revenue
+W: punish traders
+W: build mosques
+E: Tax had to be paid in cash.
+
+Q: A major port developed during the colonial period was
+A: Port Harcourt
+W: Kano
+W: Kaduna
+W: Jos
+E: Port Harcourt was founded in 1913 to export coal.
+
+Q: The colonial government discouraged industrialisation in Nigeria mainly because
+A: it wanted Nigeria to buy British manufactured goods
+W: Nigerians did not want factories
+W: there were no raw materials
+W: there was no labour
+E: Colonies were markets for British industry.
+
+Q: The development of the Enugu coal mines led to the building of the railway to
+A: Port Harcourt
+W: Kano
+W: Lagos
+W: Maiduguri
+E: The eastern line linked Enugu to the port.
+
+Q: Palm kernel and palm oil prices were affected badly during the
+A: Great Depression of the 1930s
+W: 1960s oil boom
+W: 1990s
+W: trans-Saharan era
+E: World prices collapsed.
+
+Q: The colonial economy led to migration of people to
+A: towns and mining areas
+W: the Sahara
+W: Europe only
+W: forests far from towns
+E: Workers moved to Lagos, Enugu, Jos and other centres.
+
+Q: Which colonial crop was mostly grown around the Kano area?
+A: groundnut
+W: cocoa
+W: rubber
+W: oil palm
+E: Kano was the centre of the groundnut trade.
+
+Q: Rubber was produced during the colonial period mainly in
+A: the Midwest (Benin area)
+W: Kano
+W: Sokoto
+W: Maiduguri
+E: The forest zone around Benin produced rubber.
+
+@topic his-wars
+
+Q: The West African Frontier Force was renamed the Royal West African Frontier Force in
+A: 1928
+W: 1900
+W: 1945
+W: 1960
+E: The "Royal" title was added in 1928.
+
+Q: During the Second World War, Nigerian soldiers served in East Africa against the
+A: Italians
+W: French
+W: Japanese
+W: Americans
+E: They fought in Italian East Africa (Ethiopia and Somaliland).
+
+Q: Nigerian soldiers in the Burma campaign fought against
+A: the Japanese
+W: the Germans in Cameroon
+W: the Italians
+W: the French
+E: They served with the 81st and 82nd West African Divisions.
+
+Q: The German colony attacked by Nigerian troops in the First World War was
+A: Kamerun (Cameroon)
+W: Togoland only
+W: Burma
+W: Ethiopia
+E: The campaign ran from 1914 to 1916.
+
+Q: An economic effect of the Second World War on Nigeria was
+A: increased demand for raw materials such as tin and palm oil
+W: the end of all exports
+W: the discovery of crude oil
+W: independence
+E: Britain needed resources for the war.
+
+Q: One political effect of the Second World War was
+A: growth of nationalism
+W: the end of nationalism
+W: return of the slave trade
+W: restoration of the Oyo Empire
+E: Returning soldiers and new ideas boosted demands for self-rule.
+
+Q: The Atlantic Charter was signed in 1941 by Churchill and
+A: Franklin Roosevelt
+W: Adolf Hitler
+W: Joseph Stalin
+W: Charles de Gaulle
+E: It spoke of the right of peoples to choose their government.
+
+Q: Returning ex-servicemen contributed to nationalism because they
+A: had seen the world and resented unequal treatment
+W: wanted British rule forever
+W: lost interest in politics
+W: became colonial officers
+E: Their experiences encouraged demands for change.
+
+Q: The war caused shortages in Nigeria of
+A: imported goods
+W: rainfall
+W: farmland
+W: population
+E: Shipping disruption reduced imports and raised prices.
+
+Q: The United Nations, formed after the Second World War, supported
+A: self-determination for colonial peoples
+W: more colonies
+W: the slave trade
+W: fascism
+E: Its charter encouraged decolonisation.
+
+Q: The Nigerian Regiment was part of the
+A: West African Frontier Force
+W: French Foreign Legion
+W: American army
+W: Ghana Police
+E: It was the Nigerian component of the WAFF.
+
+Q: The First World War took place from
+A: 1914 to 1918
+W: 1939 to 1945
+W: 1900 to 1905
+W: 1960 to 1966
+E: It began the same year as the amalgamation.
+
+Q: The Second World War took place from
+A: 1939 to 1945
+W: 1914 to 1918
+W: 1945 to 1950
+W: 1967 to 1970
+E: Nigeria contributed soldiers and resources.
+
+Q: Which of these was a reason Britain recruited Nigerians into the army during the wars?
+A: to defend British interests and colonies
+W: to prepare Nigeria for civil war
+W: to fight the jihad
+W: to conquer Ghana
+E: Colonial troops served the empire.
+
+Q: The Second World War weakened Britain economically, which helped to
+A: speed up decolonisation
+W: increase colonies
+W: stop nationalism
+W: end trade with Africa
+E: Britain could no longer afford a large empire.
+
+Q: The "Chindits" campaign in which some West Africans served took place in
+A: Burma
+W: Libya
+W: France
+W: Cameroon
+E: West African troops fought in the Burmese jungle.
+
+Q: During the Second World War, the colonial government controlled prices through
+A: price controls and rationing
+W: free markets only
+W: printing naira
+W: abolishing trade
+E: Scarcity led to controls.
+
+Q: A social effect of the World Wars on Nigeria was
+A: exposure of Nigerians to other cultures and ideas
+W: the end of education
+W: the return of kingdoms
+W: no change at all
+E: Soldiers travelled abroad and returned with new ideas.
+
+Q: The end of the Second World War encouraged the emergence of the
+A: superpowers, the USA and USSR, which opposed colonialism
+W: Ottoman Empire
+W: Portuguese empire's growth
+W: Sokoto Caliphate
+E: Both superpowers criticised colonial rule.
+
+Q: Nigeria contributed to the war effort by
+A: supplying troops, food and raw materials
+W: sending warships
+W: building aircraft
+W: making nuclear weapons
+E: Nigerians served and produced goods.
+
+Q: The 1945 Manchester Pan-African Congress, attended by Nigerian nationalists, called for
+A: independence for African colonies
+W: more colonies
+W: an end to education
+W: British rule forever
+E: It demanded self-government.
+
+Q: Which future African leader helped to organise the 1945 Pan-African Congress in Manchester?
+A: Kwame Nkrumah
+W: Ahmadu Bello
+W: Tafawa Balewa
+W: Frederick Lugard
+E: Nkrumah worked with George Padmore to organise the congress.
+
+Q: Wartime propaganda about fighting for freedom made Nigerians
+A: demand freedom for themselves
+W: support colonialism more
+W: abandon politics
+W: leave the country
+E: Nationalists asked why freedom should not apply to colonies.
+
+Q: The Nigerian ex-servicemen's union after the war mainly campaigned for
+A: better pay and conditions for veterans
+W: more colonial rule
+W: the return of the slave trade
+W: the jihad
+E: Veterans organised to demand their rights.
+
+@topic his-nationalism
+
+Q: Herbert Macaulay is called the father of Nigerian nationalism partly because he
+A: founded the NNDP and campaigned against colonial injustice
+W: was the first Prime Minister
+W: led the civil war
+W: was a colonial governor
+E: He founded the Nigerian National Democratic Party in 1923.
+
+Q: The Lagos Youth Movement was renamed the
+A: Nigerian Youth Movement in 1936
+W: NCNC in 1944
+W: Action Group in 1951
+W: NPC in 1949
+E: It became a national organisation.
+
+Q: The NCNC was formed in 1944 originally as the National Council of Nigeria and
+A: the Cameroons
+W: Canada
+W: the Congo
+W: Chad
+E: It later became the National Convention of Nigerian Citizens.
+
+Q: The Egbe Omo Oduduwa was a Yoruba cultural organisation founded by
+A: Obafemi Awolowo
+W: Nnamdi Azikiwe
+W: Ahmadu Bello
+W: Herbert Macaulay
+E: It later gave rise to the Action Group.
+
+Q: The Jam'iyyar Mutanen Arewa later became the
+A: Northern People's Congress (NPC)
+W: Action Group
+W: NCNC
+W: NEPU
+E: It transformed into a political party in 1951.
+
+Q: The Kano riot of 1953 followed
+A: the disagreement over the self-government motion
+W: independence celebrations
+W: the civil war
+W: the 1966 coup
+E: Tension between northern and southern politicians led to violence.
+
+Q: The Northern leaders asked for self-government "as soon as practicable" instead of 1956 because
+A: they felt the North was not yet ready
+W: they wanted independence at once
+W: they rejected Nigeria
+W: they wanted British rule forever
+E: They feared southern domination.
+
+Q: The 1957 London Constitutional Conference granted self-government to
+A: the Eastern and Western Regions
+W: the Northern Region only
+W: Lagos only
+W: all of Nigeria immediately
+E: The North followed in 1959.
+
+Q: The first Premier of the Eastern Region was
+A: Nnamdi Azikiwe
+W: Michael Okpara
+W: Obafemi Awolowo
+W: Ahmadu Bello
+E: He became Premier in 1954.
+
+Q: The newspaper "West African Pilot" was founded by
+A: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Herbert Macaulay
+W: Ernest Ikoli
+E: It was launched in 1937.
+
+Q: The "Lagos Daily News" was associated with
+A: Herbert Macaulay
+W: Ahmadu Bello
+W: Tafawa Balewa
+W: Aminu Kano
+E: Macaulay used it to criticise colonial policies.
+
+Q: One factor that helped Nigerian nationalism was
+A: the spread of Western education
+W: the absence of newspapers
+W: support from colonial officers
+W: the slave trade
+E: Educated Nigerians led the movement.
+
+Q: The Zikist Movement was a
+A: radical nationalist youth group inspired by Azikiwe
+W: religious movement
+W: trade union
+W: colonial army unit
+E: It demanded immediate independence in the late 1940s.
+
+Q: Nigeria's independence was received on behalf of the Queen by
+A: Princess Alexandra
+W: Queen Elizabeth in person
+W: Lord Lugard
+W: Winston Churchill
+E: She represented the Queen at the 1960 ceremony.
+
+Q: The independence elections were held in
+A: 1959
+W: 1960
+W: 1957
+W: 1963
+E: The federal elections of December 1959 set up the independence government.
+
+Q: A factor that slowed Nigerian nationalism was
+A: ethnic and regional rivalry
+W: the spread of education
+W: newspapers
+W: the World Wars
+E: Divisions weakened the national movement.
+
+Q: Who founded the Nigerian National Democratic Party in 1923?
+A: Herbert Macaulay
+W: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Tafawa Balewa
+E: It contested the Lagos elections under the Clifford Constitution.
+
+Q: The nationalist who led NEPU and championed the "talakawa" (commoners) was
+A: Aminu Kano
+W: Ahmadu Bello
+W: Tafawa Balewa
+W: Michael Okpara
+E: NEPU opposed the conservative NPC.
+
+Q: The Richards Constitution was criticised by nationalists mainly because
+A: it was imposed without consultation
+W: it gave Nigeria independence
+W: it abolished the regions
+W: it banned newspapers
+E: The NCNC toured the country protesting against it.
+
+Q: The NCNC delegation to London in 1947 protested against
+A: the Richards Constitution and some ordinances
+W: independence
+W: the creation of states
+W: the 1979 constitution
+E: They sought constitutional reform.
+
+Q: Anthony Enahoro moved the self-government motion as a member of the
+A: Action Group
+W: NPC
+W: NCNC
+W: NEPU
+E: He proposed self-government in 1956.
+
+Q: The nationalist movement in Nigeria mainly used
+A: peaceful constitutional methods
+W: armed rebellion throughout
+W: guerrilla warfare
+W: foreign armies
+E: Nigeria's independence was won through negotiation.
+
+Q: Ernest Ikoli was an early nationalist associated with
+A: the Nigerian Youth Movement
+W: the Sokoto Caliphate
+W: the Action Group's founding
+W: the 1966 coup
+E: He was a prominent NYM leader and journalist.
+
+Q: Tafawa Balewa became Prime Minister of the Federation in
+A: 1957
+W: 1960
+W: 1963
+W: 1951
+E: He continued as Prime Minister at independence.
+
+@topic his-post-independence
+
+Q: The Aburi Accord of January 1967 was signed in
+A: Ghana
+W: Lagos
+W: London
+W: Addis Ababa
+E: Federal and Eastern leaders met at Aburi to avoid war.
+
+Q: The civil war ended in January 1970 when the Biafran side
+A: surrendered
+W: won
+W: received independence
+W: joined Ghana
+E: Philip Effiong announced the surrender.
+
+Q: After the civil war, the federal government's policy of reconciliation was summarised as the
+A: three Rs: reconciliation, rehabilitation and reconstruction
+W: indigenisation decree
+W: Operation Feed the Nation
+W: War Against Indiscipline
+E: It aimed to reunite the country.
+
+Q: The National Youth Service Corps (NYSC) was set up to
+A: promote national unity among young graduates
+W: train soldiers for war
+W: conduct elections
+W: collect taxes
+E: Graduates serve outside their home states.
+
+Q: The Indigenisation Decree of 1972 aimed to
+A: transfer ownership of businesses to Nigerians
+W: sell companies to foreigners
+W: end all businesses
+W: create new states
+E: It reserved some enterprises for Nigerians.
+
+Q: The Udoji Award of 1974 was
+A: a large salary increase for public workers
+W: a sports trophy
+W: a literary prize
+W: an election reform
+E: It followed the Udoji Commission's report.
+
+Q: Oil was first discovered in commercial quantities in Nigeria at
+A: Oloibiri in 1956
+W: Kano in 1960
+W: Lagos in 1914
+W: Enugu in 1909
+E: Shell-BP made the discovery.
+
+Q: Nigeria joined OPEC in
+A: 1971
+W: 1960
+W: 1956
+W: 1999
+E: Oil was by then a major export.
+
+Q: The International Court of Justice ruled in 2002 that the Bakassi Peninsula belonged to
+A: Cameroon
+W: Nigeria
+W: Equatorial Guinea
+W: Gabon
+E: Nigeria handed it over in 2008.
+
+Q: The first time an incumbent Nigerian president lost an election was in
+A: 2015
+W: 1979
+W: 1999
+W: 2007
+E: Goodluck Jonathan conceded defeat to Muhammadu Buhari.
+
+Q: The ECOWAS treaty signed in Lagos in 1975 was a major achievement of
+A: Nigeria's foreign policy
+W: the colonial government
+W: the Sokoto Caliphate
+W: the First Republic
+E: Nigeria and Togo led the effort.
+
+Q: One cause of the Nigerian Civil War was
+A: the crises after the 1966 coups and the killings of Easterners
+W: the trans-Saharan trade
+W: the 1914 amalgamation alone
+W: the Second World War
+E: Mistrust led to secession and war.
+
+Q: Who was the head of the Biafran government?
+A: Odumegwu Ojukwu
+W: Yakubu Gowon
+W: Philip Effiong only
+W: Aguiyi-Ironsi
+E: Ojukwu was military governor of the East.
+
+Q: The federal head of state during the civil war was
+A: Yakubu Gowon
+W: Murtala Mohammed
+W: Olusegun Obasanjo
+W: Aguiyi-Ironsi
+E: Gowon led the federal side.
+
+Q: The Second National Development Plan (1970–74) focused on
+A: post-war reconstruction
+W: colonial expansion
+W: abolishing schools
+W: returning to the pound
+E: It aimed to rebuild the economy after the war.
+
+Q: The 1973 naira replaced the
+A: Nigerian pound
+W: CFA franc
+W: dollar
+W: cowrie
+E: The naira and kobo were introduced on 1 January 1973.
+
+Q: Nigeria hosted the second All-Africa Games in
+A: 1973
+W: 1960
+W: 1999
+W: 1980
+E: The games were held in Lagos.
+
+Q: The return to civilian rule in 1979 was organised by the government of
+A: Olusegun Obasanjo
+W: Yakubu Gowon
+W: Ibrahim Babangida
+W: Sani Abacha
+E: Power was handed to Shehu Shagari.
+
+Q: The Babangida government's two-party system was replaced after the
+A: annulment of the 1993 election and Abacha's coup
+W: civil war
+W: 1979 elections
+W: 2015 elections
+E: Abacha dissolved the existing political structures.
+
+Q: A major challenge facing Nigeria since independence has been
+A: building national unity among diverse groups
+W: lack of any resources
+W: too few people
+W: having no constitution ever
+E: Ethnic and religious diversity has caused tension.
+
+Q: The 2006 population census put Nigeria's population at about
+A: 140 million
+W: 50 million
+W: 400 million
+W: 20 million
+E: The official figure was about 140 million.
+
+Q: Nigeria's currency, the naira, is managed by the
+A: Central Bank of Nigeria
+W: Ministry of Agriculture
+W: INEC
+W: NNPC
+E: The CBN issues and regulates the currency.
+
+Q: The Niger Delta crisis is mainly linked to
+A: oil pollution and demands for a fair share of oil wealth
+W: the trans-Saharan trade
+W: the jihad
+W: the slave trade only
+E: Communities protest environmental damage and neglect.
+
+Q: Nigeria's Fourth Republic first president was
+A: Olusegun Obasanjo
+W: Umaru Yar'Adua
+W: Goodluck Jonathan
+W: Shehu Shagari
+E: He was sworn in on 29 May 1999.
+
+@topic his-africa
+
+Q: Guinea became independent from France in
+A: 1958
+W: 1960
+W: 1957
+W: 1963
+E: Guinea voted "no" in de Gaulle's referendum.
+
+Q: The leader of Guinea at independence was
+A: Ahmed Sékou Touré
+W: Léopold Senghor
+W: Félix Houphouët-Boigny
+W: Modibo Keïta
+E: He rejected the French Community.
+
+Q: Kenya became independent in 1963 under
+A: Jomo Kenyatta
+W: Julius Nyerere
+W: Kenneth Kaunda
+W: Milton Obote
+E: Kenyatta became Prime Minister, then President.
+
+Q: Tanganyika became independent in 1961 under
+A: Julius Nyerere
+W: Jomo Kenyatta
+W: Kwame Nkrumah
+W: Patrice Lumumba
+E: Tanganyika later joined Zanzibar to form Tanzania.
+
+Q: Algeria won independence from France in 1962 after
+A: a long war of liberation
+W: a peaceful referendum only
+W: British intervention
+W: a royal decree
+E: The war began in 1954.
+
+Q: The Congo's first Prime Minister at independence in 1960 was
+A: Patrice Lumumba
+W: Mobutu Sese Seko
+W: Kwame Nkrumah
+W: Ahmed Ben Bella
+E: He was overthrown and killed in 1961.
+
+Q: Zimbabwe became independent in 1980 under
+A: Robert Mugabe
+W: Ian Smith
+W: Joshua Nkomo
+W: Nelson Mandela
+E: It was formerly called Rhodesia.
+
+Q: The white minority government of Rhodesia declared independence illegally in 1965 under
+A: Ian Smith
+W: Robert Mugabe
+W: Cecil Rhodes
+W: Kenneth Kaunda
+E: This was the Unilateral Declaration of Independence (UDI).
+
+Q: Namibia gained independence in 1990 from
+A: South Africa
+W: Britain
+W: Portugal
+W: Germany
+E: SWAPO led the liberation struggle.
+
+Q: Angola and Mozambique became independent in 1975 from
+A: Portugal
+W: Britain
+W: France
+W: Belgium
+E: Portugal's colonial wars ended after its 1974 revolution.
+
+Q: The Sharpeville massacre of 1960 took place in
+A: South Africa
+W: Kenya
+W: Algeria
+W: Ghana
+E: Police shot protesters against pass laws.
+
+Q: The Soweto uprising of 1976 was a protest by
+A: students against the use of Afrikaans in schools
+W: miners in Nigeria
+W: farmers in Ghana
+W: soldiers in Algeria
+E: Many students were killed.
+
+Q: Nelson Mandela was released from prison in
+A: 1990
+W: 1964
+W: 1994
+W: 1980
+E: He had been imprisoned for 27 years.
+
+Q: The leading liberation movement in South Africa was the
+A: African National Congress (ANC)
+W: SWAPO
+W: ZANU
+W: FLN
+E: Mandela was an ANC leader.
+
+Q: The OAU was formed in 1963 with its headquarters in
+A: Addis Ababa
+W: Lagos
+W: Accra
+W: Cairo
+E: It promoted African unity and liberation.
+
+Q: Kwame Nkrumah was a strong advocate of
+A: Pan-Africanism and African unity
+W: colonial rule
+W: apartheid
+W: monarchy
+E: He called for a united Africa.
+
+Q: The French policy that allowed colonies to choose between independence and membership of the French Community in 1958 was proposed by
+A: Charles de Gaulle
+W: Napoleon
+W: Mussolini
+W: Churchill
+E: Only Guinea chose immediate independence.
+
+Q: Senegal's first president was
+A: Léopold Sédar Senghor
+W: Sékou Touré
+W: Houphouët-Boigny
+W: Ben Bella
+E: He was also a famous poet.
+
+Q: The Mau Mau movement in Kenya mainly fought over
+A: land taken by European settlers
+W: oil revenue
+W: religious differences
+W: the slave trade
+E: Kikuyu farmers had lost land to settlers.
+
+Q: Decolonisation in Africa was helped by
+A: the weakening of European powers after the Second World War
+W: the growth of colonial armies
+W: African support for colonialism
+W: the Berlin Conference
+E: Europe was exhausted economically.
+
+Q: Which country, administered for decades by South Africa, became independent in 1990?
+A: Namibia
+W: Ghana
+W: Nigeria
+W: Kenya
+E: SWAPO's long struggle ended with independence in March 1990.
+
+Q: Nigeria contributed to the liberation of southern Africa by
+A: giving money, scholarships and diplomatic support
+W: sending colonial soldiers to support apartheid
+W: trading arms with Rhodesia
+W: ignoring the issue
+E: Nigeria was a strong supporter of liberation movements.
+
+Q: Which African country was never formally colonised (apart from a brief Italian occupation)?
+A: Ethiopia
+W: Nigeria
+W: Kenya
+W: Ghana
+E: Ethiopia defeated Italy at Adwa in 1896.
+
+Q: Liberia was founded by
+A: freed slaves from the United States
+W: the British
+W: the French
+W: the Portuguese
+E: It became independent in 1847.

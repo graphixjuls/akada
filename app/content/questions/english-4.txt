@@ -1,0 +1,2305 @@
+@subject english
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic eng-rhymes
+
+Q: Which word rhymes with "said"?
+A: bed
+W: paid
+W: side
+W: seed
+E: "Said" is pronounced /sed/, like "bed".
+
+Q: Which word rhymes with "through"?
+A: blue
+W: rough
+W: though
+W: cough
+E: "Through" has /uː/, like "blue".
+
+Q: Which word rhymes with "though"?
+A: snow
+W: tough
+W: through
+W: bough
+E: "Though" ends in /əʊ/, like "snow".
+
+Q: Which word rhymes with "rough"?
+A: stuff
+W: dough
+W: cough
+W: through
+E: "Rough" and "stuff" end in /ʌf/.
+
+Q: Which word rhymes with "cough"?
+A: off
+W: rough
+W: dough
+W: plough
+E: "Cough" is pronounced /kɒf/, like "off".
+
+Q: Which word rhymes with "plough"?
+A: cow
+W: tough
+W: though
+W: cough
+E: "Plough" ends in /aʊ/, like "cow".
+
+Q: Which word rhymes with "heart"?
+A: start
+W: hurt
+W: heat
+W: hate
+E: Both end in /ɑːt/.
+
+Q: Which word rhymes with "word"?
+A: bird
+W: ward
+W: wood
+W: weird
+E: Both have /ɜː/ followed by /d/.
+
+Q: Which word rhymes with "great"?
+A: late
+W: greet
+W: grit
+W: neat
+E: "Great" is pronounced /greɪt/.
+
+Q: Which word rhymes with "sew"?
+A: go
+W: new
+W: saw
+W: sea
+E: "Sew" is pronounced /səʊ/, like "go".
+
+Q: Which word rhymes with "flood"?
+A: mud
+W: food
+W: good
+W: flawed
+E: "Flood" has /ʌ/, like "mud".
+
+Q: Which word rhymes with "pear"?
+A: chair
+W: peer
+W: pure
+W: par
+E: Both end in /eə/.
+
+Q: Which word rhymes with "height"?
+A: kite
+W: weight
+W: heat
+W: hate
+E: "Height" has /aɪ/, like "kite".
+
+Q: Which word rhymes with "weight"?
+A: gate
+W: height
+W: wit
+W: wet
+E: "Weight" has /eɪ/, like "gate".
+
+Q: Which word rhymes with "come"?
+A: drum
+W: home
+W: comb
+W: dome
+E: "Come" has /ʌ/, like "drum".
+
+Q: Which word rhymes with "climb"?
+A: time
+W: limb
+W: clam
+W: dim
+E: The "b" is silent; "climb" ends in /aɪm/.
+
+Q: Which word rhymes with "bomb"?
+A: from
+W: tomb
+W: comb
+W: womb
+E: "Bomb" is /bɒm/, like "from".
+
+Q: Which word rhymes with "toe"?
+A: snow
+W: two
+W: toy
+W: tea
+E: Both end in /əʊ/.
+
+Q: Which word rhymes with "lose"?
+A: choose
+W: close
+W: those
+W: dose
+E: "Lose" is /luːz/, like "choose".
+
+Q: Which word rhymes with "break"?
+A: make
+W: brick
+W: beak
+W: book
+E: "Break" is /breɪk/.
+
+Q: Which word rhymes with "card"?
+A: hard
+W: cord
+W: curd
+W: code
+E: Both end in /ɑːd/.
+
+Q: Which word rhymes with "honey"?
+A: money
+W: phoney
+W: bony
+W: tiny
+E: "Honey" and "money" both have /ʌ/ in the first syllable.
+
+Q: Which word rhymes with "tear" (to rip)?
+A: bear
+W: deer
+W: tier
+W: tar
+E: "Tear" (rip) is /teə/, like "bear".
+
+Q: Which word rhymes with "tear" (from the eye)?
+A: fear
+W: fair
+W: tar
+W: tore
+E: "Tear" (from the eye) is /tɪə/, like "fear".
+
+@topic eng-conditionals
+
+Q: Choose the option that best completes the sentence: If you heat ice, it ___.
+A: melts
+W: would melt
+W: melted
+W: had melted
+E: The zero conditional states a general truth.
+
+Q: Choose the option that best completes the sentence: If she calls, I ___ you.
+A: will tell
+W: would tell
+W: told
+W: had told
+E: The first conditional uses "will" for a likely future result.
+
+Q: Choose the option that best completes the sentence: If I had a car, I ___ you home.
+A: would drive
+W: will drive
+W: drive
+W: had driven
+E: The second conditional uses "would" for an unreal present situation.
+
+Q: Choose the option that best completes the sentence: If they had left earlier, they ___ the bus.
+A: would have caught
+W: will catch
+W: would catch
+W: caught
+E: The third conditional describes an unreal past.
+
+Q: Choose the option that best completes the sentence: I would buy that house if I ___ rich.
+A: were
+W: am
+W: will be
+W: had
+E: In formal English, "were" is used for all persons in the second conditional.
+
+Q: Choose the option that best completes the sentence: Unless it rains, we ___ the match.
+A: will play
+W: would play
+W: played
+W: had played
+E: "Unless" means "if not" and works like the first conditional.
+
+Q: Choose the option that best completes the sentence: Had I known about the meeting, I ___ attended.
+A: would have
+W: will have
+W: would
+W: had
+E: "Had I known" is a formal way of saying "If I had known".
+
+Q: Choose the option that best completes the sentence: If you mix blue and yellow, you ___ green.
+A: get
+W: would get
+W: got
+W: had got
+E: Zero conditional: a fact that is always true.
+
+Q: Choose the option that best completes the sentence: Were I the principal, I ___ the rule.
+A: would change
+W: will change
+W: changed
+W: change
+E: "Were I" means "If I were".
+
+Q: Choose the option that best completes the sentence: If he ___ harder, he would have passed.
+A: had worked
+W: works
+W: worked
+W: will work
+E: The third conditional uses "had" + past participle in the if-clause.
+
+Q: Choose the option that best completes the sentence: You will miss the bus if you ___ now.
+A: don't leave
+W: won't leave
+W: didn't leave
+W: hadn't left
+E: In the first conditional, the if-clause uses the simple present.
+
+Q: Choose the option that best completes the sentence: If I won the lottery, I ___ a school.
+A: would build
+W: will build
+W: built
+W: had built
+E: An imaginary situation takes the second conditional.
+
+Q: Choose the option that best completes the sentence: She would not have fallen if she ___ careful.
+A: had been
+W: was
+W: is
+W: were being
+E: Third conditional: "had been".
+
+Q: Choose the option that best completes the sentence: Should you need help, ___ me.
+A: call
+W: called
+W: would call
+W: had called
+E: "Should you need" means "If you need"; the result is an instruction.
+
+Q: Choose the option that best completes the sentence: If the generator ___, we would have light.
+A: worked
+W: works
+W: will work
+W: had worked
+E: Second conditional: the if-clause uses the simple past.
+
+Q: Which sentence is a third conditional?
+A: If we had saved money, we would have bought a car.
+W: If we save money, we will buy a car.
+W: If we saved money, we would buy a car.
+W: If you save money, you get interest.
+E: It talks about an imagined past result.
+
+Q: Which sentence is a zero conditional?
+A: If you press this button, the light comes on.
+W: If you pressed it, the light would come on.
+W: If you had pressed it, the light would have come on.
+W: If you press it, the light will come on tomorrow.
+E: Zero conditional: present + present for things that always happen.
+
+Q: Choose the option that best completes the sentence: Provided that you finish your work, you ___ go out.
+A: can
+W: could have
+W: would have
+W: had
+E: "Provided that" introduces a condition for a possible present or future result.
+
+Q: Choose the option that best completes the sentence: If I were you, I ___ that offer.
+A: would accept
+W: will accept
+W: accept
+W: accepted
+E: "If I were you" gives advice using the second conditional.
+
+Q: Choose the option that best completes the sentence: If the rain stops, the children ___ outside.
+A: will play
+W: would have played
+W: played
+W: had played
+E: A likely future result takes "will".
+
+Q: Choose the option that best completes the sentence: If she had taken the medicine, she ___ better now.
+A: would feel
+W: will feel
+W: felt
+W: had felt
+E: A mixed conditional: an unreal past action with a present result.
+
+Q: Choose the option that best completes the sentence: I'll lend you the book as long as you ___ it back.
+A: bring
+W: will bring
+W: brought
+W: would bring
+E: After "as long as", use the simple present for the future.
+
+Q: Choose the option that best completes the sentence: If water ___ below 0 °C, it turns to ice.
+A: cools
+W: would cool
+W: cooled
+W: will have cooled
+E: A scientific fact uses the zero conditional.
+
+Q: Choose the option that best completes the sentence: Suppose you lost your phone, what ___ you do?
+A: would
+W: will
+W: did
+W: had
+E: "Suppose" introduces an imaginary situation, so "would".
+
+@topic eng-word-formation
+
+Q: Which prefix gives "legal" its opposite meaning?
+A: il-
+W: un-
+W: dis-
+W: im-
+E: illegal.
+
+Q: Which prefix gives "regular" its opposite meaning?
+A: ir-
+W: un-
+W: in-
+W: dis-
+E: irregular.
+
+Q: Which prefix gives "honest" its opposite meaning?
+A: dis-
+W: un-
+W: in-
+W: im-
+E: dishonest.
+
+Q: Which prefix gives "visible" its opposite meaning?
+A: in-
+W: un-
+W: dis-
+W: im-
+E: invisible.
+
+Q: Which prefix gives "mature" its opposite meaning?
+A: im-
+W: un-
+W: dis-
+W: in-
+E: immature.
+
+Q: The prefix "anti-" in "antibiotic" means
+A: against
+W: before
+W: again
+W: many
+E: Antibiotics act against bacteria.
+
+Q: The prefix "re-" in "rewrite" means
+A: again
+W: not
+W: before
+W: under
+E: To rewrite is to write again.
+
+Q: The prefix "mis-" in "misunderstand" means
+A: wrongly
+W: again
+W: before
+W: together
+E: To misunderstand is to understand wrongly.
+
+Q: The suffix "-less" in "careless" means
+A: without
+W: full of
+W: able to
+W: one who
+E: Careless means without care.
+
+Q: The suffix "-ful" in "hopeful" means
+A: full of
+W: without
+W: against
+W: before
+E: Hopeful means full of hope.
+
+Q: What is the noun form of "decide"?
+A: decision
+W: decisive
+W: decided
+W: decidement
+E: decide → decision.
+
+Q: What is the noun form of "arrive"?
+A: arrival
+W: arrivement
+W: arriving only
+W: arrivance
+E: arrive → arrival.
+
+Q: What is the adjective form of "beauty"?
+A: beautiful
+W: beautify
+W: beautifully
+W: beautiness
+E: beauty → beautiful.
+
+Q: What is the adverb form of "careful"?
+A: carefully
+W: carefulness
+W: careless
+W: carely
+E: Add -ly to form the adverb.
+
+Q: What is the verb form of "wide"?
+A: widen
+W: width
+W: widely
+W: widish
+E: wide → widen.
+
+Q: What is the noun form of "able"?
+A: ability
+W: ably
+W: enable
+W: unable
+E: able → ability.
+
+Q: What is the noun form of "deep"?
+A: depth
+W: deepness only
+W: deeply
+W: deepen
+E: deep → depth.
+
+Q: What is the verb form of "solution"?
+A: solve
+W: soluble
+W: solvent
+W: solutional
+E: solution → solve.
+
+Q: Which word is formed by compounding?
+A: classroom
+W: unhappy
+W: kindness
+W: quickly
+E: A compound joins two whole words: class + room.
+
+Q: Which suffix forms a noun meaning "a person who" from "teach"?
+A: -er
+W: -ment
+W: -ness
+W: -ly
+E: teach → teacher.
+
+Q: Which word means "a person who studies plants"?
+A: botanist
+W: zoologist
+W: geologist
+W: chemist
+E: The suffix -ist means a person who does or studies something.
+
+Q: The prefix "bi-" in "bicycle" means
+A: two
+W: one
+W: three
+W: many
+E: A bicycle has two wheels.
+
+Q: The prefix "sub-" in "submarine" means
+A: under
+W: over
+W: across
+W: before
+E: A submarine travels under the sea.
+
+Q: What is the adjective form of "nation"?
+A: national
+W: nationally
+W: nationalise
+W: nationhood
+E: nation → national.
+
+@topic eng-idioms
+
+Q: What does "to break the ice" mean?
+A: to start a conversation and make people feel relaxed
+W: to cool a drink
+W: to cause a quarrel
+W: to make a mistake
+E: People "break the ice" at the start of a meeting or party.
+
+Q: What does "to see eye to eye" mean?
+A: to agree completely
+W: to look at each other
+W: to quarrel
+W: to have good eyesight
+E: People who see eye to eye share the same opinion.
+
+Q: What does "to pull someone's leg" mean?
+A: to tease or joke with someone
+W: to injure someone
+W: to help someone stand
+W: to cheat someone
+E: It means to joke playfully.
+
+Q: What does "to be in hot water" mean?
+A: to be in trouble
+W: to be bathing
+W: to be ill
+W: to be very happy
+E: Someone in hot water faces punishment or difficulty.
+
+Q: What does "to cry over spilt milk" mean?
+A: to complain about something that cannot be changed
+W: to waste food
+W: to be sad about milk
+W: to clean up a mess
+E: It means regretting what is already done.
+
+Q: What does "a blessing in disguise" mean?
+A: something that seems bad but turns out good
+W: a hidden gift
+W: a religious ceremony
+W: a disguised visitor
+E: An apparent misfortune that brings benefit.
+
+Q: What does "to call it a day" mean?
+A: to stop working for the day
+W: to name a day
+W: to begin a new task
+W: to telephone someone
+E: People call it a day when they decide to stop.
+
+Q: What does "the ball is in your court" mean?
+A: it is your turn to decide or act
+W: you have won the match
+W: you must play tennis
+W: you have lost the ball
+E: The next move is yours.
+
+Q: What does "to add fuel to the fire" mean?
+A: to make a bad situation worse
+W: to cook faster
+W: to calm people down
+W: to help someone
+E: It means making a quarrel or problem more serious.
+
+Q: What does "to take something with a pinch of salt" mean?
+A: not to believe it completely
+W: to add salt to food
+W: to take it seriously
+W: to steal it
+E: It means to be doubtful about what you hear.
+
+Q: What does "to be over the moon" mean?
+A: to be extremely happy
+W: to travel in space
+W: to be confused
+W: to be very tired
+E: It means delighted.
+
+Q: What does "to have a chip on one's shoulder" mean?
+A: to hold a grudge or feel resentful
+W: to have an injury
+W: to be very proud
+W: to carry a heavy load
+E: Such a person easily feels unfairly treated.
+
+Q: What does "to keep an eye on" something mean?
+A: to watch over it carefully
+W: to ignore it
+W: to close one eye
+W: to buy it
+E: It means to look after or monitor.
+
+Q: What does "to go the extra mile" mean?
+A: to make more effort than expected
+W: to travel far
+W: to run a race
+W: to waste time
+E: People who go the extra mile do more than is required.
+
+Q: What does "under the weather" mean?
+A: slightly ill
+W: in the rain
+W: very happy
+W: in danger
+E: Someone under the weather feels unwell.
+
+Q: What does "to spill the beans" mean?
+A: to reveal a secret
+W: to waste food
+W: to cook badly
+W: to make a mess
+E: It means to tell something that was meant to be hidden.
+
+Q: What does "a dark horse" mean?
+A: a person with hidden abilities who surprises others
+W: a black animal
+W: a wicked person
+W: a lazy worker
+E: A dark horse unexpectedly succeeds.
+
+Q: What does "to bite the dust" mean?
+A: to fail or be defeated
+W: to eat quickly
+W: to sweep the floor
+W: to start a journey
+E: It means to fall, fail or die.
+
+@topic eng-prepositions
+
+Q: Choose the option that best completes the sentence: She has been living here ___ five years.
+A: for
+W: since
+W: from
+W: during
+E: "For" is used with a length of time.
+
+Q: Choose the option that best completes the sentence: The students are interested ___ science.
+A: in
+W: on
+W: at
+W: about
+E: We are "interested in" something.
+
+Q: Choose the option that best completes the sentence: He is afraid ___ dogs.
+A: of
+W: from
+W: with
+W: about
+E: "Afraid of" is the fixed pattern.
+
+Q: Choose the option that best completes the sentence: I agree ___ you on this matter.
+A: with
+W: to
+W: on
+W: at
+E: We agree "with" a person.
+
+Q: Choose the option that best completes the sentence: We agreed ___ the plan.
+A: to
+W: with
+W: in
+W: at
+E: We agree "to" a plan or proposal.
+
+Q: Choose the option that best completes the sentence: The meeting will hold ___ Monday.
+A: on
+W: in
+W: at
+W: by
+E: Use "on" with days.
+
+Q: Choose the option that best completes the sentence: The train leaves ___ 6 o'clock.
+A: at
+W: on
+W: in
+W: by
+E: Use "at" with clock times.
+
+Q: Choose the option that best completes the sentence: Nigeria gained independence ___ 1960.
+A: in
+W: on
+W: at
+W: by
+E: Use "in" with years.
+
+Q: Choose the option that best completes the sentence: The principal insisted ___ seeing the parents.
+A: on
+W: in
+W: at
+W: for
+E: "Insist on" is the correct pattern.
+
+Q: Choose the option that best completes the sentence: She prefers tea ___ coffee.
+A: to
+W: than
+W: from
+W: over than
+E: "Prefer A to B" is standard British English.
+
+Q: Choose the option that best completes the sentence: The fire was put ___ quickly.
+A: out
+W: off
+W: up
+W: down
+E: To "put out" a fire is to extinguish it.
+
+Q: Choose the option that best completes the sentence: Please don't give ___; keep trying.
+A: up
+W: out
+W: in
+W: off
+E: To "give up" is to stop trying.
+
+Q: Choose the option that best completes the sentence: The plane took ___ on time.
+A: off
+W: up
+W: out
+W: over
+E: Aircraft "take off" when they leave the ground.
+
+Q: Choose the option that best completes the sentence: I ran ___ an old friend at the market.
+A: into
+W: over
+W: off
+W: up
+E: To "run into" someone is to meet them by chance.
+
+Q: Choose the option that best completes the sentence: The thief made ___ with the money.
+A: off
+W: up
+W: out
+W: in
+E: To "make off with" means to escape with stolen things.
+
+Q: Choose the option that best completes the sentence: We must look ___ ways to save water.
+A: for
+W: at
+W: after
+W: on
+E: To "look for" is to search.
+
+Q: Choose the option that best completes the sentence: The two brothers take ___ their father.
+A: after
+W: up
+W: on
+W: over
+E: To "take after" is to resemble a parent.
+
+Q: Choose the option that best completes the sentence: The bomb went ___ in the market.
+A: off
+W: out
+W: on
+W: up
+E: A bomb "goes off" when it explodes.
+
+Q: Choose the option that best completes the sentence: She was ashamed ___ her behaviour.
+A: of
+W: with
+W: from
+W: about to
+E: "Ashamed of" is the fixed pattern.
+
+Q: Choose the option that best completes the sentence: The book is divided ___ ten chapters.
+A: into
+W: in
+W: to
+W: with
+E: Things are divided "into" parts.
+
+@topic eng-question-tags
+
+Q: Choose the correct question tag: He is your brother, ___?
+A: isn't he
+W: is he
+W: doesn't he
+W: wasn't he
+E: A positive statement takes a negative tag.
+
+Q: Choose the correct question tag: You haven't eaten, ___?
+A: have you
+W: haven't you
+W: did you
+W: do you
+E: A negative statement takes a positive tag.
+
+Q: Choose the correct question tag: She likes rice, ___?
+A: doesn't she
+W: isn't she
+W: does she
+W: didn't she
+E: "Likes" is simple present, so use "doesn't".
+
+Q: Choose the correct question tag: I am late, ___?
+A: aren't I
+W: amn't I
+W: am I
+W: isn't it
+E: The standard tag for "I am" is "aren't I".
+
+Q: Choose the correct question tag: Close the window, ___?
+A: will you
+W: do you
+W: don't you
+W: are you
+E: Imperatives often take "will you".
+
+Q: Choose the correct question tag: There is a problem, ___?
+A: isn't there
+W: isn't it
+W: is there
+W: doesn't it
+E: The tag repeats "there".
+
+Q: Choose the correct question tag: Everyone was happy, ___?
+A: weren't they
+W: wasn't he
+W: wasn't it
+W: were they
+E: "Everyone" takes "they" in tags.
+
+Q: Choose the correct question tag: You will help me, ___?
+A: won't you
+W: will you not ever
+W: don't you
+W: shall you
+E: "Will" becomes "won't".
+
+Q: Choose the correct question tag: They had finished, ___?
+A: hadn't they
+W: didn't they
+W: haven't they
+W: had they
+E: The auxiliary "had" is repeated in the negative.
+
+Q: Choose the correct question tag: He seldom comes late, ___?
+A: does he
+W: doesn't he
+W: is he
+W: isn't he
+E: "Seldom" is negative in meaning, so the tag is positive.
+
+Q: Choose the correct question tag: She hardly ever speaks, ___?
+A: does she
+W: doesn't she
+W: is she
+W: did she
+E: "Hardly ever" is negative in meaning.
+
+Q: Choose the correct question tag: Nothing happened, ___?
+A: did it
+W: didn't it
+W: did they
+W: has it
+E: "Nothing" is negative and takes "it".
+
+Q: Choose the correct question tag: You can drive, ___?
+A: can't you
+W: can you
+W: don't you
+W: couldn't you
+E: "Can" becomes "can't".
+
+Q: Choose the correct question tag: We should leave now, ___?
+A: shouldn't we
+W: should we
+W: don't we
+W: won't we
+E: Repeat "should" in the negative.
+
+Q: Choose the correct question tag: The children aren't asleep, ___?
+A: are they
+W: aren't they
+W: do they
+W: is it
+E: A negative statement takes a positive tag.
+
+Q: Choose the correct question tag: He used to live here, ___?
+A: didn't he
+W: usedn't he
+W: wasn't he
+W: doesn't he
+E: "Used to" usually takes "didn't" in tags.
+
+Q: Choose the correct question tag: Ada owns a car, ___?
+A: doesn't she
+W: isn't she
+W: didn't she
+W: does she
+E: "Owns" is simple present, so the tag is "doesn't she".
+
+Q: Choose the correct question tag: Let us go home, ___?
+A: will you
+W: shall we
+W: won't we
+W: do we
+E: "Let us" asking permission takes "will you"; "Let's" (suggestion) takes "shall we".
+
+Q: Choose the correct question tag: No one came, ___?
+A: did they
+W: didn't they
+W: did he
+W: came they
+E: "No one" is negative and takes "they".
+
+Q: Choose the correct question tag: It rained yesterday, ___?
+A: didn't it
+W: did it
+W: wasn't it
+W: doesn't it
+E: Simple past positive takes "didn't".
+
+Q: Choose the correct question tag: You must be tired, ___?
+A: aren't you
+W: mustn't you
+W: don't you
+W: must you
+E: When "must" shows assumption, the tag uses the main verb "be".
+
+Q: Choose the correct question tag: Someone has taken my pen, ___?
+A: haven't they
+W: hasn't he
+W: hasn't it
+W: have they
+E: "Someone" takes "they" in tags.
+
+Q: Choose the correct question tag: She would come, ___?
+A: wouldn't she
+W: would she
+W: won't she
+W: didn't she
+E: Repeat "would" in the negative.
+
+Q: Choose the correct question tag: Don't forget the keys, ___?
+A: will you
+W: won't you
+W: do you
+W: don't you
+E: A negative imperative takes "will you".
+
+@topic eng-clauses
+
+Q: In the sentence "The man who lives next door is a pilot", the words "who lives next door" are
+A: an adjectival (relative) clause
+W: an adverbial clause
+W: a noun clause
+W: a main clause
+E: It describes "the man".
+
+Q: In "I will wait until you return", "until you return" is
+A: an adverbial clause of time
+W: a noun clause
+W: an adjectival clause
+W: a phrase
+E: It tells us when.
+
+Q: In "What she said surprised everyone", "What she said" is
+A: a noun clause
+W: an adverbial clause
+W: an adjectival clause
+W: a prepositional phrase
+E: It acts as the subject.
+
+Q: In "She stayed at home because she was ill", the clause "because she was ill" shows
+A: reason
+W: time
+W: place
+W: purpose
+E: "Because" introduces a clause of reason.
+
+Q: In "Although he was tired, he finished the job", the first clause shows
+A: concession (contrast)
+W: reason
+W: time
+W: purpose
+E: "Although" shows contrast.
+
+Q: Which of the following is a phrase, not a clause?
+A: in the morning
+W: when she came
+W: he ran
+W: because it rained
+E: A phrase has no subject and finite verb.
+
+Q: "On the table" is a
+A: prepositional phrase
+W: noun clause
+W: adverbial clause
+W: verb phrase
+E: It begins with the preposition "on".
+
+Q: In "I know that he is honest", "that he is honest" is
+A: a noun clause, object of "know"
+W: an adverbial clause
+W: an adjectival clause
+W: a main clause
+E: It answers "know what?".
+
+Q: In "Put it where I can see it", the clause "where I can see it" is an adverbial clause of
+A: place
+W: time
+W: manner
+W: reason
+E: "Where" introduces place.
+
+Q: In "He spoke as if he were the boss", the clause shows
+A: manner
+W: time
+W: reason
+W: condition
+E: "As if" tells us how he spoke.
+
+Q: In "She saved money so that she could buy a laptop", the clause shows
+A: purpose
+W: result
+W: reason
+W: time
+E: "So that" introduces purpose.
+
+Q: In "He was so tired that he fell asleep", the clause "that he fell asleep" shows
+A: result
+W: purpose
+W: reason
+W: condition
+E: "So ... that" shows result.
+
+Q: A clause that can stand alone as a sentence is a
+A: main (independent) clause
+W: subordinate clause
+W: phrase
+W: noun clause only
+E: It expresses a complete thought.
+
+Q: Which word introduces a subordinate clause?
+A: because
+W: and
+W: but
+W: or
+E: "Because" is a subordinating conjunction; the others are coordinating.
+
+Q: In "The book that I borrowed is missing", the relative pronoun is
+A: that
+W: book
+W: borrowed
+W: missing
+E: "That" introduces the relative clause.
+
+Q: "Running fast" in "Running fast, he caught the bus" is
+A: a participial phrase
+W: a noun clause
+W: a main clause
+W: an adverbial clause
+E: It begins with a participle and has no finite verb.
+
+Q: In "Whoever wins will get a prize", "Whoever wins" functions as
+A: the subject
+W: the object
+W: the complement
+W: an adverbial
+E: The whole noun clause is the subject.
+
+Q: In "I wonder whether he will come", "whether he will come" is
+A: a noun clause
+W: an adjectival clause
+W: an adverbial clause of time
+W: a phrase
+E: It is the object of "wonder".
+
+Q: In "If you study, you will pass", "If you study" is an adverbial clause of
+A: condition
+W: reason
+W: time
+W: place
+E: "If" introduces condition.
+
+Q: Which sentence contains an adjectival clause?
+A: The girl whose bag was stolen reported it.
+W: She left when it rained.
+W: I know that she left.
+W: She left quickly.
+E: "Whose bag was stolen" describes the girl.
+
+Q: The function of the noun clause in "My hope is that you succeed" is
+A: complement
+W: subject
+W: object
+W: adverbial
+E: It completes "is".
+
+Q: In "As soon as the bell rang, we left", the clause shows
+A: time
+W: reason
+W: purpose
+W: contrast
+E: "As soon as" introduces time.
+
+Q: "A very old man" is a
+A: noun phrase
+W: verb phrase
+W: clause
+W: prepositional phrase
+E: Its head word is the noun "man".
+
+Q: In "She has been working", the verb phrase is
+A: has been working
+W: she has
+W: been
+W: working only
+E: The auxiliaries and main verb make the verb phrase.
+
+@topic eng-reported
+
+Q: Choose the correct reported form: She said, "I am hungry."
+A: She said that she was hungry.
+W: She said that I am hungry.
+W: She said that she is hungry yesterday.
+W: She said she will be hungry.
+E: "Am" becomes "was" and "I" becomes "she".
+
+Q: Choose the correct reported form: She said, "I will come tomorrow."
+A: She said that she would come the next day.
+W: She said that she will come tomorrow.
+W: She said that I will come tomorrow.
+W: She said that she would came tomorrow.
+E: "Will" becomes "would" and "tomorrow" becomes "the next day".
+
+Q: Choose the correct reported form: "Where do you live?" he asked me.
+A: He asked me where I lived.
+W: He asked me where did I live.
+W: He asked me where do you live.
+W: He asked where I live me.
+E: Reported questions use statement word order and backshift.
+
+Q: Choose the correct reported form: "Are you ready?" she asked.
+A: She asked if I was ready.
+W: She asked am I ready.
+W: She asked that I was ready.
+W: She asked were you ready.
+E: Yes/no questions are reported with "if" or "whether".
+
+Q: Choose the correct reported form: "Close the door," the teacher told me.
+A: The teacher told me to close the door.
+W: The teacher told me that close the door.
+W: The teacher told me closing the door.
+W: The teacher told me I close the door.
+E: Commands are reported with "told ... to".
+
+Q: Choose the correct reported form: "Don't shout," Mother said to us.
+A: Mother told us not to shout.
+W: Mother told us don't shout.
+W: Mother told us to not shouting.
+W: Mother said us not shout.
+E: Negative commands use "not to".
+
+Q: Choose the correct reported form: He said, "I have finished my work."
+A: He said that he had finished his work.
+W: He said that he has finished my work.
+W: He said that I had finished my work.
+W: He said he finished his work tomorrow.
+E: Present perfect becomes past perfect.
+
+Q: Choose the correct reported form: She said, "I bought this dress yesterday."
+A: She said that she had bought that dress the day before.
+W: She said that she bought this dress yesterday.
+W: She said she has bought this dress yesterday.
+W: She said that I bought that dress.
+E: "Yesterday" → "the day before"; "this" → "that".
+
+Q: Choose the correct reported form: "I can swim," said Uche.
+A: Uche said that he could swim.
+W: Uche said that he can swam.
+W: Uche said that I could swim.
+W: Uche said he will swim.
+E: "Can" becomes "could".
+
+Q: Choose the correct reported form: "We are leaving now," they said.
+A: They said that they were leaving then.
+W: They said that we are leaving now.
+W: They said that they leave now.
+W: They said they were leaving tomorrow.
+E: "Now" becomes "then".
+
+Q: Choose the correct reported form: "What are you doing?" Dad asked.
+A: Dad asked what I was doing.
+W: Dad asked what was I doing.
+W: Dad asked what are you doing.
+W: Dad asked that what I was doing.
+E: Use statement order: "what I was doing".
+
+Q: Choose the correct reported form: He said, "The earth goes round the sun."
+A: He said that the earth goes round the sun.
+W: He said that the earth went round the moon.
+W: He said that the earth had gone round the sun.
+W: He said the earth will go round the sun.
+E: Permanent facts can keep the present tense.
+
+Q: Choose the correct direct form: She told me that she was hungry.
+A: "I am hungry," she told me.
+W: "She is hungry," she told me.
+W: "You are hungry," she told me.
+W: "I was hungry yesterday," she told me.
+E: Changing back gives "I am hungry".
+
+Q: Choose the correct reported form: "Let's go to the beach," said Emeka.
+A: Emeka suggested that we go to the beach.
+W: Emeka said let's go to the beach.
+W: Emeka suggested to going the beach.
+W: Emeka told that we went beach.
+E: "Let's" is reported with "suggested".
+
+Q: Choose the correct reported form: "Please help me," she said to him.
+A: She asked him to help her.
+W: She told him please help me.
+W: She asked him helping her.
+W: She said him to help her.
+E: Requests are reported with "asked ... to".
+
+Q: Choose the correct reported form: He said, "I may be late."
+A: He said that he might be late.
+W: He said that he may late.
+W: He said that I might be late.
+W: He said he will be late.
+E: "May" becomes "might".
+
+Q: Choose the correct reported form: "Have you seen my book?" she asked.
+A: She asked whether I had seen her book.
+W: She asked have I seen her book.
+W: She asked whether I have seen my book.
+W: She asked that I had seen her book.
+E: Present perfect becomes past perfect in reported questions.
+
+Q: Choose the correct reported form: "I must go," he said.
+A: He said that he had to go.
+W: He said that he must went.
+W: He said that I must go.
+W: He said he musted go.
+E: "Must" can become "had to".
+
+Q: Choose the correct reported form: "I live here," said the old man.
+A: The old man said that he lived there.
+W: The old man said that he lives here.
+W: The old man said that I lived here.
+W: The old man said he had live there.
+E: "Here" becomes "there".
+
+Q: Choose the correct reported form: "Thank you," she said to me.
+A: She thanked me.
+W: She said thank you to me that.
+W: She told me thanks.
+W: She thanked to me.
+E: Greetings and thanks are reported with a suitable verb.
+
+Q: Choose the correct reported form: "How old are you?" the nurse asked Bisi.
+A: The nurse asked Bisi how old she was.
+W: The nurse asked Bisi how old was she.
+W: The nurse asked Bisi how old are you.
+W: The nurse asked that Bisi how old she was.
+E: Statement order and backshift: "how old she was".
+
+Q: Choose the correct reported form: He said, "I was ill last week."
+A: He said that he had been ill the previous week.
+W: He said that he was ill last week.
+W: He said that I was ill last week.
+W: He said he is ill the week before.
+E: Past simple → past perfect; "last week" → "the previous week".
+
+Q: Choose the correct reported form: "Shall I open the window?" he asked.
+A: He offered to open the window.
+W: He asked shall he open the window.
+W: He said that I shall open the window.
+W: He asked to opening the window.
+E: An offer is reported with "offered to".
+
+Q: Choose the correct reported form: "Be quiet!" the teacher shouted.
+A: The teacher shouted at us to be quiet.
+W: The teacher shouted be quiet.
+W: The teacher shouted that we are quiet.
+W: The teacher shouted us being quiet.
+E: A command is reported with "to" + verb.
+
+@topic eng-voice
+
+Q: Choose the passive form: The cat chased the rat.
+A: The rat was chased by the cat.
+W: The rat chased the cat.
+W: The rat is chased by the cat.
+W: The cat was chased by the rat.
+E: The object becomes the subject; "chased" → "was chased".
+
+Q: Choose the passive form: They are building a new hospital.
+A: A new hospital is being built.
+W: A new hospital was built by them.
+W: A new hospital has been building.
+W: They are being built a new hospital.
+E: Present continuous passive: is being + past participle.
+
+Q: Choose the passive form: Someone has stolen my phone.
+A: My phone has been stolen.
+W: My phone was stealing.
+W: My phone has stolen.
+W: Someone has been stolen my phone.
+E: Present perfect passive: has been + past participle.
+
+Q: Choose the passive form: The teacher will mark the scripts.
+A: The scripts will be marked by the teacher.
+W: The scripts would mark the teacher.
+W: The scripts will mark by the teacher.
+W: The teacher will be marked by the scripts.
+E: Future passive: will be + past participle.
+
+Q: Choose the active form: The letter was written by Amina.
+A: Amina wrote the letter.
+W: The letter wrote Amina.
+W: Amina was writing the letter.
+W: Amina has written the letter.
+E: The agent "Amina" becomes the subject.
+
+Q: Choose the passive form: People speak English in Ghana.
+A: English is spoken in Ghana.
+W: English was spoken by people in Ghana.
+W: English speaks in Ghana.
+W: People are spoken English in Ghana.
+E: "By people" is usually left out because it is obvious.
+
+Q: Choose the passive form: The police arrested the thieves.
+A: The thieves were arrested by the police.
+W: The thieves was arrested by the police.
+W: The thieves arrested the police.
+W: The police were arrested by the thieves.
+E: "Thieves" is plural, so "were arrested".
+
+Q: Choose the passive form: You must wear a helmet.
+A: A helmet must be worn.
+W: A helmet must wear.
+W: A helmet must be wore.
+W: You must be worn a helmet.
+E: Modal passive: must be + past participle.
+
+Q: Choose the passive form: The farmer was feeding the goats.
+A: The goats were being fed by the farmer.
+W: The goats were fed the farmer.
+W: The goats are being fed by the farmer.
+W: The goats had fed the farmer.
+E: Past continuous passive: were being + past participle.
+
+Q: Which sentence is in the passive voice?
+A: The match was cancelled.
+W: They cancelled the match.
+W: The players cancelled the match.
+W: We will cancel the match.
+E: The subject receives the action.
+
+Q: Which sentence is in the active voice?
+A: The chef cooked the meal.
+W: The meal was cooked by the chef.
+W: The meal is being cooked.
+W: The meal has been cooked.
+E: The subject does the action.
+
+Q: Choose the passive form: They had finished the work before noon.
+A: The work had been finished before noon.
+W: The work has finished before noon.
+W: The work was finishing before noon.
+W: They had been finished the work.
+E: Past perfect passive: had been + past participle.
+
+Q: Choose the passive form: Who broke the glass?
+A: By whom was the glass broken?
+W: Who was broken the glass?
+W: Whom broke the glass?
+W: The glass broke who?
+E: A question about the agent uses "by whom".
+
+Q: Choose the passive form: Mother gave me a present.
+A: I was given a present by Mother.
+W: I gave a present by Mother.
+W: A present gave me by Mother.
+W: I was give a present by Mother.
+E: The indirect object can become the subject.
+
+Q: Choose the passive form: The government is repairing the roads.
+A: The roads are being repaired by the government.
+W: The roads is being repaired by the government.
+W: The roads were repaired by the government.
+W: The government is being repaired by the roads.
+E: "Roads" is plural: are being repaired.
+
+Q: Choose the passive form: Somebody should clean this room.
+A: This room should be cleaned.
+W: This room should clean.
+W: This room should be clean by somebody.
+W: Somebody should be cleaned this room.
+E: should be + past participle.
+
+Q: Why is the passive voice often used in science reports?
+A: the action matters more than who did it
+W: it is always shorter
+W: it hides the result
+W: it uses fewer verbs
+E: E.g. "The solution was heated" focuses on the process.
+
+Q: Choose the active form: The exam is being written by the students.
+A: The students are writing the exam.
+W: The students were writing the exam.
+W: The exam writes the students.
+W: The students wrote the exam.
+E: Present continuous active: are writing.
+
+Q: Choose the passive form: They will announce the results tomorrow.
+A: The results will be announced tomorrow.
+W: The results will announce tomorrow.
+W: The results would be announced yesterday.
+W: They will be announced the results tomorrow.
+E: will be + past participle.
+
+Q: Choose the passive form: The storm destroyed many houses.
+A: Many houses were destroyed by the storm.
+W: Many houses was destroyed by the storm.
+W: Many houses destroyed the storm.
+W: The storm was destroyed by many houses.
+E: Plural subject "houses" takes "were".
+
+Q: Choose the passive form: Someone is following us.
+A: We are being followed.
+W: We are following.
+W: We were followed by someone yesterday.
+W: Us are being followed.
+E: Present continuous passive with "we".
+
+Q: Choose the passive form: The doctor has examined the patient.
+A: The patient has been examined by the doctor.
+W: The patient has examined the doctor.
+W: The patient was examining by the doctor.
+W: The doctor has been examined by the patient.
+E: Present perfect passive.
+
+Q: Choose the passive form: Ngozi can solve the problem.
+A: The problem can be solved by Ngozi.
+W: The problem can solve by Ngozi.
+W: The problem could solved Ngozi.
+W: Ngozi can be solved by the problem.
+E: can be + past participle.
+
+Q: Choose the passive form: They sell fresh fish here.
+A: Fresh fish is sold here.
+W: Fresh fish sells here by them.
+W: Fresh fish was selling here.
+W: They are sold fresh fish here.
+E: Simple present passive: is sold.
+
+@topic eng-stress
+
+Q: Which syllable is stressed in "teacher"?
+A: the first: TEAcher
+W: the second: teaCHER
+W: both equally
+W: neither
+E: Most two-syllable nouns are stressed on the first syllable.
+
+Q: Which syllable is stressed in "begin"?
+A: the second: beGIN
+W: the first: BEgin
+W: both equally
+W: neither
+E: Many two-syllable verbs are stressed on the second syllable.
+
+Q: Which syllable is stressed in "photograph"?
+A: the first: PHOtograph
+W: the second: phoTOgraph
+W: the third: photoGRAPH
+W: none
+E: PHO-to-graph.
+
+Q: Which syllable is stressed in "photographer"?
+A: the second: phoTOgrapher
+W: the first: PHOtographer
+W: the third: photoGRApher
+W: the last: photographER
+E: pho-TO-gra-pher.
+
+Q: Which syllable is stressed in "education"?
+A: the third: eduCAtion
+W: the first: EDucation
+W: the second: eDUcation
+W: the last: educaTION
+E: Words ending in -tion are stressed on the syllable before it.
+
+Q: Which syllable is stressed in "comfortable"?
+A: the first: COMfortable
+W: the second: comFORtable
+W: the third: comforTAble
+W: the last: comfortaBLE
+E: COM-for-ta-ble.
+
+Q: When "record" is a noun, the stress falls on
+A: the first syllable: REcord
+W: the second syllable: reCORD
+W: both syllables
+W: neither syllable
+E: Nouns like REcord are stressed on the first syllable.
+
+Q: When "record" is a verb, the stress falls on
+A: the second syllable: reCORD
+W: the first syllable: REcord
+W: both syllables
+W: neither syllable
+E: Verbs like reCORD are stressed on the second syllable.
+
+Q: When "present" means "to give formally", the stress is on
+A: the second syllable: preSENT
+W: the first syllable: PREsent
+W: both syllables
+W: neither
+E: As a verb it is preSENT.
+
+Q: When "export" is a noun, the stress is on
+A: the first syllable: EXport
+W: the second syllable: exPORT
+W: both syllables
+W: neither
+E: Noun: EXport; verb: exPORT.
+
+Q: Which word is stressed on the first syllable?
+A: garden
+W: begin
+W: allow
+W: today
+E: GAR-den.
+
+Q: Which word is stressed on the second syllable?
+A: hotel
+W: table
+W: water
+W: monkey
+E: ho-TEL.
+
+Q: Which syllable is stressed in "important"?
+A: the second: imPORtant
+W: the first: IMportant
+W: the third: imporTANT
+W: none
+E: im-POR-tant.
+
+Q: Which syllable is stressed in "understand"?
+A: the third: underSTAND
+W: the first: UNderstand
+W: the second: unDERstand
+W: none
+E: un-der-STAND.
+
+Q: Which syllable is stressed in "economy"?
+A: the second: eCOnomy
+W: the first: Economy
+W: the third: ecoNOmy
+W: the last: economY
+E: e-CO-no-my.
+
+Q: Which syllable is stressed in "economic"?
+A: the third: ecoNOmic
+W: the first: Economic
+W: the second: eCOnomic
+W: the last: economIC
+E: Words ending in -ic are stressed just before it: e-co-NO-mic.
+
+Q: Which word has the stress on the third syllable?
+A: introduction
+W: calendar
+W: banana
+W: tomorrow
+E: in-tro-DUC-tion.
+
+Q: Which word has the stress on the second syllable?
+A: banana
+W: elephant
+W: furniture
+W: hospital
+E: ba-NA-na.
+
+Q: Which word has the stress on the first syllable?
+A: elephant
+W: computer
+W: Abuja
+W: forget
+E: E-le-phant.
+
+Q: Which syllable is stressed in "decide"?
+A: the second: deCIDE
+W: the first: DEcide
+W: both
+W: neither
+E: de-CIDE.
+
+Q: Which syllable is stressed in "decision"?
+A: the second: deCIsion
+W: the first: DEcision
+W: the third: deciSION
+W: none
+E: Words ending in -sion are stressed before it.
+
+Q: Which syllable is stressed in "photographic"?
+A: the third: photoGRAphic
+W: the first: PHOtographic
+W: the second: phoTOgraphic
+W: the last: photograPHIC
+E: -ic words stress the syllable before -ic.
+
+Q: Which word is stressed on the last syllable?
+A: guarantee
+W: generous
+W: government
+W: family
+E: gua-ran-TEE.
+
+Q: Which word is stressed on the first syllable?
+A: interesting
+W: interrupt
+W: international
+W: introduce
+E: IN-te-res-ting.
+
+@topic eng-writing
+
+Q: In a formal letter, the writer's address is placed
+A: at the top right-hand corner
+W: at the bottom left
+W: after the closing
+W: in the middle of the body
+E: The writer's address and date go at the top right in the traditional format.
+
+Q: The receiver's address appears in
+A: a formal letter only
+W: an informal letter only
+W: both formal and informal letters
+W: neither
+E: Informal letters do not include the receiver's address.
+
+Q: A suitable salutation for a letter to a principal you do not know personally is
+A: Dear Sir,
+W: Dear Bola,
+W: Hi Principal!
+W: My dear friend,
+E: Formal letters use "Dear Sir" or "Dear Madam".
+
+Q: A formal letter that begins "Dear Sir" ends with
+A: Yours faithfully,
+W: Yours sincerely,
+W: Your loving friend,
+W: Cheers,
+E: "Dear Sir/Madam" pairs with "Yours faithfully".
+
+Q: A formal letter that begins "Dear Mr Okeke" usually ends with
+A: Yours sincerely,
+W: Yours faithfully,
+W: Your loving son,
+W: Bye for now,
+E: When you use the person's name, close with "Yours sincerely".
+
+Q: The heading (title) of a formal letter is usually placed
+A: after the salutation
+W: before the writer's address
+W: at the end
+W: in the signature
+E: The heading states the subject just below "Dear Sir".
+
+Q: Which of these is suitable for an informal letter?
+A: a friendly, conversational tone
+W: a heading in capital letters
+W: the receiver's full address
+W: "Yours faithfully"
+E: Informal letters to friends and family are relaxed in tone.
+
+Q: An essay that tells a story is called
+A: a narrative essay
+W: an argumentative essay
+W: an expository essay
+W: a descriptive essay
+E: Narrative essays recount events.
+
+Q: An essay that gives the writer's view and supports it with reasons is
+A: an argumentative essay
+W: a narrative essay
+W: a descriptive essay
+W: a letter
+E: It argues for or against a point.
+
+Q: An essay that explains how something works is
+A: an expository essay
+W: a narrative essay
+W: a descriptive essay
+W: an informal letter
+E: Expository essays inform and explain.
+
+Q: An essay that paints a picture of a place or person is
+A: a descriptive essay
+W: an argumentative essay
+W: an expository essay
+W: a speech
+E: Descriptive writing appeals to the senses.
+
+Q: A good paragraph usually begins with
+A: a topic sentence
+W: a conclusion
+W: a list of names
+W: the signature
+E: The topic sentence states the main idea.
+
+Q: In a speech, the opening normally includes
+A: a greeting of the audience and the topic
+W: the signature
+W: the receiver's address
+W: "Yours faithfully"
+E: Speakers recognise the audience and introduce the subject.
+
+Q: An article for a school magazine should have
+A: a title and the writer's name
+W: the receiver's address
+W: "Yours faithfully"
+W: a date at the bottom right only
+E: Articles carry a headline and a byline.
+
+Q: The conclusion of an essay should
+A: sum up the main points
+W: introduce a completely new topic
+W: repeat the title only
+W: list the writer's address
+E: A conclusion brings the essay to a clear end.
+
+Q: Which of these is a good way to make an argument convincing?
+A: give reasons and examples
+W: repeat the same sentence
+W: use slang throughout
+W: avoid any evidence
+E: Evidence and examples persuade readers.
+
+Q: A report on an event should be written mainly in the
+A: past tense
+W: future tense
+W: imperative mood
+W: conditional
+E: Reports describe what happened.
+
+Q: Which is a suitable closing for a letter to your mother?
+A: Your loving son,
+W: Yours faithfully,
+W: Yours obediently, Sir,
+W: Respectfully submitted,
+E: Informal letters use warm closings.
+
+Q: Which salutation suits a letter to the editor of a newspaper?
+A: Dear Sir,
+W: Hello Editor!
+W: My dear,
+W: Dear Ada,
+E: Letters to editors are formal.
+
+Q: In which type of writing should you avoid contractions such as "don't"?
+A: formal writing
+W: informal letters
+W: text messages
+W: dialogue in a story
+E: Formal writing uses full forms such as "do not".
+
+Q: A semi-formal letter is written to
+A: someone you know but respect, such as a teacher or neighbour
+W: a newspaper editor only
+W: a government office only
+W: your best friend only
+E: It mixes politeness with some familiarity.
+
+Q: Which of these words would you use to add a point in an essay?
+A: furthermore
+W: however
+W: although
+W: nevertheless
+E: "Furthermore" introduces an additional point.
+
+Q: Which linking word shows contrast?
+A: however
+W: moreover
+W: firstly
+W: in addition
+E: "However" introduces an opposite idea.
+
+Q: The date in a letter is written
+A: below the writer's address
+W: before the salutation in the body
+W: after the signature
+W: in the heading only
+E: It goes directly under the writer's address.
+
+@topic eng-emphatic
+
+Q: In "Tunde PAINTED the house", which question is answered?
+A: Did Tunde build the house?
+W: Who painted the house?
+W: What did Tunde paint?
+W: When did Tunde paint the house?
+E: Stressing "painted" contrasts it with another action.
+
+Q: In "Tunde painted the HOUSE", which question is answered?
+A: Did Tunde paint the fence?
+W: Who painted the house?
+W: Did Tunde build the house?
+W: Where did Tunde go?
+E: Stress on "house" contrasts it with another object.
+
+Q: In "TUNDE painted the house", which question is answered?
+A: Did Bayo paint the house?
+W: Did Tunde build the house?
+W: Did Tunde paint the fence?
+W: When was the house painted?
+E: Stress on the subject answers "who?".
+
+Q: In "My SISTER lives in Jos", which question is answered?
+A: Does your brother live in Jos?
+W: Does your sister live in Kano?
+W: Does your sister work in Jos?
+W: Where does your sister live?
+E: Stress on "sister" contrasts her with another person.
+
+Q: In "My sister lives in JOS", which question is answered?
+A: Does your sister live in Kano?
+W: Does your brother live in Jos?
+W: Does your sister work in Jos?
+W: Who lives in Jos?
+E: Stress on "Jos" contrasts the place.
+
+Q: In "My sister LIVES in Jos", which question is answered?
+A: Does your sister work in Jos?
+W: Does your brother live in Jos?
+W: Does your sister live in Kano?
+W: Who lives in Jos?
+E: Stress on "lives" contrasts the verb.
+
+Q: In "The meeting is on FRIDAY", which question is answered?
+A: Is the meeting on Thursday?
+W: Is the party on Friday?
+W: Where is the meeting?
+W: Who is meeting on Friday?
+E: Stress on "Friday" contrasts the day.
+
+Q: In "The MEETING is on Friday", which question is answered?
+A: Is the party on Friday?
+W: Is the meeting on Thursday?
+W: When is the meeting?
+W: Where is the meeting?
+E: Stress on "meeting" contrasts the event.
+
+Q: In "She bought TWO books", which question is answered?
+A: Did she buy three books?
+W: Did she borrow two books?
+W: Did she buy two pens?
+W: Who bought two books?
+E: Stress on "two" contrasts the number.
+
+Q: In "She bought two BOOKS", which question is answered?
+A: Did she buy two pens?
+W: Did she buy three books?
+W: Did she borrow two books?
+W: Who bought two books?
+E: Stress on "books" contrasts the item.
+
+Q: In "She BOUGHT two books", which question is answered?
+A: Did she borrow two books?
+W: Did she buy two pens?
+W: Did she buy three books?
+W: Who bought two books?
+E: Stress on "bought" contrasts the action.
+
+Q: In "The man drove a RED car", which question is answered?
+A: Did the man drive a blue car?
+W: Did the man drive a red lorry?
+W: Did the woman drive a red car?
+W: Did the man wash a red car?
+E: Stress on "red" contrasts the colour.
+
+Q: In "The man drove a red CAR", which question is answered?
+A: Did the man drive a red lorry?
+W: Did the man drive a blue car?
+W: Did the woman drive a red car?
+W: Did the man wash a red car?
+E: Stress on "car" contrasts the vehicle.
+
+Q: In "The MAN drove a red car", which question is answered?
+A: Did the woman drive a red car?
+W: Did the man drive a blue car?
+W: Did the man drive a red lorry?
+W: Did the man wash a red car?
+E: Stress on "man" contrasts the person.
+
+Q: In "We are going to the MARKET", which question is answered?
+A: Are you going to the church?
+W: Are they going to the market?
+W: Are you coming from the market?
+W: When are you going to the market?
+E: Stress on "market" contrasts the place.
+
+Q: In "WE are going to the market", which question is answered?
+A: Are they going to the market?
+W: Are you going to the church?
+W: Are you coming from the market?
+W: Why are you going to the market?
+E: Stress on "we" contrasts the people.
+
+Q: In "Ada will arrive TOMORROW", which question is answered?
+A: Will Ada arrive today?
+W: Will Ada leave tomorrow?
+W: Will Bola arrive tomorrow?
+W: How will Ada arrive?
+E: Stress on "tomorrow" contrasts the time.
+
+Q: In "Ada will ARRIVE tomorrow", which question is answered?
+A: Will Ada leave tomorrow?
+W: Will Ada arrive today?
+W: Will Bola arrive tomorrow?
+W: Where will Ada arrive?
+E: Stress on "arrive" contrasts the action.
+
+Q: In "ADA will arrive tomorrow", which question is answered?
+A: Will Bola arrive tomorrow?
+W: Will Ada arrive today?
+W: Will Ada leave tomorrow?
+W: How will Ada arrive?
+E: Stress on "Ada" contrasts the person.
+
+Q: In "He sold his OLD car", which question is answered?
+A: Did he sell his new car?
+W: Did he buy his old car?
+W: Did she sell her old car?
+W: Did he sell his old bicycle?
+E: Stress on "old" contrasts with "new".
+
+Q: In "He SOLD his old car", which question is answered?
+A: Did he buy his old car?
+W: Did he sell his new car?
+W: Did she sell her old car?
+W: Did he sell his old bicycle?
+E: Stress on "sold" contrasts the action.
+
+Q: In "The children played in the GARDEN", which question is answered?
+A: Did the children play in the house?
+W: Did the adults play in the garden?
+W: Did the children sleep in the garden?
+W: When did the children play?
+E: Stress on "garden" contrasts the place.
+
+Q: In "The CHILDREN played in the garden", which question is answered?
+A: Did the adults play in the garden?
+W: Did the children play in the house?
+W: Did the children sleep in the garden?
+W: When did the children play?
+E: Stress on "children" contrasts the people.
+
+Q: In "The children PLAYED in the garden", which question is answered?
+A: Did the children sleep in the garden?
+W: Did the adults play in the garden?
+W: Did the children play in the house?
+W: When did the children play?
+E: Stress on "played" contrasts the action.
+
+@topic eng-figures
+
+Q: "The wind whispered through the trees" is an example of
+A: personification
+W: simile
+W: hyperbole
+W: oxymoron
+E: The wind is given a human action.
+
+Q: "She is as busy as a bee" is an example of
+A: simile
+W: metaphor
+W: irony
+W: euphemism
+E: A simile compares using "as" or "like".
+
+Q: "Life is a journey" is an example of
+A: metaphor
+W: simile
+W: alliteration
+W: onomatopoeia
+E: A metaphor compares directly without "like" or "as".
+
+Q: "I have told you a million times" is an example of
+A: hyperbole
+W: litotes
+W: simile
+W: personification
+E: Hyperbole is deliberate exaggeration.
+
+Q: "Peter Piper picked a peck of pickled peppers" shows
+A: alliteration
+W: assonance
+W: irony
+W: metaphor
+E: Repetition of the same consonant sound at the start of words.
+
+Q: "Buzz", "hiss" and "bang" are examples of
+A: onomatopoeia
+W: alliteration
+W: oxymoron
+W: metonymy
+E: The words imitate the sounds they describe.
+
+Q: "Bitter sweet" is an example of
+A: oxymoron
+W: simile
+W: pun
+W: hyperbole
+E: An oxymoron joins contradictory words.
+
+Q: "He passed away" instead of "he died" is an example of
+A: euphemism
+W: hyperbole
+W: irony
+W: simile
+E: A euphemism is a mild word for something unpleasant.
+
+Q: "She is not a bad singer" (meaning she sings well) is an example of
+A: litotes
+W: hyperbole
+W: metaphor
+W: simile
+E: Litotes is understatement using a negative.
+
+Q: "The pen is mightier than the sword" uses "pen" and "sword" as examples of
+A: metonymy
+W: simile
+W: onomatopoeia
+W: alliteration
+E: They stand for writing and military force.
+
+Q: "All hands on deck" uses "hands" to mean workers. This is
+A: synecdoche
+W: simile
+W: hyperbole
+W: irony
+E: A part (hands) stands for the whole person.
+
+Q: A fire station burning down is an example of
+A: situational irony
+W: simile
+W: alliteration
+W: personification
+E: The outcome is the opposite of what is expected.
+
+Q: "O Death, where is your sting?" is an example of
+A: apostrophe
+W: simile
+W: litotes
+W: pun
+E: Apostrophe addresses something absent or abstract.
+
+Q: "How now, brown cow" shows the repetition of vowel sounds called
+A: assonance
+W: alliteration
+W: onomatopoeia
+W: metaphor
+E: Assonance repeats vowel sounds.
+
+Q: "Ask not what your country can do for you; ask what you can do for your country" uses
+A: antithesis (contrast in balanced phrases)
+W: simile
+W: onomatopoeia
+W: hyperbole
+E: Opposing ideas are set side by side.
+
+Q: "The classroom was a zoo" is a
+A: metaphor
+W: simile
+W: litotes
+W: euphemism
+E: It directly compares the class to a zoo.
+
+Q: "He runs like the wind" is a
+A: simile
+W: metaphor
+W: personification
+W: oxymoron
+E: It uses "like".
+
+Q: Building ideas up in order of importance, as in "I came, I saw, I conquered", is
+A: climax
+W: anticlimax
+W: litotes
+W: euphemism
+E: Each part is stronger than the one before.
+
+Q: "He lost his family, his house and his umbrella" ends with a weak item. This is
+A: anticlimax
+W: climax
+W: simile
+W: metaphor
+E: A serious list ending in something trivial is anticlimax.
+
+Q: Repeating a word at the start of successive lines, as in "We shall fight... We shall never surrender", is
+A: anaphora (repetition)
+W: oxymoron
+W: litotes
+W: pun
+E: Repetition adds emphasis.
+
+Q: A play on words with two meanings, as in "A bicycle can't stand on its own because it is two-tyred", is a
+A: pun
+W: simile
+W: litotes
+W: apostrophe
+E: "Two-tyred" sounds like "too tired".
+
+Q: "Sweet are the uses of adversity" uses unusual word order called
+A: inversion
+W: simile
+W: pun
+W: euphemism
+E: Inversion changes normal order for effect.
+
+Q: "Deafening silence" is an example of
+A: oxymoron
+W: hyperbole
+W: simile
+W: litotes
+E: The words seem to contradict each other.
+
+@topic eng-registers
+
+Q: Which group of words belongs to the register of medicine?
+A: diagnosis, prescription, ward
+W: plaintiff, verdict, bail
+W: harvest, tractor, fallow
+W: goal, referee, offside
+E: These words are used in hospitals.
+
+Q: Which group of words belongs to the register of law?
+A: plaintiff, verdict, bail
+W: diagnosis, ward, surgeon
+W: chalk, syllabus, lesson
+W: invoice, debit, ledger
+E: These words are used in courts.
+
+Q: Which group of words belongs to the register of agriculture?
+A: harvest, fallow, irrigation
+W: verdict, bail, judge
+W: altar, sermon, pew
+W: wicket, innings, bowler
+E: These words are used in farming.
+
+Q: Which group of words belongs to the register of religion?
+A: sermon, congregation, altar
+W: crop, fertiliser, harrow
+W: debit, credit, audit
+W: goalkeeper, penalty, referee
+E: These words are used in places of worship.
+
+Q: Which group of words belongs to the register of banking?
+A: deposit, cheque, overdraft
+W: sermon, pulpit, choir
+W: tackle, dribble, goal
+W: diagnosis, ward, theatre
+E: These words are used in banks.
+
+Q: Which group of words belongs to the register of football?
+A: striker, penalty, offside
+W: verdict, plaintiff, jury
+W: sermon, pew, deacon
+W: stethoscope, ward, nurse
+E: These words are used in football.
+
+Q: Which group of words belongs to the register of journalism?
+A: headline, editor, scoop
+W: harvest, hoe, cutlass
+W: debit, ledger, audit
+W: altar, choir, bishop
+E: These words are used in the news media.
+
+Q: Which group of words belongs to the register of computing?
+A: software, cursor, download
+W: plough, harrow, seed
+W: wicket, bowler, umpire
+W: plaintiff, defendant, bail
+E: These words are used with computers.
+
+Q: Which group of words belongs to the register of education?
+A: syllabus, curriculum, lesson note
+W: verdict, bail, appeal
+W: dribble, foul, corner kick
+W: deposit, withdrawal, teller
+E: These words are used in schools.
+
+Q: Which group of words belongs to the register of politics?
+A: election, manifesto, constituency
+W: ward, nurse, surgeon
+W: harvest, silo, fallow
+W: altar, hymn, sermon
+E: These words are used in politics.
+
+Q: A "stethoscope" is used by a
+A: doctor
+W: lawyer
+W: farmer
+W: banker
+E: Doctors use it to listen to the chest.
+
+Q: "Adjourn", "witness" and "gavel" belong to the register of
+A: law
+W: medicine
+W: agriculture
+W: sports
+E: They are used in court proceedings.
+
+Q: "Choreographer", "rehearsal" and "stage" belong to the register of
+A: drama and dance
+W: banking
+W: farming
+W: law
+E: They relate to performing arts.
+
+Q: "Cockpit", "runway" and "pilot" belong to the register of
+A: aviation
+W: shipping
+W: banking
+W: religion
+E: They are used in air travel.
+
+Q: "Anchor", "deck" and "port" belong to the register of
+A: shipping
+W: aviation
+W: medicine
+W: education
+E: They are used for ships and the sea.
+
+Q: "Mortar", "trowel" and "foundation" belong to the register of
+A: building
+W: banking
+W: medicine
+W: religion
+E: They are used in construction.
+
+Q: Which word does NOT belong to the register of medicine?
+A: verdict
+W: dosage
+W: surgery
+W: ward
+E: "Verdict" belongs to law.
+
+Q: Which word does NOT belong to the register of banking?
+A: harvest
+W: loan
+W: interest
+W: account
+E: "Harvest" belongs to farming.
+
+Q: "Innings", "wicket" and "bowler" belong to the register of
+A: cricket
+W: football
+W: basketball
+W: boxing
+E: These are cricket words.
+
+Q: A person who examines accounts to check that they are correct is an
+A: auditor
+W: editor
+W: actor
+W: inspector of schools
+E: Auditors check financial records.
+
+Q: "Plaintiff" means
+A: a person who brings a case to court
+W: a person who treats the sick
+W: a person who plants crops
+W: a person who reads the news
+E: The plaintiff sues the defendant.
+
+Q: "Fallow" land is land that is
+A: left unplanted to regain fertility
+W: covered with buildings
+W: flooded permanently
+W: used for grazing only
+E: Farmers rest fallow land.
+
+Q: "Surgeon", "anaesthetist" and "theatre" are words used in a
+A: hospital
+W: court
+W: bank
+W: stadium
+E: Operations take place in a hospital theatre.
+
+Q: "Headline", "caption" and "column" belong to the register of
+A: newspapers
+W: farming
+W: medicine
+W: law
+E: These words describe parts of a newspaper.

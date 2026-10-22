@@ -1,0 +1,2051 @@
+@subject english
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic eng-pronouns
+
+Q: Choose the option that best completes the sentence: The prize was shared between Tunde and ___.
+A: me
+W: I
+W: myself
+W: mine
+E: After a preposition such as "between", use the object pronoun "me".
+
+Q: Choose the option that best completes the sentence: ___ of the two answers is correct.
+A: Neither
+W: None
+W: Nobody
+W: No one
+E: "Neither" refers to two things; "none" is used for more than two.
+
+Q: Choose the option that best completes the sentence: This book is ___; you can borrow it.
+A: mine
+W: my
+W: me
+W: myself
+E: "Mine" is a possessive pronoun that stands alone.
+
+Q: Choose the option that best completes the sentence: The students ___ cleaned the classroom.
+A: themselves
+W: theirselves
+W: themself
+W: their own
+E: The emphatic pronoun for "students" is "themselves".
+
+Q: Choose the option that best completes the sentence: Is this the man ___ car was stolen?
+A: whose
+W: who's
+W: whom
+W: which
+E: "Whose" shows possession.
+
+Q: Choose the option that best completes the sentence: The girl ___ you met yesterday is my cousin.
+A: whom
+W: whose
+W: which
+W: what
+E: "Whom" is the object of "met".
+
+Q: Choose the option that best completes the sentence: ___ students in our class passed the test.
+A: All the
+W: Every the
+W: Each the
+W: A
+E: "All the" goes with a plural noun.
+
+Q: Choose the option that best completes the sentence: We bought ___ oranges at the market.
+A: some
+W: any
+W: much
+W: a
+E: Use "some" in positive statements with plural countable nouns.
+
+Q: Choose the option that best completes the sentence: Have you got ___ questions?
+A: any
+W: some of
+W: much
+W: a few of
+E: "Any" is normally used in questions.
+
+Q: Choose the option that best completes the sentence: There isn't ___ sugar left in the tin.
+A: much
+W: many
+W: few
+W: several
+E: "Much" is used with uncountable nouns such as sugar.
+
+Q: Choose the option that best completes the sentence: Only ___ people came to the meeting, so it was cancelled.
+A: a few
+W: a little
+W: much
+W: little of
+E: "A few" goes with countable plural nouns.
+
+Q: Choose the option that best completes the sentence: ___ of my brothers is in the army.
+A: One
+W: Many
+W: Several
+W: Both
+E: "One of my brothers is" takes a singular verb.
+
+Q: Choose the option that best completes the sentence: She bought ___ umbrella yesterday.
+A: an
+W: a
+W: the some
+W: few
+E: Use "an" before a vowel sound.
+
+Q: Choose the option that best completes the sentence: Kofi is ___ university student.
+A: a
+W: an
+W: some
+W: much
+E: "University" begins with a "yoo" sound, so it takes "a".
+
+Q: Choose the option that best completes the sentence: He gave ___ an hour to finish the work.
+A: us
+W: we
+W: our
+W: ours
+E: "Us" is the object pronoun.
+
+Q: Choose the option that best completes the sentence: It is ___ responsibility to keep the school clean.
+A: everybody's
+W: everybodies
+W: every body
+W: everybodys'
+E: The possessive of "everybody" is "everybody's".
+
+Q: Choose the option that best completes the sentence: The dog wagged ___ tail.
+A: its
+W: it's
+W: their
+W: his own self
+E: "Its" is the possessive form; "it's" means "it is".
+
+Q: Choose the option that best completes the sentence: You and ___ should represent the class.
+A: I
+W: me
+W: myself
+W: mine
+E: It is part of the subject, so use "I".
+
+Q: Choose the option that best completes the sentence: ___ of the students has a calculator.
+A: Each
+W: All
+W: Both
+W: Many
+E: "Each" takes a singular verb: "Each ... has".
+
+Q: Choose the option that best completes the sentence: The books on the shelf are ___.
+A: theirs
+W: their
+W: their's
+W: theirs'
+E: "Theirs" is the possessive pronoun that stands alone.
+
+Q: Choose the option that best completes the sentence: This is the house ___ Jack built.
+A: that
+W: who
+W: whom
+W: whose
+E: "That" (or "which") refers to things.
+
+Q: Choose the option that best completes the sentence: I have ___ little money, but it is enough.
+A: a
+W: an
+W: the few
+W: much
+E: "A little" means some, though not much.
+
+Q: Choose the option that best completes the sentence: ___ is knocking at the door?
+A: Who
+W: Whom
+W: Whose
+W: Which of
+E: "Who" is the subject of "is knocking".
+
+Q: Choose the option that best completes the sentence: Both of ___ are going to the party.
+A: them
+W: they
+W: their
+W: theirs
+E: After "of", use the object pronoun "them".
+
+@topic eng-plurals
+
+Q: What is the plural of "ox"?
+A: oxen
+W: oxes
+W: oxs
+W: oxies
+E: "Oxen" is an irregular plural.
+
+Q: What is the plural of "tooth"?
+A: teeth
+W: tooths
+W: teeths
+W: toothes
+E: The vowel changes: tooth → teeth.
+
+Q: What is the plural of "mouse" (the animal)?
+A: mice
+W: mouses
+W: mices
+W: mouse
+E: Mouse → mice.
+
+Q: What is the plural of "crisis"?
+A: crises
+W: crisises
+W: crisis
+W: crisii
+E: Nouns ending in -is change to -es.
+
+Q: What is the plural of "datum"?
+A: data
+W: datums
+W: datas
+W: datae
+E: "Data" comes from Latin.
+
+Q: What is the plural of "medium" (a means of communication)?
+A: media
+W: mediums
+W: medias
+W: medii
+E: "The media" is the plural of "medium" in this sense.
+
+Q: What is the plural of "passer-by"?
+A: passers-by
+W: passer-bys
+W: passers-bys
+W: passer-by
+E: The main word "passer" takes the plural.
+
+Q: What is the plural of "knife"?
+A: knives
+W: knifes
+W: knive
+W: knifies
+E: Many nouns ending in -fe change to -ves.
+
+Q: What is the plural of "roof"?
+A: roofs
+W: rooves
+W: roofes
+W: roofies
+E: "Roof" simply adds -s.
+
+Q: What is the plural of "potato"?
+A: potatoes
+W: potatos
+W: potatoe
+W: potatis
+E: Some nouns ending in -o add -es.
+
+Q: What is the plural of "piano"?
+A: pianos
+W: pianoes
+W: pianies
+W: piani
+E: "Piano" just adds -s.
+
+Q: What is the plural of "sheep"?
+A: sheep
+W: sheeps
+W: sheepes
+W: shoop
+E: "Sheep" has the same form in singular and plural.
+
+Q: What is the plural of "lady"?
+A: ladies
+W: ladys
+W: ladyes
+W: ladie
+E: A consonant + y changes to -ies.
+
+Q: What is the plural of "monkey"?
+A: monkeys
+W: monkies
+W: monkeies
+W: monkeyes
+E: A vowel + y simply adds -s.
+
+Q: What is the plural of "bus"?
+A: buses
+W: buss
+W: busies
+W: bus
+E: Nouns ending in -s add -es.
+
+Q: What is the plural of "woman"?
+A: women
+W: womans
+W: womens
+W: womanes
+E: Woman → women.
+
+Q: What is the plural of "louse"?
+A: lice
+W: louses
+W: lices
+W: louse
+E: Louse → lice, like mouse → mice.
+
+Q: What is the plural of "basis"?
+A: bases
+W: basises
+W: basis
+W: basii
+E: Nouns ending in -is change to -es.
+
+Q: What is the plural of "fungus"?
+A: fungi
+W: funguses only
+W: fungae
+W: fungus
+E: The Latin plural "fungi" is standard in science.
+
+Q: Which of these nouns is always plural?
+A: scissors
+W: furniture
+W: information
+W: advice
+E: "Scissors" is used only in plural form.
+
+Q: Which of these is an uncountable noun?
+A: luggage
+W: bag
+W: suitcase
+W: box
+E: "Luggage" has no plural; we say "pieces of luggage".
+
+Q: What is the plural of "commander-in-chief"?
+A: commanders-in-chief
+W: commander-in-chiefs
+W: commanders-in-chiefs
+W: commander-ins-chief
+E: The main noun "commander" takes the plural.
+
+Q: What is the plural of "half"?
+A: halves
+W: halfs
+W: halfes
+W: halve
+E: Half → halves.
+
+Q: Which sentence is correct?
+A: The furniture in the room is new.
+W: The furnitures in the room are new.
+W: The furnitures in the room is new.
+W: A furnitures is in the room.
+E: "Furniture" is uncountable and takes a singular verb.
+
+@topic eng-silent
+
+Q: In which word is the "k" silent?
+A: knee
+W: kite
+W: kettle
+W: kick
+E: The "k" before "n" at the start of a word is silent.
+
+Q: In which word is the "p" silent?
+A: psalm
+W: paper
+W: pump
+W: apple
+E: Initial "ps" is pronounced "s".
+
+Q: In which word is the "n" silent?
+A: autumn
+W: nation
+W: dinner
+W: banana
+E: Final "mn" sounds like "m".
+
+Q: In which word is the "c" silent?
+A: muscle
+W: cancel
+W: circle
+W: picnic
+E: "Muscle" sounds like "mussel".
+
+Q: In which word is the "d" silent?
+A: Wednesday
+W: dead
+W: hidden
+W: middle
+E: "Wednesday" is pronounced "Wenzday".
+
+Q: In which word is the "s" silent?
+A: island
+W: sister
+W: answer
+W: lesson
+E: "Island" is pronounced "eye-land".
+
+Q: In which word is the "u" silent?
+A: guest
+W: under
+W: mute
+W: pull
+E: In "guest" the "u" only hardens the "g".
+
+Q: In which word is the "h" silent?
+A: honest
+W: house
+W: happy
+W: behind
+E: "Honest" begins with a vowel sound.
+
+Q: In which word is the "gh" silent?
+A: night
+W: laugh
+W: ghost
+W: tough
+E: In "night", "gh" makes no sound.
+
+Q: In which word is the "b" silent?
+A: debt
+W: about
+W: rubber
+W: table
+E: "Debt" is pronounced "det".
+
+Q: In which word is the "t" silent?
+A: whistle
+W: tiger
+W: attend
+W: tent
+E: The "t" in "whistle" is not pronounced.
+
+Q: In which word is the "w" silent?
+A: answer
+W: away
+W: water
+W: twin
+E: "Answer" is pronounced "an-ser".
+
+Q: In which word is the "l" silent?
+A: walk
+W: lamp
+W: fly
+W: hello
+E: "Walk" is pronounced "wawk".
+
+Q: In which word is the "g" silent?
+A: foreign
+W: garden
+W: give
+W: begin
+E: "Foreign" ends in an "n" sound.
+
+Q: Which word has a silent "e" at the end?
+A: hope
+W: be
+W: the
+W: me
+E: The final "e" in "hope" is not sounded but lengthens the "o".
+
+Q: In which word is the "ch" pronounced as /k/?
+A: chorus
+W: church
+W: chair
+W: cheese
+E: Words from Greek such as "chorus" use /k/.
+
+Q: In which word is "ch" pronounced as /ʃ/ (as in "she")?
+A: machine
+W: chain
+W: chalk
+W: school
+E: "Machine" comes from French and uses /ʃ/.
+
+Q: In which word is the "th" pronounced as /ð/ (as in "this")?
+A: brother
+W: thin
+W: thank
+W: bath
+E: "Brother" has the voiced /ð/ sound.
+
+Q: In which word is "ph" pronounced as /f/?
+A: photograph
+W: shepherd
+W: uphill
+W: haphazard
+E: "Ph" in "photograph" sounds like "f".
+
+Q: Which word has a silent letter?
+A: castle
+W: carpet
+W: candle
+W: comfort
+E: The "t" in "castle" is silent.
+
+Q: In which word is the "r" not pronounced in standard British English?
+A: car
+W: red
+W: carry
+W: arrive
+E: In British English, "r" at the end of a word before a pause is not sounded.
+
+Q: In which word is the "c" pronounced as /s/?
+A: city
+W: cat
+W: cut
+W: cream
+E: "C" before i, e or y usually sounds like /s/.
+
+Q: In which word is the "g" pronounced as /dʒ/ (as in "jam")?
+A: giant
+W: goat
+W: give
+W: girl
+E: "G" before i can sound like /dʒ/, as in "giant".
+
+Q: In which word is the "s" pronounced as /z/?
+A: easy
+W: sun
+W: bus
+W: miss
+E: "Easy" has a /z/ sound in the middle.
+
+@topic eng-sentences
+
+Q: "Lagos is a busy city." What type of sentence is this?
+A: declarative
+W: interrogative
+W: imperative
+W: exclamatory
+E: It states a fact.
+
+Q: "Sit down quietly." What type of sentence is this?
+A: imperative
+W: declarative
+W: interrogative
+W: exclamatory
+E: It gives a command.
+
+Q: "How fast she runs!" What type of sentence is this?
+A: exclamatory
+W: interrogative
+W: imperative
+W: declarative
+E: It expresses strong feeling and ends with an exclamation mark.
+
+Q: "Where did you keep the keys?" What type of sentence is this?
+A: interrogative
+W: declarative
+W: imperative
+W: exclamatory
+E: It asks a question.
+
+Q: A sentence with two or more main clauses joined by a conjunction is a
+A: compound sentence
+W: simple sentence
+W: complex sentence
+W: fragment
+E: E.g. "I called, and she answered."
+
+Q: "When the bell rang, the students went home." This is a
+A: complex sentence
+W: simple sentence
+W: compound sentence
+W: command
+E: It has a main clause and a subordinate clause beginning with "when".
+
+Q: Which of these is a compound sentence?
+A: She was tired, so she went to bed.
+W: She went to bed.
+W: Because she was tired.
+W: Although she was tired, she worked.
+E: Two main clauses are joined by "so".
+
+Q: Which of these is a sentence fragment?
+A: Because the road was flooded.
+W: The road was flooded.
+W: The road was flooded, so we waited.
+W: We waited because the road was flooded.
+E: It has no main clause, so it is incomplete.
+
+Q: Which of these is a simple sentence?
+A: My brother plays football every Saturday.
+W: My brother plays football, and I watch.
+W: If it rains, my brother stays home.
+W: My brother, who is tall, plays football.
+E: It has only one clause.
+
+Q: The subject of the sentence "The old farmer sold his goats" is
+A: the old farmer
+W: sold
+W: his goats
+W: goats
+E: The subject is who does the action.
+
+Q: In "The teacher marked the scripts", the object is
+A: the scripts
+W: the teacher
+W: marked
+W: teacher
+E: The object receives the action.
+
+Q: "Please pass me the salt." This sentence makes
+A: a request
+W: a statement
+W: an exclamation
+W: a question
+E: It is a polite imperative.
+
+Q: Which sentence contains a complement?
+A: Ada is a nurse.
+W: Ada ran.
+W: Ada slept.
+W: Ada laughed loudly.
+E: "A nurse" completes the meaning of "is".
+
+Q: A sentence which has a main clause and two subordinate clauses is a
+A: complex sentence
+W: simple sentence
+W: compound sentence
+W: phrase
+E: Any sentence with at least one subordinate clause is complex.
+
+Q: "What time does the train leave?" begins with
+A: a question word
+W: a conjunction
+W: an adverb clause
+W: a command
+E: "What" is a wh-question word.
+
+Q: Which is a compound-complex sentence?
+A: When the rain stopped, we left, and they stayed.
+W: We left.
+W: We left because it stopped raining.
+W: We left, and they stayed.
+E: It has two main clauses and one subordinate clause.
+
+Q: Which word joins the clauses in "I will come if you invite me"?
+A: if
+W: will
+W: you
+W: me
+E: "If" is a subordinating conjunction.
+
+Q: Which sentence is in the negative form?
+A: He did not attend the meeting.
+W: He attended the meeting.
+W: Did he attend the meeting?
+W: Attend the meeting.
+E: "Did not" makes it negative.
+
+Q: Which of these is an interrogative sentence?
+A: Can you help me?
+W: Help me.
+W: You can help me.
+W: What a help you are!
+E: It asks a question.
+
+Q: In "Musa gave his sister a pen", the indirect object is
+A: his sister
+W: a pen
+W: Musa
+W: gave
+E: The indirect object receives the direct object (a pen).
+
+Q: The predicate of "The children are playing in the field" is
+A: are playing in the field
+W: the children
+W: children
+W: field
+E: The predicate is everything that tells us about the subject.
+
+Q: Which sentence has the correct word order?
+A: She always arrives early.
+W: She arrives always early.
+W: Always she arrives early.
+W: She early arrives always.
+E: Adverbs of frequency usually come before the main verb.
+
+Q: "Long live the Federal Republic!" is an example of
+A: an exclamatory sentence expressing a wish
+W: a question
+W: a simple statement of fact
+W: a command to a person
+E: It expresses strong feeling or a wish.
+
+Q: Which sentence is complete?
+A: The bus arrived late.
+W: Arrived late.
+W: The bus late.
+W: Because the bus.
+E: It has a subject and a finite verb.
+
+@topic eng-synonyms
+
+Q: Choose the word nearest in meaning to "vacant" in this sentence: The seat beside me is vacant.
+A: empty
+W: broken
+W: reserved
+W: comfortable
+E: "Vacant" means not occupied.
+
+Q: Choose the word nearest in meaning to "brief" in this sentence: The principal gave a brief speech.
+A: short
+W: loud
+W: boring
+W: important
+E: "Brief" means short in time.
+
+Q: Choose the word nearest in meaning to "assist" in this sentence: Please assist the old woman across the road.
+A: help
+W: stop
+W: watch
+W: call
+E: "Assist" means to help.
+
+Q: Choose the word nearest in meaning to "fragile" in this sentence: Handle the glass cups carefully; they are fragile.
+A: easily broken
+W: expensive
+W: very large
+W: dirty
+E: "Fragile" means delicate and easily broken.
+
+Q: Choose the word nearest in meaning to "conceal" in this sentence: He tried to conceal the truth.
+A: hide
+W: tell
+W: discover
+W: forget
+E: "Conceal" means to keep hidden.
+
+Q: Choose the word nearest in meaning to "enormous" in this sentence: An enormous crowd filled the stadium.
+A: huge
+W: small
+W: noisy
+W: angry
+E: "Enormous" means very large.
+
+Q: Choose the word nearest in meaning to "prudent" in this sentence: It is prudent to save some money every month.
+A: wise
+W: foolish
+W: difficult
+W: costly
+E: "Prudent" means showing good judgement.
+
+Q: Choose the word nearest in meaning to "hazardous" in this sentence: Smoking near a petrol station is hazardous.
+A: dangerous
+W: illegal
+W: enjoyable
+W: common
+E: "Hazardous" means risky or dangerous.
+
+Q: Choose the word nearest in meaning to "elated" in this sentence: Chioma was elated when she won the scholarship.
+A: overjoyed
+W: worried
+W: surprised
+W: tired
+E: "Elated" means very happy.
+
+Q: Choose the word nearest in meaning to "genuine" in this sentence: Is this a genuine leather bag?
+A: real
+W: cheap
+W: old
+W: fake
+E: "Genuine" means truly what it is said to be.
+
+Q: Choose the word nearest in meaning to "perilous" in this sentence: The journey across the desert was perilous.
+A: dangerous
+W: pleasant
+W: short
+W: famous
+E: "Perilous" means full of danger.
+
+Q: Choose the word nearest in meaning to "trivial" in this sentence: Don't quarrel over trivial matters.
+A: unimportant
+W: serious
+W: secret
+W: legal
+E: "Trivial" means of little importance.
+
+Q: Choose the word nearest in meaning to "astonished" in this sentence: We were astonished by his speed.
+A: amazed
+W: annoyed
+W: bored
+W: frightened
+E: "Astonished" means greatly surprised.
+
+Q: Choose the word nearest in meaning to "obtain" in this sentence: You must obtain permission before leaving.
+A: get
+W: refuse
+W: lose
+W: write
+E: "Obtain" means to get.
+
+Q: Choose the word nearest in meaning to "hasty" in this sentence: Don't make a hasty decision.
+A: hurried
+W: careful
+W: wise
+W: late
+E: "Hasty" means done too quickly.
+
+@topic eng-antonyms
+
+Q: Choose the word opposite in meaning to "ancient" in this sentence: The museum keeps ancient pots.
+A: modern
+W: old
+W: broken
+W: costly
+E: The opposite of ancient is modern.
+
+Q: Choose the word opposite in meaning to "guilty" in this sentence: The court found him guilty.
+A: innocent
+W: wicked
+W: free
+W: sorry
+E: "Innocent" means not guilty.
+
+Q: Choose the word opposite in meaning to "shallow" in this sentence: The children swam in the shallow end.
+A: deep
+W: wide
+W: dirty
+W: cold
+E: Shallow ↔ deep.
+
+Q: Choose the word opposite in meaning to "increase" in this sentence: Prices increase every year.
+A: decrease
+W: rise
+W: grow
+W: double
+E: Increase ↔ decrease.
+
+Q: Choose the word opposite in meaning to "fertile" in this sentence: The farmer has fertile land.
+A: barren
+W: rich
+W: wide
+W: green
+E: Barren land produces little or nothing.
+
+Q: Choose the word opposite in meaning to "maximum" in this sentence: The maximum score is 100.
+A: minimum
+W: highest
+W: average
+W: total
+E: Maximum ↔ minimum.
+
+Q: Choose the word opposite in meaning to "polite" in this sentence: The waiter was polite to everyone.
+A: rude
+W: kind
+W: quiet
+W: quick
+E: Polite ↔ rude.
+
+Q: Choose the word opposite in meaning to "include" in this sentence: Please include your phone number.
+A: exclude
+W: add
+W: write
+W: contain
+E: Include ↔ exclude.
+
+Q: Choose the word opposite in meaning to "rough" in this sentence: The road to the village is rough.
+A: smooth
+W: long
+W: wide
+W: bumpy
+E: Rough ↔ smooth.
+
+Q: Choose the word opposite in meaning to "external" in this sentence: The external walls need painting.
+A: internal
+W: outer
+W: thick
+W: new
+E: External ↔ internal.
+
+Q: Choose the word opposite in meaning to "praise" in this sentence: The teacher praised her work.
+A: criticised
+W: admired
+W: rewarded
+W: checked
+E: Praise ↔ criticise.
+
+Q: Choose the word opposite in meaning to "brave" in this sentence: The brave soldier faced the enemy.
+A: cowardly
+W: strong
+W: bold
+W: fearless
+E: Brave ↔ cowardly.
+
+Q: Choose the word opposite in meaning to "wealthy" in this sentence: Mr Okon is a wealthy trader.
+A: poor
+W: rich
+W: honest
+W: famous
+E: Wealthy ↔ poor.
+
+Q: Choose the word opposite in meaning to "temporary" in this sentence: This is a temporary job.
+A: permanent
+W: short
+W: part-time
+W: difficult
+E: Temporary ↔ permanent.
+
+Q: Choose the word opposite in meaning to "export" in this sentence: Nigeria exports crude oil.
+A: imports
+W: sells
+W: produces
+W: refines
+E: Export ↔ import.
+
+Q: Choose the word opposite in meaning to "artificial" in this sentence: She wore artificial flowers in her hair.
+A: natural
+W: plastic
+W: false
+W: bright
+E: Artificial ↔ natural.
+
+@topic eng-concord
+
+Q: Choose the option that best completes the sentence: Either the boys or their father ___ coming.
+A: is
+W: are
+W: were
+W: have
+E: With "either ... or", the verb agrees with the nearer subject, "father".
+
+Q: Choose the option that best completes the sentence: Physics ___ difficult for some students.
+A: is
+W: are
+W: were
+W: have been
+E: Subjects ending in -ics are singular.
+
+Q: Choose the option that best completes the sentence: Ten kilometres ___ a long distance to walk.
+A: is
+W: are
+W: were
+W: have
+E: An amount taken as one unit takes a singular verb.
+
+Q: Choose the option that best completes the sentence: The scissors ___ on the table.
+A: are
+W: is
+W: was
+W: has
+E: "Scissors" is plural.
+
+Q: Choose the option that best completes the sentence: Everybody ___ to be happy.
+A: wants
+W: want
+W: are wanting
+W: have wanted
+E: "Everybody" is singular.
+
+Q: Choose the option that best completes the sentence: The cattle ___ grazing in the field.
+A: are
+W: is
+W: was
+W: has
+E: "Cattle" is a plural noun.
+
+Q: Choose the option that best completes the sentence: One of the girls ___ lost her bag.
+A: has
+W: have
+W: were
+W: are
+E: The subject is "one", which is singular.
+
+Q: Choose the option that best completes the sentence: The teacher and the students ___ in the hall.
+A: are
+W: is
+W: was
+W: has
+E: Two subjects joined by "and" take a plural verb.
+
+Q: Choose the option that best completes the sentence: My friend and mentor ___ arrived.
+A: has
+W: have
+W: are
+W: were
+E: "Friend and mentor" is one person, so the verb is singular.
+
+Q: Choose the option that best completes the sentence: The police ___ investigating the case.
+A: are
+W: is
+W: was
+W: has been
+E: "Police" takes a plural verb.
+
+Q: Choose the option that best completes the sentence: Neither of the answers ___ correct.
+A: is
+W: are
+W: were
+W: have
+E: "Neither" takes a singular verb in formal English.
+
+Q: Choose the option that best completes the sentence: There ___ many people at the market today.
+A: are
+W: is
+W: was
+W: has
+E: The real subject is "many people", which is plural.
+
+Q: Choose the option that best completes the sentence: The quality of the oranges ___ poor.
+A: is
+W: are
+W: were
+W: have been
+E: The subject is "quality", not "oranges".
+
+Q: Choose the option that best completes the sentence: Twenty naira ___ not enough for the fare.
+A: is
+W: are
+W: were
+W: have
+E: A sum of money taken as one amount is singular.
+
+Q: Choose the option that best completes the sentence: The jury ___ given its verdict.
+A: has
+W: have
+W: are
+W: were
+E: When the group acts as one, a singular verb is used.
+
+Q: Choose the option that best completes the sentence: Not only the students but also the teacher ___ happy.
+A: was
+W: were
+W: are
+W: have been
+E: The verb agrees with the nearer subject, "the teacher".
+
+Q: Choose the option that best completes the sentence: The furniture ___ been delivered.
+A: has
+W: have
+W: are
+W: were
+E: "Furniture" is uncountable and singular.
+
+Q: Choose the option that best completes the sentence: Many a student ___ failed that course.
+A: has
+W: have
+W: are
+W: were
+E: "Many a" takes a singular noun and verb.
+
+Q: Choose the option that best completes the sentence: The trousers I bought ___ too long.
+A: are
+W: is
+W: was
+W: has
+E: "Trousers" is plural.
+
+Q: Choose the option that best completes the sentence: Ade, as well as his sisters, ___ at home.
+A: is
+W: are
+W: were
+W: have
+E: "As well as" does not make the subject plural; the subject is "Ade".
+
+Q: Choose the option that best completes the sentence: Most of the water ___ been used.
+A: has
+W: have
+W: are
+W: were
+E: "Water" is uncountable, so "most of the water" is singular.
+
+@topic eng-tenses
+
+Q: Choose the option that best completes the sentence: I ___ my keys. Can you help me find them?
+A: have lost
+W: lose
+W: had lost
+W: am losing
+E: The present perfect shows a past action with a present result.
+
+Q: Choose the option that best completes the sentence: When I arrived, the film ___.
+A: had started
+W: starts
+W: has started
+W: will start
+E: The past perfect shows an action completed before another past action.
+
+Q: Choose the option that best completes the sentence: She ___ to school every day.
+A: walks
+W: walk
+W: walking
+W: is walk
+E: The simple present shows habits; third person singular adds -s.
+
+Q: Choose the option that best completes the sentence: They ___ football when it started to rain.
+A: were playing
+W: play
+W: have played
+W: are playing
+E: The past continuous shows an action in progress.
+
+Q: Choose the option that best completes the sentence: Tomorrow at this time, we ___ to Ibadan.
+A: will be travelling
+W: travelled
+W: had travelled
+W: travel
+E: The future continuous shows an action in progress at a future time.
+
+Q: Choose the option that best completes the sentence: He ___ the letter yesterday.
+A: wrote
+W: has written
+W: writes
+W: had write
+E: "Yesterday" needs the simple past.
+
+Q: Choose the option that best completes the sentence: I ___ here for three hours.
+A: have been waiting
+W: wait
+W: am wait
+W: waited since
+E: The present perfect continuous shows an action continuing up to now.
+
+Q: Choose the option that best completes the sentence: By the end of this month, she ___ the project.
+A: will have finished
+W: finishes
+W: has finished
+W: finished
+E: The future perfect shows completion before a future time.
+
+Q: Choose the option that best completes the sentence: The sun ___ in the east.
+A: rises
+W: rose
+W: is rising always
+W: rise
+E: General truths use the simple present.
+
+Q: Choose the option that best completes the sentence: My mother ___ yam when the visitors came.
+A: was cooking
+W: cooks
+W: has cooked
+W: is cooking
+E: The past continuous describes what was happening.
+
+Q: Choose the option that best completes the sentence: She said she ___ the answer.
+A: knew
+W: knows
+W: has known
+W: will know
+E: In reported speech after a past verb, "knows" becomes "knew".
+
+Q: Choose the option that best completes the sentence: Listen! The baby ___.
+A: is crying
+W: cries
+W: cried
+W: has cry
+E: "Listen!" shows an action happening now.
+
+Q: Choose the option that best completes the sentence: We ___ to the zoo last Sunday.
+A: went
+W: go
+W: have gone
+W: had go
+E: "Last Sunday" needs the simple past.
+
+Q: Choose the option that best completes the sentence: The past tense of "lie" (to rest flat) is
+A: lay
+W: lied
+W: laid
+W: lain
+E: lie – lay – lain; "lied" is for telling untruths.
+
+Q: Choose the option that best completes the sentence: The past participle of "go" is
+A: gone
+W: went
+W: goed
+W: going
+E: go – went – gone.
+
+Q: Choose the option that best completes the sentence: I ___ him since we left school.
+A: haven't seen
+W: didn't see
+W: don't see
+W: wasn't seeing
+E: "Since" goes with the present perfect.
+
+Q: Choose the option that best completes the sentence: The train ___ at 6 p.m. tomorrow, according to the timetable.
+A: leaves
+W: left
+W: has left
+W: had left
+E: The simple present can show timetabled future events.
+
+Q: Choose the option that best completes the sentence: He ___ breakfast before he left the house.
+A: had eaten
+W: has eaten
+W: eats
+W: will eat
+E: The earlier of two past actions uses the past perfect.
+
+Q: Choose the option that best completes the sentence: Ngozi ___ her uniform herself every Saturday.
+A: washes
+W: wash
+W: washed always
+W: is wash
+E: A regular action uses the simple present.
+
+Q: Choose the option that best completes the sentence: The past tense of "teach" is
+A: taught
+W: teached
+W: tought
+W: taughted
+E: teach – taught – taught.
+
+Q: Choose the option that best completes the sentence: Look out! You ___ fall.
+A: are going to
+W: went to
+W: have
+W: had
+E: "Going to" predicts something about to happen.
+
+@topic eng-parts-of-speech
+
+Q: What part of speech is "and" in this sentence: Bread and tea are on the table.
+A: conjunction
+W: preposition
+W: adverb
+W: pronoun
+E: "And" joins words or clauses.
+
+Q: What part of speech is "Wow" in this sentence: Wow! That is a big car.
+A: interjection
+W: adverb
+W: adjective
+W: noun
+E: Interjections express sudden feeling.
+
+Q: What part of speech is "swim" in this sentence: The children swim every evening.
+A: verb
+W: noun
+W: adjective
+W: adverb
+E: "Swim" names the action.
+
+Q: What part of speech is "swimming" in this sentence: Swimming is good exercise.
+A: noun (gerund)
+W: verb
+W: adjective
+W: adverb
+E: Here "swimming" names an activity and is the subject.
+
+Q: What part of speech is "very" in this sentence: She is very kind.
+A: adverb
+W: adjective
+W: preposition
+W: noun
+E: "Very" modifies the adjective "kind".
+
+Q: What part of speech is "Abuja" in this sentence: Abuja is the capital of Nigeria.
+A: proper noun
+W: common noun
+W: verb
+W: pronoun
+E: It names a particular place, so it starts with a capital letter.
+
+Q: What part of speech is "herd" in this sentence: A herd of cattle crossed the road.
+A: collective noun
+W: verb
+W: adjective
+W: proper noun
+E: "Herd" names a group of animals.
+
+Q: What part of speech is "fast" in this sentence: He drives fast.
+A: adverb
+W: adjective
+W: noun
+W: verb
+E: It describes how he drives.
+
+Q: What part of speech is "fast" in this sentence: It is a fast car.
+A: adjective
+W: adverb
+W: noun
+W: verb
+E: It describes the noun "car".
+
+Q: What part of speech is "between" in this sentence: The ball rolled between the chairs.
+A: preposition
+W: conjunction
+W: adverb
+W: adjective
+E: It shows the position of the ball.
+
+Q: What part of speech is "they" in this sentence: They arrived early.
+A: pronoun
+W: noun
+W: adjective
+W: verb
+E: "They" replaces a noun.
+
+Q: What part of speech is "happiness" in this sentence: Money cannot buy happiness.
+A: abstract noun
+W: adjective
+W: verb
+W: adverb
+E: It names a feeling that cannot be touched.
+
+Q: What part of speech is "but" in this sentence: She is poor but honest.
+A: conjunction
+W: preposition
+W: adverb
+W: adjective
+E: "But" joins two contrasting words.
+
+Q: What part of speech is "yesterday" in this sentence: He travelled yesterday.
+A: adverb
+W: noun
+W: adjective
+W: preposition
+E: It tells us when he travelled.
+
+Q: What part of speech is "three" in this sentence: She bought three oranges.
+A: adjective (numeral)
+W: noun
+W: verb
+W: adverb
+E: It describes how many oranges.
+
+Q: What part of speech is "cleverly" in this sentence: The detective cleverly solved the case.
+A: adverb
+W: adjective
+W: verb
+W: noun
+E: It describes how he solved the case.
+
+Q: Which word in this sentence is a verb: The tall boy kicked the ball hard?
+A: kicked
+W: tall
+W: ball
+W: hard
+E: "Kicked" is the action.
+
+Q: Which word in this sentence is an adjective: The hungry dog barked loudly?
+A: hungry
+W: dog
+W: barked
+W: loudly
+E: "Hungry" describes the dog.
+
+Q: What part of speech is "light" in this sentence: Please light the lamp.
+A: verb
+W: noun
+W: adjective
+W: adverb
+E: Here "light" is an action.
+
+Q: What part of speech is "this" in this sentence: This bag is mine.
+A: determiner (demonstrative adjective)
+W: pronoun
+W: verb
+W: adverb
+E: "This" goes with the noun "bag".
+
+Q: What part of speech is "this" in this sentence: This is my bag.
+A: pronoun
+W: adjective
+W: verb
+W: adverb
+E: Here "this" stands alone in place of a noun.
+
+Q: What part of speech is "hard" in this sentence: The exam was hard.
+A: adjective
+W: adverb
+W: verb
+W: noun
+E: It describes the noun "exam".
+
+Q: What part of speech is "after" in this sentence: We left after the match ended.
+A: conjunction
+W: preposition
+W: adverb
+W: noun
+E: It joins the clause "the match ended" to the main clause.
+
+Q: What part of speech is "after" in this sentence: We left after the match.
+A: preposition
+W: conjunction
+W: adverb
+W: verb
+E: It comes before the noun "the match".
+
+@topic eng-vowels
+
+Q: Which word contains the same vowel sound as "seat"?
+A: field
+W: sit
+W: set
+W: sat
+E: "Seat" and "field" both have the long /iː/ sound.
+
+Q: Which word contains the same vowel sound as "sit"?
+A: build
+W: seat
+W: site
+W: suit
+E: "Sit" and "build" have the short /ɪ/ sound.
+
+Q: Which word contains the same vowel sound as "cat"?
+A: man
+W: cart
+W: cut
+W: kite
+E: "Cat" and "man" have the short /æ/ sound.
+
+Q: Which word contains the same vowel sound as "cut"?
+A: blood
+W: cart
+W: cot
+W: could
+E: "Cut" and "blood" have the /ʌ/ sound.
+
+Q: Which word contains the same vowel sound as "cart"?
+A: heart
+W: hat
+W: hurt
+W: hot
+E: "Cart" and "heart" have the long /ɑː/ sound.
+
+Q: Which word contains the same vowel sound as "bird"?
+A: word
+W: bed
+W: beard
+W: bored
+E: "Bird" and "word" have the /ɜː/ sound.
+
+Q: Which word contains the same vowel sound as "pool"?
+A: blue
+W: pull
+W: pole
+W: pall
+E: "Pool" and "blue" have the long /uː/ sound.
+
+Q: Which word contains the same vowel sound as "pull"?
+A: wood
+W: pool
+W: pole
+W: pal
+E: "Pull" and "wood" have the short /ʊ/ sound.
+
+Q: Which word contains the same vowel sound as "law"?
+A: caught
+W: low
+W: lot
+W: lad
+E: "Law" and "caught" have the long /ɔː/ sound.
+
+Q: Which word contains the same vowel sound as "hot"?
+A: want
+W: hat
+W: hut
+W: heart
+E: "Hot" and "want" have the short /ɒ/ sound.
+
+Q: Which word contains the same vowel sound as "bed"?
+A: said
+W: bad
+W: bead
+W: bird
+E: "Bed" and "said" have the /e/ sound.
+
+Q: Which of these words contains a diphthong?
+A: coin
+W: kin
+W: can
+W: cup
+E: "Coin" has the /ɔɪ/ diphthong, a glide between two vowel sounds.
+
+Q: Which word contains the same diphthong as "day"?
+A: rain
+W: die
+W: dear
+W: dare
+E: "Day" and "rain" have /eɪ/.
+
+Q: Which word contains the same diphthong as "my"?
+A: high
+W: may
+W: me
+W: mow
+E: "My" and "high" have /aɪ/.
+
+Q: Which word contains the same diphthong as "now"?
+A: house
+W: know
+W: new
+W: gnaw
+E: "Now" and "house" have /aʊ/.
+
+Q: Which word contains the same diphthong as "go"?
+A: boat
+W: got
+W: gone
+W: gun
+E: "Go" and "boat" have /əʊ/.
+
+Q: Which word contains the same diphthong as "here"?
+A: dear
+W: hair
+W: hire
+W: her
+E: "Here" and "dear" have /ɪə/.
+
+Q: Which word contains the same diphthong as "air"?
+A: care
+W: ear
+W: are
+W: or
+E: "Air" and "care" have /eə/.
+
+Q: Which word has a different vowel sound from the others?
+A: put
+W: cut
+W: shut
+W: hut
+E: "Put" has /ʊ/; the others have /ʌ/.
+
+Q: Which word has a different vowel sound from the others?
+A: bread
+W: bead
+W: need
+W: seed
+E: "Bread" has /e/; the others have /iː/.
+
+Q: The weak vowel /ə/ (schwa) is found in the first syllable of
+A: about
+W: apple
+W: under
+W: after
+E: The "a" in "about" is unstressed and sounds like /ə/.
+
+Q: Which word contains the same vowel sound as "food"?
+A: shoe
+W: foot
+W: good
+W: flood
+E: "Food" and "shoe" have /uː/.
+
+Q: Which word contains the same vowel sound as "work"?
+A: earth
+W: walk
+W: wok
+W: wake
+E: "Work" and "earth" have /ɜː/.
+
+Q: Which word contains the same vowel sound as "ship"?
+A: women
+W: sheep
+W: shop
+W: shape
+E: The first syllable of "women" has /ɪ/, like "ship".
+
+@topic eng-consonants
+
+Q: Which word begins with the same consonant sound as "thank"?
+A: theatre
+W: that
+W: tank
+W: fan
+E: "Thank" and "theatre" begin with the voiceless /θ/.
+
+Q: Which word begins with the same consonant sound as "this"?
+A: those
+W: thin
+W: dish
+W: sis
+E: "This" and "those" begin with the voiced /ð/.
+
+Q: Which word begins with the same consonant sound as "shoe"?
+A: sugar
+W: soup
+W: choose
+W: zoo
+E: "Sugar" begins with /ʃ/.
+
+Q: Which word contains the consonant sound /ʒ/ as in "measure"?
+A: vision
+W: mission
+W: nation
+W: pressure
+E: "Vision" has /ʒ/; the others have /ʃ/.
+
+Q: Which word begins with the same consonant sound as "judge"?
+A: general
+W: garden
+W: yes
+W: chair
+E: "Judge" and "general" begin with /dʒ/.
+
+Q: Which word begins with the same consonant sound as "chair"?
+A: cello
+W: chemist
+W: share
+W: jam
+E: "Cello" begins with /tʃ/, like "chair".
+
+Q: Which word ends with the same consonant sound as "sing"?
+A: tongue
+W: sin
+W: sink
+W: since
+E: "Sing" and "tongue" end with /ŋ/.
+
+Q: Which word begins with the same consonant sound as "yes"?
+A: use
+W: jet
+W: east
+W: gym
+E: "Use" begins with the /j/ sound.
+
+Q: Which word begins with the same consonant sound as "fun"?
+A: phone
+W: van
+W: pun
+W: thin
+E: "Phone" begins with /f/.
+
+Q: Which word begins with the same consonant sound as "kite"?
+A: chemistry
+W: city
+W: knife
+W: giant
+E: "Chemistry" begins with /k/.
+
+Q: Which word begins with a voiced consonant?
+A: van
+W: fan
+W: pan
+W: tan
+E: /v/ is voiced; /f/, /p/ and /t/ are voiceless.
+
+Q: Which pair of words differs only in the first consonant sound?
+A: pin – bin
+W: pin – pen
+W: pin – pine
+W: pin – pins
+E: /p/ and /b/ are a minimal pair here.
+
+Q: Which word ends with the /z/ sound?
+A: dogs
+W: cats
+W: books
+W: maps
+E: The plural -s after a voiced sound like /g/ is pronounced /z/.
+
+Q: In which word is the final "-ed" pronounced /t/?
+A: walked
+W: played
+W: wanted
+W: opened
+E: After a voiceless sound like /k/, "-ed" sounds like /t/.
+
+Q: In which word is the final "-ed" pronounced /ɪd/?
+A: needed
+W: jumped
+W: called
+W: laughed
+E: After /t/ or /d/, "-ed" is pronounced /ɪd/.
+
+Q: In which word is the final "-ed" pronounced /d/?
+A: cleaned
+W: kissed
+W: started
+W: washed
+E: After a voiced sound like /n/, "-ed" sounds like /d/.
+
+Q: Which word begins with the same consonant sound as "whale" in standard British English?
+A: wet
+W: hat
+W: vet
+W: yet
+E: "Wh" in "whale" is usually pronounced /w/.
+
+Q: Which word contains a consonant cluster at the beginning?
+A: spring
+W: sing
+W: ring
+W: sun
+E: "Spring" begins with three consonants: s, p, r.
+
+Q: Which word begins with the same consonant sound as "gnat"?
+A: night
+W: goat
+W: gate
+W: gun
+E: The "g" in "gnat" is silent, so it begins with /n/.
+
+Q: Which word contains the same consonant sound as the "s" in "pleasure"?
+A: garage (final sound)
+W: pressure
+W: pass
+W: rice
+E: "Garage" ends in /ʒ/ in many accents, like "pleasure".
+
+Q: Which word begins with the same sound as "hour"?
+A: our
+W: house
+W: horse
+W: hall
+E: The "h" in "hour" is silent.
+
+Q: Which word ends with the same consonant sound as "laugh"?
+A: stiff
+W: love
+W: lag
+W: last
+E: "Laugh" and "stiff" end with /f/.
+
+Q: Which word begins with the same consonant sound as "quick"?
+A: queen
+W: kill
+W: wick
+W: chick
+E: "Qu" sounds /kw/ in both words.
+
+Q: Which word contains the consonant /θ/?
+A: bath
+W: bathe
+W: breathe
+W: smooth
+E: "Bath" ends with the voiceless /θ/; the others have /ð/.
+
+@topic eng-spelling
+
+Q: Which of these words is spelt correctly?
+A: accommodation
+W: accomodation
+W: acommodation
+W: accommodasion
+E: "Accommodation" has double c and double m.
+
+Q: Which of these words is spelt correctly?
+A: necessary
+W: neccessary
+W: necesary
+W: neccesary
+E: One c, double s: necessary.
+
+Q: Which of these words is spelt correctly?
+A: separate
+W: seperate
+W: separete
+W: sepparate
+E: Remember "a rat" in sep-a-rate.
+
+Q: Which of these words is spelt correctly?
+A: embarrass
+W: embarass
+W: embarras
+W: emmbarrass
+E: Double r and double s.
+
+Q: Which of these words is spelt correctly?
+A: occurrence
+W: occurence
+W: ocurrence
+W: occurrance
+E: Double c, double r, ending -ence.
+
+Q: Which of these words is spelt correctly?
+A: receive
+W: recieve
+W: receeve
+W: resieve
+E: "I before e except after c": receive.
+
+Q: Which of these words is spelt correctly?
+A: definitely
+W: definately
+W: definitly
+W: defenitely
+E: It comes from "finite": de-fin-ite-ly.
+
+Q: Which of these words is spelt correctly?
+A: committee
+W: commitee
+W: comittee
+W: committe
+E: Double m, double t, double e.
+
+Q: Which of these words is spelt correctly?
+A: beginning
+W: begining
+W: beggining
+W: beginnig
+E: Double n before -ing.
+
+Q: Which of these words is spelt correctly?
+A: government
+W: goverment
+W: governmant
+W: govermant
+E: Do not forget the "n": govern + ment.
+
+Q: Which of these words is spelt correctly?
+A: environment
+W: enviroment
+W: environmant
+W: envirnment
+E: environ + ment.
+
+Q: Which of these words is spelt correctly?
+A: address
+W: adress
+W: addres
+W: adresss
+E: Double d and double s.
+
+Q: Which of these words is spelt correctly?
+A: privilege
+W: priviledge
+W: privilage
+W: previlege
+E: No "d" in privilege.
+
+Q: Which of these words is spelt correctly?
+A: maintenance
+W: maintainance
+W: maintenence
+W: maintanance
+E: maintain → maintenance.
+
+Q: Which of these words is spelt correctly?
+A: occasion
+W: occassion
+W: ocasion
+W: occation
+E: Double c, single s.
+
+Q: Which of these words is spelt correctly?
+A: possession
+W: posession
+W: possesion
+W: posesion
+E: Two pairs of double s.
+
+Q: Which of these words is spelt correctly?
+A: conscience
+W: concience
+W: consciense
+W: conshence
+E: con + science.
+
+Q: Which of these words is spelt correctly?
+A: harass
+W: harrass
+W: harras
+W: haress
+E: One r, double s.
+
+Q: Which of these words is spelt correctly?
+A: millennium
+W: millenium
+W: milennium
+W: milenium
+E: Double l and double n.
+
+Q: Which of these words is spelt correctly?
+A: questionnaire
+W: questionaire
+W: questionnare
+W: questionair
+E: Double n and ending -aire.
+
+Q: Which of these words is spelt correctly?
+A: lieutenant
+W: leiutenant
+W: lieutenent
+W: lieutinant
+E: It comes from French "lieu" (place).
+
+Q: Which of these words is spelt correctly?
+A: rhythm
+W: rythm
+W: rhythem
+W: rhytm
+E: rh-y-th-m, with no vowels except y.
+
+Q: Which of these words is spelt correctly?
+A: exaggerate
+W: exagerate
+W: exaggarate
+W: exxagerate
+E: Double g.
+
+Q: Which of these words is spelt correctly?
+A: parallel
+W: paralel
+W: parralel
+W: parallell
+E: Double l in the middle, single l at the end.
+
+@topic eng-punctuation
+
+Q: Which sentence is correctly punctuated?
+A: "Where are you going?" asked Bayo.
+W: "Where are you going," asked Bayo?
+W: "Where are you going"? asked Bayo.
+W: Where are you going? "asked Bayo."
+E: The question mark goes inside the quotation marks.
+
+Q: Which sentence uses the apostrophe correctly?
+A: The teachers' room is upstairs.
+W: The teacher's' room is upstairs.
+W: The teachers room's is upstairs.
+W: The teacher's rooms' is upstairs.
+E: For a plural noun ending in s, add the apostrophe after the s.
+
+Q: Which sentence uses the apostrophe correctly?
+A: It's raining heavily.
+W: Its' raining heavily.
+W: It,s raining heavily.
+W: Its raining heavily.
+E: "It's" is short for "it is".
+
+Q: Which sentence is correctly punctuated?
+A: I bought rice, beans, yam and pepper.
+W: I bought rice beans yam and pepper.
+W: I bought, rice beans, yam and pepper.
+W: I bought rice; beans; yam, and; pepper.
+E: Commas separate items in a list.
+
+Q: A colon is correctly used in
+A: You need three things: a pen, a ruler and an eraser.
+W: You need: three things a pen a ruler and an eraser.
+W: You: need three things.
+W: You need three: things.
+E: A colon introduces a list.
+
+Q: Which sentence uses the semicolon correctly?
+A: It was late; we decided to stay.
+W: It was; late we decided to stay.
+W: It was late we; decided to stay.
+W: It; was late we decided to stay.
+E: A semicolon joins two closely related main clauses.
+
+Q: Which word should begin with a capital letter in this sentence: we visited kano in december.
+A: we, Kano and December
+W: only we
+W: only Kano
+W: only December
+E: The first word of a sentence, place names and months take capitals.
+
+Q: Which sentence is correctly punctuated?
+A: My brother, who lives in Enugu, is a doctor.
+W: My brother who lives in Enugu, is a doctor.
+W: My brother, who lives in Enugu is a doctor.
+W: My, brother who lives in Enugu is a doctor.
+E: A non-defining clause is enclosed by commas.
+
+Q: The hyphen is correctly used in
+A: a well-known writer
+W: a well known-writer
+W: a-well known writer
+W: a well known writer-
+E: Compound adjectives before a noun are hyphenated.
+
+Q: Which mark ends an exclamatory sentence?
+A: exclamation mark
+W: full stop
+W: question mark
+W: comma
+E: E.g. "What a lovely gift!"
+
+Q: Which sentence uses quotation marks correctly?
+A: She said, "I am ready."
+W: She said, "I am ready".
+W: She said "I am ready."
+W: She said, I am "ready."
+E: A comma introduces the quote and the full stop goes inside.
+
+Q: Which is the correct use of the apostrophe for the children's toys?
+A: the children's toys
+W: the childrens' toys
+W: the childrens toys
+W: the children toy's
+E: "Children" is plural without s, so add 's.
+
+Q: Which sentence is correctly punctuated?
+A: However, the plan failed.
+W: However the plan, failed.
+W: However; the plan failed.
+W: However the plan failed,
+E: A comma follows an introductory word such as "however".
+
+Q: Which sentence needs a question mark?
+A: Have you finished your homework
+W: Finish your homework
+W: I have finished my homework
+W: What a lot of homework
+E: It asks a question.
+
+Q: The dash is used correctly in
+A: I know what we need — more time.
+W: I — know what we need more time.
+W: I know — what we need more — time.
+W: I know what — we need more time —.
+E: A dash can introduce an explanation.
+
+Q: Which sentence uses brackets correctly?
+A: The President (who arrived late) gave a short speech.
+W: The President who (arrived late gave) a short speech.
+W: The (President who arrived) late gave a short speech.
+W: (The President who arrived late gave a short speech.
+E: Brackets enclose extra information that can be removed.
+
+Q: Which is the correct abbreviation punctuation?
+A: Dr. Okafor or Dr Okafor
+W: D.r Okafor
+W: Dr,Okafor
+W: Dr; Okafor
+E: Both "Dr." and "Dr" are accepted; British English often omits the full stop.
+
+Q: Which sentence is correctly punctuated?
+A: "Come here," said the teacher, "and sit down."
+W: "Come here" said the teacher "and sit down."
+W: "Come here, said the teacher, and sit down."
+W: Come here, "said the teacher," and sit down.
+E: Each spoken part is in quotation marks with commas around the reporting words.
+
+Q: The apostrophe in "don't" shows that
+A: a letter has been left out
+W: something belongs to someone
+W: the word is plural
+W: the word is a name
+E: "Don't" is short for "do not".
+
+Q: Which sentence is correctly punctuated?
+A: On Monday, 1 October, we celebrate Independence Day.
+W: On Monday 1 October we, celebrate Independence Day.
+W: On, Monday 1 October we celebrate Independence Day.
+W: On Monday 1, October, we celebrate, Independence Day.
+E: Commas set off the date details.
+
+Q: Which of these is correctly punctuated as a list of cities?
+A: Lagos, Abuja, Kano and Port Harcourt
+W: Lagos Abuja, Kano, and, Port Harcourt
+W: Lagos; Abuja Kano; and Port Harcourt
+W: Lagos Abuja Kano and Port Harcourt,
+E: Separate the items with commas; "and" joins the last two.
+
+Q: Which word needs an apostrophe in "The dogs bone is under the chair"?
+A: dogs → dog's
+W: bone → bone's
+W: chair → chair's
+W: under → under's
+E: The bone belongs to the dog, so "dog's".
+
+Q: Which sentence shows correct use of capital letters?
+A: My uncle works for the Central Bank of Nigeria.
+W: my Uncle works for the central bank of nigeria.
+W: My Uncle Works For The Central Bank Of Nigeria.
+W: my uncle works for the Central bank of nigeria.
+E: Names of organisations and the first word take capitals.
+
+Q: Where should the comma go in "If you study hard you will pass"?
+A: after "hard"
+W: after "If"
+W: after "you"
+W: after "will"
+E: A comma follows an introductory subordinate clause.

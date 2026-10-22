@@ -1,0 +1,2435 @@
+@subject geography
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic geo-earth
+
+Q: The largest planet in the solar system is
+A: Jupiter
+W: Saturn
+W: Earth
+W: Neptune
+E: Jupiter is a gas giant.
+
+Q: The earth's shape is best described as
+A: an oblate spheroid
+W: a perfect sphere
+W: a flat disc
+W: a cube
+E: It bulges at the equator and is flattened at the poles.
+
+Q: The earth rotates from
+A: west to east
+W: east to west
+W: north to south
+W: south to north
+E: This is why the sun appears to rise in the east.
+
+Q: The earth rotates through 15° of longitude every
+A: one hour
+W: four minutes
+W: one day
+W: thirty minutes
+E: 360° ÷ 24 hours = 15° per hour.
+
+Q: The earth rotates through 1° of longitude every
+A: 4 minutes
+W: 15 minutes
+W: 1 hour
+W: 1 minute
+E: 60 minutes ÷ 15 = 4 minutes.
+
+Q: The International Date Line roughly follows longitude
+A: 180°
+W: 0°
+W: 90° E
+W: 23½° N
+E: Crossing it changes the date.
+
+Q: The sun is overhead at the Tropic of Capricorn on about
+A: 22 December
+W: 21 June
+W: 21 March
+W: 23 September
+E: It is the southern summer solstice.
+
+Q: The equinoxes occur on about
+A: 21 March and 23 September
+W: 21 June and 22 December
+W: 1 January and 1 July
+W: 15 May and 15 November
+E: Day and night are equal everywhere.
+
+@topic geo-maps
+
+Q: A representative fraction of 1:100,000 means 1 cm on the map represents
+A: 1 km on the ground
+W: 10 km on the ground
+W: 100 m on the ground
+W: 100 km on the ground
+E: 100,000 cm = 1 km.
+
+Q: A gentle slope is shown on a contour map by
+A: contours widely spaced
+W: contours very close together
+W: contours crossing
+W: no contours
+E: Wide spacing means a small change in height.
+
+Q: A spur is shown on a contour map by contours forming
+A: a V pointing downhill
+W: a V pointing uphill
+W: closed circles
+W: straight parallel lines
+E: Valleys have Vs pointing uphill.
+
+Q: The direction exactly between north and east is
+A: north-east
+W: south-east
+W: north-west
+W: east-north-east
+E: It has a bearing of 045°.
+
+Q: A bearing of 270° points
+A: west
+W: east
+W: south
+W: north
+E: Bearings are measured clockwise from north.
+
+@topic geo-rocks
+
+Q: Granite is an example of
+A: an igneous rock
+W: a sedimentary rock
+W: a metamorphic rock
+W: an organic rock
+E: It forms from slowly cooled magma.
+
+Q: Basalt is an igneous rock that forms
+A: from lava cooling quickly at the surface
+W: deep underground slowly
+W: from sediments
+W: from coral
+E: It has small crystals.
+
+Q: Intrusive igneous rocks have large crystals because they
+A: cool slowly underground
+W: cool quickly at the surface
+W: are made from shells
+W: are formed by pressure only
+E: Slow cooling allows crystals to grow.
+
+Q: Sandstone is an example of
+A: a sedimentary rock
+W: an igneous rock
+W: a metamorphic rock
+W: a volcanic rock
+E: It is made of cemented sand grains.
+
+Q: Limestone is mainly formed from
+A: the remains of sea creatures
+W: cooled lava
+W: heated granite
+W: volcanic ash only
+E: It is an organically formed sedimentary rock.
+
+Q: Coal is an example of
+A: an organic sedimentary rock
+W: an igneous rock
+W: a metamorphic rock formed from granite
+W: a volcanic rock
+E: It forms from compressed plant remains.
+
+Q: Marble is formed from
+A: limestone changed by heat and pressure
+W: granite
+W: sandstone
+W: clay only
+E: It is a metamorphic rock.
+
+Q: Slate is formed from
+A: shale or clay
+W: limestone
+W: granite
+W: basalt
+E: It is a metamorphic rock that splits into sheets.
+
+Q: Quartzite is formed from
+A: sandstone
+W: limestone
+W: shale
+W: coal
+E: Heat and pressure fuse the sand grains.
+
+Q: Gneiss is a metamorphic rock formed mainly from
+A: granite
+W: limestone
+W: clay
+W: coal
+E: It has banded minerals.
+
+Q: Physical weathering is common in deserts because of
+A: large daily temperature changes
+W: heavy rainfall
+W: dense vegetation
+W: high humidity
+E: Rocks expand by day and contract at night.
+
+Q: Exfoliation is the peeling off of rock layers caused by
+A: repeated heating and cooling
+W: plant roots only
+W: carbonation
+W: animals
+E: It is a type of physical weathering.
+
+Q: Chemical weathering is most rapid in
+A: hot, wet climates
+W: cold, dry climates
+W: deserts
+W: polar regions
+E: Heat and moisture speed reactions.
+
+Q: Carbonation mainly affects
+A: limestone
+W: granite
+W: quartzite
+W: basalt
+E: Rainwater containing carbon dioxide dissolves it.
+
+Q: Oxidation in weathering causes rocks to
+A: rust and crumble, often turning red
+W: freeze
+W: grow crystals
+W: become harder
+E: Iron minerals react with oxygen.
+
+Q: Biological weathering can be caused by
+A: plant roots growing in cracks
+W: lava flows
+W: earthquakes
+W: ocean currents
+E: Roots widen cracks.
+
+Q: Rocks are useful to man because they
+A: provide building materials and minerals
+W: cause floods
+W: reduce soil fertility always
+W: block rivers
+E: E.g. granite for buildings.
+
+Q: The rock cycle shows that
+A: rocks change from one type to another over time
+W: rocks never change
+W: only igneous rocks exist
+W: rocks come from space
+E: Weathering, melting and pressure change rocks.
+
+Q: Fossils are mostly found in
+A: sedimentary rocks
+W: igneous rocks
+W: lava
+W: magma
+E: They form as sediments bury remains.
+
+Q: The Jos Plateau is largely made of
+A: granite and volcanic rocks
+W: limestone only
+W: coal only
+W: sand only
+E: It has younger granites rich in tin.
+
+Q: Laterite is
+A: a hardened iron-rich soil layer formed in the tropics
+W: a type of granite
+W: a volcanic gas
+W: a type of fossil
+E: It forms by intense leaching.
+
+Q: Mass wasting refers to
+A: the downhill movement of rock and soil under gravity
+W: erosion by wind only
+W: deposition by rivers
+W: melting of glaciers only
+E: E.g. landslides and soil creep.
+
+Q: Soil creep is
+A: the very slow downhill movement of soil
+W: a fast landslide
+W: a volcanic eruption
+W: a flood
+E: It may cause trees and poles to tilt.
+
+Q: Inselbergs are common in
+A: savanna areas of Nigeria
+W: the Niger Delta mangroves
+W: the coastal lagoons
+W: the Atlantic Ocean
+E: E.g. Olumo Rock and Zuma Rock.
+
+@topic geo-weather
+
+Q: Weather refers to
+A: the condition of the atmosphere at a particular time and place
+W: average conditions over 35 years
+W: the type of soil
+W: the shape of the land
+E: Climate is the long-term average.
+
+Q: A barometer measures
+A: atmospheric pressure
+W: temperature
+W: rainfall
+W: wind direction
+E: Pressure is measured in millibars.
+
+Q: A wind vane shows
+A: wind direction
+W: wind speed
+W: rainfall
+W: humidity
+E: It points to where the wind comes from.
+
+Q: Maximum and minimum temperatures are recorded with
+A: Six's thermometer
+W: an anemometer
+W: a hygrometer
+W: a rain gauge
+E: It records the highest and lowest readings.
+
+Q: Sunshine duration is measured with
+A: the Campbell-Stokes sunshine recorder
+W: a barometer
+W: a rain gauge
+W: a hygrometer
+E: A glass sphere burns a trace on a card.
+
+Q: Lines joining places of equal temperature are called
+A: isotherms
+W: isobars
+W: isohyets
+W: contours
+E: Isobars join equal pressure.
+
+Q: Lines joining places of equal pressure are called
+A: isobars
+W: isotherms
+W: isohyets
+W: isohels
+E: They are drawn on weather maps.
+
+Q: Convectional rainfall occurs when
+A: heated air rises, cools and condenses
+W: air rises over mountains
+W: warm and cold air masses meet
+W: the sea freezes
+E: It is common in the afternoon in the tropics.
+
+Q: Frontal (cyclonic) rainfall occurs when
+A: warm air rises over cold air
+W: air rises over hills
+W: the ground heats strongly
+W: there is no wind
+E: It is common in temperate regions.
+
+Q: The leeward side of a mountain receives little rain and is called the
+A: rain shadow
+W: windward side
+W: wet side
+W: delta
+E: Descending air warms and dries.
+
+Q: The south-west monsoon wind in Nigeria comes from the
+A: Atlantic Ocean
+W: Sahara Desert
+W: Indian Ocean
+W: Mediterranean Sea
+E: It brings rain.
+
+Q: The Inter-Tropical Discontinuity (ITD) is the boundary between
+A: the tropical maritime and tropical continental air masses
+W: two oceans
+W: two deserts
+W: the poles
+E: Its movement controls Nigeria's seasons.
+
+Q: The harmattan blows from the
+A: north-east
+W: south-west
+W: south-east
+W: west
+E: It comes from the Sahara.
+
+Q: Temperature decreases with altitude at an average rate of about
+A: 6.5 °C per 1000 m
+W: 1 °C per 1000 m
+W: 20 °C per 1000 m
+W: 0.1 °C per 1000 m
+E: This is the environmental lapse rate.
+
+Q: Relative humidity is
+A: the amount of water vapour in air compared with what it could hold
+W: the amount of rain in a year
+W: the speed of wind
+W: the air pressure
+E: It is expressed as a percentage.
+
+Q: Clouds form when water vapour
+A: cools and condenses
+W: evaporates
+W: freezes in the soil
+W: is absorbed by plants
+E: Condensation forms droplets.
+
+Q: Cumulonimbus clouds are associated with
+A: thunderstorms
+W: fair weather only
+W: fog
+W: snow on mountains only
+E: They are tall storm clouds.
+
+Q: Land breezes blow
+A: from land to sea at night
+W: from sea to land at night
+W: from land to sea by day
+W: only in deserts
+E: Land cools faster than the sea at night.
+
+Q: Sea breezes blow
+A: from sea to land during the day
+W: from land to sea by day
+W: only at night
+W: only in winter
+E: Land heats faster than the sea by day.
+
+Q: Weather forecasting is useful to
+A: farmers, pilots and fishermen
+W: nobody
+W: only students
+W: only doctors
+E: It helps planning.
+
+Q: The Nigerian Meteorological Agency (NiMet) is responsible for
+A: weather and climate services
+W: mining
+W: road building
+W: elections
+E: It issues forecasts.
+
+@topic geo-landforms
+
+Q: The upper course of a river is characterised by
+A: V-shaped valleys and waterfalls
+W: meanders and deltas
+W: wide floodplains
+W: ox-bow lakes
+E: Vertical erosion dominates.
+
+Q: Meanders are typical of the
+A: middle and lower course of a river
+W: source of a river
+W: upper course only
+W: ocean floor
+E: Lateral erosion creates bends.
+
+Q: A floodplain is
+A: flat land beside a river that floods
+W: a high plateau
+W: a mountain peak
+W: a sand dune
+E: Deposits of alluvium build it up.
+
+Q: Levees are
+A: raised banks of deposited material along a river
+W: waterfalls
+W: gorges
+W: lakes
+E: They form during floods.
+
+Q: A waterfall forms where
+A: a river flows over hard rock lying on softer rock
+W: the river meets the sea
+W: the land is flat
+W: there is no rock
+E: The soft rock erodes faster.
+
+Q: An example of a waterfall in Nigeria is
+A: Gurara Falls
+W: Victoria Falls
+W: Niagara Falls
+W: Angel Falls
+E: Gurara Falls is in Niger State.
+
+Q: River capture (piracy) occurs when
+A: one river diverts the headwaters of another
+W: two rivers dry up
+W: a river freezes
+W: a river reaches the sea
+E: The stronger river eroding headward captures the other.
+
+Q: A barchan is
+A: a crescent-shaped sand dune
+W: a river valley
+W: a coastal cliff
+W: a lake
+E: It forms where wind blows in one direction.
+
+Q: Wind erosion in deserts can produce
+A: rock pedestals (mushroom rocks)
+W: deltas
+W: ox-bow lakes
+W: fjords
+E: Sand blasts the base of rocks.
+
+Q: A cliff is formed by
+A: wave erosion
+W: river deposition
+W: wind deposition
+W: ice deposition
+E: Waves undercut the land.
+
+Q: A spit is
+A: a narrow ridge of sand extending from the coast into the sea
+W: a waterfall
+W: a mountain
+W: a valley
+E: It forms by longshore drift.
+
+Q: Longshore drift is
+A: the movement of material along a coast by waves
+W: the flow of rivers
+W: wind blowing inland
+W: the melting of ice
+E: Waves approach at an angle.
+
+Q: A beach is formed by
+A: the deposition of sand and pebbles by waves
+W: wind erosion only
+W: volcanic action
+W: glaciers in Nigeria
+E: Constructive waves deposit material.
+
+Q: Karst landscapes develop on
+A: limestone
+W: granite
+W: basalt
+W: clay
+E: Solution creates caves and sinkholes.
+
+Q: A stalactite
+A: hangs from the roof of a limestone cave
+W: rises from the cave floor
+W: forms in deserts
+W: forms at river mouths
+E: Stalagmites rise from the floor.
+
+Q: A U-shaped valley is formed by
+A: glacial erosion
+W: river erosion only
+W: wind erosion
+W: waves
+E: Glaciers widen and deepen valleys.
+
+Q: A fjord is
+A: a drowned glacial valley on a coast
+W: a desert landform
+W: a delta
+W: a volcanic crater
+E: E.g. in Norway.
+
+Q: A cirque (corrie) is
+A: an armchair-shaped hollow eroded by a glacier
+W: a river mouth
+W: a sand dune
+W: a lagoon
+E: It may hold a small lake (tarn).
+
+Q: A moraine is
+A: material deposited by a glacier
+W: a type of cloud
+W: a coastal cliff
+W: a volcanic rock
+E: It may be terminal or lateral.
+
+Q: An escarpment is
+A: a steep slope at the edge of a plateau or ridge
+W: a flat plain
+W: a sand dune
+W: a river mouth
+E: E.g. the Udi escarpment.
+
+Q: A rift valley is formed by
+A: land sinking between parallel faults
+W: river erosion
+W: wind deposition
+W: glacial erosion
+E: E.g. the Great Rift Valley.
+
+Q: A block mountain (horst) forms when
+A: land is raised between two faults
+W: lava builds up
+W: sediments are deposited
+W: a river erodes a valley
+E: E.g. the Ruwenzori.
+
+Q: Interlocking spurs are found in the
+A: upper course of a river
+W: delta
+W: floodplain
+W: ocean
+E: The river winds between ridges.
+
+Q: The processes by which a river erodes include hydraulic action, abrasion, solution and
+A: attrition
+W: deposition
+W: evaporation
+W: condensation
+E: Attrition wears particles against each other.
+
+@topic geo-volcanoes
+
+Q: The point on the surface directly above the focus of an earthquake is the
+A: epicentre
+W: focus
+W: crater
+W: vent
+E: Damage is often greatest there.
+
+Q: The Richter scale measures
+A: the magnitude of earthquakes
+W: rainfall
+W: wind speed
+W: temperature
+E: Each step is ten times larger in amplitude.
+
+Q: Tsunamis are
+A: huge sea waves caused by undersea earthquakes
+W: strong winds
+W: river floods
+W: dust storms
+E: They can cause great destruction on coasts.
+
+Q: The opening through which magma reaches the surface is the
+A: vent
+W: crater lake
+W: focus
+W: epicentre
+E: The crater is at the top.
+
+Q: An active volcano is one that
+A: erupts frequently or has erupted recently
+W: never erupts
+W: has not erupted for thousands of years
+W: is under the sea only
+E: E.g. Mount Etna.
+
+Q: An extinct volcano is one that
+A: is not expected to erupt again
+W: erupts every year
+W: erupts every day
+W: is about to erupt
+E: E.g. many cones on the Jos Plateau.
+
+Q: A caldera is
+A: a large crater formed when a volcano collapses
+W: a type of lava
+W: a sand dune
+W: a river valley
+E: It may fill with water.
+
+Q: A dyke is
+A: a vertical sheet of igneous rock cutting across rock layers
+W: a horizontal sheet
+W: a volcanic cone
+W: a crater
+E: It is an intrusive feature.
+
+Q: A sill is
+A: a horizontal sheet of igneous rock between rock layers
+W: a vertical sheet
+W: a crater
+W: a type of lava flow
+E: It is an intrusive feature.
+
+Q: A batholith is
+A: a very large mass of intrusive igneous rock
+W: a small crater
+W: a lava flow
+W: a hot spring
+E: It may form the core of mountains.
+
+Q: Geysers are
+A: hot springs that shoot out water and steam
+W: cold lakes
+W: sand dunes
+W: dry valleys
+E: E.g. in Iceland.
+
+Q: Folding occurs when
+A: compressional forces bend rock layers
+W: tensional forces pull rocks apart
+W: rivers erode valleys
+W: wind deposits sand
+E: Up-folds are anticlines; down-folds are synclines.
+
+Q: An anticline is
+A: an upfold of rock layers
+W: a downfold
+W: a fault
+W: a crater
+E: Synclines are downfolds.
+
+Q: A fault is
+A: a crack in the earth's crust along which rocks have moved
+W: a fold
+W: a volcano
+W: a river
+E: Faults cause earthquakes.
+
+Q: The Alps, Himalayas and Andes are examples of
+A: fold mountains
+W: block mountains
+W: volcanic mountains
+W: residual mountains
+E: They formed by plate collision.
+
+Q: The theory that continents move on plates is
+A: plate tectonics
+W: the big bang
+W: evolution
+W: the water cycle
+E: Plates move slowly over the mantle.
+
+Q: The Pacific "Ring of Fire" is known for
+A: many volcanoes and earthquakes
+W: deserts
+W: coral reefs only
+W: glaciers only
+E: It circles the Pacific Ocean.
+
+Q: Volcanic soils are often
+A: very fertile
+W: always infertile
+W: salty
+W: sandy and dry
+E: They are rich in minerals.
+
+Q: A benefit of volcanoes is that they
+A: provide geothermal energy
+W: destroy farmland only
+W: cause tsunamis
+W: block sunlight forever
+E: E.g. power stations in Iceland and Kenya.
+
+Q: Diastrophism refers to
+A: movements of the earth's crust
+W: weathering
+W: deposition by rivers
+W: soil formation
+E: It includes folding and faulting.
+
+Q: Earthquake waves are recorded on a
+A: seismograph
+W: barometer
+W: hygrometer
+W: anemometer
+E: It produces a seismogram.
+
+Q: The innermost layer of the earth is the
+A: core
+W: crust
+W: mantle
+W: atmosphere
+E: It is mainly iron and nickel.
+
+Q: The layer between the crust and the core is the
+A: mantle
+W: lithosphere only
+W: hydrosphere
+W: atmosphere
+E: It is made of hot rock.
+
+Q: A volcano made of alternating layers of lava and ash is a
+A: composite (strato) volcano
+W: shield volcano
+W: cinder cone only
+W: caldera only
+E: E.g. Mount Fuji.
+
+@topic geo-oceans
+
+Q: Spring tides occur when
+A: the sun, moon and earth are in a straight line
+W: the sun and moon are at right angles
+W: there is no moon
+W: it is winter
+E: Tides are highest and lowest.
+
+Q: Neap tides occur when
+A: the sun and moon are at right angles to the earth
+W: the sun, moon and earth are in line
+W: there is a full moon only
+W: there is an eclipse
+E: The tidal range is small.
+
+Q: Tides are caused mainly by
+A: the gravitational pull of the moon and sun
+W: wind
+W: earthquakes
+W: rivers
+E: The moon's pull is greater.
+
+Q: The Canary Current is a
+A: cold current
+W: warm current
+W: river
+W: lake
+E: It flows off north-west Africa.
+
+Q: The Gulf Stream is a
+A: warm current
+W: cold current
+W: lake
+W: desert wind
+E: It warms north-west Europe.
+
+Q: The Benguela Current flows along the coast of
+A: south-west Africa
+W: West Africa
+W: East Africa
+W: North Africa
+E: It is cold and helps form the Namib Desert.
+
+Q: Cold ocean currents near coasts often cause
+A: fog and dry conditions on land
+W: heavy rainfall
+W: warm winters
+W: tropical storms
+E: Air over them is cooled.
+
+Q: The salinity of sea water refers to
+A: the amount of dissolved salts
+W: its temperature
+W: its depth
+W: its colour
+E: Average salinity is about 35 parts per thousand.
+
+Q: The Dead Sea is very salty because
+A: evaporation is high and it has no outlet
+W: it is very cold
+W: it receives many rivers with outlets
+W: it is in a rainforest
+E: Salts accumulate.
+
+Q: A river's mouth is where it
+A: enters the sea or a lake
+W: begins
+W: meets a tributary
+W: forms a waterfall
+E: It may form a delta or estuary.
+
+Q: A tributary is
+A: a smaller river that joins a main river
+W: the mouth of a river
+W: the source of a river
+W: a lake
+E: E.g. the Benue is a tributary of the Niger.
+
+Q: A distributary is
+A: a channel that branches off a river and flows away from it
+W: a river joining the main river
+W: a waterfall
+W: a lake
+E: Common in deltas.
+
+Q: A watershed is
+A: the high ground separating two drainage basins
+W: a lake
+W: a dam
+W: a river mouth
+E: Rain flows to different rivers on each side.
+
+Q: Lake Victoria is
+A: the largest lake in Africa
+W: the smallest lake in Africa
+W: in Nigeria
+W: a salt lake
+E: It is shared by Uganda, Kenya and Tanzania.
+
+Q: Lake Kainji is
+A: an artificial lake formed by a dam
+W: a natural rift lake
+W: a crater lake
+W: an ox-bow lake
+E: It was created by the Kainji Dam.
+
+Q: Rift valley lakes in East Africa include
+A: Lake Tanganyika
+W: Lake Chad
+W: Lake Kainji
+W: Lake Victoria only
+E: They are long and deep.
+
+Q: A lagoon in Nigeria is found at
+A: Lagos
+W: Kano
+W: Sokoto
+W: Jos
+E: The Lagos Lagoon is a well-known example.
+
+Q: The continental shelf is
+A: the shallow sea area bordering the continents
+W: the deepest part of the ocean
+W: a mountain range
+W: a desert
+E: It is rich in fish.
+
+Q: The deepest part of the ocean is in the
+A: Mariana Trench
+W: Atlantic shelf
+W: Gulf of Guinea
+W: Mediterranean Sea
+E: It is in the Pacific Ocean.
+
+Q: The hydrological (water) cycle involves evaporation, condensation, precipitation and
+A: run-off
+W: erosion only
+W: volcanic eruption
+W: weathering only
+E: Water returns to the sea.
+
+Q: Rivers are useful for
+A: transport, fishing and irrigation
+W: causing earthquakes
+W: making deserts
+W: nothing
+E: They support many activities.
+
+Q: An estuary is
+A: a wide tidal mouth of a river
+W: the source of a river
+W: a waterfall
+W: a delta only
+E: E.g. the Thames estuary.
+
+Q: The River Niger enters the sea through
+A: a delta in southern Nigeria
+W: an estuary in Senegal
+W: Lake Chad
+W: the Mediterranean Sea
+E: The Niger Delta is one of the largest in the world.
+
+Q: Ocean currents are mainly caused by
+A: planetary winds and differences in water density
+W: rivers
+W: earthquakes only
+W: lakes
+E: Temperature and salinity affect density.
+
+@topic geo-vegetation
+
+Q: Tropical rainforest vegetation has
+A: tall evergreen trees in layers
+W: short grasses only
+W: thorny shrubs
+W: no trees
+E: It is found where rainfall is heavy all year.
+
+Q: The Guinea savanna in Nigeria has
+A: tall grasses with scattered trees
+W: only cactus
+W: mangroves
+W: no grass
+E: It lies north of the forest belt.
+
+Q: The Sahel savanna is found in
+A: the extreme north of Nigeria
+W: the Niger Delta
+W: Lagos
+W: Cross River State
+E: It borders the desert.
+
+Q: Montane vegetation in Nigeria is found on
+A: the Jos, Mambilla and Obudu plateaux
+W: the coastal swamps
+W: the Sahel
+W: the Lagos lagoon
+E: Altitude creates cooler conditions.
+
+Q: Plants adapted to dry conditions are called
+A: xerophytes
+W: hydrophytes
+W: epiphytes
+W: halophytes only
+E: E.g. cactus.
+
+Q: Mangrove trees have
+A: stilt roots and breathing roots
+W: needle leaves
+W: no roots
+W: thorns only
+E: They grow in salty swamps.
+
+Q: Savanna trees often shed their leaves in the dry season to
+A: reduce water loss
+W: grow faster
+W: attract animals
+W: make shade
+E: They are deciduous.
+
+Q: Soil is made up of mineral matter, organic matter, water and
+A: air
+W: lava
+W: plastic
+W: salt only
+E: These four components form soil.
+
+Q: Humus is
+A: decayed organic matter in soil
+W: a type of rock
+W: a mineral
+W: a soil insect
+E: It improves fertility.
+
+Q: A soil profile shows
+A: the layers (horizons) of soil
+W: the colour of the sky
+W: the height of trees
+W: the depth of rivers
+E: E.g. topsoil, subsoil and parent rock.
+
+Q: The A-horizon is
+A: the topsoil
+W: the parent rock
+W: the subsoil
+W: the bedrock
+E: It is rich in humus.
+
+Q: Soil erosion can be reduced by
+A: planting cover crops and contour ploughing
+W: bush burning
+W: overgrazing
+W: deforestation
+E: These protect the soil.
+
+Q: Loamy soil is best for farming because it
+A: holds water well and drains well
+W: is very sandy
+W: is very clayey
+W: has no nutrients
+E: It is a mixture of sand, silt and clay.
+
+Q: Sandy soil
+A: drains quickly and holds little water
+W: holds too much water
+W: is very sticky
+W: is rich in humus always
+E: Particles are large.
+
+Q: Clay soil
+A: holds water and can become waterlogged
+W: drains very fast
+W: has large particles
+W: has no water
+E: Particles are very small.
+
+Q: Deforestation leads to
+A: soil erosion and loss of biodiversity
+W: more rainfall always
+W: more forests
+W: better soil always
+E: Trees protect the soil.
+
+Q: Bush burning harms soil by
+A: destroying organic matter
+W: adding humus
+W: increasing soil life
+W: improving structure
+E: Fire kills soil organisms.
+
+Q: Afforestation means
+A: planting trees where there were none
+W: cutting trees down
+W: burning forests
+W: clearing bushes
+E: It restores vegetation.
+
+Q: Reafforestation means
+A: replanting trees where forests were cut
+W: cutting more trees
+W: burning grass
+W: building houses
+E: It renews forests.
+
+Q: The temperate grasslands of South America are called the
+A: pampas
+W: prairies
+W: steppes
+W: veld
+E: The prairies are in North America.
+
+Q: The temperate grasslands of South Africa are called the
+A: veld
+W: pampas
+W: steppes
+W: downs
+E: They are used for grazing and maize.
+
+Q: Coniferous forests are found mainly in
+A: cool temperate regions
+W: tropical deserts
+W: equatorial regions
+W: savannas
+E: E.g. the taiga of Canada and Russia.
+
+Q: Coniferous trees have
+A: needle-shaped leaves
+W: broad leaves
+W: no leaves
+W: large flowers
+E: This reduces water loss and snow damage.
+
+Q: Factors that affect soil formation include climate, parent rock, relief, organisms and
+A: time
+W: population
+W: industry
+W: trade
+E: Soils take a long time to form.
+
+@topic geo-nigeria
+
+Q: The capital of Nigeria is
+A: Abuja
+W: Lagos
+W: Kano
+W: Ibadan
+E: Abuja became the capital in 1991.
+
+Q: Nigeria has how many states?
+A: 36
+W: 30
+W: 19
+W: 12
+E: Plus the Federal Capital Territory.
+
+Q: Nigeria's highest point, Chappal Waddi, is on the
+A: Mambilla Plateau
+W: Jos Plateau
+W: Udi Hills
+W: Obudu Plateau
+E: It is in Taraba State.
+
+Q: The Jos Plateau has a cooler climate than surrounding areas because of
+A: its high altitude
+W: its nearness to the sea
+W: heavy forests
+W: its desert location
+E: Temperature falls with height.
+
+Q: Nigeria shares borders with Benin, Niger, Chad and
+A: Cameroon
+W: Ghana
+W: Togo
+W: Mali
+E: Nigeria also borders the Gulf of Guinea.
+
+Q: The country bordering Nigeria to the west is
+A: Benin
+W: Cameroon
+W: Chad
+W: Niger
+E: Niger is to the north.
+
+Q: The Sokoto Rima basin is in
+A: north-west Nigeria
+W: south-east Nigeria
+W: the Niger Delta
+W: the south-west
+E: The Sokoto and Rima rivers drain it.
+
+Q: The Niger Delta is important mainly for
+A: crude oil and natural gas
+W: tin mining
+W: groundnut pyramids
+W: cotton growing
+E: It is the centre of Nigeria's oil industry.
+
+Q: The Kainji, Jebba and Shiroro dams are found in
+A: Niger State
+W: Lagos State
+W: Rivers State
+W: Kano State
+E: They generate hydroelectric power.
+
+Q: The wet season in southern Nigeria usually lasts
+A: longer than in northern Nigeria
+W: shorter than in northern Nigeria
+W: the same everywhere
+W: only one month
+E: Rain decreases northwards.
+
+Q: Annual rainfall in Nigeria generally
+A: decreases from south to north
+W: increases from south to north
+W: is the same everywhere
+W: increases towards the desert
+E: The coast is wettest.
+
+Q: The southern part of Nigeria experiences a short break in the rains in August called the
+A: August break
+W: harmattan
+W: monsoon
+W: Sahel drought
+E: Rainfall dips briefly.
+
+Q: Tin is mined mainly on the
+A: Jos Plateau
+W: Niger Delta
+W: Udi Hills
+W: Sokoto plains
+E: Columbite is also mined there.
+
+Q: The main limestone deposits used for cement are found at
+A: Ewekoro, Nkalagu and Sokoto
+W: Jos and Bauchi only
+W: Lagos Island
+W: Port Harcourt only
+E: Cement factories are sited near them.
+
+Q: The Federal Capital Territory was carved mainly from parts of
+A: Niger, Kogi (then Kwara), Plateau and Nasarawa areas
+W: Lagos and Ogun
+W: Rivers and Bayelsa
+W: Kano and Jigawa
+E: It is in the middle of the country.
+
+Q: The Lake Chad basin lies in
+A: north-eastern Nigeria
+W: south-western Nigeria
+W: the Niger Delta
+W: the middle belt only
+E: It is shared with neighbouring countries.
+
+Q: The coastline of Nigeria is about
+A: 850 km long
+W: 50 km long
+W: 5,000 km long
+W: 100 km long
+E: It borders the Gulf of Guinea.
+
+Q: The dominant vegetation of north-eastern Borno is
+A: Sahel savanna
+W: rainforest
+W: mangrove
+W: montane forest
+E: It is very dry.
+
+Q: The second most populous city in Nigeria is often listed as
+A: Kano
+W: Abuja
+W: Jos
+W: Calabar
+E: Kano and Ibadan are among the largest cities.
+
+Q: Nigeria's population is estimated to be over
+A: 200 million
+W: 50 million
+W: 20 million
+W: 1 billion
+E: It is Africa's most populous country.
+
+Q: The Benue Trough is important for
+A: deposits of coal, lead and zinc
+W: tin only
+W: gold only
+W: diamonds
+E: It is a large geological depression.
+
+@topic geo-population
+
+Q: Population census is
+A: an official count of the population
+W: a population of animals
+W: a way of farming
+W: a type of migration
+E: It gives information for planning.
+
+Q: The population of a country increases when
+A: births and immigration exceed deaths and emigration
+W: deaths exceed births
+W: emigration is high
+W: no births occur
+E: Natural increase plus net migration.
+
+Q: Birth rate is usually expressed as the number of births per
+A: 1,000 people per year
+W: 100 people per day
+W: 10 people per month
+W: one family
+E: E.g. 38 per 1,000.
+
+Q: A population pyramid with a wide base shows
+A: a high birth rate
+W: a high death rate among the young only
+W: many old people
+W: no children
+E: Typical of developing countries.
+
+Q: Overpopulation occurs when
+A: there are too many people for available resources
+W: there are few people
+W: resources are plenty
+W: no one lives there
+E: Living standards may fall.
+
+Q: Underpopulation occurs when
+A: there are too few people to use resources fully
+W: there are too many people
+W: there is no land
+W: there is no water
+E: E.g. parts of Canada and Australia.
+
+Q: Push factors in rural-urban migration include
+A: lack of jobs and amenities in villages
+W: good jobs in villages
+W: excellent hospitals in villages
+W: good roads in villages
+E: They drive people away.
+
+Q: An effect of rural-urban migration on towns is
+A: overcrowding and slums
+W: fewer people
+W: more farmland
+W: less traffic
+E: Urban services become strained.
+
+Q: An effect of rural-urban migration on rural areas is
+A: shortage of farm labour
+W: more young workers
+W: increased farm output
+W: more industries
+E: Mainly old people remain.
+
+Q: A nucleated settlement is one in which
+A: houses are clustered together
+W: houses are scattered widely
+W: houses form a line
+W: there are no houses
+E: Often around a water source or market.
+
+Q: A dispersed settlement is one in which
+A: houses are scattered over a wide area
+W: houses are tightly grouped
+W: houses form a line
+W: houses are in a city centre
+E: Common in farming areas.
+
+Q: A conurbation is
+A: a large urban area formed when towns grow together
+W: a small village
+W: a farm
+W: a desert
+E: E.g. Lagos metropolis.
+
+Q: Factors that influence the site of a settlement include
+A: water supply and defence
+W: only the colour of soil
+W: the price of oil
+W: rainfall in another continent
+E: Early settlements needed water and safety.
+
+Q: An urban settlement is one in which
+A: most people work in non-farming jobs
+W: everyone farms
+W: there are no services
+W: there are few people
+E: Towns provide services and industry.
+
+Q: Population distribution in Nigeria is uneven partly because of
+A: differences in climate, soil and economic opportunities
+W: the same climate everywhere
+W: absence of towns
+W: equal resources everywhere
+E: People concentrate in favourable areas.
+
+Q: Densely populated areas of Nigeria include
+A: Lagos, Kano and the south-east
+W: the Sahel of Borno
+W: the Mambilla Plateau only
+W: the middle belt only
+E: These have economic opportunities and fertile land.
+
+Q: Sparsely populated areas of Nigeria include
+A: parts of the middle belt
+W: Lagos
+W: Onitsha
+W: Aba
+E: Factors include tsetse fly and past slave raids.
+
+Q: Dependency ratio compares
+A: dependent people to the working-age population
+W: men to women
+W: births to deaths
+W: towns to villages
+E: Children and the elderly are dependants.
+
+Q: Life expectancy is
+A: the average number of years a person is expected to live
+W: the birth rate
+W: the death rate
+W: the number of children
+E: It reflects health conditions.
+
+Q: Infant mortality rate measures
+A: deaths of babies under one year per 1,000 live births
+W: deaths of elderly people
+W: births per year
+W: migration
+E: It indicates health care quality.
+
+Q: The functions of a town may include
+A: administration, commerce and industry
+W: only farming
+W: only hunting
+W: only fishing
+E: Towns provide services.
+
+Q: A city's central business district (CBD) is
+A: the main commercial centre
+W: a farming area
+W: a forest reserve
+W: a residential village
+E: Land values are highest there.
+
+Q: Emigration means
+A: leaving one's country to live elsewhere
+W: coming into a country
+W: moving within a town
+W: staying at home
+E: Immigration is coming in.
+
+Q: Population growth can be controlled by
+A: family planning and education
+W: banning schools
+W: encouraging early marriage
+W: ignoring health
+E: These reduce birth rates.
+
+@topic geo-economic
+
+Q: Primary economic activities include
+A: farming, fishing and mining
+W: manufacturing
+W: banking
+W: teaching
+E: They extract natural resources.
+
+Q: Secondary economic activities involve
+A: processing raw materials into goods
+W: farming
+W: mining
+W: transport only
+E: E.g. manufacturing.
+
+Q: Tertiary economic activities provide
+A: services
+W: raw materials
+W: crops
+W: minerals
+E: E.g. banking and transport.
+
+Q: Shifting cultivation involves
+A: farming a plot until it loses fertility, then moving to a new one
+W: farming the same plot forever with fertilisers
+W: farming in greenhouses
+W: farming fish
+E: It needs plenty of land.
+
+Q: Bush fallowing means
+A: leaving land to rest so it regains fertility
+W: burning the forest permanently
+W: using tractors
+W: irrigating crops
+E: It is common in West Africa.
+
+Q: Plantation agriculture is
+A: large-scale growing of a single cash crop
+W: small subsistence farming
+W: nomadic herding
+W: fishing
+E: E.g. rubber or oil palm estates.
+
+Q: Nomadic pastoralism involves
+A: moving with animals in search of pasture and water
+W: farming crops in one place
+W: fishing on the sea
+W: factory work
+E: E.g. Fulani herders.
+
+Q: Irrigation is necessary in northern Nigeria because
+A: rainfall is low and seasonal
+W: rainfall is too heavy
+W: there are no rivers
+W: the land is flooded all year
+E: Water supports dry-season farming.
+
+Q: The Kano River Project is an example of
+A: an irrigation scheme
+W: a hydroelectric dam only
+W: an oil refinery
+W: a port
+E: It supports year-round farming.
+
+Q: Cocoa is mainly grown in
+A: the south-west of Nigeria
+W: the Sahel
+W: the north-east
+W: the Jos Plateau
+E: Ondo and Osun are major producers.
+
+Q: Oil palm is mainly grown in
+A: the south-east and south-south
+W: the far north
+W: the Sahel
+W: the Sokoto basin
+E: It needs heavy rainfall.
+
+Q: Rubber is mainly grown around
+A: Edo and Delta States
+W: Kano and Katsina
+W: Sokoto and Kebbi
+W: Borno
+E: It needs a hot, wet climate.
+
+Q: Fishing is important in Nigeria in
+A: coastal waters, rivers and lakes
+W: deserts only
+W: mountain tops
+W: the Sahara
+E: E.g. Lake Chad and the Niger.
+
+Q: Lumbering is the
+A: felling and processing of trees for timber
+W: mining of coal
+W: growing of cocoa
+W: fishing
+E: It is common in the rainforest.
+
+Q: Manufacturing industries tend to locate near
+A: raw materials, markets and power
+W: deserts with no roads
+W: forests far from towns
+W: the middle of the ocean
+E: These reduce costs.
+
+Q: The Ajaokuta Steel Company is in
+A: Kogi State
+W: Lagos State
+W: Kano State
+W: Rivers State
+E: It was meant to be Nigeria's main steel plant.
+
+Q: Oil refineries in Nigeria are located at
+A: Port Harcourt, Warri and Kaduna
+W: Lagos and Ibadan only
+W: Jos and Bauchi
+W: Sokoto and Kebbi
+E: Kaduna receives crude by pipeline.
+
+Q: Natural gas is used in Nigeria for
+A: generating electricity and making fertilisers
+W: building roads only
+W: growing cocoa
+W: fishing
+E: It is a valuable energy source.
+
+Q: A problem of mining in Nigeria is
+A: environmental degradation
+W: too much rainfall
+W: lack of minerals
+W: too many good roads
+E: Mining scars the land.
+
+Q: Cottage industries are
+A: small-scale industries often carried out at home
+W: large steel plants
+W: oil refineries
+W: car factories
+E: E.g. weaving and pottery.
+
+Q: Tourism is a
+A: tertiary activity
+W: primary activity
+W: secondary activity
+W: extractive activity
+E: It provides services.
+
+Q: A problem facing agriculture in Nigeria is
+A: poor storage and transport facilities
+W: too many tractors
+W: excess fertiliser
+W: too much credit
+E: Crops are lost after harvest.
+
+Q: Mechanised agriculture uses
+A: machines such as tractors
+W: only hoes
+W: only cutlasses
+W: no tools
+E: It increases output.
+
+Q: Subsistence agriculture means farming
+A: mainly to feed the farmer's family
+W: mainly for export
+W: on large plantations
+W: with only machines
+E: Little is sold.
+
+@topic geo-climates
+
+Q: The equatorial climate is found
+A: about 5° north and south of the equator
+W: at the poles
+W: in deserts
+W: in temperate regions
+E: E.g. the Congo Basin.
+
+Q: The hot desert climate has
+A: very low rainfall and a large daily temperature range
+W: heavy rain all year
+W: cold winters with snow
+W: mild temperatures all year
+E: E.g. the Sahara.
+
+Q: The Mediterranean climate is found
+A: on the western side of continents between about 30° and 40°
+W: on the equator
+W: at the poles
+W: in the centre of continents only
+E: E.g. southern Europe and Cape Town.
+
+Q: The tropical monsoon climate is characterised by
+A: a very wet season and a dry season due to seasonal winds
+W: no rain at all
+W: snow
+W: rain evenly all year
+E: E.g. India.
+
+Q: The cool temperate western margin climate has
+A: rain throughout the year and mild temperatures
+W: no rainfall
+W: very hot summers and freezing winters only
+W: only dry winds
+E: E.g. Britain.
+
+Q: The polar (tundra) climate has
+A: very cold temperatures and short summers
+W: hot summers
+W: heavy rainfall
+W: rainforests
+E: E.g. northern Canada.
+
+Q: Continental interiors usually have
+A: a large annual temperature range
+W: a very small temperature range
+W: no seasons
+W: constant rain
+E: Land heats and cools rapidly.
+
+Q: Maritime climates have
+A: a small annual temperature range
+W: a very large temperature range
+W: no rainfall
+W: desert conditions
+E: The sea moderates temperatures.
+
+Q: The annual temperature range of a place with a hottest month of 28 °C and coldest month of 22 °C is
+A: 6 °C
+W: 50 °C
+W: 25 °C
+W: 22 °C
+E: 28 − 22 = 6.
+
+Q: The mean annual temperature is
+A: the average of the twelve monthly mean temperatures
+W: the highest temperature in a year
+W: the lowest temperature
+W: the temperature on New Year's Day
+E: Add the monthly means and divide by 12.
+
+Q: Factors that affect climate include latitude, altitude, distance from the sea and
+A: ocean currents
+W: population
+W: the type of government
+W: the number of schools
+E: Currents warm or cool coasts.
+
+Q: Places near the equator are hot because
+A: the sun's rays are nearly overhead
+W: they are far from the sun
+W: they are at high altitude always
+W: they have no clouds
+E: Concentrated rays heat the surface.
+
+Q: Places far from the equator are cooler because
+A: the sun's rays are slanting and spread over a larger area
+W: they are closer to the sun
+W: they have more rainfall
+W: they have more forests
+E: Energy is less concentrated.
+
+Q: The Köppen classification of climate is based mainly on
+A: temperature and rainfall
+W: population
+W: soil colour
+W: altitude only
+E: It also uses vegetation as a guide.
+
+Q: The tropical continental (savanna) climate occurs
+A: between the equatorial and desert climates
+W: at the poles
+W: on mountain peaks only
+W: in the middle of oceans
+E: E.g. northern Nigeria.
+
+Q: Snow is common in
+A: cold temperate and polar regions
+W: equatorial regions
+W: hot deserts
+W: tropical savannas
+E: Temperatures fall below freezing.
+
+Q: The mountain climate differs from surrounding lowlands mainly because of
+A: lower temperatures due to altitude
+W: higher temperatures
+W: no rainfall ever
+W: no wind
+E: E.g. the Jos Plateau.
+
+Q: A climograph shows
+A: monthly temperature and rainfall of a place
+W: population of a town
+W: soil profile
+W: river course
+E: Temperature line and rainfall bars.
+
+Q: The China type (warm temperate eastern margin) climate has
+A: hot, wet summers and mild winters
+W: no rainfall
+W: cold, dry summers
+W: polar conditions
+E: E.g. south-east China.
+
+Q: Monsoon winds change direction
+A: seasonally
+W: hourly
+W: never
+W: daily only
+E: They reverse between summer and winter.
+
+Q: The equatorial climate has
+A: double rainfall maxima
+W: no rain
+W: snow in winter
+W: a long dry season
+E: Rain peaks after the equinoxes.
+
+Q: Desert climates are found mainly on the
+A: western sides of continents in the tropics
+W: equator
+W: eastern sides of continents only
+W: poles
+E: Cold currents and trade winds keep them dry.
+
+Q: Climate change refers to
+A: long-term changes in temperature and weather patterns
+W: daily weather
+W: changing seasons each year only
+W: tidal movements
+E: It is linked to greenhouse gases.
+
+Q: The temperature of a place at 2,000 m when sea level is 30 °C is about
+A: 17 °C
+W: 30 °C
+W: 43 °C
+W: 25 °C
+E: 2 × 6.5 = 13 °C lower.
+
+@topic geo-trade-transport
+
+Q: ECOWAS was formed to
+A: promote economic cooperation in West Africa
+W: build a single army
+W: stop trade
+W: govern Nigeria
+E: It was founded in 1975.
+
+Q: The headquarters of ECOWAS is in
+A: Abuja
+W: Lagos
+W: Accra
+W: Dakar
+E: It moved to Abuja in the 1990s.
+
+Q: Landlocked countries in West Africa include
+A: Mali, Niger and Burkina Faso
+W: Ghana and Senegal
+W: Nigeria and Benin
+W: Liberia and Sierra Leone
+E: They have no coastline.
+
+Q: Landlocked countries depend on neighbours for
+A: access to seaports
+W: food only
+W: rainfall
+W: language
+E: Goods pass through coastal states.
+
+Q: Trade among West African countries is low partly because
+A: they produce similar goods
+W: they are all landlocked
+W: they all use the same currency
+W: there are no roads at all
+E: Their economies compete rather than complement.
+
+Q: The Tema port is in
+A: Ghana
+W: Nigeria
+W: Senegal
+W: Côte d'Ivoire
+E: It is Ghana's main port.
+
+Q: The port of Abidjan is in
+A: Côte d'Ivoire
+W: Ghana
+W: Nigeria
+W: Togo
+E: It is one of West Africa's busiest ports.
+
+Q: The port of Dakar is in
+A: Senegal
+W: Gambia
+W: Guinea
+W: Mali
+E: It is on the westernmost point of Africa.
+
+Q: Railways in West Africa were mainly built during colonial rule to
+A: carry raw materials to the ports
+W: connect all neighbouring countries
+W: carry tourists
+W: replace roads entirely
+E: They ran from the interior to the coast.
+
+Q: The Trans-Sahara Highway is meant to link
+A: Lagos with Algiers
+W: Lagos with Cairo
+W: Abuja with Nairobi
+W: Accra with Cape Town
+E: It crosses the Sahara.
+
+Q: Air transport in West Africa is
+A: fast but expensive
+W: slow and cheap
+W: unavailable
+W: only for goods
+E: It suits urgent travel.
+
+Q: Inland water transport in Nigeria is mainly on the
+A: Niger and Benue rivers
+W: Kaduna and Sokoto only
+W: Lake Victoria
+W: the Nile
+E: Seasonal water levels limit it.
+
+Q: A problem of inland waterways in West Africa is
+A: seasonal low water levels and sandbars
+W: too much water all year
+W: too many bridges
+W: frozen rivers
+E: Navigation is difficult in the dry season.
+
+Q: Pipelines in Nigeria carry
+A: crude oil, petroleum products and gas
+W: grains
+W: passengers
+W: cocoa
+E: E.g. the West African Gas Pipeline.
+
+Q: The West African Gas Pipeline carries gas from Nigeria to
+A: Benin, Togo and Ghana
+W: Chad and Niger
+W: Cameroon only
+W: Mali
+E: It runs along the coast.
+
+Q: Major exports of Ghana include
+A: cocoa and gold
+W: crude oil only
+W: groundnuts only
+W: tin
+E: Ghana is a leading cocoa producer.
+
+Q: A major export of Senegal is
+A: groundnuts and fish
+W: cocoa
+W: coffee
+W: rubber
+E: Groundnuts were historically important.
+
+Q: A major export of Guinea is
+A: bauxite
+W: cocoa
+W: crude oil
+W: coffee
+E: Guinea has huge bauxite reserves.
+
+Q: The ECOWAS protocol on free movement allows citizens to
+A: travel within member states without a visa
+W: vote in other countries
+W: avoid all taxes
+W: work only in Nigeria
+E: Visitors may stay up to 90 days.
+
+Q: A common currency used by many francophone West African countries is the
+A: CFA franc
+W: naira
+W: cedi
+W: dalasi
+E: It is used in the UEMOA states.
+
+Q: Ghana's currency is the
+A: cedi
+W: naira
+W: CFA franc
+W: leone
+E: Sierra Leone uses the leone.
+
+Q: The Takoradi port is used mainly for exporting
+A: timber, manganese and bauxite from Ghana
+W: crude oil from Nigeria
+W: groundnuts from Senegal
+W: cocoa from Nigeria
+E: It is Ghana's second port.
+
+Q: Road transport is the most common in West Africa because it
+A: is flexible and reaches most places
+W: is always the cheapest for bulky goods
+W: never has accidents
+W: needs no maintenance
+E: Roads connect towns and villages.
+
+Q: Problems of transport in West Africa include
+A: poor road maintenance and insecurity
+W: too many good roads
+W: excellent railways everywhere
+W: no demand for transport
+E: These raise costs and delays.
+
+@topic geo-africa
+
+Q: The highest mountain in Africa is
+A: Mount Kilimanjaro
+W: Mount Cameroon
+W: Mount Kenya
+W: Ras Dashen
+E: It is in Tanzania.
+
+Q: The Congo River is notable for
+A: having the second largest discharge of any river in the world
+W: being the longest river in the world
+W: flowing into the Mediterranean
+W: being in West Africa
+E: It drains the Congo Basin.
+
+Q: The Zambezi River flows into the
+A: Indian Ocean
+W: Atlantic Ocean
+W: Mediterranean Sea
+W: Red Sea
+E: Victoria Falls is on the Zambezi.
+
+Q: The Kalahari Desert is in
+A: southern Africa
+W: North Africa
+W: West Africa
+W: East Africa
+E: It covers much of Botswana.
+
+Q: The Namib Desert is found along the coast of
+A: Namibia
+W: Nigeria
+W: Kenya
+W: Egypt
+E: The cold Benguela Current contributes to its dryness.
+
+Q: The Atlas Mountains are in
+A: north-west Africa
+W: East Africa
+W: southern Africa
+W: West Africa
+E: They lie in Morocco and Algeria.
+
+Q: The Drakensberg Mountains are in
+A: South Africa
+W: Kenya
+W: Morocco
+W: Nigeria
+E: They are part of the Great Escarpment.
+
+Q: The Suez Canal is in
+A: Egypt
+W: Sudan
+W: Libya
+W: Ethiopia
+E: It links the Mediterranean and Red Seas.
+
+Q: South Africa is a major producer of
+A: gold and diamonds
+W: cocoa
+W: groundnuts
+W: tin only
+E: The Witwatersrand is famous for gold.
+
+Q: The Copperbelt is shared by Zambia and
+A: the Democratic Republic of the Congo
+W: Nigeria
+W: Ghana
+W: Kenya
+E: It is rich in copper.
+
+Q: Kenya is famous for exporting
+A: tea and coffee
+W: crude oil
+W: cocoa
+W: tin
+E: The highlands suit these crops.
+
+Q: Egypt depends heavily on the River Nile for
+A: irrigation and water supply
+W: oil
+W: timber
+W: snow
+E: Most Egyptians live along the Nile.
+
+Q: The Volta Dam (Akosombo) is in
+A: Ghana
+W: Nigeria
+W: Côte d'Ivoire
+W: Togo
+E: It created Lake Volta.
+
+Q: The Kariba Dam is on the
+A: Zambezi River
+W: Nile
+W: Niger
+W: Congo
+E: It is shared by Zambia and Zimbabwe.
+
+Q: Lake Tanganyika is
+A: one of the deepest lakes in the world
+W: a shallow lake in West Africa
+W: a salt lake in the Sahara
+W: an artificial lake
+E: It is a rift valley lake.
+
+Q: The Sahel is
+A: a semi-arid belt south of the Sahara
+W: a rainforest region
+W: a mountain range
+W: a river
+E: It suffers from drought.
+
+Q: Desertification in the Sahel is caused partly by
+A: overgrazing and deforestation
+W: too much rainfall
+W: planting trees
+W: industrialisation only
+E: Human activities and drought degrade land.
+
+Q: Ethiopia's highlands are the source of the
+A: Blue Nile
+W: White Nile
+W: Niger
+W: Congo
+E: Lake Tana feeds the Blue Nile.
+
+Q: The White Nile flows from
+A: Lake Victoria
+W: Lake Tana
+W: Lake Chad
+W: Lake Volta
+E: It joins the Blue Nile at Khartoum.
+
+Q: Liberia is famous for its
+A: rubber plantations
+W: tin mines
+W: groundnut pyramids
+W: snow
+E: Firestone's large plantation is there.
+
+Q: The Gezira Scheme in Sudan is an irrigation project for growing
+A: cotton
+W: cocoa
+W: tea
+W: rubber
+E: It lies between the Blue and White Niles.
+
+Q: Morocco is a leading exporter of
+A: phosphates
+W: cocoa
+W: tin
+W: rubber
+E: Phosphates are used for fertilisers.
+
+Q: The Great Rift Valley runs from the Red Sea through
+A: East Africa to Mozambique
+W: West Africa
+W: the Sahara
+W: Morocco
+E: It contains many lakes.
+
+Q: Africa's largest country by area is
+A: Algeria
+W: Nigeria
+W: Egypt
+W: South Africa
+E: Much of it is desert.
+
+@topic geo-environment
+
+Q: A non-renewable resource is one that
+A: cannot be replaced once used up
+W: is replaced naturally quickly
+W: is unlimited
+W: is only water
+E: E.g. crude oil and coal.
+
+Q: Solar energy is an example of a
+A: renewable resource
+W: non-renewable resource
+W: fossil fuel
+W: mineral
+E: The sun will keep shining.
+
+Q: Conservation of resources means
+A: using resources wisely to avoid waste
+W: using all resources quickly
+W: destroying forests
+W: polluting rivers
+E: It ensures supply for the future.
+
+Q: Air pollution can be caused by
+A: smoke from factories and vehicles
+W: planting trees
+W: rainfall
+W: solar panels
+E: These release harmful gases.
+
+Q: Water pollution in Nigeria can result from
+A: oil spills and industrial waste
+W: tree planting
+W: rainfall only
+W: clean water supply
+E: Waste enters rivers and seas.
+
+Q: Gas flaring in the Niger Delta causes
+A: air pollution and heat
+W: more fish
+W: cleaner air
+W: more rainfall only
+E: Burning gas releases pollutants.
+
+Q: Flooding can be reduced by
+A: building dams and keeping drains clear
+W: blocking drains
+W: building on floodplains
+W: cutting down trees
+E: Good drainage prevents floods.
+
+Q: Drought is
+A: a long period with little or no rainfall
+W: heavy rainfall
+W: a flood
+W: an earthquake
+E: It harms crops and animals.
+
+Q: The Great Green Wall initiative aims to
+A: stop desert spread by planting trees across the Sahel
+W: build a wall in Lagos
+W: block rivers
+W: build roads in the desert
+E: It spans many African countries.
+
+Q: Erosion control in eastern Nigeria includes
+A: building drainage channels and planting grass
+W: removing all vegetation
+W: digging more gullies
+W: bush burning
+E: Gully erosion is severe there.
+
+Q: Ozone layer depletion is caused mainly by
+A: chlorofluorocarbons (CFCs)
+W: oxygen
+W: water vapour
+W: nitrogen
+E: CFCs were used in refrigerators and sprays.
+
+Q: The greenhouse effect is
+A: the trapping of heat by gases in the atmosphere
+W: the cooling of the earth
+W: plant growth in greenhouses only
+W: rainfall
+E: Carbon dioxide and methane trap heat.
+
+Q: A consequence of global warming is
+A: rising sea levels
+W: falling sea levels
+W: colder climates everywhere
+W: more ice at the poles
+E: Ice melts and water expands.
+
+Q: Coastal erosion is a serious problem at
+A: Victoria Island and parts of the Niger Delta
+W: Kano
+W: Sokoto
+W: Jos
+E: Waves remove beaches.
+
+Q: Recycling helps the environment by
+A: reducing waste and saving resources
+W: increasing waste
+W: polluting rivers
+W: wasting energy
+E: Materials are reused.
+
+Q: A natural hazard is
+A: a natural event that threatens life and property
+W: a factory
+W: a road
+W: a school
+E: E.g. floods and earthquakes.
+
+Q: Oil spillage affects farmers in the Niger Delta by
+A: destroying farmland and fishing waters
+W: improving soil fertility
+W: increasing fish catch
+W: providing free fertiliser
+E: Oil poisons soil and water.
+
+Q: Desert encroachment in Nigeria affects mainly the
+A: northern states
+W: southern coastal states
+W: Niger Delta
+W: Lagos
+E: E.g. Sokoto, Yobe and Borno.
+
+Q: Environmental impact assessment is done to
+A: study the effects of a project on the environment
+W: increase pollution
+W: sell land
+W: build roads without plans
+E: It is required before major projects.
+
+Q: Game reserves and national parks help to
+A: conserve wildlife
+W: destroy forests
+W: encourage hunting
+W: create deserts
+E: E.g. Yankari and Cross River National Park.
+
+Q: Noise pollution is common in
+A: cities with heavy traffic and generators
+W: quiet villages
+W: forests
+W: deserts
+E: It harms hearing and health.
+
+Q: Improper waste disposal in cities can lead to
+A: blocked drains and the spread of disease
+W: cleaner streets
+W: better health
+W: more forests
+E: Waste blocks drainage.
+
+Q: The agency responsible for environmental standards in Nigeria is
+A: NESREA
+W: NAFDAC
+W: NCC
+W: NIPOST
+E: National Environmental Standards and Regulations Enforcement Agency.
+
+Q: Hydroelectric power is clean because it
+A: does not burn fuel
+W: produces smoke
+W: uses coal
+W: uses crude oil
+E: It uses flowing water.
+
+@topic geo-world
+
+Q: The longest river in the world is the
+A: Nile
+W: Amazon
+W: Mississippi
+W: Yangtze
+E: It is about 6,650 km long (some measurements favour the Amazon).
+
+Q: The highest mountain in the world is
+A: Mount Everest
+W: Mount Kilimanjaro
+W: Mont Blanc
+W: Mount McKinley
+E: It is in the Himalayas.
+
+Q: The smallest continent is
+A: Australia
+W: Europe
+W: Antarctica
+W: South America
+E: It is also a country.
+
+Q: The Panama Canal links the
+A: Atlantic and Pacific Oceans
+W: Mediterranean and Red Seas
+W: Indian and Pacific Oceans
+W: Arctic and Atlantic Oceans
+E: It crosses Central America.
+
+Q: The Great Lakes of North America are shared by the USA and
+A: Canada
+W: Mexico
+W: Brazil
+W: Cuba
+E: Lake Superior is the largest.
+
+Q: The St Lawrence Seaway connects the Great Lakes to the
+A: Atlantic Ocean
+W: Pacific Ocean
+W: Gulf of Mexico
+W: Arctic Ocean
+E: It allows ships to reach inland ports.
+
+Q: Japan is a leading producer of
+A: cars and electronics
+W: cocoa
+W: tin
+W: groundnuts
+E: It has advanced industries despite few raw materials.
+
+Q: The Middle East is important mainly for
+A: crude oil
+W: cocoa
+W: rubber
+W: timber
+E: E.g. Saudi Arabia.
+
+Q: The Amazon River flows into the
+A: Atlantic Ocean
+W: Pacific Ocean
+W: Indian Ocean
+W: Caribbean Sea
+E: It carries the largest volume of water of any river.
+
+Q: The Andes Mountains are in
+A: South America
+W: Africa
+W: Europe
+W: Asia
+E: They are the longest mountain range.
+
+Q: The Rocky Mountains are in
+A: North America
+W: South America
+W: Europe
+W: Africa
+E: They are fold mountains.
+
+Q: The River Rhine is an important waterway in
+A: Europe
+W: Asia
+W: Africa
+W: South America
+E: It flows through Germany and the Netherlands.
+
+Q: Brazil is a leading producer of
+A: coffee
+W: tea
+W: tin
+W: wool
+E: Coffee grows on the Brazilian Highlands.
+
+Q: China is the world's most important producer of
+A: rice (among other goods)
+W: cocoa
+W: palm oil
+W: rubber only
+E: Rice is grown in the south.
+
+Q: The Yangtze River is in
+A: China
+W: India
+W: Japan
+W: Russia
+E: The Three Gorges Dam is on it.
+
+Q: The Ganges River is sacred in
+A: India
+W: China
+W: Egypt
+W: Brazil
+E: It flows from the Himalayas.
+
+Q: Australia is a leading exporter of
+A: wool and iron ore
+W: cocoa
+W: crude oil only
+W: rubber
+E: Sheep rearing is important.
+
+Q: New Zealand is known for exporting
+A: dairy products and lamb
+W: tin
+W: cocoa
+W: crude oil
+E: Pastoral farming is important.
+
+Q: The Siberian region of Russia has a
+A: very cold climate
+W: hot desert climate
+W: equatorial climate
+W: Mediterranean climate
+E: It has long, harsh winters.
+
+Q: The Netherlands has reclaimed land from the sea called
+A: polders
+W: fjords
+W: deltas
+W: savannas
+E: Dykes keep out the sea.
+
+Q: Antarctica is
+A: covered mostly by ice
+W: a tropical continent
+W: a desert of sand
+W: densely populated
+E: It is the coldest continent.
+
+Q: The Equator passes through
+A: Kenya, Congo and Brazil
+W: Nigeria and Ghana
+W: Egypt and Libya
+W: Britain and France
+E: It crosses central Africa and South America.
+
+Q: The Mississippi River flows into the
+A: Gulf of Mexico
+W: Pacific Ocean
+W: Arctic Ocean
+W: Great Lakes
+E: It is a major US waterway.
+
+Q: India's monsoon is important for
+A: agriculture, especially rice growing
+W: mining
+W: snow sports
+W: desert formation
+E: Rains water the crops.

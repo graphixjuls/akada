@@ -8,6 +8,7 @@ import { PageDots } from '@/components/Progress';
 import { BookOpenTextIcon, FireIcon, TimerIcon, type Icon } from '@/components/icons';
 import { AkadaIcon } from '@/components/AkadaIcon';
 import { Logo } from '@/components/Logo';
+import { bank } from '@/data/bank';
 import { subjects } from '@/data/catalog';
 import { images } from '@/data/images';
 import { useLayout } from '@/theme/responsive';
@@ -20,7 +21,7 @@ const SLIDES = [
 ];
 
 const FEATURES: [Icon, string, string][] = [
-  [BookOpenTextIcon, `3,000+ questions in ${subjects.length} subjects`, 'Organised by SS1, SS2 and SS3 topics'],
+  [BookOpenTextIcon, `${bank.questions.length.toLocaleString()} questions in ${subjects.length} subjects`,'Organised by SS1, SS2 and SS3 topics'],
   [TimerIcon, 'Timed mock tests', 'Answer against the clock, so exam day feels familiar'],
   [FireIcon, 'A daily habit', 'Set a goal and keep your streak going'],
 ];

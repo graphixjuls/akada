@@ -1,0 +1,2485 @@
+@subject physics
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic phy-measurement
+
+Q: The SI unit of length is the
+A: metre
+W: centimetre
+W: kilometre
+W: inch
+E: It is a base unit.
+
+Q: The SI unit of time is the
+A: second
+W: minute
+W: hour
+W: day
+E: It is a base unit.
+
+Q: The SI unit of electric current is the
+A: ampere
+W: volt
+W: ohm
+W: coulomb
+E: It is a base unit.
+
+Q: The SI unit of temperature is the
+A: kelvin
+W: degree Celsius
+W: degree Fahrenheit
+W: joule
+E: It is a base unit.
+
+Q: The SI unit of amount of substance is the
+A: mole
+W: kilogram
+W: litre
+W: gram
+E: It is a base unit.
+
+Q: Which of these is a derived unit?
+A: newton
+W: metre
+W: kilogram
+W: second
+E: 1 N = 1 kg m/s².
+
+Q: The unit of density in base SI units is
+A: kg/m³
+W: kg/m²
+W: g
+W: m³/kg
+E: Density = mass ÷ volume.
+
+Q: The dimensions of velocity are
+A: LT⁻¹
+W: LT⁻²
+W: MLT⁻²
+W: ML⁻³
+E: Velocity = length ÷ time.
+
+Q: The dimensions of acceleration are
+A: LT⁻²
+W: LT⁻¹
+W: MLT⁻¹
+W: ML²T⁻²
+E: Acceleration = velocity ÷ time.
+
+Q: The dimensions of force are
+A: MLT⁻²
+W: MLT⁻¹
+W: ML²T⁻²
+W: LT⁻²
+E: Force = mass × acceleration.
+
+Q: A vernier caliper is suitable for measuring
+A: the internal diameter of a tube
+W: the thickness of a sheet of paper only
+W: very long distances
+W: temperature
+E: It reads to 0.01 cm.
+
+Q: A micrometer screw gauge reads to an accuracy of
+A: 0.01 mm
+W: 0.1 cm
+W: 1 mm
+W: 1 cm
+E: It is more precise than a vernier.
+
+Q: A metre rule can measure accurately to
+A: 0.1 cm (1 mm)
+W: 0.01 mm
+W: 0.001 cm
+W: 1 m
+E: Its smallest division is 1 mm.
+
+Q: The volume of an irregular solid can be found using
+A: a measuring cylinder and water displacement
+W: a metre rule
+W: a thermometer
+W: an ammeter
+E: The rise in water level gives the volume.
+
+Q: Mass is measured using
+A: a beam balance
+W: a spring balance only
+W: a thermometer
+W: a voltmeter
+E: A spring balance measures weight.
+
+Q: A stopwatch is used to measure
+A: time
+W: mass
+W: length
+W: temperature
+E: It measures time intervals.
+
+Q: Convert 500 g to kilograms.
+A: 0.5 kg
+W: 5 kg
+W: 50 kg
+W: 0.05 kg
+E: 1 kg = 1000 g.
+
+Q: Convert 3 hours to seconds.
+A: 10,800 s
+W: 180 s
+W: 1,080 s
+W: 3,600 s
+E: 3 × 3600 = 10,800.
+
+Q: Convert 72 km/h to m/s.
+A: 20 m/s
+W: 72 m/s
+W: 7.2 m/s
+W: 200 m/s
+E: 72 × 1000 ÷ 3600 = 20.
+
+Q: Convert 250 cm³ to m³.
+A: 2.5 × 10⁻⁴ m³
+W: 2.5 m³
+W: 0.25 m³
+W: 2.5 × 10⁻² m³
+E: 1 m³ = 10⁶ cm³.
+
+Q: Parallax error when reading a scale is avoided by
+A: placing the eye directly above the mark
+W: reading from the side
+W: using a dim light
+W: closing one eye only
+E: The line of sight must be perpendicular.
+
+Q: Zero error in an instrument means
+A: it does not read zero when it should
+W: it reads correctly
+W: it has no scale
+W: it is broken completely
+E: The reading must be corrected.
+
+Q: The prefix "milli" means
+A: 10⁻³
+W: 10³
+W: 10⁻⁶
+W: 10⁶
+E: E.g. 1 mm = 10⁻³ m.
+
+Q: The prefix "mega" means
+A: 10⁶
+W: 10³
+W: 10⁻⁶
+W: 10⁹
+E: E.g. 1 MW = 10⁶ W.
+
+@topic phy-vectors
+
+Q: Which of these quantities is a scalar?
+A: temperature
+W: weight
+W: velocity
+W: momentum
+E: Temperature has no direction.
+
+Q: Which of these quantities is a vector?
+A: momentum
+W: energy
+W: speed
+W: density
+E: Momentum has direction.
+
+Q: The resultant of two forces of 5 N and 12 N at right angles is
+A: 13 N
+W: 17 N
+W: 7 N
+W: 60 N
+E: √(25 + 144) = 13.
+
+Q: The resultant of two forces of 9 N and 12 N at right angles is
+A: 15 N
+W: 21 N
+W: 3 N
+W: 108 N
+E: √(81 + 144) = 15.
+
+Q: Two forces of 7 N and 7 N act in opposite directions. The resultant is
+A: 0 N
+W: 14 N
+W: 7 N
+W: 49 N
+E: They cancel.
+
+Q: A force of 20 N acts at 30° to the horizontal. Its horizontal component is
+A: about 17.3 N
+W: 10 N
+W: 20 N
+W: 34.6 N
+E: 20 cos 30° = 20 × 0.866.
+
+Q: A force of 20 N acts at 30° to the horizontal. Its vertical component is
+A: 10 N
+W: 17.3 N
+W: 20 N
+W: 5 N
+E: 20 sin 30° = 10.
+
+Q: A force of 50 N acts at 60° to the horizontal. Its horizontal component is
+A: 25 N
+W: 43.3 N
+W: 50 N
+W: 100 N
+E: 50 cos 60° = 25.
+
+Q: The parallelogram law is used to find
+A: the resultant of two vectors
+W: the mass of a body
+W: the temperature of a gas
+W: the density of a liquid
+E: The diagonal gives the resultant.
+
+Q: The equilibrant of a set of forces is
+A: equal in size but opposite in direction to the resultant
+W: equal to the resultant in direction
+W: always zero
+W: twice the resultant
+E: It balances the forces.
+
+Q: Resolving a vector means
+A: splitting it into perpendicular components
+W: adding two vectors
+W: finding its mass
+W: reversing it
+E: Usually horizontal and vertical components.
+
+Q: A man walks 3 km east and then 4 km north. His displacement is
+A: 5 km
+W: 7 km
+W: 1 km
+W: 12 km
+E: √(9 + 16) = 5 km.
+
+Q: In the question above, the distance travelled is
+A: 7 km
+W: 5 km
+W: 1 km
+W: 12 km
+E: Distance is the total path: 3 + 4.
+
+Q: Speed differs from velocity because velocity
+A: has direction
+W: has no direction
+W: is always larger
+W: is measured in kg
+E: Velocity is a vector.
+
+Q: The maximum resultant of forces of 6 N and 8 N is
+A: 14 N
+W: 10 N
+W: 2 N
+W: 48 N
+E: When they act in the same direction.
+
+Q: The minimum resultant of forces of 6 N and 8 N is
+A: 2 N
+W: 14 N
+W: 10 N
+W: 0 N
+E: When they act in opposite directions.
+
+Q: Which pair are both scalar quantities?
+A: mass and time
+W: force and velocity
+W: displacement and acceleration
+W: momentum and weight
+E: They have magnitude only.
+
+Q: Weight is a vector because it
+A: acts in a particular direction (downwards)
+W: has no direction
+W: is measured in kg
+W: is always constant
+E: It points towards the earth's centre.
+
+Q: Relative velocity of two cars moving in the same direction at 30 m/s and 20 m/s is
+A: 10 m/s
+W: 50 m/s
+W: 600 m/s
+W: 0 m/s
+E: Subtract the velocities.
+
+Q: Two cars move towards each other at 30 m/s and 20 m/s. Their relative velocity is
+A: 50 m/s
+W: 10 m/s
+W: 600 m/s
+W: 25 m/s
+E: Add the speeds.
+
+Q: Centripetal acceleration of a body moving at speed v in a circle of radius r is
+A: v²/r
+W: vr
+W: v/r²
+W: r/v
+E: It is directed towards the centre.
+
+Q: A 2 kg body moves at 4 m/s in a circle of radius 2 m. The centripetal force is
+A: 16 N
+W: 8 N
+W: 4 N
+W: 32 N
+E: F = mv²/r = 2 × 16 ÷ 2.
+
+@topic phy-matter
+
+Q: The kinetic theory states that matter is made up of
+A: tiny particles in constant motion
+W: continuous solid blocks
+W: only water
+W: light rays
+E: Particles move faster when heated.
+
+Q: In which state of matter are particles closest together?
+A: solid
+W: liquid
+W: gas
+W: plasma
+E: They vibrate about fixed positions.
+
+Q: In which state do particles move most freely?
+A: gas
+W: solid
+W: liquid
+W: crystal
+E: Gas particles are far apart.
+
+Q: Diffusion is
+A: the spreading of particles from high to low concentration
+W: the melting of solids
+W: the boiling of liquids
+W: the freezing of liquids
+E: E.g. the smell of perfume spreading.
+
+Q: Diffusion is fastest in
+A: gases
+W: solids
+W: liquids
+W: metals
+E: Gas particles move fastest.
+
+Q: Cohesion is the attraction between
+A: molecules of the same substance
+W: molecules of different substances
+W: atoms and light
+W: magnets
+E: E.g. water molecules.
+
+Q: Adhesion is the attraction between
+A: molecules of different substances
+W: molecules of the same substance
+W: two magnets
+W: two electrons only
+E: E.g. water and glass.
+
+Q: Water wets glass because
+A: adhesion is greater than cohesion
+W: cohesion is greater than adhesion
+W: water has no molecules
+W: glass repels water
+E: Water spreads on glass.
+
+Q: Mercury does not wet glass because
+A: cohesion is greater than adhesion
+W: adhesion is greater than cohesion
+W: mercury is a gas
+W: glass absorbs mercury
+E: Mercury forms droplets.
+
+Q: Surface tension is caused by
+A: cohesive forces between surface molecules
+W: gravity only
+W: magnetism
+W: friction
+E: The surface behaves like a stretched skin.
+
+Q: A needle can float on water because of
+A: surface tension
+W: buoyancy only
+W: viscosity
+W: capillarity
+E: The surface skin supports it.
+
+Q: Adding detergent to water
+A: reduces surface tension
+W: increases surface tension
+W: has no effect
+W: freezes the water
+E: This helps cleaning.
+
+Q: The meniscus of water in a glass tube is
+A: concave (curved upwards at the edges)
+W: convex
+W: flat always
+W: zigzag
+E: Adhesion pulls water up the walls.
+
+Q: Capillarity is
+A: the rise or fall of a liquid in a narrow tube
+W: the flow of a gas
+W: the melting of solids
+W: the boiling point of water
+E: E.g. water rising in soil.
+
+Q: Water rises higher in a narrower capillary tube because
+A: the narrower tube gives a greater rise for the same surface tension
+W: narrow tubes have more water
+W: gravity is stronger in narrow tubes
+W: narrow tubes are hotter
+E: Rise is inversely proportional to radius.
+
+Q: Viscosity is
+A: the resistance of a fluid to flow
+W: the density of a solid
+W: the colour of a liquid
+W: the boiling point
+E: Honey is more viscous than water.
+
+Q: An atom consists of a nucleus surrounded by
+A: electrons
+W: protons only
+W: neutrons only
+W: photons
+E: The nucleus has protons and neutrons.
+
+Q: A molecule is
+A: the smallest particle of a substance that can exist independently
+W: always a single atom
+W: a type of energy
+W: a light ray
+E: E.g. a water molecule H₂O.
+
+Q: Crystalline solids have
+A: a regular arrangement of particles
+W: no arrangement
+W: particles moving freely
+W: no particles
+E: E.g. salt crystals.
+
+Q: Amorphous solids such as glass have
+A: no regular arrangement of particles
+W: a perfect crystal lattice
+W: no particles
+W: free-moving particles like gases
+E: They lack long-range order.
+
+Q: Evaporation differs from boiling because evaporation
+A: occurs at any temperature at the surface
+W: occurs only at the boiling point
+W: occurs throughout the liquid
+W: produces bubbles
+E: Boiling occurs at a fixed temperature throughout.
+
+Q: Evaporation causes cooling because
+A: the fastest molecules escape, lowering average kinetic energy
+W: heat is added
+W: the liquid becomes denser
+W: pressure rises
+E: E.g. sweating cools the body.
+
+Q: Brownian motion was first observed with
+A: pollen grains in water
+W: iron filings
+W: light rays
+W: magnets
+E: Robert Brown observed it in 1827.
+
+Q: Increasing the temperature of a gas makes its particles
+A: move faster
+W: move slower
+W: stop moving
+W: become larger
+E: Kinetic energy increases.
+
+@topic phy-heat
+
+Q: The lower fixed point on the Celsius scale is
+A: the melting point of pure ice (0 °C)
+W: the boiling point of water
+W: absolute zero
+W: body temperature
+E: The upper fixed point is 100 °C.
+
+Q: A clinical thermometer has a constriction to
+A: stop the mercury from returning quickly to the bulb
+W: make it heavier
+W: increase its range
+W: measure very low temperatures
+E: The reading stays until it is reset.
+
+Q: Convert 300 K to degrees Celsius.
+A: 27 °C
+W: 573 °C
+W: 300 °C
+W: −27 °C
+E: 300 − 273 = 27.
+
+Q: The quantity of heat needed to change 1 kg of a solid to liquid without temperature change is its
+A: specific latent heat of fusion
+W: specific heat capacity
+W: heat capacity
+W: latent heat of vaporisation
+E: Temperature stays constant during melting.
+
+@topic phy-pressure
+
+Q: Atmospheric pressure at sea level is about
+A: 101,000 Pa (760 mmHg)
+W: 1,000 Pa
+W: 10 Pa
+W: 1,000,000 Pa
+E: It supports a 76 cm column of mercury.
+
+Q: The pressure at a depth of 5 m in water of density 1000 kg/m³ is (g = 10 m/s²)
+A: 50,000 Pa
+W: 5,000 Pa
+W: 500 Pa
+W: 500,000 Pa
+E: P = hρg = 5 × 1000 × 10.
+
+Q: Archimedes' principle states that a body immersed in a fluid experiences an upthrust equal to
+A: the weight of fluid displaced
+W: its own mass
+W: its volume
+W: the depth of the fluid
+E: This explains floating and sinking.
+
+Q: The hydraulic press works on the principle of
+A: Pascal's principle (transmission of pressure)
+W: Archimedes' principle
+W: Hooke's law
+W: Boyle's law
+E: Pressure applied to an enclosed liquid is transmitted equally.
+
+@topic phy-friction
+
+Q: Friction is a force that
+A: opposes relative motion between surfaces in contact
+W: always helps motion
+W: acts only in water
+W: acts only on magnets
+E: It acts opposite to motion.
+
+Q: Static friction acts
+A: when a body is at rest but a force tries to move it
+W: only when a body is moving fast
+W: only in liquids
+W: never
+E: It prevents the body from starting to move.
+
+Q: Kinetic (dynamic) friction acts
+A: when one surface slides over another
+W: only when bodies are at rest
+W: only in space
+W: between magnets
+E: It is usually less than limiting static friction.
+
+Q: Limiting friction is
+A: the maximum static friction just before motion starts
+W: the friction in moving bodies only
+W: zero friction
+W: friction in fluids
+E: It is the greatest frictional force.
+
+Q: The coefficient of friction is defined as
+A: frictional force ÷ normal reaction
+W: normal reaction ÷ frictional force
+W: mass × acceleration
+W: weight × distance
+E: μ = F ÷ R.
+
+Q: A box of weight 100 N needs a force of 25 N to slide it steadily. The coefficient of friction is
+A: 0.25
+W: 4
+W: 2.5
+W: 0.4
+E: 25 ÷ 100.
+
+Q: A 50 N block has a coefficient of friction of 0.4 with the floor. The frictional force is
+A: 20 N
+W: 125 N
+W: 12.5 N
+W: 50 N
+E: F = μR = 0.4 × 50.
+
+Q: Friction depends on
+A: the nature of the surfaces and the normal reaction
+W: the area of contact only
+W: the speed only
+W: the colour of the surfaces
+E: Area has little effect on solid friction.
+
+Q: Lubricants reduce friction by
+A: separating surfaces with a thin layer of fluid
+W: roughening surfaces
+W: increasing the load
+W: heating the surfaces
+E: E.g. oil in engines.
+
+Q: Ball bearings reduce friction by
+A: replacing sliding with rolling
+W: increasing contact area
+W: adding weight
+W: making surfaces rough
+E: Rolling friction is smaller.
+
+Q: A disadvantage of friction is that it
+A: causes wear and tear of machine parts
+W: helps us walk
+W: allows brakes to work
+W: holds nails in wood
+E: It also wastes energy as heat.
+
+Q: An advantage of friction is that it
+A: enables us to walk without slipping
+W: causes wear
+W: produces unwanted heat
+W: reduces efficiency
+E: Our feet grip the ground.
+
+Q: Streamlining reduces
+A: air or water resistance
+W: weight
+W: mass
+W: density
+E: Vehicles and fish are streamlined.
+
+Q: Brakes on a bicycle work by
+A: friction between brake pads and the wheel
+W: magnetism
+W: reducing mass
+W: increasing speed
+E: Kinetic energy turns to heat.
+
+Q: A parachute slows a falling person by
+A: increasing air resistance
+W: reducing gravity
+W: increasing mass
+W: reducing friction
+E: The large surface catches air.
+
+Q: Terminal velocity is reached when
+A: air resistance equals the weight of a falling body
+W: the body stops
+W: gravity disappears
+W: the body speeds up forever
+E: The resultant force is zero.
+
+Q: Rubbing your hands together makes them warm because
+A: work done against friction is converted to heat
+W: hands have electricity
+W: blood stops
+W: air is cooled
+E: Mechanical energy changes to heat.
+
+Q: Friction in fluids increases with
+A: speed
+W: colour
+W: temperature always decreasing
+W: nothing
+E: Faster motion gives more drag.
+
+Q: Sand is spread on slippery roads to
+A: increase friction
+W: reduce friction
+W: make roads smoother
+W: cool the road
+E: Tyres grip better.
+
+Q: Polishing a surface generally
+A: reduces friction
+W: increases friction
+W: has no effect
+W: makes it rougher
+E: Smoother surfaces have less friction.
+
+Q: Rolling friction is
+A: less than sliding friction
+W: greater than sliding friction
+W: equal to sliding friction always
+W: zero
+E: This is why wheels are used.
+
+Q: A 20 kg box on a floor (g = 10 m/s²) has a coefficient of friction of 0.3. The force needed to slide it steadily is
+A: 60 N
+W: 6 N
+W: 200 N
+W: 66.7 N
+E: R = 200 N; F = 0.3 × 200.
+
+Q: The angle of friction is the angle between
+A: the normal reaction and the resultant of friction and normal reaction
+W: two surfaces
+W: the horizontal and vertical only
+W: the force and the mass
+E: tan θ = μ.
+
+Q: The frictional force on a body sliding at a steady speed is
+A: equal to the applied force
+W: greater than the applied force
+W: zero
+W: twice the weight
+E: Forces are balanced at constant velocity.
+
+@topic phy-energy-sources
+
+Q: Fossil fuels include
+A: coal, crude oil and natural gas
+W: solar and wind
+W: water and biomass
+W: uranium only
+E: They formed from ancient organisms.
+
+Q: A non-renewable source of energy is
+A: coal
+W: solar
+W: wind
+W: hydro
+E: It cannot be replaced quickly.
+
+Q: Nuclear energy is obtained from
+A: fission of heavy nuclei such as uranium
+W: burning wood
+W: wind turbines
+W: falling water
+E: Mass is converted into energy.
+
+Q: Wind turbines convert
+A: kinetic energy of wind into electrical energy
+W: chemical energy into heat
+W: solar energy into chemical energy
+W: nuclear energy into light
+E: Moving air turns the blades.
+
+Q: Geothermal energy comes from
+A: heat inside the earth
+W: the sun only
+W: the moon
+W: ocean waves only
+E: Hot rocks heat water.
+
+Q: Tidal energy uses
+A: the rise and fall of the sea
+W: underground heat
+W: burning gas
+W: sunlight only
+E: Turbines are placed in tidal flows.
+
+Q: The energy stored in food is
+A: chemical energy
+W: nuclear energy
+W: kinetic energy
+W: sound energy
+E: It is released in respiration.
+
+Q: A dry cell converts
+A: chemical energy into electrical energy
+W: electrical energy into chemical energy
+W: heat into light
+W: light into sound
+E: E.g. in torches.
+
+Q: An electric bulb converts electrical energy mainly into
+A: light and heat
+W: sound only
+W: chemical energy
+W: nuclear energy
+E: Filament bulbs produce much heat.
+
+Q: A loudspeaker converts electrical energy into
+A: sound energy
+W: light energy
+W: chemical energy
+W: nuclear energy
+E: The cone vibrates.
+
+Q: A microphone converts
+A: sound energy into electrical energy
+W: electrical energy into sound
+W: light into sound
+W: heat into electricity
+E: It is the reverse of a loudspeaker.
+
+Q: When a car brakes, its kinetic energy is mainly converted into
+A: heat
+W: light
+W: chemical energy
+W: nuclear energy
+E: Friction in the brakes produces heat.
+
+Q: A disadvantage of solar energy is that
+A: it is not available at night
+W: it causes pollution
+W: it runs out quickly
+W: it is non-renewable
+E: Storage batteries are needed.
+
+Q: A disadvantage of fossil fuels is that they
+A: release carbon dioxide and pollutants
+W: are renewable
+W: produce no waste
+W: are unlimited
+E: They contribute to global warming.
+
+Q: Biomass energy comes from
+A: plant and animal materials
+W: uranium
+W: wind
+W: tides
+E: E.g. wood and dung.
+
+Q: Kainji Dam generates electricity using
+A: hydroelectric power
+W: nuclear power
+W: coal
+W: solar power
+E: Falling water turns turbines.
+
+Q: Egbin power station in Lagos uses
+A: natural gas
+W: water
+W: coal only
+W: wind
+E: It is a thermal power station.
+
+Q: The energy conversion in a hydroelectric station is
+A: potential energy of water → kinetic → electrical
+W: chemical → light
+W: nuclear → sound
+W: electrical → potential
+E: Water falls and turns turbines.
+
+Q: Energy conservation in the home can be achieved by
+A: switching off lights when not in use
+W: leaving appliances on
+W: using old inefficient bulbs
+W: opening fridges often
+E: This saves electricity.
+
+Q: LED bulbs are more efficient than filament bulbs because they
+A: produce less heat for the same light
+W: produce more heat
+W: use more power
+W: last for a shorter time
+E: More electrical energy becomes light.
+
+Q: The efficiency of an energy converter is
+A: useful energy output ÷ energy input × 100%
+W: input ÷ output
+W: output × input
+W: always 100%
+E: Some energy is always wasted.
+
+Q: A machine receives 500 J and gives out 400 J of useful energy. Its efficiency is
+A: 80%
+W: 125%
+W: 20%
+W: 40%
+E: 400 ÷ 500 × 100.
+
+Q: The ultimate source of most energy on earth is
+A: the sun
+W: the moon
+W: coal
+W: the wind
+E: Fossil fuels, wind and food derive from solar energy.
+
+Q: Nuclear power has the disadvantage of
+A: producing radioactive waste
+W: releasing large amounts of smoke
+W: being renewable
+W: needing no fuel
+E: The waste must be stored safely.
+
+@topic phy-equilibrium
+
+Q: The SI unit of moment is the
+A: newton-metre (N m)
+W: newton
+W: joule per second
+W: kilogram
+E: Moment = force × perpendicular distance.
+
+Q: A force of 20 N acts at 0.5 m from a pivot. The moment is
+A: 10 N m
+W: 40 N m
+W: 20.5 N m
+W: 0.025 N m
+E: 20 × 0.5.
+
+Q: A uniform metre rule is balanced at the 50 cm mark. A 2 N weight is hung at the 20 cm mark. What weight at the 80 cm mark will balance it?
+A: 2 N
+W: 4 N
+W: 1 N
+W: 8 N
+E: Both are 30 cm from the pivot.
+
+Q: A 40 N weight is 1.5 m from a pivot. What force 3 m from the pivot on the other side balances it?
+A: 20 N
+W: 80 N
+W: 40 N
+W: 120 N
+E: 40 × 1.5 = F × 3.
+
+Q: The two conditions for equilibrium are that the resultant force is zero and
+A: the sum of moments about any point is zero
+W: the body is moving
+W: the body is heated
+W: the mass is zero
+E: There is no net turning effect.
+
+Q: The centre of gravity of a body is
+A: the point where its whole weight appears to act
+W: always at its top
+W: always at its base
+W: the point of maximum mass
+E: For a uniform rod it is at the middle.
+
+Q: A body is in stable equilibrium if, when slightly displaced, it
+A: returns to its original position
+W: falls over
+W: stays in the new position
+W: breaks
+E: Its centre of gravity rises when tilted.
+
+Q: A body is in unstable equilibrium if, when slightly displaced, it
+A: moves further away from its original position
+W: returns to it
+W: stays in its new position
+W: becomes heavier
+E: E.g. a cone balanced on its tip.
+
+Q: A body is in neutral equilibrium if, when slightly displaced, it
+A: stays in its new position
+W: returns to its original position
+W: falls over
+W: spins forever
+E: E.g. a ball on a level floor.
+
+Q: Stability is increased by
+A: lowering the centre of gravity and widening the base
+W: raising the centre of gravity
+W: narrowing the base
+W: making the body taller
+E: This is why buses carry luggage low.
+
+Q: A couple consists of
+A: two equal and opposite parallel forces not in line
+W: two forces in the same direction
+W: one force only
+W: two forces in line
+E: It produces rotation only.
+
+Q: The moment of a couple is
+A: one force × perpendicular distance between the forces
+W: sum of the forces
+W: zero always
+W: force × mass
+E: E.g. turning a tap.
+
+Q: Two forces of 10 N form a couple with arms 0.3 m apart. The moment of the couple is
+A: 3 N m
+W: 6 N m
+W: 20 N m
+W: 0.3 N m
+E: 10 × 0.3.
+
+Q: A uniform beam of weight 100 N and length 4 m rests on supports at each end. The reaction at each support is
+A: 50 N
+W: 100 N
+W: 25 N
+W: 200 N
+E: The weight acts at the centre.
+
+Q: A spanner with a long handle is used to loosen a nut because
+A: a longer arm gives a bigger moment for the same force
+W: it is lighter
+W: it reduces friction
+W: it increases the nut's mass
+E: Moment = force × distance.
+
+Q: A door handle is placed far from the hinges to
+A: produce a larger moment for a small force
+W: reduce the moment
+W: make the door heavier
+W: increase friction
+E: Less effort is needed.
+
+Q: The centre of gravity of an irregular lamina can be found by
+A: suspending it from two points and drawing plumb lines
+W: weighing it
+W: heating it
+W: measuring its length
+E: The intersection is the centre of gravity.
+
+Q: A uniform metre rule balances at 50 cm. A 1 N weight at 10 cm and a 2 N weight at x cm on the other side balance. x is
+A: 70 cm
+W: 90 cm
+W: 60 cm
+W: 80 cm
+E: 1 × 40 = 2 × d; d = 20 cm, so x = 70 cm.
+
+Q: A see-saw balances with a 400 N boy at 1.5 m. A girl balances him at 2 m. Her weight is
+A: 300 N
+W: 533 N
+W: 400 N
+W: 800 N
+E: 400 × 1.5 = W × 2.
+
+Q: A body in equilibrium under three forces must have forces that
+A: form a closed triangle when drawn to scale
+W: all point in the same direction
+W: are all equal
+W: are all zero
+E: This is the triangle of forces.
+
+Q: Clockwise moments are equal to anticlockwise moments when a body is
+A: balanced
+W: accelerating
+W: heated
+W: magnetised
+E: This is the principle of moments.
+
+Q: A crane carries a counterweight to
+A: balance the moment of the load
+W: increase speed
+W: reduce friction
+W: make it lighter
+E: It prevents toppling.
+
+Q: Tightrope walkers carry a long pole to
+A: lower their centre of gravity and improve balance
+W: increase their weight only
+W: reduce friction
+W: move faster
+E: The pole also increases rotational inertia.
+
+Q: A body will topple when the vertical line through its centre of gravity
+A: falls outside its base
+W: falls inside its base
+W: passes through the centre
+W: is horizontal
+E: An unbalanced moment then acts.
+
+@topic phy-elasticity
+
+Q: Elasticity is the property of a material to
+A: return to its original shape after the force is removed
+W: break easily
+W: melt quickly
+W: conduct electricity
+E: E.g. rubber bands.
+
+Q: A plastic material, once deformed,
+A: does not return to its original shape
+W: always returns to its shape
+W: becomes a gas
+W: conducts heat better
+E: E.g. clay.
+
+Q: The elastic limit is
+A: the point beyond which a material will not return to its original length
+W: the breaking point always
+W: zero extension
+W: the length of the spring
+E: Hooke's law holds up to the limit of proportionality.
+
+Q: A spring extends 3 cm with a 6 N load. The force constant is
+A: 2 N/cm (200 N/m)
+W: 18 N/cm
+W: 0.5 N/cm
+W: 3 N/cm
+E: k = F ÷ e = 6 ÷ 3.
+
+Q: A spring of force constant 100 N/m is stretched by 0.05 m. The force applied is
+A: 5 N
+W: 2000 N
+W: 50 N
+W: 0.5 N
+E: F = ke = 100 × 0.05.
+
+Q: A spring of force constant 200 N/m is stretched by 0.1 m. The energy stored is
+A: 1 J
+W: 2 J
+W: 20 J
+W: 10 J
+E: E = ½ke² = ½ × 200 × 0.01.
+
+Q: A spring is stretched by 4 cm when a force of 10 N is applied. The energy stored is
+A: 0.2 J
+W: 40 J
+W: 0.4 J
+W: 2 J
+E: E = ½Fe = ½ × 10 × 0.04.
+
+Q: Tensile stress is defined as
+A: force ÷ cross-sectional area
+W: extension ÷ original length
+W: force × extension
+W: area ÷ force
+E: Unit: N/m² (Pa).
+
+Q: Tensile strain is defined as
+A: extension ÷ original length
+W: force ÷ area
+W: force × length
+W: area × length
+E: It has no unit.
+
+Q: Young's modulus is
+A: stress ÷ strain
+W: strain ÷ stress
+W: force × extension
+W: mass ÷ volume
+E: It measures stiffness.
+
+Q: A wire of original length 2 m is stretched by 0.002 m. The strain is
+A: 0.001
+W: 0.004
+W: 1000
+W: 0.002
+E: 0.002 ÷ 2.
+
+Q: A force of 100 N acts on a wire of cross-sectional area 2 × 10⁻⁶ m². The stress is
+A: 5 × 10⁷ N/m²
+W: 2 × 10⁻⁴ N/m²
+W: 5 × 10⁵ N/m²
+W: 200 N/m²
+E: 100 ÷ (2 × 10⁻⁶).
+
+Q: The unit of Young's modulus is
+A: N/m² (pascal)
+W: N/m
+W: newton
+W: no unit
+E: Stress has units; strain has none.
+
+Q: The point at which a wire begins to stretch a lot with little extra force is the
+A: yield point
+W: elastic limit only
+W: zero point
+W: breaking stress
+E: Plastic deformation begins.
+
+Q: Two identical springs in series each of constant k have a combined constant of
+A: k/2
+W: 2k
+W: k
+W: 4k
+E: Each stretches by the same amount, doubling total extension.
+
+Q: Two identical springs in parallel each of constant k have a combined constant of
+A: 2k
+W: k/2
+W: k
+W: k²
+E: The load is shared between them.
+
+Q: A graph of force against extension for a spring obeying Hooke's law is
+A: a straight line through the origin
+W: a curve
+W: a horizontal line
+W: a vertical line
+E: Force is proportional to extension.
+
+Q: The area under a force–extension graph represents
+A: the work done (energy stored)
+W: the force constant
+W: the strain
+W: the stress
+E: Energy = ½Fe for a straight line.
+
+Q: The gradient of a force–extension graph gives
+A: the force constant
+W: the energy stored
+W: the strain
+W: the mass
+E: k = F ÷ e.
+
+Q: Steel is used in construction partly because it
+A: has a high Young's modulus
+W: is very plastic
+W: is a poor conductor
+W: is very light
+E: It is stiff and strong.
+
+Q: A spring balance works on the principle of
+A: Hooke's law
+W: Boyle's law
+W: Archimedes' principle
+W: Ohm's law
+E: Extension is proportional to load.
+
+Q: A spring of natural length 20 cm stretches to 25 cm under 10 N. Its length under 6 N is
+A: 23 cm
+W: 26 cm
+W: 30 cm
+W: 21 cm
+E: Extension per N = 0.5 cm; 6 N gives 3 cm.
+
+Q: A brittle material
+A: breaks without much deformation
+W: stretches a lot before breaking
+W: is always elastic
+W: is always plastic
+E: E.g. glass.
+
+Q: A ductile material can
+A: be drawn into wires
+W: not be stretched
+W: break easily without deformation
+W: melt at room temperature
+E: E.g. copper.
+
+@topic phy-machines
+
+Q: The mechanical advantage of a machine is
+A: load ÷ effort
+W: effort ÷ load
+W: distance moved by effort ÷ distance moved by load
+W: work output × work input
+E: It shows the force multiplication.
+
+Q: Velocity ratio is
+A: distance moved by effort ÷ distance moved by load
+W: load ÷ effort
+W: effort ÷ load
+W: work input ÷ work output
+E: It depends only on the machine's design.
+
+Q: A lever has an effort arm of 2 m and a load arm of 0.5 m. Its velocity ratio is
+A: 4
+W: 1
+W: 2.5
+W: 0.25
+E: 2 ÷ 0.5.
+
+Q: An inclined plane of length 10 m raises a load to a height of 2 m. Its velocity ratio is
+A: 5
+W: 20
+W: 0.2
+W: 8
+E: VR = length ÷ height.
+
+Q: A screw jack has a pitch of 0.5 cm and a handle that moves in a circle of circumference 50 cm. Its velocity ratio is
+A: 100
+W: 25
+W: 50
+W: 0.01
+E: 50 ÷ 0.5.
+
+Q: A first-class lever has the
+A: fulcrum between the effort and the load
+W: load between fulcrum and effort
+W: effort between fulcrum and load
+W: no fulcrum
+E: E.g. a see-saw.
+
+Q: A pair of tongs is an example of a
+A: third-class lever
+W: first-class lever
+W: second-class lever
+W: pulley
+E: The effort is between the fulcrum and the load.
+
+Q: A single fixed pulley has a velocity ratio of
+A: 1
+W: 2
+W: 0.5
+W: 4
+E: It only changes the direction of the force.
+
+@topic phy-gas-laws
+
+Q: The pressure law states that at constant volume, the pressure of a fixed mass of gas is proportional to its
+A: absolute temperature
+W: volume
+W: mass
+W: density
+E: P/T = constant.
+
+Q: A gas at 300 K has a pressure of 100 kPa. At constant volume, its pressure at 600 K is
+A: 200 kPa
+W: 50 kPa
+W: 100 kPa
+W: 300 kPa
+E: Pressure doubles when T doubles.
+
+Q: A gas has a volume of 200 cm³ at 27 °C. Its volume at 127 °C at constant pressure is about
+A: 267 cm³
+W: 200 cm³
+W: 940 cm³
+W: 150 cm³
+E: V₂ = 200 × 400 ÷ 300.
+
+Q: The general gas equation is
+A: PV/T = constant
+W: PV = constant only
+W: P/V = constant
+W: PT = constant
+E: It combines the three gas laws.
+
+Q: Standard temperature and pressure (s.t.p.) is
+A: 273 K and 760 mmHg
+W: 0 K and 0 mmHg
+W: 100 °C and 1 atm
+W: 300 K and 100 kPa only
+E: 0 °C and 1 atmosphere.
+
+Q: According to Charles's law, if the absolute temperature of a gas doubles at constant pressure, its volume
+A: doubles
+W: halves
+W: stays the same
+W: quadruples
+E: V ∝ T.
+
+Q: A graph of volume against temperature (°C) for a gas at constant pressure, extended backwards, meets the temperature axis at
+A: −273 °C
+W: 0 °C
+W: 100 °C
+W: −100 °C
+E: This defines absolute zero.
+
+Q: A gas has pressure 200 kPa and volume 3 L at 300 K. At 400 K and 4 L its pressure is
+A: 200 kPa
+W: 150 kPa
+W: 267 kPa
+W: 100 kPa
+E: P₂ = 200 × 3 × 400 ÷ (300 × 4) = 200.
+
+@topic phy-waves
+
+Q: A progressive wave
+A: transfers energy from one place to another
+W: transfers matter permanently
+W: does not move
+W: has no frequency
+E: Particles oscillate about fixed points.
+
+Q: Two points on a wave that are in phase are separated by
+A: one wavelength
+W: half a wavelength
+W: a quarter wavelength
+W: two amplitudes
+E: They move in step.
+
+Q: Stationary waves are formed by
+A: superposition of two identical waves travelling in opposite directions
+W: a single wave only
+W: light alone
+W: sound in a vacuum
+E: They have nodes and antinodes.
+
+@topic phy-sound
+
+Q: Sound is a
+A: longitudinal mechanical wave
+W: transverse electromagnetic wave
+W: stream of particles
+W: type of light
+E: It needs a medium.
+
+Q: The speed of sound in air is about
+A: 340 m/s
+W: 3 × 10⁸ m/s
+W: 34 m/s
+W: 3,400 m/s
+E: It increases with temperature.
+
+Q: The speed of sound in air increases with
+A: temperature
+W: pressure alone
+W: loudness
+W: frequency
+E: Molecules move faster when warmer.
+
+Q: A person stands 170 m from a wall and claps. If sound travels at 340 m/s, the echo is heard after
+A: 1 s
+W: 0.5 s
+W: 2 s
+W: 0.25 s
+E: Total distance 340 m ÷ 340 m/s.
+
+Q: An echo sounder sends sound to the sea bed and receives the echo after 0.4 s. If sound travels at 1500 m/s in water, the depth is
+A: 300 m
+W: 600 m
+W: 150 m
+W: 3750 m
+E: d = 1500 × 0.4 ÷ 2.
+
+Q: The audible frequency range for humans is about
+A: 20 Hz to 20,000 Hz
+W: 2 Hz to 200 Hz
+W: 200 Hz to 2,000,000 Hz
+W: 0 Hz to 20 Hz
+E: Higher frequencies are ultrasonic.
+
+Q: Infrasound has frequencies
+A: below 20 Hz
+W: above 20,000 Hz
+W: between 200 and 2000 Hz
+W: exactly 1000 Hz
+E: Elephants use infrasound.
+
+Q: Ultrasound is used in medicine to
+A: scan unborn babies
+W: take X-ray photos
+W: kill bacteria with heat
+W: measure temperature
+E: It is safer than X-rays.
+
+Q: Resonance occurs when
+A: a body is forced to vibrate at its natural frequency
+W: two waves cancel
+W: sound travels in a vacuum
+W: a wave is reflected only
+E: The amplitude becomes large.
+
+Q: Beats are produced when
+A: two sounds of slightly different frequencies interfere
+W: one sound is very loud
+W: sound is reflected
+W: sound is absorbed
+E: Loudness rises and falls regularly.
+
+Q: Two tuning forks of 256 Hz and 260 Hz are sounded together. The beat frequency is
+A: 4 Hz
+W: 516 Hz
+W: 258 Hz
+W: 2 Hz
+E: 260 − 256.
+
+Q: The quality (timbre) of a note depends on
+A: the overtones present
+W: the frequency only
+W: the amplitude only
+W: the speed of sound
+E: Different instruments produce different overtones.
+
+Q: The fundamental frequency of a vibrating string increases when
+A: the tension is increased
+W: the length is increased
+W: the mass per unit length increases
+W: the string is loosened
+E: f ∝ √T.
+
+Q: In a closed pipe, the fundamental wavelength is
+A: four times the length of the pipe
+W: equal to the length
+W: twice the length
+W: half the length
+E: L = λ/4.
+
+Q: In an open pipe, the fundamental wavelength is
+A: twice the length of the pipe
+W: four times the length
+W: equal to the length
+W: half the length
+E: L = λ/2.
+
+Q: A closed pipe 0.25 m long resonates at its fundamental. If sound travels at 340 m/s, the frequency is
+A: 340 Hz
+W: 680 Hz
+W: 170 Hz
+W: 1360 Hz
+E: λ = 1 m; f = 340 ÷ 1.
+
+Q: Soundproof rooms use soft materials on walls to
+A: absorb sound
+W: reflect sound
+W: increase echoes
+W: amplify sound
+E: Soft materials reduce reflections.
+
+Q: Reverberation is
+A: the persistence of sound due to repeated reflections
+W: the absence of sound
+W: a type of light
+W: a single echo after 5 s
+E: It is common in large halls.
+
+Q: The Doppler effect is
+A: the apparent change in frequency due to relative motion
+W: the reflection of sound
+W: the absorption of sound
+W: the speed of sound in water
+E: E.g. a siren's pitch changes as it passes.
+
+Q: Noise differs from a musical note in that noise
+A: has irregular vibrations
+W: has regular vibrations
+W: travels faster
+W: needs no medium
+E: Musical notes are regular.
+
+Q: Sound cannot travel through
+A: a vacuum
+W: air
+W: water
+W: steel
+E: There are no particles to vibrate.
+
+Q: The bell-in-a-jar experiment shows that
+A: sound needs a material medium
+W: light needs a medium
+W: sound travels fastest in a vacuum
+W: bells do not ring
+E: The sound fades as air is pumped out.
+
+@topic phy-light
+
+Q: Light travels in
+A: straight lines
+W: curves always
+W: circles
+W: zigzags
+E: This is rectilinear propagation.
+
+Q: Shadows are formed because
+A: light travels in straight lines
+W: light bends around objects
+W: light is a sound wave
+W: objects emit darkness
+E: Opaque objects block light.
+
+Q: A total eclipse of the sun occurs when
+A: the moon is between the sun and the earth
+W: the earth is between the sun and the moon
+W: the sun is between the earth and the moon
+W: the moon is behind the sun
+E: The moon's umbra falls on the earth.
+
+Q: A pinhole camera forms an image that is
+A: real and inverted
+W: virtual and upright
+W: always magnified
+W: always blurred
+E: Rays cross at the pinhole.
+
+Q: The speed of light in a vacuum is about
+A: 3 × 10⁸ m/s
+W: 340 m/s
+W: 3 × 10⁵ m/s
+W: 1500 m/s
+E: It is the fastest speed known.
+
+Q: The refractive index of a medium is
+A: speed of light in vacuum ÷ speed in the medium
+W: speed in the medium ÷ speed in vacuum
+W: angle of incidence × angle of refraction
+W: always less than 1
+E: n = c ÷ v.
+
+Q: The speed of light in glass of refractive index 1.5 is
+A: 2 × 10⁸ m/s
+W: 4.5 × 10⁸ m/s
+W: 3 × 10⁸ m/s
+W: 1.5 × 10⁸ m/s
+E: 3 × 10⁸ ÷ 1.5.
+
+Q: Snell's law states that
+A: sin i ÷ sin r is constant
+W: i = r
+W: i + r = 90°
+W: sin i × sin r = 1
+E: The constant is the refractive index.
+
+Q: When light passes from a less dense to a denser medium, it bends
+A: towards the normal
+W: away from the normal
+W: along the surface
+W: not at all
+E: It slows down.
+
+Q: The critical angle for glass of refractive index 1.5 is about
+A: 42°
+W: 30°
+W: 60°
+W: 90°
+E: sin c = 1 ÷ 1.5 = 0.667.
+
+Q: Total internal reflection occurs when light travels from a denser medium and the angle of incidence
+A: exceeds the critical angle
+W: is less than the critical angle
+W: is zero
+W: equals 45° in every medium
+E: All the light is reflected.
+
+Q: Optical fibres work by
+A: total internal reflection
+W: refraction only
+W: diffraction
+W: dispersion
+E: Light is trapped inside the fibre.
+
+Q: A mirage is caused by
+A: refraction of light through layers of air at different temperatures
+W: reflection from water
+W: dispersion
+W: absorption
+E: It looks like water on hot roads.
+
+Q: A concave mirror is used as a
+A: shaving mirror
+W: driving mirror
+W: security mirror in shops only
+W: periscope
+E: It gives a magnified upright image when close.
+
+Q: The focal length of a curved mirror is
+A: half its radius of curvature
+W: equal to its radius
+W: twice its radius
+W: zero
+E: f = r ÷ 2.
+
+Q: A concave mirror has a focal length of 10 cm. Its radius of curvature is
+A: 20 cm
+W: 5 cm
+W: 10 cm
+W: 40 cm
+E: r = 2f.
+
+Q: Two plane mirrors inclined at 60° form how many images of an object between them?
+A: 5
+W: 6
+W: 3
+W: 4
+E: n = 360 ÷ 60 − 1.
+
+Q: A periscope uses
+A: two plane mirrors (or prisms) at 45°
+W: one concave mirror
+W: a convex lens
+W: a single prism only
+E: It lets you see over obstacles.
+
+Q: The colours of the spectrum from red to violet are red, orange, yellow, green, blue, indigo and
+A: violet
+W: white
+W: black
+W: brown
+E: Remember ROYGBIV.
+
+Q: The primary colours of light are
+A: red, green and blue
+W: red, yellow and blue
+W: cyan, magenta and yellow
+W: orange, green and violet
+E: Mixing them gives white light.
+
+Q: A red object appears red in white light because it
+A: reflects red light and absorbs others
+W: absorbs red light
+W: emits red light
+W: reflects all colours
+E: Objects show the colours they reflect.
+
+Q: A green leaf viewed in red light appears
+A: black
+W: green
+W: red
+W: white
+E: There is no green light to reflect.
+
+@topic phy-lenses
+
+Q: A diverging lens is also called a
+A: concave lens
+W: convex lens
+W: plane lens
+W: cylindrical mirror
+E: It spreads light out.
+
+Q: The principal focus of a converging lens is the point where
+A: parallel rays meet after refraction
+W: rays never meet
+W: the lens is thickest
+W: light enters
+E: The distance from the lens is the focal length.
+
+Q: The lens formula is
+A: 1/f = 1/u + 1/v
+W: f = u + v
+W: f = uv
+W: 1/f = u − v
+E: Using the real-is-positive convention.
+
+Q: An object is 20 cm from a converging lens of focal length 10 cm. The image is
+A: 20 cm from the lens, real and same size
+W: 10 cm from the lens
+W: virtual and magnified
+W: at infinity
+E: 1/v = 1/10 − 1/20 = 1/20.
+
+Q: An object is 15 cm from a converging lens of focal length 10 cm. The image distance is
+A: 30 cm
+W: 6 cm
+W: 15 cm
+W: 25 cm
+E: 1/v = 1/10 − 1/15 = 1/30.
+
+Q: In the question above, the magnification is
+A: 2
+W: 0.5
+W: 1
+W: 3
+E: m = v ÷ u = 30 ÷ 15.
+
+Q: Magnification is defined as
+A: image height ÷ object height
+W: object height ÷ image height
+W: focal length × distance
+W: u × v
+E: It also equals v ÷ u.
+
+Q: When an object is placed between F and a converging lens, the image is
+A: virtual, upright and magnified
+W: real and inverted
+W: diminished and real
+W: at infinity
+E: This is how a magnifying glass works.
+
+Q: When an object is at the principal focus of a converging lens, the image is formed
+A: at infinity
+W: at F
+W: at 2F
+W: on the lens
+E: Rays emerge parallel.
+
+Q: A diverging lens always forms an image that is
+A: virtual, upright and diminished
+W: real and inverted
+W: magnified and real
+W: at infinity
+E: Rays appear to come from the image.
+
+Q: The power of a lens of focal length 25 cm is
+A: 4 dioptres
+W: 25 dioptres
+W: 0.25 dioptres
+W: 40 dioptres
+E: P = 1 ÷ 0.25 m.
+
+Q: A lens of power −2 D is
+A: a diverging lens of focal length 0.5 m
+W: a converging lens of focal length 0.5 m
+W: a converging lens of focal length 2 m
+W: a diverging lens of focal length 2 m
+E: Negative power means diverging.
+
+Q: Short-sightedness (myopia) is corrected using
+A: a diverging (concave) lens
+W: a converging lens
+W: a plane mirror
+W: a prism
+E: The eye focuses distant objects in front of the retina.
+
+Q: In long-sightedness, the image of a near object falls
+A: behind the retina
+W: in front of the retina
+W: on the retina
+W: on the lens
+E: A converging lens corrects it.
+
+Q: In the human eye, the image on the retina is
+A: real and inverted
+W: virtual and upright
+W: magnified
+W: at infinity
+E: The brain interprets it as upright.
+
+Q: The part of the eye that controls the amount of light entering is the
+A: iris
+W: retina
+W: cornea
+W: optic nerve
+E: It changes the size of the pupil.
+
+Q: Accommodation in the eye is the ability to
+A: change the focal length of the lens to focus at different distances
+W: change colour
+W: produce tears
+W: see in the dark only
+E: The ciliary muscles change lens shape.
+
+Q: A camera differs from the eye in that it focuses by
+A: changing the distance between lens and film (sensor)
+W: changing the lens shape
+W: using an iris only
+W: moving the object
+E: The eye changes lens shape instead.
+
+Q: A simple microscope is a
+A: single converging lens used as a magnifier
+W: diverging lens
+W: pair of mirrors
+W: prism
+E: The object is within the focal length.
+
+Q: A compound microscope uses
+A: two converging lenses
+W: one diverging lens
+W: two diverging lenses
+W: plane mirrors only
+E: An objective and an eyepiece.
+
+Q: An astronomical telescope forms a final image that is
+A: inverted
+W: upright
+W: real and on the eyepiece
+W: diminished always
+E: It is used for viewing stars.
+
+Q: A projector forms an image that is
+A: real, inverted and magnified
+W: virtual and upright
+W: diminished
+W: at the lens
+E: Slides are put in upside down.
+
+Q: The focal length of a converging lens can be estimated quickly by
+A: focusing a distant object onto a screen
+W: weighing the lens
+W: heating the lens
+W: measuring its thickness
+E: Image distance ≈ f for distant objects.
+
+Q: A converging lens of focal length 5 cm used as a magnifying glass with the image at 25 cm gives a magnification of about
+A: 6
+W: 5
+W: 25
+W: 0.2
+E: m = 1 + D/f = 1 + 25/5.
+
+@topic phy-electrostatics
+
+Q: Unlike charges
+A: attract each other
+W: repel each other
+W: have no effect
+W: cancel gravity
+E: Positive attracts negative.
+
+Q: A body becomes positively charged when it
+A: loses electrons
+W: gains electrons
+W: gains protons
+W: loses protons
+E: Electrons are transferred.
+
+Q: A polythene rod rubbed with fur becomes
+A: negatively charged
+W: positively charged
+W: neutral
+W: magnetised
+E: It gains electrons from the fur.
+
+Q: A glass rod rubbed with silk becomes
+A: positively charged
+W: negatively charged
+W: neutral
+W: magnetised
+E: It loses electrons to the silk.
+
+Q: Charging by induction involves
+A: bringing a charged body near a conductor without touching it
+W: rubbing two insulators
+W: touching with a charged body only
+W: heating the body
+E: The conductor is earthed and then separated.
+
+Q: The SI unit of electric charge is the
+A: coulomb
+W: ampere
+W: volt
+W: farad
+E: 1 C = 1 A s.
+
+Q: The charge on one electron is about
+A: 1.6 × 10⁻¹⁹ C
+W: 1 C
+W: 9.1 × 10⁻³¹ C
+W: 6.0 × 10²³ C
+E: It is negative.
+
+Q: Coulomb's law states that the force between two point charges is
+A: proportional to the product of the charges and inversely proportional to the square of the distance
+W: proportional to the distance
+W: independent of the charges
+W: proportional to the square of the distance
+E: F = kq₁q₂/r².
+
+Q: If the distance between two charges is doubled, the force becomes
+A: one quarter
+W: half
+W: double
+W: four times
+E: Inverse square law.
+
+Q: An electric field line shows
+A: the direction a positive charge would move
+W: the direction of magnetic force
+W: the path of light
+W: the speed of electrons
+E: Field lines go from positive to negative.
+
+Q: Charges on a conductor tend to concentrate at
+A: sharp points
+W: flat surfaces
+W: the centre
+W: nowhere
+E: This is used in lightning conductors.
+
+Q: A gold-leaf electroscope's leaf diverges when
+A: it is charged
+W: it is neutral
+W: it is earthed
+W: it is heated
+E: Like charges on leaf and rod repel.
+
+Q: A capacitor stores
+A: electric charge
+W: magnetic poles
+W: light
+W: sound
+E: It has two plates separated by an insulator.
+
+Q: The capacitance of a parallel-plate capacitor increases when
+A: the area of the plates increases
+W: the plates are moved further apart
+W: the dielectric is removed
+W: the plates become smaller
+E: C = εA/d.
+
+Q: A capacitor of 5 µF is connected to a 12 V supply. The charge stored is
+A: 60 µC
+W: 2.4 µC
+W: 17 µC
+W: 0.42 µC
+E: Q = CV = 5 × 12.
+
+Q: Capacitors of 2 µF and 3 µF in parallel have a total capacitance of
+A: 5 µF
+W: 1.2 µF
+W: 6 µF
+W: 1 µF
+E: In parallel, capacitances add.
+
+Q: Capacitors of 3 µF and 6 µF in series have a total capacitance of
+A: 2 µF
+W: 9 µF
+W: 18 µF
+W: 4.5 µF
+E: 1/C = 1/3 + 1/6 = 1/2.
+
+Q: The energy stored in a capacitor is
+A: ½CV²
+W: CV
+W: C/V
+W: V/C
+E: Also ½QV.
+
+Q: A 10 µF capacitor charged to 100 V stores energy of
+A: 0.05 J
+W: 1000 J
+W: 0.5 J
+W: 0.005 J
+E: ½ × 10 × 10⁻⁶ × 10,000.
+
+Q: A dielectric placed between capacitor plates
+A: increases the capacitance
+W: decreases the capacitance
+W: has no effect
+W: discharges the capacitor
+E: It reduces the field between the plates.
+
+Q: Lightning is caused by
+A: discharge of static electricity between clouds and earth
+W: magnets in clouds
+W: hot air only
+W: sound waves
+E: Charges build up in thunderclouds.
+
+Q: Fuel tankers have a chain touching the ground to
+A: conduct away static charge
+W: reduce speed
+W: make noise
+W: increase friction
+E: Sparks could ignite fuel.
+
+Q: An insulator is a material that
+A: does not allow charges to flow easily
+W: conducts electricity well
+W: is always a metal
+W: is magnetic
+E: E.g. rubber and plastic.
+
+Q: Electrostatic precipitators are used to
+A: remove smoke particles from chimney gases
+W: produce electricity
+W: cool engines
+W: measure current
+E: Charged particles are attracted to plates.
+
+@topic phy-photoelectric
+
+Q: Photons are
+A: packets (quanta) of electromagnetic energy
+W: charged particles in the nucleus
+W: sound waves
+W: neutral atoms
+E: Einstein used the idea in 1905.
+
+Q: The energy of a photon is given by
+A: E = hf
+W: E = mc
+W: E = ½mv
+W: E = hλ
+E: h is Planck's constant.
+
+Q: Planck's constant is about
+A: 6.6 × 10⁻³⁴ J s
+W: 3 × 10⁸ m/s
+W: 1.6 × 10⁻¹⁹ C
+W: 9.8 m/s²
+E: It links energy and frequency.
+
+Q: The work function of a metal is
+A: the minimum energy needed to remove an electron from its surface
+W: the maximum energy of an electron
+W: the energy of a photon
+W: the mass of an electron
+E: It depends on the metal.
+
+Q: The threshold frequency is
+A: the minimum frequency of light that causes photoemission
+W: the maximum frequency of light
+W: the speed of light
+W: the frequency of sound
+E: Below it, no electrons are emitted.
+
+Q: Einstein's photoelectric equation is
+A: hf = W + ½mv²
+W: E = mc only
+W: V = IR
+W: F = ma
+E: Photon energy = work function + kinetic energy.
+
+Q: Increasing the intensity of light above the threshold frequency
+A: increases the number of electrons emitted
+W: increases the energy of each electron
+W: stops emission
+W: has no effect
+E: Energy per electron depends on frequency.
+
+Q: Increasing the frequency of light above the threshold
+A: increases the maximum kinetic energy of the electrons
+W: reduces the electron energy
+W: stops emission
+W: decreases the work function
+E: KE max = hf − W.
+
+Q: A photocell converts
+A: light energy into electrical energy
+W: electrical energy into light
+W: heat into sound
+W: sound into light
+E: Used in automatic doors and light meters.
+
+Q: The photoelectric effect supports the
+A: particle nature of light
+W: wave nature of light only
+W: idea that light is sound
+W: idea that light has no energy
+E: Wave theory cannot explain threshold frequency.
+
+Q: The stopping potential in a photoelectric experiment measures
+A: the maximum kinetic energy of the photoelectrons
+W: the number of electrons
+W: the work function only
+W: the light intensity
+E: eV = ½mv² max.
+
+Q: The electron-volt (eV) is a unit of
+A: energy
+W: charge
+W: potential difference only
+W: current
+E: 1 eV = 1.6 × 10⁻¹⁹ J.
+
+Q: X-rays were discovered by
+A: Wilhelm Röntgen
+W: Albert Einstein
+W: Max Planck
+W: Marie Curie
+E: He discovered them in 1895.
+
+Q: In an X-ray tube, electrons are produced by
+A: thermionic emission from a heated cathode
+W: photoemission only
+W: radioactivity
+W: friction
+E: The filament is heated.
+
+Q: X-rays are produced in the X-ray tube when
+A: fast electrons strike a metal target
+W: light strikes a lens
+W: alpha particles hit air
+W: sound waves hit metal
+E: Most of the energy becomes heat.
+
+Q: The target in an X-ray tube is usually made of
+A: tungsten
+W: copper only
+W: aluminium
+W: lead
+E: Tungsten has a high melting point.
+
+Q: Hard X-rays are produced by
+A: a high accelerating voltage
+W: a low accelerating voltage
+W: a cold cathode
+W: low current only
+E: They are more penetrating.
+
+Q: The intensity of X-rays depends on
+A: the filament current
+W: the anode voltage only
+W: the colour of the tube
+W: the size of the room
+E: More electrons give more X-rays.
+
+Q: X-ray workers are protected by
+A: lead shielding
+W: plastic sheets
+W: paper
+W: glass only
+E: Lead absorbs X-rays.
+
+Q: A use of X-rays in industry is
+A: detecting flaws in metal castings
+W: cooking food
+W: making ice
+W: charging batteries
+E: Cracks show on X-ray images.
+
+Q: X-rays are dangerous because they
+A: can damage living cells
+W: are very loud
+W: are too cold
+W: are visible
+E: They are ionising radiation.
+
+Q: A photon of light has a frequency of 5 × 10¹⁴ Hz. Its energy is (h = 6.6 × 10⁻³⁴ J s)
+A: 3.3 × 10⁻¹⁹ J
+W: 6.6 × 10⁻³⁴ J
+W: 5 × 10¹⁴ J
+W: 1.3 × 10⁻⁴⁸ J
+E: E = hf = 6.6 × 10⁻³⁴ × 5 × 10¹⁴.
+
+Q: Wave-particle duality means that
+A: light and matter show both wave and particle properties
+W: light is only a wave
+W: matter is only a wave
+W: particles never move
+E: E.g. electron diffraction.
+
+Q: Thermionic emission is
+A: the emission of electrons from a heated metal surface
+W: the emission of light from a cold surface
+W: radioactive decay
+W: sound from a hot metal
+E: Used in cathode ray tubes.
+
+@topic phy-magnetism
+
+Q: The earth's magnetic field causes a freely suspended magnet to point
+A: north–south
+W: east–west
+W: up and down
+W: in any direction
+E: It acts like a compass.
+
+Q: A magnet can be demagnetised by
+A: heating it strongly or hammering it
+W: cooling it
+W: painting it
+W: keeping it with keepers
+E: The domains become disordered.
+
+Q: The force on a current-carrying conductor in a magnetic field is given by
+A: F = BIL
+W: F = ma
+W: F = kx
+W: F = qV
+E: The conductor must be perpendicular to the field.
+
+Q: Fleming's left-hand rule is used to find the direction of
+A: the force on a current-carrying conductor in a magnetic field
+W: induced current
+W: the earth's field
+W: light rays
+E: It is used for motors.
+
+Q: Fleming's right-hand rule is used to find the direction of
+A: induced current in a generator
+W: the force on a motor
+W: gravity
+W: sound
+E: It is used for dynamos.
+
+Q: Lenz's law states that the induced current
+A: opposes the change producing it
+W: aids the change
+W: is always zero
+W: flows only in insulators
+E: This follows from energy conservation.
+
+Q: A transformer with 200 primary turns and 50 secondary turns is supplied with 240 V. The output voltage is
+A: 60 V
+W: 960 V
+W: 240 V
+W: 120 V
+E: Vs = 240 × 50 ÷ 200.
+
+Q: Electric power is transmitted at high voltage to
+A: reduce power loss in the cables
+W: increase current
+W: make it more dangerous
+W: increase resistance
+E: Lower current means less I²R loss.
+
+@topic phy-atomic
+
+Q: The atomic number of an element is the number of
+A: protons in the nucleus
+W: neutrons
+W: nucleons
+W: electrons in the outer shell only
+E: It identifies the element.
+
+Q: The mass number of an atom is the number of
+A: protons plus neutrons
+W: protons only
+W: electrons only
+W: neutrons only
+E: These are the nucleons.
+
+Q: Isotopes of an element have the same number of protons but different numbers of
+A: neutrons
+W: electrons only
+W: protons
+W: nuclei
+E: E.g. carbon-12 and carbon-14.
+
+Q: A radioactive substance has a half-life of 5 days. After 15 days the fraction remaining is
+A: 1/8
+W: 1/3
+W: 1/4
+W: 1/15
+E: Three half-lives: (½)³.
+
+Q: When a nucleus emits an alpha particle, its mass number
+A: decreases by 4
+W: decreases by 2
+W: increases by 4
+W: stays the same
+E: The atomic number decreases by 2.
+
+Q: When a nucleus emits a beta particle, its atomic number
+A: increases by 1
+W: decreases by 1
+W: decreases by 2
+W: stays the same
+E: A neutron becomes a proton.
+
+Q: Gamma radiation is
+A: electromagnetic radiation with no charge
+W: a helium nucleus
+W: a fast electron
+W: a neutron
+E: It does not change A or Z.
+
+Q: Nuclear fusion is
+A: the joining of light nuclei to form a heavier nucleus
+W: the splitting of heavy nuclei
+W: the emission of alpha particles
+W: the burning of coal
+E: It powers the sun.
+
+@topic phy-electronics
+
+Q: Silicon and germanium are examples of
+A: semiconductors
+W: good conductors
+W: insulators
+W: superconductors
+E: Their conductivity is between conductors and insulators.
+
+Q: The conductivity of a pure semiconductor
+A: increases with temperature
+W: decreases with temperature
+W: stays the same
+W: is zero always
+E: More electrons are freed.
+
+Q: An n-type semiconductor is made by doping with
+A: pentavalent atoms such as phosphorus
+W: trivalent atoms such as boron
+W: oxygen
+W: copper
+E: The extra electrons are majority carriers.
+
+Q: A p-type semiconductor is made by doping with
+A: trivalent atoms such as boron
+W: pentavalent atoms such as arsenic
+W: hydrogen
+W: iron
+E: Holes are the majority carriers.
+
+Q: In n-type material, the majority charge carriers are
+A: electrons
+W: holes
+W: protons
+W: neutrons
+E: Donor atoms supply electrons.
+
+Q: In p-type material, the majority charge carriers are
+A: holes
+W: electrons
+W: protons
+W: ions
+E: Acceptor atoms create holes.
+
+Q: A p–n junction diode conducts when it is
+A: forward biased
+W: reverse biased
+W: unconnected
+W: heated to melting
+E: p is connected to positive.
+
+Q: A diode in reverse bias
+A: allows almost no current
+W: allows large current
+W: becomes a resistor of zero ohms
+W: produces light always
+E: The depletion layer widens.
+
+Q: Half-wave rectification uses
+A: one diode
+W: four diodes
+W: a transformer only
+W: a capacitor only
+E: It passes only one half of each cycle.
+
+Q: Full-wave bridge rectification uses
+A: four diodes
+W: one diode
+W: two capacitors only
+W: a transistor
+E: Both halves of the cycle are used.
+
+Q: A capacitor is used after a rectifier to
+A: smooth the output
+W: increase ripple
+W: block all current
+W: reverse the current
+E: It charges and discharges to fill gaps.
+
+Q: A transistor has three terminals called the
+A: emitter, base and collector
+W: anode, cathode and grid
+W: positive, negative and earth
+W: live, neutral and earth
+E: It is a three-terminal device.
+
+Q: A transistor can be used as
+A: an amplifier or a switch
+W: a battery
+W: a light bulb
+W: a transformer
+E: A small base current controls a large collector current.
+
+Q: An LED is
+A: a diode that emits light when forward biased
+W: a resistor
+W: a capacitor
+W: a transformer
+E: Light-emitting diode.
+
+Q: An LDR's resistance
+A: decreases as light intensity increases
+W: increases as light increases
+W: is constant
+W: depends on sound
+E: Light-dependent resistor.
+
+Q: A thermistor's resistance (NTC type)
+A: decreases as temperature increases
+W: increases as temperature increases
+W: is constant
+W: depends on light only
+E: Used in temperature sensors.
+
+Q: The depletion layer in a p–n junction
+A: has no free charge carriers
+W: is full of electrons
+W: is full of holes
+W: conducts strongly
+E: Electrons and holes have recombined.
+
+Q: A Zener diode is mainly used for
+A: voltage regulation
+W: amplification
+W: producing light
+W: storing charge
+E: It conducts in reverse at a fixed voltage.
+
+Q: An integrated circuit (IC) contains
+A: many components on a single chip
+W: only one resistor
+W: only a battery
+W: a vacuum tube
+E: E.g. microprocessors.
+
+Q: The output of a half-wave rectifier is
+A: pulsating direct current
+W: pure alternating current
+W: zero
+W: a perfect steady d.c.
+E: Smoothing improves it.
+
+Q: Electrons in a semiconductor that are free to move are found in the
+A: conduction band
+W: valence band only
+W: nucleus
+W: forbidden gap
+E: The energy gap is small in semiconductors.
+
+Q: Doping a semiconductor
+A: increases its conductivity
+W: makes it an insulator
+W: removes all electrons
+W: makes it a magnet
+E: Impurities add charge carriers.
+
+Q: In a transistor used as an amplifier, the current gain is
+A: collector current ÷ base current
+W: base current ÷ collector current
+W: emitter voltage ÷ base voltage
+W: always 1
+E: It is often 50–300.
+
+Q: A transistor with a base current of 0.02 mA and a current gain of 100 has a collector current of
+A: 2 mA
+W: 0.0002 mA
+W: 100 mA
+W: 0.2 mA
+E: 0.02 × 100.

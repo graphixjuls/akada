@@ -1,0 +1,1189 @@
+@subject mathematics
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic mth-modular
+
+Q: Evaluate 2⁵ (mod 7).
+A: 4
+W: 3
+W: 5
+W: 2
+E: 2⁵ = 32 = 4 × 7 + 4.
+
+Q: Evaluate (15 − 23) mod 6.
+A: 4
+W: 2
+W: 8
+W: 0
+E: −8 + 12 = 4.
+
+Q: Solve 2x ≡ 3 (mod 5).
+A: 4
+W: 3
+W: 2
+W: 1
+E: 2 × 4 = 8 ≡ 3 (mod 5).
+
+Q: What time will a 12-hour clock show 15 hours after 10 o'clock?
+A: 1 o'clock
+W: 3 o'clock
+W: 5 o'clock
+W: 25 o'clock
+E: (10 + 15) mod 12 = 1.
+
+Q: Find the additive inverse of 3 in modulo 7.
+A: 4
+W: 3
+W: 5
+W: 0
+E: 3 + 4 = 7 ≡ 0.
+
+@topic mth-logarithms
+
+Q: Evaluate log₂ 0.5.
+A: −1
+W: 1
+W: 0.5
+W: 2
+E: 2⁻¹ = 0.5.
+
+Q: Simplify log₃ 27 + log₃ 3.
+A: 4
+W: 3
+W: 30
+W: 81
+E: 3 + 1.
+
+Q: Evaluate log₁₀ 0.01.
+A: −2
+W: 2
+W: 0.01
+W: −1
+E: 10⁻² = 0.01.
+
+Q: If log 2 = 0.3010, find log 8.
+A: 0.9030
+W: 0.6020
+W: 2.4080
+W: 0.3010
+E: log 8 = 3 log 2.
+
+@topic mth-sets
+
+Q: A = {2, 4, 6, 8} and B = {1, 2, 3, 4}. Find A ∪ B.
+A: {1, 2, 3, 4, 6, 8}
+W: {2, 4}
+W: {1, 3}
+W: {6, 8}
+E: All elements in either set.
+
+Q: If n(A) = 5, how many subsets does A have?
+A: 32
+W: 25
+W: 10
+W: 5
+E: 2⁵ = 32.
+
+Q: n(A) = 12, n(B) = 9 and n(A ∩ B) = 4. Find n(A ∪ B).
+A: 17
+W: 21
+W: 25
+W: 13
+E: 12 + 9 − 4.
+
+Q: U = {1, 2, …, 10} and A = {1, 3, 5, 7, 9}. Find n(A′).
+A: 5
+W: 10
+W: 4
+W: 6
+E: The even numbers are left.
+
+Q: Which set is a subset of {a, b, c, d}?
+A: {a, d}
+W: {a, e}
+W: {f}
+W: {b, c, g}
+E: Every element must be in the larger set.
+
+Q: In a group of 30, 18 play football, 15 play tennis and 7 play neither. How many play both?
+A: 10
+W: 3
+W: 8
+W: 13
+E: 18 + 15 − x = 30 − 7 = 23, so x = 10.
+
+Q: P = {x : x is a prime number less than 10}. Find n(P).
+A: 4
+W: 5
+W: 3
+W: 9
+E: {2, 3, 5, 7}.
+
+Q: A set with no elements is called
+A: an empty (null) set
+W: a universal set
+W: a finite set of one
+W: a subset of nothing
+E: Written ∅ or { }.
+
+@topic mth-simultaneous
+
+Q: Solve 3x + y = 11 and x + y = 5.
+A: x = 3, y = 2
+W: x = 2, y = 3
+W: x = 4, y = 1
+W: x = 1, y = 4
+E: Subtract: 2x = 6.
+
+Q: Solve 2x + 3y = 13 and x = 2.
+A: y = 3
+W: y = 2
+W: y = 4
+W: y = 5
+E: 4 + 3y = 13.
+
+Q: Solve 4x − y = 7 and 2x + y = 5.
+A: x = 2, y = 1
+W: x = 1, y = 2
+W: x = 3, y = 5
+W: x = 2, y = −1
+E: Add: 6x = 12.
+
+Q: Two pens and a ruler cost ₦250. One pen and a ruler cost ₦150. Find the cost of a pen.
+A: ₦100
+W: ₦50
+W: ₦150
+W: ₦125
+E: Subtract the equations.
+
+Q: Solve y = x + 1 and 2x + y = 10.
+A: x = 3, y = 4
+W: x = 4, y = 5
+W: x = 2, y = 3
+W: x = 3, y = 3
+E: 2x + x + 1 = 10.
+
+@topic mth-variation
+
+Q: y varies inversely as the square of x. If y = 4 when x = 3, find y when x = 6.
+A: 1
+W: 2
+W: 8
+W: 16
+E: k = 36; y = 36 ÷ 36.
+
+Q: y varies directly as √x. If y = 6 when x = 9, find y when x = 25.
+A: 10
+W: 15
+W: 25
+W: 12
+E: k = 2; y = 2 × 5.
+
+@topic mth-quadratic
+
+Q: Find the product of the roots of x² − 7x + 10 = 0.
+A: 10
+W: 7
+W: −7
+W: −10
+E: Product = c/a.
+
+Q: Find the discriminant of x² + 3x + 5 = 0.
+A: −11
+W: 11
+W: 29
+W: −29
+E: 9 − 20.
+
+@topic mth-trig
+
+Q: Find the value of cos 60°.
+A: 1/2
+W: √3/2
+W: 1
+W: 0
+E: Standard value.
+
+Q: Find the value of sin 60°.
+A: √3/2
+W: 1/2
+W: 1
+W: √2/2
+E: Standard value.
+
+Q: Find the value of cos 30°.
+A: √3/2
+W: 1/2
+W: √3
+W: 1
+E: Standard value.
+
+Q: Find the value of tan 60°.
+A: √3
+W: 1/√3
+W: 1
+W: √3/2
+E: sin 60° ÷ cos 60°.
+
+Q: Find the value of sin 45°.
+A: √2/2
+W: 1/2
+W: √3/2
+W: 1
+E: 1/√2.
+
+Q: Find the value of sin 90°.
+A: 1
+W: 0
+W: 1/2
+W: undefined
+E: Standard value.
+
+Q: Find the value of cos 90°.
+A: 0
+W: 1
+W: 1/2
+W: −1
+E: Standard value.
+
+Q: In a right-angled triangle, the hypotenuse is 10 cm and the side opposite θ is 6 cm. Find sin θ.
+A: 3/5
+W: 4/5
+W: 3/4
+W: 5/3
+E: 6 ÷ 10.
+
+Q: In the same triangle, find cos θ.
+A: 4/5
+W: 3/5
+W: 3/4
+W: 5/4
+E: Adjacent = 8 cm; 8 ÷ 10.
+
+Q: In a right-angled triangle, the sides adjacent and opposite θ are 12 cm and 5 cm. Find tan θ.
+A: 5/12
+W: 12/5
+W: 5/13
+W: 12/13
+E: Opposite ÷ adjacent.
+
+Q: If sin θ = 8/17 and θ is acute, find cos θ.
+A: 15/17
+W: 8/15
+W: 17/15
+W: 9/17
+E: √(289 − 64) = 15.
+
+Q: If tan θ = 3/4 and θ is acute, find sin θ.
+A: 3/5
+W: 4/5
+W: 3/4
+W: 5/3
+E: Hypotenuse = 5.
+
+Q: A ladder 13 m long reaches 12 m up a wall. How far is its foot from the wall?
+A: 5 m
+W: 1 m
+W: 25 m
+W: 7 m
+E: √(169 − 144).
+
+Q: The angle of elevation of the top of a tree from a point 20 m away is 45°. Find the height of the tree.
+A: 20 m
+W: 10 m
+W: 40 m
+W: 20√2 m
+E: tan 45° = 1.
+
+Q: From a point 30 m from a building, the angle of elevation of its top is 30°. Find its height.
+A: 10√3 m
+W: 30√3 m
+W: 15 m
+W: 60 m
+E: h = 30 tan 30° = 30/√3.
+
+Q: A kite string 40 m long makes 30° with the ground. Find the height of the kite.
+A: 20 m
+W: 40 m
+W: 20√3 m
+W: 10 m
+E: 40 sin 30°.
+
+Q: The angle of depression of a boat from a cliff 50 m high is 45°. How far is the boat from the foot of the cliff?
+A: 50 m
+W: 25 m
+W: 100 m
+W: 50√2 m
+E: tan 45° = 1.
+
+Q: Evaluate sin 30° + cos 60°.
+A: 1
+W: 1/2
+W: √3
+W: 0
+E: 1/2 + 1/2.
+
+Q: Evaluate sin²45° + cos²45°.
+A: 1
+W: 1/2
+W: 2
+W: 0
+E: Always 1.
+
+Q: In which quadrant are both sine and cosine negative?
+A: third
+W: first
+W: second
+W: fourth
+E: Only tangent is positive there.
+
+Q: Find sin 150°.
+A: 1/2
+W: −1/2
+W: √3/2
+W: −√3/2
+E: sin 150° = sin 30°.
+
+Q: Find cos 120°.
+A: −1/2
+W: 1/2
+W: √3/2
+W: −√3/2
+E: cos 120° = −cos 60°.
+
+Q: Find the area of a triangle with sides 8 cm and 6 cm and included angle 30°.
+A: 12 cm²
+W: 24 cm²
+W: 48 cm²
+W: 6 cm²
+E: ½ × 8 × 6 × sin 30°.
+
+Q: If sin θ = 0.5 and 0° < θ < 90°, find θ.
+A: 30°
+W: 45°
+W: 60°
+W: 90°
+E: sin 30° = 0.5.
+
+@topic mth-inequalities
+
+Q: Solve 3x − 4 < 8.
+A: x < 4
+W: x > 4
+W: x < 12
+W: x > 12
+E: 3x < 12.
+
+Q: Solve 7 − 2x ≥ 1.
+A: x ≤ 3
+W: x ≥ 3
+W: x ≤ −3
+W: x ≥ 4
+E: −2x ≥ −6; dividing by −2 reverses the sign.
+
+Q: Solve 4x + 1 ≤ 2x + 9.
+A: x ≤ 4
+W: x ≥ 4
+W: x ≤ 5
+W: x ≤ 8
+E: 2x ≤ 8.
+
+Q: Solve 2(x − 3) > 4.
+A: x > 5
+W: x > 3.5
+W: x < 5
+W: x > 7
+E: x − 3 > 2.
+
+Q: Solve −5x > 15.
+A: x < −3
+W: x > −3
+W: x < 3
+W: x > 3
+E: Divide by −5 and reverse.
+
+Q: Find the greatest integer x such that 3x + 2 < 20.
+A: 5
+W: 6
+W: 7
+W: 18
+E: x < 6.
+
+Q: Find the smallest integer x such that 2x − 1 > 9.
+A: 6
+W: 5
+W: 4
+W: 10
+E: x > 5.
+
+Q: List the integers that satisfy −1 ≤ x < 3.
+A: −1, 0, 1, 2
+W: 0, 1, 2, 3
+W: −1, 0, 1, 2, 3
+W: 0, 1, 2
+E: −1 included, 3 excluded.
+
+Q: Solve 1 < 2x − 3 < 7.
+A: 2 < x < 5
+W: 1 < x < 5
+W: 2 < x < 7
+W: −1 < x < 2
+E: Add 3, then divide by 2.
+
+Q: Solve (x + 2)/3 ≤ 2.
+A: x ≤ 4
+W: x ≤ 6
+W: x ≥ 4
+W: x ≤ 8
+E: x + 2 ≤ 6.
+
+Q: Solve 5x − 3 ≥ 3x + 5.
+A: x ≥ 4
+W: x ≤ 4
+W: x ≥ 1
+W: x ≥ 8
+E: 2x ≥ 8.
+
+Q: Which inequality means "x is less than 10 but more than 2"?
+A: 2 < x < 10
+W: 2 ≤ x ≤ 10
+W: x > 10
+W: x < 2
+E: Strict on both sides.
+
+Q: On a number line, an open circle at a point shows that the point is
+A: not included
+W: included
+W: a whole number
+W: zero
+E: A closed circle means included.
+
+Q: Which inequality means "x is at most 5"?
+A: x ≤ 5
+W: x < 5
+W: x ≥ 5
+W: x > 5
+E: At most includes 5.
+
+Q: Solve x² < 9.
+A: −3 < x < 3
+W: x < 3
+W: x > 3
+W: x < −3 or x > 3
+E: Values between the roots.
+
+Q: Solve x² − 4 > 0.
+A: x < −2 or x > 2
+W: −2 < x < 2
+W: x > 2 only
+W: x < 2
+E: Outside the roots.
+
+Q: Solve (x − 1)(x − 4) ≤ 0.
+A: 1 ≤ x ≤ 4
+W: x ≤ 1 or x ≥ 4
+W: x ≤ 4
+W: x ≥ 1
+E: Between the roots inclusive.
+
+Q: A taxi charges ₦200 plus ₦50 per km. A rider has ₦1,000. What is the greatest whole distance (km) they can travel?
+A: 16 km
+W: 20 km
+W: 15 km
+W: 24 km
+E: 200 + 50d ≤ 1000 gives d ≤ 16.
+
+Q: Which point satisfies y > x + 1?
+A: (0, 3)
+W: (2, 1)
+W: (3, 3)
+W: (1, 2)
+E: 3 > 1; (1, 2) gives 2 > 2, false.
+
+Q: The region y ≥ 2 on a graph lies
+A: on and above the line y = 2
+W: below the line y = 2
+W: to the left of x = 2
+W: to the right of x = 2
+E: y values at least 2.
+
+Q: Solve 3 − x/2 > 1.
+A: x < 4
+W: x > 4
+W: x < −4
+W: x > 1
+E: −x/2 > −2; x < 4.
+
+Q: Find the integer values of x for which 2 ≤ 3x − 1 < 11.
+A: 1, 2, 3
+W: 1, 2, 3, 4
+W: 2, 3
+W: 0, 1, 2, 3
+E: 1 ≤ x < 4.
+
+Q: The sum of a number and 7 is greater than 12. Which inequality represents this?
+A: x + 7 > 12
+W: x + 7 < 12
+W: 7x > 12
+W: x − 7 > 12
+E: x > 5.
+
+Q: Solve 6 − 3x ≤ 0.
+A: x ≥ 2
+W: x ≤ 2
+W: x ≥ −2
+W: x ≤ −2
+E: −3x ≤ −6.
+
+@topic mth-probability
+
+Q: A card is drawn from a pack of 52. What is the probability that it is an ace?
+A: 1/13
+W: 1/52
+W: 1/4
+W: 4/13
+E: 4 ÷ 52.
+
+Q: A number is chosen from 1 to 20. What is the probability that it is a multiple of 5?
+A: 1/5
+W: 1/4
+W: 1/20
+W: 1/2
+E: 5, 10, 15, 20 out of 20.
+
+@topic mth-circle
+
+Q: An angle at the centre of a circle is 100°. Find the angle at the circumference on the same arc.
+A: 50°
+W: 100°
+W: 200°
+W: 80°
+E: Half the centre angle.
+
+Q: An angle at the circumference is 35°. Find the angle at the centre on the same arc.
+A: 70°
+W: 35°
+W: 17.5°
+W: 145°
+E: Double.
+
+Q: Opposite angles of a cyclic quadrilateral are
+A: supplementary (add to 180°)
+W: equal
+W: complementary
+W: add to 360°
+E: A property of cyclic quadrilaterals.
+
+Q: In a cyclic quadrilateral, one angle is 75°. Find the opposite angle.
+A: 105°
+W: 75°
+W: 15°
+W: 285°
+E: 180 − 75.
+
+Q: The exterior angle of a cyclic quadrilateral equals
+A: the interior opposite angle
+W: the adjacent interior angle
+W: 90°
+W: twice the opposite angle
+E: Since opposite angles are supplementary.
+
+Q: Two tangents drawn from an external point to a circle are
+A: equal in length
+W: perpendicular
+W: parallel
+W: unequal
+E: Tangent lengths from one point are equal.
+
+Q: A tangent and a radius meet at 90°. If the radius is 5 cm and the distance from the centre to the external point is 13 cm, find the tangent length.
+A: 12 cm
+W: 8 cm
+W: 18 cm
+W: 14 cm
+E: √(169 − 25).
+
+Q: The angle between a tangent and a chord equals the angle in the
+A: alternate segment
+W: same segment
+W: semicircle
+W: centre
+E: The alternate segment theorem.
+
+Q: The perpendicular from the centre of a circle to a chord
+A: bisects the chord
+W: doubles the chord
+W: is a tangent
+W: is parallel to the chord
+E: It divides it into two equal parts.
+
+Q: A chord of length 16 cm is 6 cm from the centre. Find the radius.
+A: 10 cm
+W: 8 cm
+W: 12 cm
+W: 22 cm
+E: √(8² + 6²).
+
+Q: A circle has radius 13 cm. A chord is 5 cm from the centre. Find the chord length.
+A: 24 cm
+W: 12 cm
+W: 18 cm
+W: 26 cm
+E: Half chord = √(169 − 25) = 12.
+
+Q: The angle subtended by a diameter at the circumference is
+A: 90°
+W: 180°
+W: 45°
+W: 60°
+E: Angle in a semicircle.
+
+Q: Triangle ABC is inscribed in a circle with AB a diameter. If angle A = 40°, find angle B.
+A: 50°
+W: 40°
+W: 90°
+W: 140°
+E: C = 90°, so B = 50°.
+
+Q: Equal chords of a circle are
+A: equidistant from the centre
+W: parallel
+W: perpendicular
+W: tangents
+E: A chord property.
+
+Q: Equal chords subtend
+A: equal angles at the centre
+W: different angles
+W: right angles only
+W: no angles
+E: They cut off equal arcs.
+
+Q: The length of an arc subtending 60° at the centre of a circle of radius 21 cm is (π = 22/7)
+A: 22 cm
+W: 44 cm
+W: 11 cm
+W: 66 cm
+E: (60/360) × 2 × 22/7 × 21.
+
+Q: The area of a sector of angle 90° in a circle of radius 14 cm is (π = 22/7)
+A: 154 cm²
+W: 616 cm²
+W: 44 cm²
+W: 308 cm²
+E: ¼ × 22/7 × 196.
+
+Q: A sector has angle 120° and radius 3 cm. Its area is
+A: 3π cm²
+W: 9π cm²
+W: 6π cm²
+W: π cm²
+E: (1/3) × π × 9.
+
+Q: A line that touches a circle at only one point is a
+A: tangent
+W: chord
+W: diameter
+W: secant
+E: A secant cuts at two points.
+
+Q: The longest chord of a circle is the
+A: diameter
+W: radius
+W: tangent
+W: arc
+E: It passes through the centre.
+
+Q: In a circle, angle AOB at the centre is 120°. Find angle OAB in isosceles triangle OAB.
+A: 30°
+W: 60°
+W: 120°
+W: 45°
+E: (180 − 120) ÷ 2.
+
+Q: ABCD is a cyclic quadrilateral with angle A = 3x and angle C = x. Find x.
+A: 45°
+W: 60°
+W: 30°
+W: 90°
+E: 4x = 180.
+
+Q: Two chords AB and CD intersect at X inside a circle. AX = 4, XB = 6 and CX = 3. Find XD.
+A: 8
+W: 6
+W: 4.5
+W: 12
+E: AX × XB = CX × XD gives 24 = 3 × XD.
+
+Q: The angle in a major segment is
+A: acute
+W: obtuse
+W: a right angle
+W: reflex
+E: The angle in a minor segment is obtuse.
+
+@topic mth-bearings
+
+Q: What is the three-figure bearing of due South?
+A: 180°
+W: 090°
+W: 270°
+W: 360°
+E: Measured clockwise from north.
+
+Q: What is the three-figure bearing of due West?
+A: 270°
+W: 090°
+W: 180°
+W: 360°
+E: Three-quarters of a turn.
+
+Q: The bearing of X from Y is 240°. Find the bearing of Y from X.
+A: 060°
+W: 120°
+W: 240°
+W: 300°
+E: 240 − 180.
+
+Q: Write the bearing 135° as a compass bearing.
+A: S 45° E
+W: N 45° E
+W: S 45° W
+W: N 45° W
+E: 180 − 135 = 45 from south towards east.
+
+Q: Write N 70° W as a three-figure bearing.
+A: 290°
+W: 070°
+W: 250°
+W: 110°
+E: 360 − 70.
+
+Q: A ship sails 5 km east and then 12 km north. How far is it from its starting point?
+A: 13 km
+W: 17 km
+W: 7 km
+W: 60 km
+E: √(25 + 144).
+
+Q: A man walks 6 km due north and 6 km due east. What is his bearing from the start?
+A: 045°
+W: 090°
+W: 135°
+W: 315°
+E: Equal north and east distances.
+
+Q: A plane flies 100 km on a bearing of 090° and then 100 km on 180°. What is its bearing from the start?
+A: 135°
+W: 045°
+W: 225°
+W: 180°
+E: It is equally east and south.
+
+@topic mth-surds
+
+Q: Simplify √18 + √8.
+A: 5√2
+W: √26
+W: 2√5
+W: 6√2
+E: 3√2 + 2√2.
+
+Q: Simplify √75 − √27.
+A: 2√3
+W: √48
+W: 8√3
+W: 4√3
+E: 5√3 − 3√3.
+
+Q: Rationalise 6/√3.
+A: 2√3
+W: 6√3
+W: √3/6
+W: 3√2
+E: 6√3 ÷ 3.
+
+Q: Expand (√5 + 1)(√5 − 1).
+A: 4
+W: 6
+W: 5
+W: 2√5
+E: 5 − 1.
+
+Q: Simplify √3 × √12.
+A: 6
+W: √15
+W: 36
+W: 3√2
+E: √36.
+
+@topic mth-matrices
+
+Q: Find the determinant of the matrix with rows (3, 2) and (1, 4).
+A: 10
+W: 14
+W: 5
+W: 12
+E: 3 × 4 − 2 × 1.
+
+Q: Find the determinant of the matrix with rows (5, 3) and (2, 1).
+A: −1
+W: 1
+W: 11
+W: 13
+E: 5 − 6.
+
+Q: Add the matrices with rows (1, 2), (3, 4) and rows (2, 0), (1, 5).
+A: rows (3, 2), (4, 9)
+W: rows (2, 0), (3, 20)
+W: rows (1, 2), (2, −1)
+W: rows (3, 4), (2, 9)
+E: Add corresponding entries.
+
+Q: Subtract: rows (5, 6), (7, 8) minus rows (1, 2), (3, 4).
+A: rows (4, 4), (4, 4)
+W: rows (6, 8), (10, 12)
+W: rows (5, 12), (21, 32)
+W: rows (4, 4), (4, 12)
+E: Subtract corresponding entries.
+
+Q: Multiply 3 × the matrix with rows (2, −1) and (0, 4).
+A: rows (6, −3), (0, 12)
+W: rows (5, 2), (3, 7)
+W: rows (6, −1), (0, 4)
+W: rows (2, −3), (0, 12)
+E: Multiply every entry by 3.
+
+Q: Find the product of the matrix with rows (1, 2), (3, 4) and the column matrix (1, 1).
+A: column (3, 7)
+W: column (4, 6)
+W: column (1, 2)
+W: column (2, 8)
+E: 1 + 2 = 3; 3 + 4 = 7.
+
+Q: Find the product of rows (2, 0), (0, 3) and rows (1, 4), (2, 5).
+A: rows (2, 8), (6, 15)
+W: rows (2, 0), (0, 15)
+W: rows (3, 4), (2, 8)
+W: rows (2, 4), (6, 5)
+E: Row by column multiplication.
+
+Q: The identity matrix of order 2 has rows
+A: (1, 0) and (0, 1)
+W: (1, 1) and (1, 1)
+W: (0, 1) and (1, 0)
+W: (0, 0) and (0, 0)
+E: Multiplying by it leaves a matrix unchanged.
+
+Q: Find the inverse of the matrix with rows (2, 1) and (1, 1).
+A: rows (1, −1), (−1, 2)
+W: rows (1, 1), (1, 2)
+W: rows (2, −1), (−1, 1)
+W: rows (−1, 1), (1, −2)
+E: Determinant = 1; swap diagonal and change signs.
+
+Q: Find x if the matrix with rows (x, 3) and (2, 6) is singular.
+A: 1
+W: 3
+W: 6
+W: 0
+E: 6x − 6 = 0.
+
+Q: Two matrices can be added only if they
+A: have the same order
+W: are square
+W: have determinant zero
+W: are identity matrices
+E: Entries must correspond.
+
+Q: A matrix of order 2 × 3 can be multiplied by a matrix of order
+A: 3 × n
+W: 2 × n
+W: n × 2
+W: any order
+E: Columns of the first must equal rows of the second.
+
+Q: The product of a 2 × 3 matrix and a 3 × 4 matrix has order
+A: 2 × 4
+W: 3 × 3
+W: 4 × 2
+W: 2 × 3
+E: Outer dimensions.
+
+Q: Matrix multiplication is generally
+A: not commutative
+W: commutative
+W: impossible
+W: the same as addition
+E: AB ≠ BA in general.
+
+Q: Solve using matrices: x + y = 3, x − y = 1. Find x.
+A: 2
+W: 1
+W: 3
+W: 4
+E: Adding gives 2x = 4.
+
+Q: Find the determinant of the matrix with rows (4, −2) and (3, 1).
+A: 10
+W: −2
+W: 2
+W: 14
+E: 4 − (−6).
+
+Q: A diagonal matrix has
+A: zeros everywhere except the leading diagonal
+W: zeros on the diagonal
+W: all entries equal
+W: no zeros
+E: E.g. rows (2, 0), (0, 5).
+
+Q: A null (zero) matrix has
+A: all entries zero
+W: ones on the diagonal
+W: determinant one
+W: no rows
+E: It is the additive identity.
+
+Q: If the matrix with rows (2, k) and (4, 6) has determinant 4, find k.
+A: 2
+W: 4
+W: 1
+W: 3
+E: 12 − 4k = 4.
+
+Q: The transpose of the matrix with rows (1, 5, 7) and (2, 3, 4) has order
+A: 3 × 2
+W: 2 × 3
+W: 3 × 3
+W: 2 × 2
+E: Rows become columns.
+
+Q: The determinant of the identity matrix of order 2 is
+A: 1
+W: 0
+W: 2
+W: −1
+E: 1 × 1 − 0 × 0.
+
+Q: The inverse of a matrix exists only if its determinant is
+A: not zero
+W: zero
+W: negative
+W: one only
+E: Singular matrices have no inverse.
+
+Q: Find the determinant of the matrix with rows (a, b) and (c, d).
+A: ad − bc
+W: ab − cd
+W: ac − bd
+W: ad + bc
+E: The general formula.
+
+Q: If A has rows (1, 0), (0, 1) and B has rows (3, 4), (5, 6), then AB equals
+A: B
+W: A
+W: the zero matrix
+W: 2B
+E: A is the identity matrix.
+
+@topic mth-coordinate
+
+Q: Find the equation of the line with gradient 3 passing through (0, −2).
+A: y = 3x − 2
+W: y = −2x + 3
+W: y = 3x + 2
+W: y = x − 2
+E: y = mx + c with c = −2.
+
+Q: Find the gradient of a line perpendicular to y = 2x + 5.
+A: −1/2
+W: 2
+W: −2
+W: 1/2
+E: m₁m₂ = −1.
+
+@topic mth-calculus
+
+Q: Find the gradient of y = x² + 3x at x = 2.
+A: 7
+W: 10
+W: 4
+W: 5
+E: dy/dx = 2x + 3.
+
+Q: Find the minimum value of y = x² − 6x + 10.
+A: 1
+W: 3
+W: 10
+W: −1
+E: At x = 3, y = 9 − 18 + 10.
+
+@topic mth-longlat
+
+Q: Lines of latitude are also called
+A: parallels
+W: meridians
+W: great circles only
+W: longitudes
+E: They are parallel to the equator.
+
+Q: Lines of longitude are also called
+A: meridians
+W: parallels
+W: small circles
+W: equators
+E: They run from pole to pole.
+
+Q: The Greenwich meridian has longitude
+A: 0°
+W: 90° E
+W: 180°
+W: 23½° N
+E: It is the prime meridian.
+
+Q: The latitude of the North Pole is
+A: 90° N
+W: 0°
+W: 180°
+W: 45° N
+E: The highest latitude.
+
+Q: A great circle is a circle whose centre is
+A: the centre of the Earth
+W: a pole
+W: on the surface of the Earth
+W: anywhere
+E: The equator and meridians are great circles.
+
+Q: Which of these is a great circle?
+A: the equator
+W: the Tropic of Cancer
+W: latitude 60° N
+W: the Arctic Circle
+E: Other parallels are small circles.
+
+Q: Two places on the same meridian are at 20° N and 40° N. What is their difference in latitude?
+A: 20°
+W: 60°
+W: 40°
+W: 30°
+E: 40 − 20.
+
+Q: Two places on the same meridian are at 15° N and 25° S. What is their difference in latitude?
+A: 40°
+W: 10°
+W: 25°
+W: 15°
+E: On opposite sides: 15 + 25.
+
+Q: Taking the Earth's radius as R, the distance along a meridian between places differing by θ° of latitude is
+A: (θ/360) × 2πR
+W: θ × R
+W: (θ/180) × R
+W: 2πR
+E: An arc of a great circle.
+
+Q: Two places on the same meridian differ by 30° in latitude. If R = 6400 km and π = 22/7, the distance between them is about
+A: 3352 km
+W: 6400 km
+W: 1676 km
+W: 20114 km
+E: (30/360) × 2 × 22/7 × 6400 ≈ 3352.
+
+Q: The radius of the circle of latitude θ is
+A: R cos θ
+W: R sin θ
+W: R tan θ
+W: R
+E: It shrinks towards the poles.
+
+Q: The radius of the circle of latitude 60° N is
+A: R/2
+W: R
+W: R√3/2
+W: 2R
+E: cos 60° = 1/2.
+
+Q: Two places on latitude 60° N differ in longitude by 90°. Taking R = 6400 km, the distance along the parallel is
+A: 1600π km
+W: 3200π km
+W: 6400π km
+W: 800π km
+E: (90/360) × 2π × 3200.
+
+Q: Two places on the equator differ in longitude by 45°. Taking R = 6400 km, the distance between them is
+A: 1600π km
+W: 3200π km
+W: 800π km
+W: 6400π km
+E: (45/360) × 2π × 6400.
+
+Q: Places east of Greenwich have local time that is
+A: ahead of Greenwich time
+W: behind Greenwich time
+W: the same as Greenwich time
+W: unrelated to longitude
+E: 4 minutes per degree.
+
+Q: When it is 12 noon at Greenwich, what is the local time at 30° E?
+A: 2:00 p.m.
+W: 10:00 a.m.
+W: 12:30 p.m.
+W: 6:00 p.m.
+E: 30 × 4 min = 2 hours ahead.
+
+Q: When it is 12 noon at Greenwich, what is the local time at 45° W?
+A: 9:00 a.m.
+W: 3:00 p.m.
+W: 11:15 a.m.
+W: 12:45 p.m.
+E: 45 × 4 min = 3 hours behind.
+
+Q: Two towns have longitudes 20° E and 40° W. What is their difference in longitude?
+A: 60°
+W: 20°
+W: 40°
+W: 80°
+E: Opposite sides: 20 + 40.
+
+Q: The longitude difference between two places is 15°. Their difference in local time is
+A: 1 hour
+W: 15 minutes
+W: 4 minutes
+W: 15 hours
+E: 15° = 1 hour.
+
+Q: The Tropic of Capricorn lies at latitude
+A: 23½° S
+W: 23½° N
+W: 66½° S
+W: 0°
+E: The southern tropic.
+
+Q: The shortest distance between two points on the Earth's surface is along
+A: a great circle
+W: a small circle
+W: a parallel of latitude
+W: any straight line through the Earth
+E: Pilots follow great-circle routes.
+
+Q: Two places A (0°, 10° E) and B (0°, 70° E) lie on the equator. The angle between them at the Earth's centre is
+A: 60°
+W: 80°
+W: 10°
+W: 70°
+E: 70 − 10.
+
+Q: Places on the same parallel of latitude have
+A: the same latitude
+W: the same longitude
+W: the same local time
+W: no relationship
+E: E.g. all places on 10° N.
+
+Q: A place at latitude 0° and longitude 0° lies in the
+A: Gulf of Guinea
+W: Sahara Desert
+W: Indian Ocean
+W: Arctic Ocean
+E: It is south of Ghana.

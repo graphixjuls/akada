@@ -1,0 +1,3516 @@
+@subject government
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic gov-democracy
+
+Q: Which of the following is a principle of democracy?
+A: periodic elections
+W: rule by decree
+W: a single party with no opposition
+W: restriction of the press
+E: Regular, free elections let citizens choose and change leaders.
+
+Q: Majority rule in a democracy means that
+A: decisions are made according to the wishes of most people
+W: the minority always decides
+W: only the rich can vote
+W: the military decides for the people
+E: The view supported by more people prevails, while minority rights are protected.
+
+Q: Direct democracy was practised in the ancient city-states of
+A: Greece
+W: Rome only under emperors
+W: Egypt
+W: Persia
+E: Citizens of Athens met in assemblies to make decisions directly.
+
+Q: Direct democracy is difficult in modern states mainly because
+A: the populations are too large
+W: people do not want to vote
+W: there are no elections
+W: laws are not needed
+E: Millions of citizens cannot all meet to make every decision.
+
+Q: In a representative democracy, laws are made by
+A: elected representatives
+W: all citizens meeting together
+W: the army
+W: traditional rulers only
+E: Voters elect people to make laws on their behalf.
+
+Q: Which of the following is a feature of liberal democracy?
+A: protection of fundamental human rights
+W: censorship of all newspapers
+W: a life president
+W: ban on opposition parties
+E: Liberal democracies guarantee civil liberties.
+
+Q: The protection of the rights of people who did not win an election is called
+A: minority rights
+W: majority rule
+W: universal suffrage
+W: political apathy
+E: Democracy protects minorities even when the majority rules.
+
+Q: Which of these weakens democracy?
+A: rigging of elections
+W: a free press
+W: an independent judiciary
+W: regular elections
+E: Rigging denies citizens a free choice.
+
+Q: Political apathy means
+A: lack of interest in politics
+W: active participation in elections
+W: strong loyalty to a party
+W: fighting for independence
+E: Apathetic citizens do not take part in political life.
+
+Q: A referendum is an example of
+A: direct democracy within a representative system
+W: military rule
+W: indirect election
+W: delegated legislation
+E: Citizens vote directly on a particular issue.
+
+Q: Popular participation in a democracy is shown by
+A: citizens voting and joining public debate
+W: only leaders knowing government plans
+W: citizens being banned from politics
+W: one man making all decisions
+E: Democracy needs people to take part.
+
+Q: Which of the following best describes "government of the people"?
+A: power comes from the people
+W: power comes from the army
+W: power comes from foreigners
+W: power comes from one family
+E: In a democracy, sovereignty belongs to the people.
+
+Q: Which of these is NOT a condition for democracy to thrive?
+A: a press controlled by the ruler
+W: an independent electoral body
+W: an educated citizenry
+W: respect for the constitution
+E: A controlled press prevents free discussion.
+
+Q: Freedom of speech is important in a democracy because it
+A: allows citizens to express views and criticise government
+W: lets government jail critics
+W: stops elections
+W: removes the constitution
+E: Open discussion keeps leaders accountable.
+
+Q: A democratic government is accountable. This means it
+A: answers to the people for its actions
+W: cannot be removed
+W: makes laws in secret
+W: obeys only foreign powers
+E: Leaders must explain and justify their actions to citizens.
+
+Q: Which body helps to ensure free and fair elections in a democracy?
+A: an independent electoral commission
+W: the army
+W: the ruling party
+W: the police alone
+E: An impartial body conducts and supervises elections.
+
+Q: Plutocracy is government by
+A: the wealthy
+W: the old
+W: the people
+W: religious leaders
+E: In a plutocracy, the rich hold power.
+
+Q: Aristocracy originally meant government by
+A: the best or noble few
+W: everybody
+W: soldiers
+W: the poor
+E: The word comes from Greek "aristos", meaning best.
+
+Q: Which of the following is a demerit of democracy?
+A: decision-making can be slow
+W: citizens have rights
+W: leaders can be changed peacefully
+W: people take part in government
+E: Debate and consultation can delay decisions.
+
+Q: Constitutionalism in a democracy means
+A: government is limited by a constitution
+W: the ruler is above the law
+W: there is no constitution
+W: the army writes the laws
+E: All authority must act within constitutional limits.
+
+Q: Which of these is an example of a civil liberty?
+A: freedom of association
+W: payment of tax
+W: military service
+W: obeying traffic rules
+E: Citizens may form and join groups freely.
+
+Q: In a democracy, a government that loses an election should
+A: hand over power peacefully
+W: cancel the result
+W: arrest the winners
+W: stay in office indefinitely
+E: Peaceful transfer of power is key to democracy.
+
+Q: Which of the following is a democratic way of changing a government?
+A: voting in an election
+W: a coup d'état
+W: assassination
+W: civil war
+E: Elections allow peaceful change.
+
+Q: Universal adult suffrage strengthens democracy because it
+A: gives every qualified adult the right to vote
+W: limits voting to men
+W: limits voting to the educated
+W: lets only party members vote
+E: It widens participation to all adult citizens.
+
+@topic gov-ideologies
+
+Q: Who wrote "The Communist Manifesto" with Karl Marx?
+A: Friedrich Engels
+W: Adam Smith
+W: Vladimir Lenin
+W: John Locke
+E: Marx and Engels published it in 1848.
+
+Q: The idea that the economy should be left to private enterprise with little state control is called
+A: laissez-faire
+W: socialism
+W: communism
+W: feudalism
+E: Laissez-faire means "let it be" in French.
+
+Q: The father of capitalism is often said to be
+A: Adam Smith
+W: Karl Marx
+W: Benito Mussolini
+W: Mao Zedong
+E: Smith wrote "The Wealth of Nations" in 1776.
+
+Q: In a socialist system, the major means of production are mainly owned by
+A: the state
+W: private individuals
+W: foreign companies
+W: religious bodies
+E: Socialism aims for collective ownership for the common good.
+
+Q: Communism aims to create a society that is
+A: classless
+W: ruled by a king
+W: based on private profit
+W: controlled by landlords
+E: Marx predicted a society without social classes.
+
+Q: Under feudalism, the peasants who worked the land were called
+A: serfs
+W: lords
+W: bourgeoisie
+W: capitalists
+E: Serfs worked the lords' land in return for protection.
+
+Q: In Marxist theory, the owners of the means of production are the
+A: bourgeoisie
+W: proletariat
+W: serfs
+W: peasants
+E: The bourgeoisie own capital; the proletariat sell their labour.
+
+Q: In Marxist theory, the working class is called the
+A: proletariat
+W: bourgeoisie
+W: aristocracy
+W: nobility
+E: The proletariat sell their labour for wages.
+
+Q: Fascism developed in Italy under
+A: Benito Mussolini
+W: Adolf Hitler
+W: Joseph Stalin
+W: Winston Churchill
+E: Mussolini came to power in 1922.
+
+Q: Nazism in Germany was led by
+A: Adolf Hitler
+W: Benito Mussolini
+W: Otto von Bismarck
+W: Karl Marx
+E: Hitler led the National Socialist (Nazi) Party.
+
+Q: A feature common to fascism and Nazism is
+A: extreme nationalism and dictatorship
+W: free multiparty elections
+W: protection of minority rights
+W: a classless society
+E: Both glorified the nation and crushed opposition.
+
+Q: A welfare state provides
+A: social services such as free health care and education
+W: no services at all
+W: only military protection
+W: services only to the rich
+E: The state looks after citizens' basic needs.
+
+Q: Which of these is a feature of capitalism?
+A: profit motive
+W: central planning by the state
+W: collective farms
+W: abolition of private property
+E: Businesses aim to make profit.
+
+Q: An ideology is best described as
+A: a set of ideas that guides political and economic action
+W: a type of election
+W: a court ruling
+W: a form of taxation
+E: Ideologies shape how societies are organised.
+
+Q: Nigeria's economy is best described as
+A: a mixed economy
+W: a purely communist economy
+W: a feudal economy
+W: a command economy
+E: Both private businesses and government enterprises operate.
+
+Q: Totalitarianism means that the state
+A: controls every aspect of citizens' lives
+W: has very limited powers
+W: is run by the people directly
+W: has no laws
+E: Totalitarian states allow no independent groups.
+
+Q: Which of the following leaders is associated with communism in the Soviet Union?
+A: Vladimir Lenin
+W: Adam Smith
+W: Benito Mussolini
+W: Franklin Roosevelt
+E: Lenin led the Bolshevik Revolution of 1917.
+
+Q: Under feudalism, land granted by a lord to a vassal was called a
+A: fief
+W: tax
+W: tithe
+W: ballot
+E: Vassals received fiefs in return for service.
+
+Q: In a command economy, decisions on production are made by
+A: the government
+W: market forces alone
+W: consumers alone
+W: foreign investors
+E: The state plans what is produced.
+
+Q: Which slogan is associated with communism?
+A: "From each according to his ability, to each according to his needs"
+W: "Liberty, equality, fraternity"
+W: "No taxation without representation"
+W: "The customer is always right"
+E: Marx used this phrase to describe communist distribution.
+
+Q: Anarchism rejects
+A: all forms of government
+W: elections only
+W: private property only
+W: religion only
+E: Anarchists believe society can exist without the state.
+
+Q: Which ideology emphasises the rights and freedoms of the individual?
+A: liberalism
+W: fascism
+W: totalitarianism
+W: communism
+E: Liberalism values individual liberty.
+
+Q: The dictatorship of the proletariat is a stage in
+A: Marxist theory
+W: capitalist theory
+W: feudal theory
+W: fascist theory
+E: Marx saw it as the step between capitalism and communism.
+
+Q: Nationalisation means
+A: the government taking over ownership of private businesses
+W: selling public businesses to private owners
+W: holding a national election
+W: making a new constitution
+E: Industries are brought under state ownership.
+
+@topic gov-concepts
+
+Q: The state differs from the government because the state
+A: is permanent while governments change
+W: changes with every election
+W: has no territory
+W: has no population
+E: Governments come and go, but the state continues.
+
+Q: The four essential features of a state are population, territory, government and
+A: sovereignty
+W: an army
+W: a king
+W: a religion
+E: Sovereignty means supreme independent authority.
+
+Q: A society is best described as
+A: a group of people living together under shared rules and relationships
+W: a type of election
+W: an armed group
+W: a political party
+E: Society is the wider human community.
+
+Q: Political socialisation is the process by which
+A: people acquire political values and attitudes
+W: governments collect taxes
+W: elections are rigged
+W: judges are appointed
+E: Families, schools and the media shape political views.
+
+Q: Which is an agent of political socialisation?
+A: the family
+W: the weather
+W: the ballot box
+W: the treasury
+E: Children first learn values at home.
+
+Q: Influence differs from power because influence
+A: works through persuasion rather than force
+W: always uses force
+W: is only held by soldiers
+W: cannot change behaviour
+E: Influence is the ability to shape decisions without coercion.
+
+Q: Coercion means
+A: the use of force to make people obey
+W: voting freely
+W: persuasion by example
+W: voluntary agreement
+E: Coercive power relies on force or threats.
+
+Q: Charismatic authority is based on
+A: the personal qualities of the leader
+W: tradition
+W: written laws
+W: wealth only
+E: Max Weber described authority based on a leader's appeal.
+
+Q: Traditional authority is based on
+A: custom and long-established practice
+W: elections
+W: military force
+W: written constitution only
+E: Kings and chiefs often hold traditional authority.
+
+Q: Legal-rational authority is based on
+A: laws and rules
+W: magic
+W: the leader's charm only
+W: ancestry
+E: Authority comes from an office defined by law.
+
+Q: Which scholar classified authority into traditional, charismatic and legal-rational?
+A: Max Weber
+W: Karl Marx
+W: Aristotle
+W: Montesquieu
+E: Weber's classification is widely used.
+
+Q: The term "nation-state" refers to
+A: a state whose people share a common identity
+W: a city ruled by a mayor
+W: a political party
+W: a local government area
+E: A nation-state combines a nation and a sovereign state.
+
+Q: Internal sovereignty means
+A: supreme authority over everyone within the state
+W: recognition by other states
+W: membership of the UN
+W: control of foreign trade
+E: The state's laws are supreme within its borders.
+
+Q: External sovereignty means
+A: independence from control by other states
+W: power over local governments
+W: control of the courts
+W: the right to vote
+E: A sovereign state is free in its external affairs.
+
+Q: Which of these can limit the sovereignty of a state?
+A: membership of international organisations
+W: a large population
+W: a written constitution only
+W: regular elections
+E: Treaties and organisations impose obligations on members.
+
+Q: Political culture of a society refers to its
+A: shared attitudes and beliefs about politics
+W: dances and songs
+W: farming methods
+W: weather patterns
+E: It shapes how people view authority and participation.
+
+Q: Government can be defined as
+A: the machinery through which the will of the state is carried out
+W: a group of businesses
+W: a religious organisation
+W: a football club
+E: Government makes, enforces and interprets laws.
+
+Q: Which of these is a function of government?
+A: maintaining law and order
+W: running every private business
+W: choosing people's religion
+W: deciding what people eat
+E: Protecting lives and property is a basic duty.
+
+Q: Political equality means that
+A: every citizen has the same political rights
+W: everyone has the same income
+W: everyone has the same job
+W: only men can vote
+E: Each citizen has one vote and equal rights.
+
+Q: Delegation of power occurs when
+A: a higher authority gives some of its power to a lower body
+W: power is seized by force
+W: a citizen votes
+W: a court passes judgement
+E: E.g. the legislature delegates rule-making to ministries.
+
+Q: The term "polity" refers to
+A: an organised political community
+W: a type of tax
+W: a political party
+W: a court
+E: A polity is a state or politically organised society.
+
+@topic gov-forms
+
+Q: In a confederation, the component units
+A: retain most of their sovereignty
+W: have no powers
+W: are controlled by the centre
+W: cannot leave
+E: A confederation is a loose union of independent states.
+
+Q: Which of these is an example of a unitary state?
+A: Ghana
+W: Nigeria
+W: the United States
+W: Canada
+E: Ghana has a single central government with delegated local units.
+
+Q: Which country practises a federal system of government?
+A: the United States
+W: Ghana
+W: France
+W: Togo
+E: Power is shared between federal and state governments.
+
+Q: In a parliamentary system, the head of government is the
+A: prime minister
+W: president as ceremonial head only
+W: chief justice
+W: speaker
+E: The prime minister leads the government.
+
+Q: In a parliamentary system, the head of state is usually
+A: ceremonial
+W: also the prime minister
+W: elected by the courts
+W: the army chief
+E: E.g. a monarch or a ceremonial president.
+
+Q: Collective responsibility is a feature of the
+A: parliamentary system
+W: presidential system only
+W: military government
+W: monarchy without a parliament
+E: Cabinet ministers stand together and resign together.
+
+Q: A vote of no confidence can remove the government in a
+A: parliamentary system
+W: presidential system
+W: military regime
+W: absolute monarchy
+E: The government depends on the support of parliament.
+
+Q: In a presidential system, the president
+A: is both head of state and head of government
+W: is only ceremonial
+W: is chosen by parliament
+W: sits in the legislature as a member
+E: Executive power is concentrated in the president.
+
+Q: An absolute monarch
+A: has unlimited power
+W: shares power with parliament
+W: is elected every four years
+W: has only ceremonial duties
+E: In an absolute monarchy, the ruler's word is law.
+
+Q: Which country is an example of a republic?
+A: Nigeria
+W: the United Kingdom
+W: Saudi Arabia
+W: Morocco
+E: A republic has an elected or appointed head of state, not a monarch.
+
+Q: A fusion of powers is a feature of the
+A: parliamentary system
+W: presidential system
+W: confederation
+W: military rule only
+E: Ministers are drawn from and sit in the legislature.
+
+Q: Oligarchy is government by
+A: a small group of people
+W: the whole population
+W: one king
+W: the church
+E: Power is held by a few.
+
+Q: Autocracy is government by
+A: one person with absolute power
+W: a committee of elders
+W: the people
+W: the courts
+E: An autocrat rules without restraint.
+
+Q: Gerontocracy is rule by
+A: the elderly
+W: the young
+W: soldiers
+W: priests
+E: Older people hold power.
+
+Q: A feature of federalism is
+A: a written and rigid constitution
+W: one level of government only
+W: a monarch as ruler
+W: no courts
+E: A rigid constitution protects the division of powers.
+
+Q: Which is an advantage of a unitary system?
+A: quick decision-making
+W: local units are very powerful
+W: it suits very diverse countries best
+W: it needs many governments
+E: One central authority can act fast.
+
+Q: Which is a disadvantage of federalism?
+A: it is expensive to run
+W: it ignores local differences
+W: it has only one government
+W: it has no constitution
+E: Many tiers of government cost a lot.
+
+Q: The shadow cabinet is found in the
+A: parliamentary system
+W: presidential system
+W: military regime
+W: absolute monarchy
+E: The opposition forms a "government in waiting".
+
+Q: Which of the following is a feature of the presidential system?
+A: a fixed term of office
+W: dissolution of parliament by the prime minister
+W: collective responsibility
+W: the head of state is ceremonial
+E: The president serves a fixed term.
+
+Q: Theocracy is government by
+A: religious leaders
+W: the wealthy
+W: the army
+W: the elderly
+E: Religious authorities rule according to religious law.
+
+Q: Nigeria adopted the presidential system of government in
+A: 1979
+W: 1960
+W: 1963
+W: 1999 for the first time
+E: It began with the Second Republic in 1979.
+
+Q: Nigeria operated the parliamentary system during the
+A: First Republic
+W: Second Republic
+W: Fourth Republic
+W: Third Republic
+E: From 1960 to 1966, Nigeria used the Westminster model.
+
+Q: A constitutional monarch
+A: reigns but does not rule
+W: makes all laws
+W: commands the army personally in all matters
+W: is above the constitution
+E: Real power lies with elected leaders.
+
+Q: The component units of Nigeria's federation are called
+A: states
+W: provinces
+W: cantons
+W: regions only
+E: Nigeria has 36 states and the FCT.
+
+@topic gov-constitution
+
+Q: A written constitution is one that
+A: is contained in a single document
+W: exists only in customs
+W: cannot be read
+W: is never changed
+E: Most countries, including Nigeria, have written constitutions.
+
+Q: Which of these is a source of the British constitution?
+A: Acts of Parliament
+W: the Nigerian constitution
+W: the US Bill of Rights
+W: the UN Charter
+E: Britain's constitution comes from statutes, conventions and judicial decisions.
+
+Q: The Magna Carta was signed in England in
+A: 1215
+W: 1688
+W: 1776
+W: 1914
+E: It limited the power of King John.
+
+Q: A flexible constitution is one that
+A: can be amended easily
+W: cannot be amended at all
+W: needs a referendum for every change
+W: is always unwritten
+E: It can be changed like an ordinary law.
+
+Q: Which type of constitution best suits a federal state?
+A: rigid
+W: flexible
+W: unwritten
+W: customary
+E: A rigid constitution protects the powers of each tier.
+
+Q: An advantage of a written constitution is that it
+A: is clear and easy to refer to
+W: can never be interpreted
+W: has no rules
+W: changes every day
+E: Rules are set out in one place.
+
+Q: The supremacy of the constitution means that
+A: any law that conflicts with it is void
+W: the president is above it
+W: it can be ignored in emergencies
+W: courts cannot interpret it
+E: The constitution is the highest law.
+
+Q: The 1999 Constitution of Nigeria provides for
+A: a federal and presidential system
+W: a unitary and parliamentary system
+W: a confederation
+W: a monarchy
+E: Nigeria is a federal republic with a presidential system.
+
+Q: The process of changing a constitution is called
+A: amendment
+W: dissolution
+W: impeachment
+W: veto
+E: Amendments alter or add to the constitution.
+
+Q: A constituent assembly is a body set up to
+A: draft or approve a constitution
+W: try criminals
+W: conduct elections
+W: run local governments
+E: Nigeria used a Constituent Assembly in 1977–78.
+
+Q: The preamble of a constitution
+A: states its purpose and aims
+W: lists all the judges
+W: contains the tax rates
+W: names the political parties
+E: It introduces the constitution's principles.
+
+Q: Chapter II of the 1999 Constitution deals with
+A: Fundamental Objectives and Directive Principles of State Policy
+W: fundamental human rights
+W: citizenship only
+W: the judiciary
+E: Chapter II sets out the goals of government.
+
+Q: The provisions of Chapter II of the 1999 Constitution are generally
+A: not enforceable in court
+W: enforceable like criminal laws
+W: only for local governments
+W: about elections only
+E: They guide policy but cannot normally be enforced by the courts.
+
+Q: Which of these is a source of a constitution?
+A: judicial precedents
+W: weather reports
+W: market prices
+W: sports results
+E: Court decisions can shape constitutional rules.
+
+Q: A constitution that is not contained in one document is described as
+A: unwritten
+W: rigid
+W: federal
+W: unitary
+E: The UK's constitution is the classic example.
+
+Q: Which body can interpret the constitution in Nigeria?
+A: the courts
+W: political parties
+W: the police
+W: the civil service
+E: The judiciary interprets the constitution.
+
+Q: Amending the Nigerian Constitution requires approval by the National Assembly and
+A: at least two-thirds of the State Houses of Assembly
+W: the Chief Justice only
+W: the President alone
+W: local government chairmen
+E: The 1999 Constitution sets a demanding procedure for amendments.
+
+Q: A constitution helps to prevent dictatorship mainly by
+A: limiting the powers of government
+W: giving the president unlimited power
+W: abolishing the courts
+W: banning elections
+E: It sets out what government can and cannot do.
+
+Q: The 1979 Constitution of Nigeria was modelled largely on that of
+A: the United States
+W: the United Kingdom
+W: France
+W: the Soviet Union
+E: It introduced an American-style presidential system.
+
+Q: Which of the following is a constitutional convention in Britain?
+A: the monarch gives assent to bills passed by Parliament
+W: Parliament must meet in Lagos
+W: the prime minister is chosen by the army
+W: elections are held every year
+E: Royal assent is given by custom.
+
+Q: A constitution is said to be the "grundnorm" of a state because it is
+A: the basic law from which other laws derive
+W: the oldest law only
+W: a religious book
+W: a list of officials
+E: All other laws must conform to it.
+
+Q: Entrenched clauses in a constitution are
+A: provisions that are especially difficult to amend
+W: clauses that are never read
+W: clauses for local government only
+W: clauses that can be changed by a simple majority
+E: Key provisions are protected by a special procedure.
+
+Q: Nigeria's first constitution after amalgamation was the
+A: Clifford Constitution of 1922
+W: Richards Constitution of 1946
+W: Independence Constitution of 1960
+W: 1979 Constitution
+E: It followed the Lugard arrangements and introduced elections.
+
+Q: Constitutional law is the law that
+A: defines the structure and powers of government
+W: governs business contracts only
+W: regulates football
+W: deals only with marriages
+E: It sets out how the state is governed.
+
+@topic gov-organs
+
+Q: The three organs of government are
+A: the legislature, the executive and the judiciary
+W: the army, the police and the courts
+W: the president, the governors and the chairmen
+W: the senate, the house and the cabinet
+E: These organs make, carry out and interpret laws.
+
+Q: The organ of government that implements laws is the
+A: executive
+W: legislature
+W: judiciary
+W: civil society
+E: The executive enforces and carries out laws.
+
+Q: Montesquieu set out the theory of separation of powers in
+A: The Spirit of the Laws
+W: The Communist Manifesto
+W: The Social Contract
+W: The Wealth of Nations
+E: It was published in 1748.
+
+Q: The main purpose of separation of powers is to
+A: prevent tyranny by any one organ
+W: make government faster
+W: give all power to the president
+W: abolish the courts
+E: Dividing power protects liberty.
+
+Q: An example of checks and balances in Nigeria is that the
+A: Senate confirms ministerial nominees
+W: president makes all laws alone
+W: courts appoint the president
+W: police pass laws
+E: The legislature checks the executive's appointments.
+
+Q: The legislature checks the executive by
+A: impeachment
+W: appointing judges alone
+W: issuing decrees
+W: judicial review
+E: The legislature can remove the president or governor.
+
+Q: The judiciary checks the legislature through
+A: judicial review
+W: veto
+W: impeachment
+W: appropriation
+E: Courts can declare laws unconstitutional.
+
+Q: The executive checks the legislature through the
+A: veto
+W: judicial review
+W: impeachment
+W: vote of no confidence on judges
+E: The president can refuse assent to a bill.
+
+Q: In which system is separation of powers most clearly applied?
+A: presidential
+W: parliamentary
+W: absolute monarchy
+W: military regime
+E: The organs are separate in personnel and functions.
+
+Q: The upper chamber of Nigeria's National Assembly is the
+A: Senate
+W: House of Representatives
+W: Council of State
+W: Federal Executive Council
+E: The Senate has 109 members.
+
+Q: How many senators represent each state in Nigeria?
+A: three
+W: two
+W: five
+W: one
+E: Each state has three senators; the FCT has one.
+
+Q: The number of members of Nigeria's House of Representatives is
+A: 360
+W: 109
+W: 469
+W: 774
+E: Members represent federal constituencies.
+
+Q: The presiding officer of the Nigerian Senate is the
+A: Senate President
+W: Speaker
+W: Chief Justice
+W: Clerk of the National Assembly
+E: The Senate President is elected by senators.
+
+Q: Under military rule, separation of powers is usually
+A: weakened because executive and legislative powers are fused
+W: perfectly applied
+W: written into every decree
+W: enforced by the courts
+E: The military council makes and enforces laws.
+
+Q: The highest court in Nigeria is the
+A: Supreme Court
+W: Court of Appeal
+W: Federal High Court
+W: Customary Court
+E: Its decisions are final.
+
+Q: Which court hears appeals from the High Courts in Nigeria?
+A: Court of Appeal
+W: Magistrate Court
+W: Customary Court
+W: Area Court
+E: The Court of Appeal sits between the High Courts and the Supreme Court.
+
+Q: The Federal Executive Council is made up of the President, the Vice-President and
+A: ministers
+W: senators
+W: judges
+W: governors
+E: It is the federal cabinet.
+
+Q: In Nigeria, state laws are made by the
+A: State House of Assembly
+W: Senate
+W: Governor alone
+W: High Court
+E: Each state has a unicameral House of Assembly.
+
+Q: Personnel separation means that
+A: members of one organ cannot be members of another
+W: everyone works in all organs
+W: judges are also senators
+W: ministers make laws in the courts
+E: E.g. a minister cannot sit in the Senate in a presidential system.
+
+Q: The appropriation bill deals with
+A: approving government spending
+W: removing a governor
+W: creating new states
+W: electing the speaker
+E: The legislature controls public funds through the budget.
+
+Q: The organ of government closest to the people's representatives is the
+A: legislature
+W: judiciary
+W: civil service
+W: army
+E: Legislators are elected to represent constituents.
+
+Q: Which arm of government settles disputes between the federal and state governments?
+A: the judiciary
+W: the executive
+W: the police
+W: the political parties
+E: The Supreme Court has original jurisdiction in such disputes.
+
+Q: The idea that no organ should have too much power over the others is called
+A: checks and balances
+W: rule of law
+W: federal character
+W: delegated legislation
+E: Each organ can limit the others.
+
+Q: The judiciary is said to be the "last hope of the common man" because it
+A: protects citizens' rights against abuse
+W: makes all laws
+W: collects taxes
+W: conducts elections
+E: Courts provide justice when rights are violated.
+
+@topic gov-rights
+
+Q: Which of the following is a fundamental human right?
+A: right to life
+W: right to own a car
+W: right to free electricity
+W: right to a government job
+E: The 1999 Constitution guarantees the right to life.
+
+Q: The rule of law requires that
+A: everyone is subject to the law
+W: rulers are above the law
+W: only the poor obey laws
+W: laws are secret
+E: No one is above the law.
+
+Q: One limitation to the rule of law is
+A: immunity granted to some public officers
+W: free press
+W: an independent judiciary
+W: equality before the law
+E: Immunity shields some officials from prosecution while in office.
+
+Q: Which of these is a way of acquiring Nigerian citizenship?
+A: by birth
+W: by buying land
+W: by visiting Nigeria
+W: by learning a Nigerian language
+E: Citizenship can be by birth, registration or naturalisation.
+
+Q: Naturalisation is the process by which
+A: a foreigner becomes a citizen after meeting legal conditions
+W: a citizen loses citizenship
+W: a baby becomes a citizen at birth
+W: a person becomes a soldier
+E: Applicants must meet residence and other requirements.
+
+Q: Dual citizenship means a person is a citizen of
+A: two countries at the same time
+W: two states in Nigeria
+W: no country
+W: a local government only
+E: Some countries allow dual nationality.
+
+Q: A citizen can lose citizenship through
+A: renunciation
+W: voting
+W: paying tax
+W: travelling abroad
+E: Citizens may formally give up their citizenship.
+
+Q: Which of these is an obligation of a citizen?
+A: obeying the laws of the state
+W: refusing to pay tax
+W: destroying public property
+W: ignoring elections
+E: Citizens have duties as well as rights.
+
+Q: Fundamental human rights may be limited during
+A: a state of emergency
+W: a public holiday
+W: a football match
+W: the rainy season
+E: Rights can be restricted to protect public safety in emergencies.
+
+Q: The writ of habeas corpus protects a person against
+A: unlawful detention
+W: paying taxes
+W: voting
+W: losing an election
+E: It requires that a detained person be brought before a court.
+
+Q: Which is a civic responsibility?
+A: voting in elections
+W: evading tax
+W: rigging elections
+W: hoarding goods
+E: Participating in elections is a civic duty.
+
+Q: Freedom of movement means a citizen can
+A: move freely and live anywhere in the country
+W: enter any private house
+W: cross borders without papers
+W: drive without a licence
+E: It is guaranteed in Chapter IV of the 1999 Constitution.
+
+Q: Who was A.V. Dicey?
+A: a British jurist who explained the rule of law
+W: a Nigerian nationalist
+W: an American president
+W: a French philosopher of separation of powers
+E: Dicey wrote "Introduction to the Study of the Law of the Constitution".
+
+Q: An alien is
+A: a person who is not a citizen of the country where they live
+W: a citizen by birth
+W: a member of parliament
+W: a traditional ruler
+E: Aliens have fewer political rights than citizens.
+
+Q: A right to fair hearing includes
+A: being heard before judgement is passed
+W: being punished without trial
+W: secret trials
+W: judges deciding before hearing evidence
+E: Everyone has the right to defend themselves.
+
+Q: Which body was set up to promote and protect human rights in Nigeria?
+A: the National Human Rights Commission
+W: INEC
+W: the Central Bank
+W: NNPC
+E: It investigates human rights abuses.
+
+Q: Rights and duties of citizens are
+A: two sides of the same coin
+W: completely unrelated
+W: only for leaders
+W: only for foreigners
+E: Enjoying rights comes with responsibilities.
+
+Q: The right to freedom of thought, conscience and religion means a citizen can
+A: choose and practise any religion
+W: be forced into a religion
+W: be stopped from worship
+W: only follow the government's religion
+E: Nigeria is a secular state with freedom of religion.
+
+Q: Detaining a person without trial for a long time violates
+A: the rule of law
+W: the separation of powers only
+W: federal character
+W: revenue allocation
+E: Arbitrary detention breaks the rule of law.
+
+Q: The doctrine of equality before the law means that
+A: the same law applies to everyone equally
+W: some people are above the law
+W: laws apply only to the poor
+W: judges make different laws for different people
+E: Status does not exempt anyone.
+
+Q: A citizen's right to own property means
+A: property cannot be taken without lawful compensation
+W: anyone can seize property
+W: only the government owns land
+W: property can be taken at will
+E: Compulsory acquisition requires compensation.
+
+Q: Which of the following is NOT a fundamental right in the 1999 Constitution?
+A: right to employment
+W: right to life
+W: right to dignity of the person
+W: right to personal liberty
+E: Employment is a policy objective, not an enforceable right.
+
+Q: A good citizen should
+A: respect the rights of others
+W: break laws when inconvenient
+W: refuse to help in community work
+W: encourage violence
+E: Respect for others is part of good citizenship.
+
+Q: The rule of law is undermined when
+A: court orders are disobeyed by government
+W: courts are independent
+W: everyone is treated equally
+W: laws are made openly
+E: Disobedience of court orders weakens the rule of law.
+
+@topic gov-public-opinion
+
+Q: Which of these is an agent for shaping public opinion?
+A: the mass media
+W: the weather
+W: the national flag
+W: the currency
+E: Newspapers, radio, TV and social media shape opinion.
+
+Q: An opinion poll is a way of
+A: finding out what people think about an issue
+W: counting votes in an election
+W: collecting taxes
+W: making laws
+E: Samples of people are asked their views.
+
+Q: Public opinion is important in a democracy because it
+A: guides government policy
+W: replaces the constitution
+W: decides court cases
+W: appoints ministers
+E: Governments respond to what citizens want.
+
+Q: Which of these is a print medium?
+A: newspaper
+W: radio
+W: television
+W: podcast
+E: Newspapers and magazines are print media.
+
+Q: Which of these is an electronic medium?
+A: radio
+W: newspaper
+W: magazine
+W: pamphlet
+E: Radio and TV are broadcast media.
+
+Q: Censorship means
+A: government control or suppression of information
+W: free flow of news
+W: counting the population
+W: a type of election
+E: Censors block or edit what can be published.
+
+Q: Which body regulates broadcasting in Nigeria?
+A: the National Broadcasting Commission (NBC)
+W: INEC
+W: the Nigerian Press Council only
+W: the Central Bank
+E: The NBC licenses and regulates radio and TV stations.
+
+Q: The press acts as a watchdog by
+A: exposing corruption and abuse of power
+W: making laws
+W: appointing judges
+W: running elections
+E: Investigative journalism holds leaders accountable.
+
+Q: A demonstration or protest is a way of
+A: expressing public opinion
+W: making laws
+W: holding a trial
+W: collecting revenue
+E: Citizens show their views publicly.
+
+Q: Which of these can distort public opinion?
+A: false news (misinformation)
+W: accurate reporting
+W: open debate
+W: independent research
+E: Misleading information can misguide the public.
+
+Q: Libel is
+A: a false written statement that damages someone's reputation
+W: a true news report
+W: a type of election
+W: a court judgement
+E: Libel is defamation in permanent form.
+
+Q: Slander is
+A: a false spoken statement that damages someone's reputation
+W: a written news article
+W: a type of tax
+W: a parliamentary debate
+E: Slander is spoken defamation.
+
+Q: Freedom of information laws allow citizens to
+A: request information held by public bodies
+W: read private letters
+W: avoid paying tax
+W: ignore court orders
+E: Nigeria passed a Freedom of Information Act in 2011.
+
+Q: Which of these is a feature of a free press?
+A: newspapers can criticise the government
+W: only government newspapers exist
+W: journalists are jailed for reporting
+W: all news is censored
+E: Criticism without fear is a sign of press freedom.
+
+Q: Public opinion can be measured through
+A: elections and referendums
+W: weather forecasts
+W: school timetables
+W: traffic lights
+E: Voting shows the views of the electorate.
+
+Q: Which of these is a limitation on freedom of the press?
+A: laws against sedition
+W: free distribution of newspapers
+W: independent journalists
+W: public interest in news
+E: Sedition laws restrict publications seen as stirring rebellion.
+
+Q: Propaganda is often used to
+A: influence people's opinions in favour of a cause
+W: report balanced news
+W: count votes
+W: train judges
+E: Propaganda presents one-sided information.
+
+Q: The mass media helps political education by
+A: informing citizens about government and issues
+W: banning debate
+W: hiding government activities
+W: stopping elections
+E: Well-informed citizens make better choices.
+
+Q: Social media has changed public opinion mainly by
+A: allowing people to share views quickly and widely
+W: stopping communication
+W: replacing elections
+W: ending journalism completely
+E: News and opinions spread faster than before.
+
+Q: Which of these is an interest group that shapes public opinion?
+A: a trade union
+W: a court
+W: a ministry
+W: the army
+E: Unions campaign on workers' issues.
+
+Q: Gatekeeping in the media refers to
+A: editors deciding what news is published
+W: guarding the media house gate
+W: selling newspapers
+W: printing the paper
+E: Gatekeepers select and shape stories.
+
+Q: Public opinion is said to be "the voice of the people" because it
+A: reflects the views of citizens on issues
+W: is written in the constitution
+W: comes only from leaders
+W: is decided by judges
+E: It represents the collective view of the public.
+
+Q: A press conference is used to
+A: give information to journalists
+W: hold a court trial
+W: conduct an election
+W: pass a law
+E: Officials brief the press directly.
+
+Q: The Nigerian Union of Journalists is an example of
+A: a professional association
+W: a political party
+W: a court
+W: a government ministry
+E: It represents journalists' interests.
+
+@topic gov-legislature
+
+Q: The first reading of a bill involves
+A: reading its title and introducing it
+W: voting to pass it into law
+W: detailed debate on each clause
+W: presidential assent
+E: First reading formally introduces the bill.
+
+Q: Detailed examination of a bill clause by clause takes place at the
+A: committee stage
+W: first reading
+W: assent stage
+W: gazette stage
+E: Committees study and amend each clause.
+
+Q: A bill becomes law after
+A: it is passed by the legislature and signed by the executive
+W: the first reading
+W: it is printed in the newspaper only
+W: the police approve it
+E: Assent turns a passed bill into an Act.
+
+Q: In Nigeria, a presidential veto can be overridden by
+A: a two-thirds majority of each house of the National Assembly
+W: a simple majority of the Senate only
+W: the Chief Justice
+W: the Vice-President
+E: The constitution allows the legislature to override a veto.
+
+Q: A bill introduced by a member who is not a minister is called a
+A: private member's bill
+W: executive bill
+W: money bill
+W: appropriation act
+E: Any legislator can sponsor such a bill.
+
+Q: A money bill deals with
+A: taxation and government spending
+W: creation of states
+W: electing judges
+W: foreign treaties only
+E: Finance bills concern revenue and expenditure.
+
+Q: The minimum number of members that must be present for the legislature to do business is the
+A: quorum
+W: caucus
+W: whip
+W: mace
+E: Without a quorum, no valid business can be done.
+
+Q: The party official who ensures members vote according to party lines is the
+A: whip
+W: speaker
+W: clerk
+W: sergeant-at-arms
+E: Whips maintain party discipline.
+
+Q: The symbol of authority of the legislature is the
+A: mace
+W: gavel only
+W: flag
+W: ballot box
+E: Without the mace, sittings are not regarded as properly constituted.
+
+Q: Which of these is a function of the legislature?
+A: making laws
+W: interpreting laws
+W: arresting criminals
+W: conducting elections
+E: The legislature is the law-making organ.
+
+Q: A unicameral legislature has
+A: one chamber
+W: two chambers
+W: three chambers
+W: no chamber
+E: Nigeria's State Houses of Assembly are unicameral.
+
+Q: An advantage of a bicameral legislature is that
+A: the second chamber can revise hasty laws
+W: laws are passed faster
+W: it costs less
+W: it has fewer members
+E: Two chambers provide a check on each other.
+
+Q: The officer who keeps order in the legislature and carries the mace is the
+A: sergeant-at-arms
+W: speaker
+W: clerk
+W: whip
+E: The sergeant-at-arms maintains order.
+
+Q: The administrative head of the National Assembly is the
+A: Clerk of the National Assembly
+W: Senate President
+W: Speaker
+W: Attorney-General
+E: The Clerk heads the legislative bureaucracy.
+
+Q: Oversight function of the legislature means
+A: monitoring the activities of the executive
+W: making court judgements
+W: running ministries directly
+W: printing money
+E: Committees investigate how the executive spends money and runs programmes.
+
+Q: Delegated legislation is usually made by
+A: ministers and agencies under power given by the legislature
+W: the courts only
+W: the electorate directly
+W: traditional rulers only
+E: Examples include regulations and bye-laws.
+
+Q: One reason for delegated legislation is that
+A: the legislature lacks time and technical expertise for detailed rules
+W: the legislature wants to give away all power
+W: the courts make laws
+W: the constitution forbids laws
+E: Experts in ministries fill in the details.
+
+Q: A motion of censure is used to
+A: condemn the conduct of an official
+W: pass a budget
+W: create a state
+W: elect a president
+E: It expresses formal disapproval.
+
+Q: Legislative immunity protects members from
+A: being sued for what they say during debates
+W: paying taxes
+W: arrest for any crime
+W: losing elections
+E: Members can speak freely in the chamber.
+
+Q: The term of office of members of the National Assembly is
+A: four years
+W: two years
+W: five years
+W: six years
+E: Elections are held every four years.
+
+Q: The process by which a bill passed by one chamber goes to the other is
+A: concurrence
+W: veto
+W: dissolution
+W: prorogation
+E: Both chambers must agree to a federal bill.
+
+Q: Prorogation means
+A: ending a session of the legislature without dissolving it
+W: passing a law
+W: impeaching a president
+W: holding an election
+E: The legislature is suspended until the next session.
+
+Q: The leader of the majority party in the Senate is the
+A: Senate Majority Leader
+W: Clerk
+W: Speaker
+W: Chief Whip of the minority
+E: The majority leader directs government business.
+
+Q: Laws made by the National Assembly are called
+A: Acts
+W: edicts
+W: decrees
+W: bye-laws
+E: Federal laws are Acts of the National Assembly.
+
+@topic gov-executive
+
+Q: In Nigeria, the president is elected for a term of
+A: four years
+W: five years
+W: six years
+W: seven years
+E: The president may serve two four-year terms.
+
+Q: The head of the executive in a Nigerian state is the
+A: governor
+W: speaker
+W: chief judge
+W: senator
+E: Governors are elected for four-year terms.
+
+Q: Which of these is a function of the executive?
+A: formulating and implementing policies
+W: interpreting the constitution
+W: passing the budget
+W: trying criminal cases
+E: The executive runs government programmes.
+
+Q: The prerogative of mercy allows the president to
+A: pardon convicted persons
+W: make laws alone
+W: dissolve the courts
+W: dismiss judges at will
+E: The president can grant pardons on advice.
+
+Q: The Council of State in Nigeria
+A: advises the president on matters such as pardons and national population
+W: makes all laws
+W: conducts elections
+W: hears appeals from the Supreme Court
+E: It is made up of current and former leaders.
+
+Q: Judges are appointed in Nigeria on the recommendation of the
+A: National Judicial Council
+W: INEC
+W: Senate President
+W: Inspector-General of Police
+E: The NJC recommends appointments and handles discipline.
+
+Q: Which of these helps to secure the independence of the judiciary?
+A: security of tenure for judges
+W: appointment by political parties
+W: low salaries
+W: removal of judges by the president alone
+E: Judges cannot easily be removed for unpopular judgements.
+
+Q: The main function of the judiciary is to
+A: interpret laws and settle disputes
+W: make laws
+W: implement laws
+W: collect taxes
+E: Courts apply the law to cases.
+
+Q: Judicial precedent means
+A: lower courts follow the decisions of higher courts
+W: judges make new laws every day
+W: courts ignore earlier decisions
+W: the president decides cases
+E: It ensures consistency in the law.
+
+Q: Which of these courts deals with Islamic personal law?
+A: Sharia Court of Appeal
+W: Customary Court of Appeal
+W: Federal High Court only
+W: Magistrate Court
+E: States may establish a Sharia Court of Appeal.
+
+Q: Which court deals with customary law matters such as marriage and inheritance?
+A: Customary Court
+W: Supreme Court only
+W: Court Martial
+W: Federal High Court
+E: Customary courts apply local customs.
+
+Q: A court martial tries
+A: members of the armed forces
+W: civilians only
+W: local government officials
+W: foreign diplomats
+E: It is a military court.
+
+Q: The executive can make appointments, but in Nigeria the appointment of ministers needs
+A: confirmation by the Senate
+W: approval by the Chief Justice
+W: approval by INEC
+W: a referendum
+E: Senate screening checks executive power.
+
+Q: The Vice-President of Nigeria takes over if the President
+A: dies, resigns or is removed
+W: travels for a week
+W: disagrees with the Senate
+W: loses a court case
+E: The constitution provides for succession.
+
+Q: Executive orders are
+A: directives issued by the president to manage government operations
+W: laws passed by the Senate
+W: court judgements
+W: local government bye-laws
+E: They must be within constitutional powers.
+
+Q: The cabinet in Nigeria is known as the
+A: Federal Executive Council
+W: Council of State
+W: National Assembly
+W: National Judicial Council
+E: The FEC meets to take policy decisions.
+
+Q: Which of these is a limitation on the power of the executive?
+A: the constitution
+W: unlimited tenure
+W: absolute immunity for all acts
+W: the absence of courts
+E: The constitution sets limits on executive power.
+
+Q: The Chief Justice of Nigeria is appointed by the President on the recommendation of the National Judicial Council, subject to
+A: confirmation by the Senate
+W: approval by the House of Representatives only
+W: approval by the governors
+W: a national referendum
+E: Senate confirmation is required.
+
+Q: An independent judiciary is important because it
+A: ensures justice without fear or favour
+W: makes the president stronger
+W: removes elections
+W: stops laws being made
+E: Judges must decide cases fairly.
+
+Q: Which of the following is a function of the Attorney-General?
+A: advising government on legal matters
+W: commanding the army
+W: conducting elections
+W: printing money
+E: The Attorney-General is the chief law officer.
+
+Q: The head of the executive arm at the local government level is the
+A: chairman
+W: councillor
+W: secretary to the state government
+W: governor
+E: The chairman leads the local government council.
+
+Q: The power of the president to sign or refuse a bill is called
+A: assent and veto
+W: impeachment
+W: judicial review
+W: delegated legislation
+E: Assent makes a bill law; veto rejects it.
+
+Q: The term of office of judges in Nigeria usually ends at
+A: a fixed retirement age
+W: the end of each election
+W: the wish of the ruling party
+W: the end of every year
+E: Judges serve until retirement unless removed for misconduct.
+
+Q: Which of these weakens the independence of the judiciary?
+A: political interference in appointments
+W: security of tenure
+W: good salaries
+W: appointment on merit
+E: Political pressure undermines judicial neutrality.
+
+@topic gov-parties
+
+Q: A political party differs from a pressure group because a party
+A: seeks to win elections and control government
+W: only influences policy from outside
+W: never contests elections
+W: is always illegal
+E: Parties aim to form government.
+
+Q: Which of these is a function of political parties?
+A: presenting candidates for elections
+W: interpreting laws
+W: commanding the army
+W: printing currency
+E: Parties nominate candidates.
+
+Q: A party manifesto is
+A: a document setting out a party's programmes and promises
+W: a court judgement
+W: a list of party members only
+W: a tax receipt
+E: Voters read it to understand a party's plans.
+
+Q: A two-party system means
+A: two major parties dominate politics
+W: only two people can vote
+W: there are no elections
+W: there are two governments
+E: E.g. the USA's Democrats and Republicans.
+
+Q: A multiparty system means
+A: many parties compete for power
+W: only one party is allowed
+W: parties are banned
+W: two parties rule together always
+E: Nigeria has a multiparty system.
+
+Q: Which of these is a disadvantage of a one-party system?
+A: it limits the choice of voters
+W: it encourages competition
+W: it allows many candidates from many parties
+W: it strengthens opposition
+E: Voters cannot choose between different parties.
+
+Q: The Nigerian Labour Congress (NLC) is an example of a
+A: pressure group
+W: political party
+W: court
+W: ministry
+E: It promotes workers' interests.
+
+Q: Lobbying means
+A: trying to influence lawmakers or officials
+W: casting a vote
+W: running a court
+W: leading an army
+E: Pressure groups lobby to shape decisions.
+
+Q: Which of these is a method used by pressure groups?
+A: strikes and demonstrations
+W: passing laws
+W: appointing ministers
+W: conducting elections
+E: Pressure groups use protests, lobbying and the media.
+
+Q: A promotional (cause) pressure group is one that
+A: campaigns for a particular cause
+W: protects only its members' economic interests
+W: contests elections
+W: makes laws
+E: Examples include environmental groups.
+
+Q: A protective (interest) pressure group defends
+A: the interests of its members
+W: the interests of a foreign country
+W: the government's interests
+W: only religious matters
+E: Examples include trade unions and professional bodies.
+
+Q: The Nigerian Medical Association is an example of a
+A: professional pressure group
+W: political party
+W: court
+W: police unit
+E: It represents doctors.
+
+Q: Party discipline refers to
+A: members following party rules and decisions
+W: violence at rallies
+W: rigging elections
+W: changing parties often
+E: Disciplined parties act together.
+
+Q: Moving from one political party to another is called
+A: carpet-crossing (defection)
+W: lobbying
+W: canvassing
+W: gerrymandering
+E: Defections are common in Nigerian politics.
+
+Q: The NCNC was formed in
+A: 1944
+W: 1923
+W: 1951
+W: 1960
+E: It was formed with Herbert Macaulay as president and Azikiwe as secretary.
+
+Q: The Action Group was founded in 1951 under the leadership of
+A: Obafemi Awolowo
+W: Nnamdi Azikiwe
+W: Ahmadu Bello
+W: Aminu Kano
+E: It became the ruling party in the Western Region.
+
+Q: The Northern People's Congress (NPC) was led by
+A: Ahmadu Bello
+W: Obafemi Awolowo
+W: Herbert Macaulay
+W: Nnamdi Azikiwe
+E: The Sardauna of Sokoto led the NPC.
+
+Q: The Northern Elements Progressive Union (NEPU) was led by
+A: Aminu Kano
+W: Ahmadu Bello
+W: Tafawa Balewa
+W: Awolowo
+E: NEPU challenged the NPC in the North.
+
+Q: Which of these is an aim of pressure groups?
+A: to influence government policy
+W: to form the government
+W: to write the constitution alone
+W: to command the police
+E: They seek favourable decisions, not office.
+
+Q: Which political party won the 1979 presidential election in Nigeria?
+A: National Party of Nigeria (NPN)
+W: Unity Party of Nigeria (UPN)
+W: Nigerian People's Party (NPP)
+W: People's Redemption Party (PRP)
+E: Shehu Shagari of the NPN became president.
+
+Q: Party financing through membership dues and donations helps parties to
+A: run campaigns and organisations
+W: interpret laws
+W: appoint judges
+W: print money
+E: Parties need funds for their activities.
+
+Q: An opposition party in a democracy
+A: checks the ruling party and offers alternatives
+W: must support every policy
+W: is banned
+W: runs the courts
+E: A strong opposition improves accountability.
+
+Q: The two parties created by the Babangida government were the
+A: SDP and NRC
+W: NPN and UPN
+W: PDP and APC
+W: AG and NCNC
+E: The Social Democratic Party and National Republican Convention.
+
+Q: The body that registers political parties in Nigeria is
+A: INEC
+W: the Senate
+W: the Supreme Court
+W: the police
+E: INEC registers and regulates parties.
+
+@topic gov-elections
+
+Q: An electoral college is
+A: a body of people chosen to elect someone on behalf of others
+W: a university for election officers
+W: a court for election cases
+W: a party office
+E: Indirect elections use electoral colleges.
+
+Q: In a direct election, voters
+A: choose their representatives themselves
+W: elect a college that chooses for them
+W: do not vote
+W: vote through the courts
+E: Citizens vote directly for candidates.
+
+Q: The "first past the post" system means the winner is the candidate who
+A: gets the highest number of votes
+W: gets more than 75% of votes
+W: is chosen by the party leader
+W: wins in the courts
+E: A simple plurality is enough to win.
+
+Q: Proportional representation gives parties seats according to
+A: their share of the total votes
+W: the number of candidates only
+W: the size of the country
+W: the age of the leaders
+E: Seats reflect vote share.
+
+Q: Gerrymandering is
+A: drawing constituency boundaries to favour a party
+W: counting votes fairly
+W: registering voters
+W: a type of ballot box
+E: It is an unfair electoral practice.
+
+Q: An electoral tribunal hears
+A: petitions challenging election results
+W: criminal cases only
+W: land disputes
+W: divorce cases
+E: Losing candidates can challenge results in tribunals.
+
+Q: Which of these is an electoral malpractice?
+A: ballot-box snatching
+W: voter education
+W: secret ballot
+W: counting votes in public
+E: Snatching ballot boxes rigs elections.
+
+Q: The register of voters is
+A: a list of people qualified to vote
+W: a list of political parties
+W: a list of judges
+W: a list of polling results
+E: Only registered voters can vote.
+
+Q: A constituency is
+A: an area that elects a representative
+W: a political party
+W: a court
+W: a type of vote
+E: Each constituency sends a member to the legislature.
+
+Q: To win the Nigerian presidential election in the first round, a candidate must win the highest votes and at least
+A: 25% of the votes in two-thirds of the states and the FCT
+W: 50% of votes in every state
+W: 10% of the votes in one state
+W: all the states
+E: This spread requirement ensures national acceptance.
+
+Q: Voter education aims to
+A: teach citizens how and why to vote
+W: tell people whom to vote for
+W: stop people voting
+W: register parties
+E: It improves participation and reduces invalid votes.
+
+Q: An election monitor or observer
+A: watches the process to check fairness
+W: counts votes for a party
+W: is a candidate
+W: makes laws
+E: Observers report on whether elections are free and fair.
+
+Q: A run-off election is held when
+A: no candidate meets the requirements to win in the first round
+W: the winner is clear
+W: the legislature is dissolved
+W: a judge resigns
+E: The top candidates face each other again.
+
+Q: Electoral apathy can be reduced by
+A: building trust in the electoral process
+W: rigging elections
+W: banning campaigns
+W: intimidating voters
+E: People vote when they believe their votes count.
+
+Q: Which of these qualifies a person to vote in Nigeria?
+A: being a citizen aged 18 or above
+W: owning property
+W: being a party member
+W: being educated
+E: Suffrage is universal for adult citizens.
+
+Q: Canvassing means
+A: seeking votes from electors
+W: counting votes
+W: printing ballot papers
+W: hearing petitions
+E: Candidates canvass for support.
+
+Q: The Federal Electoral Commission (FEDECO) conducted the elections of
+A: 1979 and 1983
+W: 1999 and 2003
+W: 1959 only
+W: 2015
+E: FEDECO organised Second Republic elections.
+
+Q: The annulled presidential election of 12 June 1993 was believed to have been won by
+A: M.K.O. Abiola
+W: Bashir Tofa
+W: Olusegun Obasanjo
+W: Shehu Shagari
+E: The Babangida government annulled the result.
+
+Q: Which is a feature of a free and fair election?
+A: an independent electoral body
+W: one candidate only
+W: open voting under threat
+W: counting by the ruling party alone
+E: Impartial administration is essential.
+
+Q: The secret ballot protects voters from
+A: intimidation and victimisation
+W: voting
+W: registration
+W: political education
+E: No one can know how a person voted.
+
+Q: An election petition is filed by
+A: a person who believes an election was not conducted properly
+W: INEC alone
+W: the police
+W: judges
+E: Candidates or parties go to the tribunal.
+
+@topic gov-precolonial
+
+Q: In the old Oyo Empire, the Alaafin was
+A: the king
+W: the army commander
+W: the head of the Oyo Mesi
+W: a priest only
+E: The Alaafin was the political head.
+
+Q: The head of the Oyo Mesi was the
+A: Bashorun
+W: Alaafin
+W: Are-Ona-Kakanfo
+W: Aremo
+E: The Bashorun led the council of kingmakers.
+
+Q: The commander of the army in the old Oyo Empire was the
+A: Are-Ona-Kakanfo
+W: Bashorun
+W: Ogboni
+W: Alaafin
+E: He led the army in war.
+
+Q: The Ogboni cult in Oyo
+A: checked the powers of the Oyo Mesi and the Alaafin
+W: was the army
+W: was a foreign trading company
+W: collected all taxes alone
+E: It provided balance in the system.
+
+Q: An Alaafin who lost the confidence of the people could be asked to
+A: commit suicide after being presented with an empty calabash
+W: go to war
+W: build a palace
+W: marry a new wife
+E: This was a check on the king's power.
+
+Q: In the Hausa-Fulani emirate system, the Waziri was the
+A: prime minister (chief adviser)
+W: army commander
+W: treasurer
+W: judge
+E: The Waziri advised the Emir and led the officials.
+
+Q: In the Hausa-Fulani emirate, the Madawaki was the
+A: commander of the army
+W: treasurer
+W: judge
+W: head of the palace women
+E: The Madawaki led military affairs.
+
+Q: In the Hausa-Fulani system, the Galadima was in charge of
+A: the administration of the capital
+W: the army
+W: the treasury
+W: religion only
+E: The Galadima looked after the capital city.
+
+Q: The legal system of the Hausa-Fulani emirates was based on
+A: Islamic (Sharia) law
+W: English common law
+W: Igbo custom
+W: Roman law
+E: Alkali courts applied Sharia law.
+
+Q: The Hausa-Fulani emirates were brought under the Sokoto Caliphate after the jihad of
+A: Usman dan Fodio
+W: Ahmadu Bello
+W: Mai Idris Alooma
+W: Oduduwa
+E: The jihad began in 1804.
+
+Q: The traditional Igbo political system is described as
+A: acephalous (decentralised)
+W: highly centralised under one king
+W: a monarchy ruled by an emperor
+W: a military dictatorship
+E: Most Igbo communities had no single ruler.
+
+Q: In pre-colonial Igbo society, the Ofo was
+A: a symbol of authority held by elders
+W: a type of tax
+W: a market day
+W: a foreign official
+E: Holders of the Ofo had moral and religious authority.
+
+Q: The age-grade system in Igbo society helped in
+A: community development and maintaining order
+W: collecting foreign taxes
+W: appointing a king
+W: war against Britain only
+E: Age grades carried out public works and enforced decisions.
+
+Q: Ozo title holders in Igbo society were
+A: respected men who had achieved status
+W: foreign traders
+W: slaves
+W: priests only
+E: Ozo titles were earned through achievement.
+
+Q: The Umunna in Igbo society refers to
+A: the extended family or lineage group
+W: the king's palace
+W: the army
+W: a foreign court
+E: Lineage groups were basic units of organisation.
+
+Q: The Oba of Benin was assisted by a group of kingmakers called the
+A: Uzama
+W: Oyo Mesi
+W: Ogboni
+W: Ndichie
+E: The Uzama were the hereditary nobles of Benin.
+
+Q: Decision-making in pre-colonial Igbo society was mainly
+A: democratic, through village assemblies
+W: by one absolute king
+W: by foreign officials
+W: by the army
+E: Adult males discussed issues openly.
+
+Q: In the Hausa-Fulani system, the Emir held
+A: political and religious authority
+W: only ceremonial power
+W: no power at all
+W: power only over trade
+E: The Emir combined political and spiritual leadership.
+
+Q: The Kanem-Bornu Empire was ruled by the
+A: Mai
+W: Alaafin
+W: Oba
+W: Obi
+E: The Mai was the ruler; later the Shehu.
+
+Q: A feature common to the Oyo and Hausa-Fulani systems was
+A: a centralised political system
+W: absence of a ruler
+W: rule by age grades only
+W: rule by foreign officials
+E: Both had kings with administrative officials.
+
+Q: The Ma'aji in the Hausa-Fulani emirate was the
+A: treasurer
+W: army commander
+W: judge
+W: prime minister
+E: He managed revenue.
+
+Q: In pre-colonial Yoruba states, a check on the Oba's power was provided by
+A: councils of chiefs
+W: the British army
+W: the Sharia courts
+W: age grades only
+E: Chiefs advised and could oppose the Oba.
+
+Q: Pre-colonial societies maintained law and order partly through
+A: traditional religion and taboos
+W: modern police only
+W: written constitutions
+W: elections
+E: Fear of the gods and customs discouraged wrongdoing.
+
+Q: Revenue in the Hausa-Fulani emirates came from
+A: taxes such as zakat, jangali and kurdin kasa
+W: oil exports
+W: foreign aid
+W: VAT
+E: Jangali was a cattle tax; kurdin kasa a land tax.
+
+@topic gov-colonial
+
+Q: The first Governor-General of amalgamated Nigeria was
+A: Lord Lugard
+W: Sir Hugh Clifford
+W: Sir Arthur Richards
+W: Sir John Macpherson
+E: Lugard became Governor-General in 1914.
+
+Q: The Royal Niger Company's charter was revoked in
+A: 1900
+W: 1914
+W: 1886
+W: 1960
+E: The British government took over its territories.
+
+Q: Lagos was annexed by the British as a colony in
+A: 1861
+W: 1914
+W: 1900
+W: 1885
+E: Lagos became a British colony in 1861.
+
+Q: Indirect rule failed in Eastern Nigeria mainly because
+A: there were no centralised traditional rulers
+W: the people were Muslims
+W: the British did not go there
+W: there were too many emirs
+E: The British created warrant chiefs who lacked legitimacy.
+
+Q: Warrant chiefs were
+A: chiefs appointed by the British, mainly in the East
+W: traditional kings in the North
+W: nationalist leaders
+W: judges of the Supreme Court
+E: They were given warrants to rule on behalf of the colonial government.
+
+Q: Indirect rule was used in Nigeria partly because
+A: there were too few British officials
+W: the British wanted to give independence early
+W: Nigerians refused to work
+W: it was cheaper to bring British officials
+E: Using local rulers saved manpower and money.
+
+Q: One effect of indirect rule was that it
+A: strengthened the power of traditional rulers
+W: abolished all chiefs
+W: introduced universal suffrage
+W: ended taxation
+E: Emirs gained more power under British protection.
+
+Q: The policy of assimilation aimed to
+A: turn Africans into French citizens culturally
+W: preserve African traditions completely
+W: give independence quickly
+W: ban education
+E: France sought to spread its culture.
+
+Q: The French policy that later replaced assimilation was
+A: association
+W: indirect rule
+W: apartheid
+W: federalism
+E: Association allowed some respect for local cultures.
+
+Q: The Berlin Conference of 1884–85 is important because it
+A: set rules for European partition of Africa
+W: gave Nigeria independence
+W: created ECOWAS
+W: ended slavery in Nigeria
+E: European powers divided African territories.
+
+Q: The Legislative Council created by the Clifford Constitution
+A: included elected African members for the first time
+W: had no African members
+W: was made up only of chiefs
+W: was elected by all adults
+E: Lagos and Calabar elected members in 1923.
+
+Q: Native authorities under indirect rule were responsible for
+A: local administration, taxes and courts
+W: foreign policy
+W: the army
+W: printing currency
+E: They handled local matters under British supervision.
+
+Q: Colonial rule introduced which of these into Nigeria?
+A: Western education
+W: the Sharia legal system
+W: the Oyo Mesi
+W: age grades
+E: Mission schools spread Western education.
+
+Q: A negative effect of colonial rule was
+A: exploitation of resources for the benefit of Britain
+W: introduction of roads
+W: building of hospitals
+W: development of the railway
+E: Raw materials were exported cheaply.
+
+Q: The Aba Women's Riot of 1929 led to
+A: reform of the warrant chief system
+W: independence
+W: creation of states
+W: the end of taxation for men
+E: The protest exposed problems with warrant chiefs.
+
+Q: The main reason for the 1914 amalgamation was
+A: administrative convenience and economy
+W: to give Nigeria independence
+W: to create a republic
+W: to end trade
+E: The richer South could support the North financially.
+
+Q: The colonial Governor ruled with the help of
+A: the Executive Council
+W: the National Assembly
+W: INEC
+W: the Supreme Court of Nigeria only
+E: The Executive Council advised the Governor.
+
+Q: Which group of Nigerians first demanded more say in colonial government?
+A: educated elites
+W: emirs
+W: warrant chiefs
+W: colonial officers
+E: Western-educated Nigerians led early nationalism.
+
+Q: The National Youth Movement was formed in the 1930s by
+A: young educated Nigerians in Lagos
+W: British officials
+W: Northern emirs
+W: the military
+E: It became a leading nationalist organisation.
+
+Q: The Colonial Development and Welfare Act was passed by Britain to
+A: fund development projects in the colonies
+W: grant independence
+W: ban education
+W: abolish taxes
+E: It financed infrastructure and social services.
+
+Q: The Clifford Constitution introduced elections in
+A: Lagos and Calabar
+W: Kano and Sokoto
+W: Ibadan and Enugu
+W: all regions
+E: Only these two towns elected members.
+
+Q: Northern and Southern Protectorates were formed in
+A: 1900
+W: 1861
+W: 1914
+W: 1922
+E: They were later amalgamated in 1914.
+
+Q: The use of forced labour on colonial projects was a feature of
+A: colonial administration
+W: post-independence democracy
+W: the Fourth Republic
+W: ECOWAS policy
+E: Colonial governments sometimes compelled labour.
+
+Q: Lugard's book on indirect rule is titled
+A: The Dual Mandate in British Tropical Africa
+W: The Spirit of the Laws
+W: The Wealth of Nations
+W: Path to Nigerian Freedom
+E: Lugard published it in 1922.
+
+@topic gov-public-service
+
+Q: Which of these is a feature of the civil service?
+A: anonymity
+W: political partisanship
+W: election of officials
+W: short-term contracts only
+E: Civil servants work behind the scenes; ministers take public responsibility.
+
+Q: The head of the civil service of the federation is the
+A: Head of the Civil Service of the Federation
+W: President
+W: Chief Justice
+W: Senate President
+E: This official heads the federal bureaucracy.
+
+Q: The civil service is described as neutral because civil servants
+A: serve any government in power without party bias
+W: support only the ruling party
+W: refuse to work with politicians
+W: contest elections
+E: Neutrality allows continuity between governments.
+
+Q: A problem of the Nigerian civil service is
+A: corruption and inefficiency
+W: too much neutrality
+W: too few rules
+W: absence of ministries
+E: Bribery and delays have been criticised.
+
+Q: Public corporations are owned by
+A: the government
+W: private individuals
+W: foreign companies only
+W: political parties
+E: They are statutory bodies run on commercial lines.
+
+Q: An example of a public corporation in Nigeria is
+A: the Nigerian National Petroleum Company (NNPC)
+W: a private bank
+W: a supermarket owned by individuals
+W: a church
+E: NNPC is government-owned.
+
+Q: Commercialisation of public corporations means
+A: making them run profitably without full government funding
+W: selling them completely to foreigners
+W: shutting them down
+W: making them political parties
+E: They charge economic prices and reduce subsidies.
+
+Q: A reason for privatising public corporations is
+A: to improve efficiency
+W: to increase government control
+W: to reduce competition
+W: to abolish taxes
+E: Private ownership is expected to improve performance.
+
+Q: Public corporations are controlled by government through
+A: the supervising ministry and the board
+W: the courts alone
+W: INEC
+W: local chiefs
+E: Ministers appoint boards and give policy directions.
+
+Q: The Federal Civil Service Commission is responsible for
+A: appointing, promoting and disciplining federal civil servants
+W: conducting elections
+W: interpreting the constitution
+W: making laws
+E: It manages personnel matters.
+
+Q: Bureaucracy, as described by Max Weber, involves
+A: a hierarchy of officials following written rules
+W: rule by the army
+W: rule without rules
+W: rule by one person's moods
+E: Weber described rational, rule-based administration.
+
+Q: The political head of a ministry is the
+A: minister
+W: permanent secretary
+W: director
+W: clerk
+E: The minister is appointed by the president.
+
+Q: Which of these is a function of the civil service?
+A: implementing government policies
+W: passing laws
+W: judging cases
+W: conducting party primaries
+E: Civil servants carry out decisions.
+
+Q: Red tape in the civil service refers to
+A: excessive rules and delays
+W: a kind of uniform
+W: speed and efficiency
+W: a training course
+E: Too many procedures slow work.
+
+Q: Public corporations are set up by
+A: an Act of the legislature (statute)
+W: party decision
+W: court order
+W: traditional rulers
+E: Each corporation has an enabling law.
+
+Q: The Code of Conduct Bureau helps to
+A: check corruption among public officers
+W: register political parties
+W: conduct elections
+W: run public corporations
+E: Officers must declare their assets.
+
+Q: The civil service gives continuity in government because
+A: it remains when governments change
+W: it changes with every election
+W: it is run by the ruling party
+W: it is temporary
+E: Permanence preserves experience and records.
+
+Q: One function of public corporations is to
+A: provide essential services
+W: make laws
+W: try criminal cases
+W: write the constitution
+E: E.g. electricity, water and transport.
+
+Q: Which of these is a problem of public corporations in Nigeria?
+A: political interference
+W: too much profit
+W: excess efficiency
+W: lack of government ownership
+E: Appointments and decisions are often politicised.
+
+Q: The principle of meritocracy in the civil service means
+A: recruitment and promotion based on ability
+W: appointment based on party membership
+W: promotion by bribery
+W: hiring only relatives
+E: Merit ensures competent staff.
+
+Q: The Bureau of Public Enterprises in Nigeria oversees
+A: privatisation and commercialisation
+W: elections
+W: the judiciary
+W: the armed forces
+E: It manages the sale of government enterprises.
+
+Q: Civil servants are expected to give the minister
+A: impartial advice
+W: party slogans
+W: court judgements
+W: election results
+E: They advise on the facts without bias.
+
+Q: The Public Complaints Commission, also called the Ombudsman, was set up to
+A: investigate complaints against public officials
+W: conduct elections
+W: run the police
+W: collect taxes
+E: Citizens can report abuse or neglect by officials.
+
+Q: The Economic and Financial Crimes Commission (EFCC) deals with
+A: financial crimes and corruption
+W: traffic offences
+W: elections
+W: land disputes
+E: It investigates fraud and money laundering.
+
+@topic gov-federalism
+
+Q: Which of these is a reason for adopting federalism in Nigeria?
+A: the country's ethnic and cultural diversity
+W: its small size
+W: having one language
+W: having one religion
+E: Federalism allows unity with diversity.
+
+Q: The federal capital of Nigeria moved from Lagos to Abuja in
+A: 1991
+W: 1976
+W: 1960
+W: 1999
+E: The move was officially completed in December 1991.
+
+Q: Which of these items is on the Exclusive Legislative List?
+A: defence
+W: agriculture
+W: primary education
+W: markets
+E: Defence is reserved for the federal government.
+
+Q: Which of these is on the Concurrent Legislative List?
+A: education beyond primary level (shared)
+W: currency
+W: foreign affairs
+W: defence
+E: Both federal and state governments can legislate on some education matters.
+
+Q: The Federal Character Commission ensures that
+A: appointments reflect the diversity of the country
+W: only one state gets jobs
+W: elections are rigged
+W: courts are independent
+E: It promotes fair representation of states.
+
+Q: Revenue allocation in Nigeria is the sharing of the
+A: Federation Account among the three tiers of government
+W: money of private banks
+W: profits of companies
+W: personal income of citizens
+E: Revenue is shared among federal, state and local governments.
+
+Q: The derivation principle in revenue allocation means
+A: states get a share based on resources produced in them
+W: all states get equal amounts
+W: only the federal government gets revenue
+W: revenue goes to foreign countries
+E: Oil-producing states receive extra revenue.
+
+Q: The body that advises on revenue allocation formulas in Nigeria is the
+A: Revenue Mobilisation Allocation and Fiscal Commission
+W: INEC
+W: Federal Character Commission
+W: Code of Conduct Bureau
+E: RMAFC monitors and proposes revenue sharing.
+
+Q: Nigeria became a federation with the
+A: Lyttelton Constitution of 1954
+W: Clifford Constitution of 1922
+W: Richards Constitution of 1946
+W: Macpherson Constitution of 1951
+E: It gave regions their own powers.
+
+Q: How many regions did Nigeria have at independence in 1960?
+A: three
+W: four
+W: two
+W: twelve
+E: Northern, Eastern and Western Regions.
+
+Q: Nigeria's 36-state structure was created in
+A: 1996
+W: 1987
+W: 1991
+W: 1976
+E: The Abacha government created six new states.
+
+Q: The 19-state structure was created in 1976 by the government of
+A: Murtala Mohammed
+W: Yakubu Gowon
+W: Ibrahim Babangida
+W: Sani Abacha
+E: Seven new states were added.
+
+Q: A problem of Nigerian federalism is
+A: agitation over revenue sharing
+W: absence of states
+W: too few levels of government
+W: lack of a constitution
+E: States compete for a fair share of revenue.
+
+Q: The Residual List is the responsibility of
+A: state governments
+W: federal government only
+W: local governments only
+W: the courts
+E: Matters not on the other lists fall to the states.
+
+Q: Which of these is a feature of federalism?
+A: division of powers between levels of government
+W: one central government only
+W: no constitution
+W: a single legislature for the whole country only
+E: Powers are constitutionally divided.
+
+Q: State creation in Nigeria was mainly to
+A: address fears of domination by minorities
+W: reduce the number of states
+W: abolish federalism
+W: end elections
+E: New states were created to give minorities a voice.
+
+Q: The Federal Capital Territory is administered by a
+A: minister appointed by the president
+W: governor elected by residents
+W: traditional ruler
+W: senator
+E: The FCT Minister administers Abuja.
+
+Q: A unifying factor in Nigerian federalism is
+A: a common constitution and national institutions
+W: one religion for all
+W: one ethnic group
+W: one language spoken by all
+E: Shared institutions bind the federation.
+
+Q: The Willink Commission of 1957–58 was set up to examine
+A: the fears of minority groups
+W: revenue allocation only
+W: the census
+W: military rule
+E: It looked into minority fears and how to allay them.
+
+Q: The Nigerian Civil War took place from
+A: 1967 to 1970
+W: 1960 to 1963
+W: 1975 to 1979
+W: 1983 to 1985
+E: It was fought between the federal government and Biafra.
+
+Q: The secession attempt of the Eastern Region declared the state of
+A: Biafra
+W: Oduduwa
+W: Arewa
+W: Mid-West
+E: Odumegwu Ojukwu declared Biafra in May 1967.
+
+Q: Which of these strengthens Nigerian federalism?
+A: fair revenue sharing
+W: domination of one region
+W: ignoring minorities
+W: ethnic violence
+E: A fair formula reduces conflict.
+
+Q: The "true federalism" debate in Nigeria is mainly about
+A: giving more power and resources to the states
+W: abolishing the states
+W: returning to military rule
+W: ending elections
+E: Many call for devolution of powers.
+
+Q: Nigeria has how many local government areas?
+A: 774
+W: 360
+W: 109
+W: 36
+E: The 1999 Constitution lists 774 LGAs.
+
+@topic gov-first-republic
+
+Q: The Prime Minister of Nigeria during the First Republic was
+A: Sir Abubakar Tafawa Balewa
+W: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Ahmadu Bello
+E: Balewa was Prime Minister from 1960 to 1966.
+
+Q: Nigeria's first President (ceremonial) in 1963 was
+A: Nnamdi Azikiwe
+W: Tafawa Balewa
+W: Shehu Shagari
+W: Ahmadu Bello
+E: Azikiwe became President when Nigeria became a republic.
+
+Q: The leader of the opposition in the Federal House of Representatives in the First Republic was
+A: Obafemi Awolowo
+W: Ahmadu Bello
+W: Nnamdi Azikiwe
+W: Michael Okpara
+E: The Action Group formed the opposition.
+
+Q: Which crisis in the First Republic followed a split in the Action Group in 1962?
+A: the Western Region crisis
+W: the Aba riot
+W: the civil war
+W: the June 12 crisis
+E: A state of emergency was declared in the West.
+
+Q: The 1962–63 census crisis in Nigeria was over
+A: disputed population figures
+W: oil revenue
+W: the capital city
+W: foreign policy
+E: Population figures affected representation and revenue.
+
+Q: The federal election crisis of 1964 involved
+A: a boycott and disputed results
+W: an agreement by all parties
+W: no elections at all
+W: a military-supervised vote
+E: The UPGA boycotted parts of the election.
+
+Q: The coalition that formed the federal government in 1959 was between the
+A: NPC and NCNC
+W: AG and NCNC
+W: NPC and AG
+W: NEPU and AG
+E: The NPC and NCNC formed the government.
+
+Q: The Premier of the Eastern Region during most of the First Republic was
+A: Michael Okpara
+W: Nnamdi Azikiwe
+W: Samuel Akintola
+W: Ahmadu Bello
+E: Okpara succeeded Azikiwe as Premier.
+
+Q: Samuel Ladoke Akintola was Premier of the
+A: Western Region
+W: Eastern Region
+W: Northern Region
+W: Mid-Western Region
+E: His dispute with Awolowo caused the 1962 crisis.
+
+Q: The Second Republic lasted from
+A: 1979 to 1983
+W: 1960 to 1966
+W: 1993 to 1998
+W: 1999 to date
+E: It ended in a coup on 31 December 1983.
+
+Q: The President of Nigeria during the Second Republic was
+A: Shehu Shagari
+W: Nnamdi Azikiwe
+W: Olusegun Obasanjo
+W: Obafemi Awolowo
+E: Shagari of the NPN was President from 1979.
+
+Q: The Unity Party of Nigeria (UPN) was led by
+A: Obafemi Awolowo
+W: Nnamdi Azikiwe
+W: Aminu Kano
+W: Waziri Ibrahim
+E: The UPN was strong in the South-West.
+
+Q: The Nigerian People's Party (NPP) was led by
+A: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Shehu Shagari
+W: Waziri Ibrahim
+E: Azikiwe was its presidential candidate in 1979.
+
+Q: The Great Nigeria People's Party (GNPP) was led by
+A: Waziri Ibrahim
+W: Aminu Kano
+W: Shehu Shagari
+W: Obafemi Awolowo
+E: The GNPP was strong in Borno and Gongola.
+
+Q: The People's Redemption Party (PRP) was led by
+A: Aminu Kano
+W: Waziri Ibrahim
+W: Nnamdi Azikiwe
+W: Obafemi Awolowo
+E: The PRP had support in Kano and Kaduna.
+
+Q: The legal dispute "Awolowo v. Shagari" in 1979 was about
+A: the interpretation of the 25% rule in 12⅔ states
+W: oil revenue
+W: state creation
+W: the census
+E: The Supreme Court upheld Shagari's victory.
+
+Q: The Vice-President in the Second Republic was
+A: Alex Ekwueme
+W: Michael Okpara
+W: Umaru Dikko
+W: Bola Ige
+E: Ekwueme served with Shagari.
+
+Q: The Second Republic was overthrown by a coup led by
+A: Muhammadu Buhari
+W: Ibrahim Babangida
+W: Sani Abacha
+W: Yakubu Gowon
+E: Buhari became head of state on 31 December 1983.
+
+Q: Which of these was a cause of the fall of the First Republic?
+A: political crises such as election disputes and regional conflict
+W: too much national unity
+W: absence of political parties
+W: a strong economy with no conflict
+E: Repeated crises led to the 1966 coup.
+
+Q: The Sardauna of Sokoto, Ahmadu Bello, was Premier of the
+A: Northern Region
+W: Western Region
+W: Eastern Region
+W: Mid-Western Region
+E: He led the NPC.
+
+Q: Which party formed the government of the Western Region in the First Republic until 1962?
+A: Action Group
+W: NPC
+W: NCNC
+W: NEPU
+E: The AG governed the West under Awolowo and then Akintola.
+
+Q: The Mid-Western Region was carved out of the
+A: Western Region
+W: Eastern Region
+W: Northern Region
+W: Lagos Colony
+E: It was created in 1963.
+
+Q: An economic problem of the Second Republic was
+A: falling oil prices and rising debt
+W: too much revenue to spend
+W: no imports at all
+W: absence of oil
+E: The oil glut of the early 1980s caused austerity.
+
+Q: The Nigerian Third Republic was not fully inaugurated because
+A: the 12 June 1993 presidential election was annulled
+W: there were no parties
+W: the civil war began
+W: Nigeria became a monarchy
+E: The annulment aborted the transition.
+
+@topic gov-constitutional
+
+Q: The Richards Constitution came into force in
+A: 1946
+W: 1922
+W: 1951
+W: 1954
+E: It is named after Governor Arthur Richards.
+
+Q: The Macpherson Constitution of 1951 was notable for
+A: wide consultation with Nigerians before it was made
+W: abolishing the regions
+W: making Nigeria a republic
+W: introducing military rule
+E: Constitutional conferences were held in villages, provinces and regions.
+
+Q: The Lyttelton Constitution of 1954 made Nigeria a
+A: federation
+W: unitary state
+W: republic
+W: confederation
+E: Regions became autonomous within a federation.
+
+Q: Nigeria became independent on
+A: 1 October 1960
+W: 1 October 1963
+W: 29 May 1999
+W: 15 January 1966
+E: Independence came under the 1960 Constitution.
+
+Q: The 1963 Republican Constitution replaced the Queen as head of state with
+A: a ceremonial President
+W: an executive President
+W: a military ruler
+W: a Prime Minister as head of state
+E: Azikiwe became President.
+
+Q: A criticism of the Richards Constitution was that
+A: Nigerians were not consulted in making it
+W: it gave too much power to the regions
+W: it created the presidential system
+W: it abolished the Legislative Council
+E: It was drawn up without consultation.
+
+Q: The elective principle was first introduced by the
+A: Clifford Constitution
+W: Richards Constitution
+W: Lyttelton Constitution
+W: 1979 Constitution
+E: It allowed elections in Lagos and Calabar.
+
+Q: The independence constitution was based on the
+A: Westminster (parliamentary) model
+W: American presidential model
+W: Soviet model
+W: French model
+E: Nigeria inherited the British system.
+
+Q: The 1979 Constitution was drafted by the
+A: Constitution Drafting Committee led by Rotimi Williams
+W: Willink Commission
+W: Lugard committee
+W: OAU
+E: A Constituent Assembly then debated the draft.
+
+Q: The 1989 Constitution was meant for the
+A: Third Republic
+W: First Republic
+W: Second Republic
+W: Fourth Republic
+E: It was never fully implemented.
+
+Q: The 1999 Constitution was promulgated by the military government of
+A: Abdulsalami Abubakar
+W: Sani Abacha
+W: Ibrahim Babangida
+W: Olusegun Obasanjo
+E: It came into force on 29 May 1999.
+
+Q: The Fourth Republic began on
+A: 29 May 1999
+W: 1 October 1979
+W: 1 October 1960
+W: 12 June 1993
+E: Olusegun Obasanjo was sworn in as civilian President.
+
+Q: Who became the first Prime Minister of the Federation of Nigeria in 1957?
+A: Abubakar Tafawa Balewa
+W: Nnamdi Azikiwe
+W: Obafemi Awolowo
+W: Ahmadu Bello
+E: Balewa was appointed Federal Prime Minister in 1957 and led Nigeria to independence.
+
+Q: Regional self-government was granted to the Eastern and Western Regions in
+A: 1957
+W: 1960
+W: 1946
+W: 1966
+E: The Northern Region followed in 1959.
+
+Q: The Northern Region attained self-government in
+A: 1959
+W: 1957
+W: 1960
+W: 1954
+E: It was the last region to become self-governing.
+
+Q: The 1953 crisis over the self-government motion was triggered by a motion moved by
+A: Anthony Enahoro
+W: Ahmadu Bello
+W: Tafawa Balewa
+W: Herbert Macaulay
+E: Enahoro moved that Nigeria be self-governing in 1956.
+
+Q: A feature of the 1979 Constitution was the
+A: executive presidential system
+W: ceremonial presidency
+W: regional premiers
+W: absence of a Senate
+E: The President was head of state and government.
+
+Q: The Constitutional Conference held in London in 1953 and Lagos in 1954 led to the
+A: Lyttelton Constitution
+W: Clifford Constitution
+W: Richards Constitution
+W: 1979 Constitution
+E: It established the federal structure.
+
+Q: The 1960 Constitution provided for a Governor-General who represented the
+A: British monarch
+W: President of the USA
+W: Prime Minister of Nigeria
+W: Chief Justice
+E: Nigeria remained under the Queen until 1963.
+
+Q: Which constitution created a central legislature with members from all regions for the first time?
+A: Richards Constitution
+W: Clifford Constitution
+W: 1999 Constitution
+W: 1989 Constitution
+E: The Legislative Council now covered the whole country.
+
+Q: The Clifford Constitution's Legislative Council made laws for
+A: Lagos and the Southern Provinces
+W: the whole of Nigeria including the North
+W: only the North
+W: only Calabar
+E: The North was governed by proclamation.
+
+Q: The 1999 Constitution provides for how many tiers of government?
+A: three
+W: two
+W: four
+W: five
+E: Federal, state and local governments.
+
+Q: The 1995 Draft Constitution was produced under the government of
+A: Sani Abacha
+W: Ibrahim Babangida
+W: Abdulsalami Abubakar
+W: Yakubu Gowon
+E: It was not adopted; the 1999 Constitution was used instead.
+
+Q: An important change made by the 1963 Constitution was that
+A: the Supreme Court became the final court of appeal, ending appeals to Britain
+W: Nigeria became a monarchy
+W: the regions were abolished
+W: the military took over
+E: Appeals to the Privy Council were ended.
+
+@topic gov-military
+
+Q: Military rule in Nigeria first began in
+A: January 1966
+W: October 1960
+W: July 1975
+W: December 1983
+E: Major Kaduna Nzeogwu and others led the coup of 15 January 1966.
+
+Q: Aguiyi-Ironsi was overthrown in a counter-coup in
+A: July 1966
+W: January 1970
+W: July 1975
+W: August 1985
+E: Yakubu Gowon then became head of state.
+
+Q: Yakubu Gowon was overthrown in a coup in
+A: July 1975
+W: January 1966
+W: February 1976
+W: December 1983
+E: Murtala Mohammed replaced him.
+
+Q: Murtala Mohammed was killed in a failed coup in
+A: February 1976
+W: July 1975
+W: October 1979
+W: August 1985
+E: Olusegun Obasanjo succeeded him.
+
+Q: Ibrahim Babangida came to power in a coup in
+A: August 1985
+W: December 1983
+W: November 1993
+W: June 1998
+E: He overthrew Muhammadu Buhari.
+
+Q: The Interim National Government of 1993 was headed by
+A: Ernest Shonekan
+W: Sani Abacha
+W: M.K.O. Abiola
+W: Abdulsalami Abubakar
+E: It lasted from August to November 1993.
+
+Q: Sani Abacha became head of state in
+A: November 1993
+W: August 1985
+W: June 1998
+W: May 1999
+E: He removed the Interim National Government.
+
+Q: Abdulsalami Abubakar became head of state after the death of
+A: Sani Abacha in 1998
+W: Murtala Mohammed in 1976
+W: Ironsi in 1966
+W: Abiola in 1999
+E: He handed over to an elected government in 1999.
+
+Q: Laws made by the federal military government were called
+A: decrees
+W: Acts
+W: edicts
+W: bye-laws
+E: State military governments made edicts.
+
+Q: Laws made by military governors of states were called
+A: edicts
+W: decrees
+W: Acts
+W: bills
+E: Edicts applied at the state level.
+
+Q: The highest ruling body under the Murtala/Obasanjo regime was the
+A: Supreme Military Council
+W: Armed Forces Ruling Council
+W: Provisional Ruling Council
+W: National Assembly
+E: Under Babangida it became the AFRC.
+
+Q: Under Sani Abacha, the highest ruling body was the
+A: Provisional Ruling Council
+W: Supreme Military Council
+W: Armed Forces Ruling Council
+W: Federal Executive Council only
+E: The PRC was the top decision-making body.
+
+Q: Under Babangida, the highest ruling body was the
+A: Armed Forces Ruling Council
+W: Supreme Military Council
+W: Provisional Ruling Council
+W: Council of State only
+E: The AFRC was set up in 1985.
+
+Q: Which of these is a reason often given for military intervention?
+A: corruption and political instability
+W: excellent civilian government
+W: peaceful elections
+W: economic boom with no problems
+E: Coup leaders usually justify takeovers by citing misrule.
+
+Q: A negative effect of military rule is
+A: suspension of parts of the constitution
+W: strengthening of democratic institutions
+W: regular elections
+W: increased press freedom
+E: The constitution is often suspended or modified by decree.
+
+Q: The War Against Indiscipline (WAI) was launched by the government of
+A: Muhammadu Buhari
+W: Yakubu Gowon
+W: Ibrahim Babangida
+W: Sani Abacha
+E: It was launched in 1984.
+
+Q: The Structural Adjustment Programme (SAP) was introduced in 1986 by
+A: Ibrahim Babangida
+W: Muhammadu Buhari
+W: Olusegun Obasanjo
+W: Sani Abacha
+E: SAP aimed at economic reform.
+
+Q: The Operation Feed the Nation programme was launched by
+A: Olusegun Obasanjo's military government
+W: Shehu Shagari
+W: Ibrahim Babangida
+W: Sani Abacha
+E: It began in 1976 to boost food production.
+
+Q: Nigeria was suspended from the Commonwealth in 1995 mainly because of
+A: the execution of Ken Saro-Wiwa and others
+W: the civil war
+W: the 1966 coup
+W: oil exports
+E: The executions were condemned worldwide.
+
+Q: The Universal Primary Education (UPE) scheme was launched in
+A: 1976
+W: 1960
+W: 1999
+W: 1985
+E: It was introduced by the Obasanjo military government.
+
+Q: A positive contribution of military rule in Nigeria is often said to be
+A: state creation and some infrastructure
+W: protection of civil liberties
+W: free elections every year
+W: independence of the judiciary
+E: Military regimes created states and built some projects.
+
+Q: Military rule is undemocratic mainly because
+A: leaders are not elected by the people
+W: it holds regular elections
+W: it obeys the constitution fully
+W: it has an independent legislature
+E: Power is taken by force.
+
+Q: The 21-state structure came into being in 1987 with the creation of
+A: Akwa Ibom and Katsina States
+W: Abia and Enugu States
+W: Bayelsa and Ebonyi States
+W: Lagos and Kano States
+E: Babangida created two new states in 1987.
+
+Q: Nigeria returned to civilian rule in 1999 when power was handed to
+A: Olusegun Obasanjo
+W: Shehu Shagari
+W: M.K.O. Abiola
+W: Umaru Yar'Adua
+E: Obasanjo had earlier handed power to civilians in 1979.
+
+@topic gov-local
+
+Q: Local government is the
+A: third tier of government closest to the people
+W: highest level of government
+W: same as the federal government
+W: part of the judiciary
+E: It handles grassroots matters.
+
+Q: The 1976 local government reform introduced
+A: a uniform, single-tier local government system
+W: abolition of local governments
+W: military councils only
+W: traditional rule without elections
+E: It made local government a distinct tier.
+
+Q: The legislative arm of a local government consists of
+A: councillors
+W: senators
+W: judges
+W: governors
+E: Councillors make bye-laws.
+
+Q: Which of these is a responsibility of local government councils in Nigeria?
+A: maintaining markets and motor parks
+W: printing currency
+W: defence
+W: foreign affairs
+E: Markets and motor parks are local responsibilities.
+
+Q: The main source of revenue for most local governments in Nigeria is
+A: the statutory allocation from the Federation Account
+W: oil exports by local governments
+W: foreign loans only
+W: customs duties
+E: Most local governments depend on allocations.
+
+Q: Which of these is an internal source of local government revenue?
+A: market tolls and rates
+W: oil royalties
+W: company income tax
+W: import duties
+E: Local councils collect rates, fees and tolls.
+
+Q: Local government elections in Nigeria are conducted by
+A: State Independent Electoral Commissions
+W: INEC
+W: the National Assembly
+W: the Supreme Court
+E: Each state has its own electoral body for local elections.
+
+Q: A major problem of local governments in Nigeria is
+A: interference by state governments
+W: too much money
+W: excessive independence
+W: absence of elections ever
+E: States often control local funds and dissolve councils.
+
+Q: The State Joint Local Government Account is used for
+A: receiving and sharing federal allocations to local governments
+W: paying federal ministers
+W: funding the army
+W: running the Senate
+E: It has been criticised for enabling state control.
+
+Q: Traditional rulers in the local government system mainly
+A: play advisory and ceremonial roles
+W: make all local laws
+W: control the police
+W: conduct elections
+E: Their role is mostly advisory.
+
+Q: Which of these is a reason for creating local governments?
+A: to bring government closer to the people
+W: to replace the federal government
+W: to remove citizens' rights
+W: to collect foreign aid
+E: Local government enables grassroots participation.
+
+Q: Primary health care is mainly a responsibility of
+A: local government
+W: the federal government only
+W: the Senate
+W: the Supreme Court
+E: Local governments run health centres.
+
+Q: The secretary to a local government is appointed by the
+A: chairman
+W: President
+W: Senate
+W: Chief Justice
+E: The secretary assists the chairman in administration.
+
+Q: The Dasuki Committee of 1984 was set up to review
+A: the local government system
+W: the constitution
+W: the census
+W: the army
+E: It reviewed the 1976 local government reform.
+
+Q: Local government is a training ground for
+A: future political leaders
+W: foreign diplomats only
+W: judges of the Supreme Court
+W: soldiers
+E: Many politicians begin at the local level.
+
+Q: Bye-laws made by a local government apply
+A: only within that local government area
+W: to the whole country
+W: to all states
+W: to foreign countries
+E: Bye-laws have local effect.
+
+Q: Which of these services is provided by local governments?
+A: naming of streets and numbering of houses
+W: printing passports
+W: running federal universities
+W: controlling airports
+E: The constitution lists this among local functions.
+
+Q: Local government autonomy refers to
+A: freedom of local governments to manage their own affairs
+W: control by the federal government
+W: abolition of local councils
+W: rule by the military
+E: Many argue for financial and administrative independence.
+
+Q: The Fourth Schedule of the 1999 Constitution lists the
+A: functions of local government councils
+W: powers of the President
+W: fundamental rights
+W: list of states only
+E: It sets out what local councils do.
+
+Q: The executive arm of local government includes the chairman and
+A: supervisory councillors
+W: senators
+W: judges
+W: governors
+E: Supervisory councillors head departments.
+
+Q: Which of these is a function shared by local government and state government?
+A: provision of primary education
+W: defence
+W: currency
+W: immigration
+E: Local governments take part in primary education.
+
+Q: The Local Government Service Commission in a state deals with
+A: the appointment and discipline of local government staff
+W: elections to the Senate
+W: court cases
+W: oil revenue
+E: It manages local government personnel.
+
+Q: Local governments collect fees for
+A: licensing bicycles, carts and canoes
+W: issuing passports
+W: national identity cards
+W: federal taxes
+E: These are listed local revenue sources.
+
+Q: Before the 1976 reform, local government in the North was mainly based on the
+A: Native Authority system
+W: presidential system
+W: federal character principle
+W: age grades only
+E: Native Authorities were inherited from indirect rule.
+
+@topic gov-international
+
+Q: ECOWAS was established by the Treaty of Lagos in
+A: 1975
+W: 1963
+W: 1945
+W: 2002
+E: Nigeria and Togo played leading roles.
+
+Q: The main aim of ECOWAS is to
+A: promote economic cooperation among West African states
+W: create a single government for Africa
+W: fight colonial powers in Asia
+W: control world oil prices
+E: It promotes trade and integration.
+
+Q: OPEC is an organisation of
+A: petroleum-exporting countries
+W: West African states
+W: Commonwealth countries
+W: European countries
+E: Nigeria joined OPEC in 1971.
+
+Q: The headquarters of OPEC is in
+A: Vienna
+W: London
+W: Addis Ababa
+W: Abuja
+E: OPEC is based in Austria.
+
+Q: The headquarters of the African Union is in
+A: Addis Ababa
+W: Abuja
+W: Nairobi
+W: Accra
+E: The AU, like the OAU before it, is based in Ethiopia.
+
+Q: The Secretary-General is the chief administrative officer of the
+A: United Nations
+W: ECOWAS Parliament
+W: Nigerian Senate
+W: African Development Bank only
+E: The Secretary-General heads the UN Secretariat.
+
+Q: The International Court of Justice sits at
+A: The Hague
+W: Geneva
+W: New York
+W: Paris
+E: It is the main judicial organ of the UN.
+
+Q: Which UN agency deals with health?
+A: World Health Organisation (WHO)
+W: UNESCO
+W: ILO
+W: FAO
+E: WHO is based in Geneva.
+
+Q: Which UN agency deals with education, science and culture?
+A: UNESCO
+W: WHO
+W: UNICEF
+W: IMF
+E: UNESCO promotes education and culture.
+
+Q: Which UN agency is concerned with children?
+A: UNICEF
+W: FAO
+W: ILO
+W: WTO
+E: UNICEF works for children's welfare.
+
+Q: The Food and Agriculture Organisation (FAO) aims to
+A: fight hunger and improve agriculture
+W: maintain peace
+W: regulate oil prices
+W: run elections
+E: FAO is based in Rome.
+
+Q: The veto power in the UN Security Council belongs to
+A: the five permanent members
+W: all UN members
+W: the General Assembly
+W: the Secretary-General
+E: The US, UK, France, Russia and China hold vetoes.
+
+Q: The General Assembly of the UN is made up of
+A: all member states
+W: only five countries
+W: judges
+W: African countries only
+E: Each member state has one vote.
+
+Q: Non-alignment as a foreign policy means
+A: not taking sides with any major power bloc
+W: joining every military alliance
+W: refusing all foreign trade
+W: following one superpower
+E: Nigeria adopted non-alignment during the Cold War.
+
+Q: Nigeria's foreign policy has generally aimed to
+A: promote African unity and decolonisation
+W: colonise neighbours
+W: isolate Nigeria from Africa
+W: support apartheid
+E: Africa has been the centrepiece of Nigeria's foreign policy.
+
+Q: Nigeria strongly opposed apartheid in
+A: South Africa
+W: Ghana
+W: Kenya
+W: Egypt
+E: Nigeria supported the liberation struggle.
+
+Q: The Commonwealth Secretariat is located in
+A: London
+W: Lagos
+W: Ottawa
+W: New Delhi
+E: It is based at Marlborough House.
+
+Q: The ECOWAS Monitoring Group (ECOMOG) intervened in the civil war of
+A: Liberia
+W: Nigeria
+W: Ghana
+W: Togo
+E: It was deployed to Liberia in 1990.
+
+Q: Nigeria's foreign policy is implemented mainly through the
+A: Ministry of Foreign Affairs
+W: Ministry of Agriculture
+W: National Assembly only
+W: INEC
+E: Diplomats represent Nigeria abroad.
+
+Q: Diplomatic immunity protects
+A: diplomats from prosecution under the host country's laws
+W: citizens from paying tax
+W: judges from removal
+W: soldiers from orders
+E: It allows diplomats to work freely.
+
+Q: An ambassador represents his country in
+A: a foreign country
+W: the National Assembly
+W: a local government
+W: a political party
+E: Ambassadors head diplomatic missions.
+
+Q: The Technical Aid Corps scheme of Nigeria sends
+A: Nigerian professionals to help other developing countries
+W: soldiers to fight wars
+W: foreign workers into Nigeria
+W: money to Europe
+E: It was set up in 1987 as part of Nigeria's foreign policy.

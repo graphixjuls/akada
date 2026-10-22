@@ -1,0 +1,2976 @@
+@subject biology
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic bio-food-tests
+
+Q: A food sample turns brick red when heated with Benedict's solution. It contains
+A: reducing sugar
+W: starch
+W: protein
+W: fat
+E: Benedict's solution changes from blue to brick red with reducing sugars such as glucose.
+
+Q: The colour of Benedict's solution before any test is
+A: blue
+W: brick red
+W: purple
+W: colourless
+E: Benedict's solution is blue because it contains copper(II) sulphate.
+
+Q: A sample gives a translucent spot on paper that does not dry out. The sample contains
+A: fat or oil
+W: starch
+W: protein
+W: glucose
+E: Fats leave a greasy translucent mark; water marks dry away.
+
+Q: Sudan III solution is used to test for
+A: fats and oils
+W: starch
+W: reducing sugars
+W: proteins
+E: Sudan III stains fats red.
+
+Q: Which food would give a positive result with Millon's reagent?
+A: egg white
+W: cassava flour
+W: palm oil
+W: sugar cane juice
+E: Millon's reagent tests for protein; egg white is rich in protein.
+
+Q: Enzymes are described as biological catalysts because they
+A: speed up reactions without being used up
+W: slow down all reactions
+W: are destroyed after one reaction
+W: are made of fat
+E: Enzymes lower the energy needed for reactions and are reused.
+
+Q: The substance an enzyme acts on is called its
+A: substrate
+W: product
+W: inhibitor
+W: catalyst
+E: Each enzyme acts on a particular substrate.
+
+Q: Most human enzymes work best at about
+A: 37 °C
+W: 0 °C
+W: 60 °C
+W: 100 °C
+E: Human enzymes are adapted to body temperature.
+
+Q: Enzymes are specific. This means each enzyme
+A: acts on only one type of substrate
+W: works at all temperatures
+W: works on every food
+W: is made of sugar
+E: The shape of the active site fits only certain substrates.
+
+Q: Lipase breaks down fats into
+A: fatty acids and glycerol
+W: amino acids
+W: glucose
+W: maltose
+E: Lipase digests fats in the small intestine.
+
+Q: Proteins are digested into
+A: amino acids
+W: fatty acids
+W: glucose
+W: glycerol
+E: Protease enzymes break proteins down into amino acids.
+
+Q: At low temperatures, enzymes
+A: work slowly but are not destroyed
+W: are denatured permanently
+W: work fastest
+W: change into fats
+E: Cold slows molecules and reactions; the enzyme recovers when warmed.
+
+Q: Which enzyme acts on starch?
+A: amylase
+W: pepsin
+W: lipase
+W: trypsin
+E: Amylase breaks starch into maltose.
+
+Q: Which test is used for starch in a food sample?
+A: iodine test
+W: Benedict's test
+W: biuret test
+W: grease spot test
+E: Iodine turns blue-black with starch.
+
+Q: Non-reducing sugars such as sucrose give a positive Benedict's test only after
+A: boiling with dilute acid and neutralising
+W: adding iodine
+W: cooling in ice
+W: adding Sudan III
+E: Acid hydrolysis breaks sucrose into reducing sugars first.
+
+Q: Which of these does NOT affect enzyme activity?
+A: the colour of the solution
+W: temperature
+W: pH
+W: substrate concentration
+E: Colour has no effect; temperature, pH and concentration do.
+
+Q: An enzyme that has lost its shape due to heat is said to be
+A: denatured
+W: activated
+W: digested
+W: saturated
+E: High heat changes the active site permanently.
+
+Q: Which food class is tested using the biuret test?
+A: protein
+W: carbohydrate
+W: fat
+W: vitamin
+E: Biuret reagent turns purple with protein.
+
+Q: Catalase is an enzyme that breaks down
+A: hydrogen peroxide into water and oxygen
+W: starch into maltose
+W: fats into glycerol
+W: proteins into amino acids
+E: Catalase protects cells from harmful hydrogen peroxide.
+
+Q: Trypsin works best in
+A: slightly alkaline conditions in the small intestine
+W: strongly acid conditions in the stomach
+W: the mouth only
+W: boiling water
+E: Trypsin from the pancreas works in the alkaline duodenum.
+
+Q: A food that gives blue-black with iodine and brick red with Benedict's contains
+A: starch and reducing sugar
+W: protein and fat
+W: fat only
+W: protein only
+E: Each test shows a different food substance.
+
+Q: Ptyalin is another name for
+A: salivary amylase
+W: pepsin
+W: rennin
+W: lipase
+E: Ptyalin in saliva begins starch digestion in the mouth.
+
+Q: Rennin in young mammals acts on
+A: milk protein
+W: starch
+W: fats
+W: cellulose
+E: Rennin curdles milk so it stays longer in the stomach.
+
+Q: Increasing the amount of substrate increases enzyme activity until
+A: all the enzyme molecules are working
+W: the enzyme is denatured
+W: the temperature drops
+W: the product disappears
+E: Once every active site is busy, adding more substrate gives no faster rate.
+
+@topic bio-microorganisms
+
+Q: Which microorganism causes tuberculosis?
+A: a bacterium
+W: a virus
+W: a fungus
+W: a protozoan
+E: Tuberculosis is caused by the bacterium Mycobacterium tuberculosis.
+
+Q: Which disease is caused by a protozoan?
+A: malaria
+W: measles
+W: cholera
+W: ringworm
+E: Malaria is caused by Plasmodium, a protozoan.
+
+Q: Bacteria commonly reproduce by
+A: binary fission
+W: spore formation in flowers
+W: seeds
+W: budding of leaves
+E: A bacterium splits into two identical cells.
+
+Q: Yeast reproduces mainly by
+A: budding
+W: binary fission only
+W: seeds
+W: conjugation
+E: A small bud grows out of the parent yeast cell and separates.
+
+Q: Rod-shaped bacteria are called
+A: bacilli
+W: cocci
+W: spirilla
+W: vibrios
+E: Bacilli are rod-shaped.
+
+Q: Spherical bacteria are called
+A: cocci
+W: bacilli
+W: spirilla
+W: fungi
+E: Cocci are round bacteria.
+
+Q: Which of these is used to make yoghurt?
+A: bacteria
+W: viruses
+W: tapeworms
+W: algae
+E: Lactic acid bacteria ferment milk sugar into yoghurt.
+
+Q: Bread mould is caused by
+A: Rhizopus
+W: Plasmodium
+W: Amoeba
+W: Spirogyra
+E: Rhizopus is a fungus that grows on damp bread.
+
+Q: Microorganisms can be grown in the laboratory on
+A: agar in a Petri dish
+W: dry sand
+W: iodine solution
+W: pure alcohol
+E: Nutrient agar supplies food for microbial growth.
+
+Q: The killing of all microorganisms on an object is called
+A: sterilisation
+W: fermentation
+W: pasteurisation
+W: vaccination
+E: Sterilisation destroys all microbes, often using heat or chemicals.
+
+Q: Which of these is NOT a way microorganisms are useful?
+A: causing food to spoil
+W: decomposing dead matter
+W: making antibiotics
+W: fixing nitrogen
+E: Food spoilage is harmful.
+
+Q: Penicillin is obtained from a
+A: fungus
+W: virus
+W: protozoan
+W: bacterium only
+E: Penicillin was first made from the mould Penicillium.
+
+Q: Viruses differ from bacteria because viruses
+A: can only reproduce inside living cells
+W: have cell walls
+W: are larger
+W: can be killed by antibiotics
+E: Viruses must use a host cell's machinery to multiply.
+
+Q: Measles is caused by a
+A: virus
+W: bacterium
+W: fungus
+W: worm
+E: The measles virus spreads through droplets in the air.
+
+Q: Athlete's foot is caused by a
+A: fungus
+W: virus
+W: bacterium
+W: protozoan
+E: Fungi grow in warm, damp skin between the toes.
+
+Q: Microorganisms that cause disease are called
+A: pathogens
+W: decomposers
+W: producers
+W: saprophytes
+E: Pathogens are disease-causing organisms.
+
+Q: Which process in the soil depends on microorganisms?
+A: decay of dead leaves
+W: photosynthesis
+W: rain formation
+W: weathering of rocks only
+E: Decomposers break down leaves and release nutrients.
+
+Q: Food can be preserved by refrigeration because low temperature
+A: slows the growth of microorganisms
+W: kills all microorganisms
+W: adds nutrients
+W: increases decay
+E: Cold slows microbial activity, delaying spoilage.
+
+Q: The spread of disease by contaminated hands is reduced by
+A: washing hands with soap
+W: drinking more water
+W: eating more sugar
+W: staying indoors
+E: Soap and water remove microorganisms from the skin.
+
+Q: Which microorganism is used in making bread rise?
+A: yeast
+W: Plasmodium
+W: Rhizobium
+W: Rhizopus
+E: Yeast ferments sugar, producing carbon dioxide that makes dough rise.
+
+Q: Gonorrhoea is caused by a
+A: bacterium
+W: virus
+W: fungus
+W: protozoan
+E: Gonorrhoea is a bacterial sexually transmitted infection.
+
+Q: Which feature is common to most fungi?
+A: hyphae that form a mycelium
+W: chlorophyll
+W: a backbone
+W: flowers
+E: Fungi grow as thread-like hyphae.
+
+Q: Biogas is produced when microorganisms break down
+A: organic waste without oxygen
+W: rocks in sunlight
+W: plastics in water
+W: metals in air
+E: Anaerobic bacteria break down waste to release methane.
+
+Q: Antibiotics do not cure the common cold because the cold is caused by a
+A: virus
+W: bacterium
+W: fungus
+W: worm
+E: Antibiotics act on bacteria, not viruses.
+
+@topic bio-senses
+
+Q: The transparent front part of the eye is the
+A: cornea
+W: iris
+W: retina
+W: choroid
+E: The cornea lets light in and helps to focus it.
+
+Q: The black spot in the centre of the iris is the
+A: pupil
+W: lens
+W: blind spot
+W: fovea
+E: The pupil is the opening through which light enters.
+
+Q: In bright light, the pupil becomes
+A: smaller
+W: larger
+W: white
+W: unchanged
+E: The iris muscles narrow the pupil to protect the retina.
+
+Q: The point where the optic nerve leaves the eye is the
+A: blind spot
+W: yellow spot
+W: pupil
+W: cornea
+E: There are no light-sensitive cells there, so no image is seen.
+
+Q: The yellow spot (fovea) is the part of the retina with
+A: the most cones, giving the clearest vision
+W: no light-sensitive cells
+W: only rods
+W: the optic nerve
+E: The fovea has densely packed cones for sharp colour vision.
+
+Q: Rods in the retina are sensitive to
+A: dim light
+W: colour only
+W: sound
+W: heat
+E: Rods work in low light but do not detect colour.
+
+Q: Long-sightedness is corrected with
+A: converging (convex) lenses
+W: diverging (concave) lenses
+W: plain glass
+W: tinted glasses
+E: A convex lens helps focus near objects on the retina.
+
+Q: The change in lens shape to focus on near and far objects is called
+A: accommodation
+W: adaptation
+W: reflection
+W: refraction only
+E: The ciliary muscles change the curvature of the lens.
+
+Q: Which part of the eye contains the light-sensitive cells?
+A: retina
+W: cornea
+W: sclera
+W: aqueous humour
+E: Rods and cones are in the retina.
+
+Q: The tough white outer layer of the eye is the
+A: sclera
+W: choroid
+W: retina
+W: conjunctiva
+E: The sclera protects the eyeball and keeps its shape.
+
+Q: The eardrum is also called the
+A: tympanic membrane
+W: cochlea
+W: pinna
+W: oval window
+E: It vibrates when sound waves reach it.
+
+Q: Which part of the ear changes sound vibrations into nerve impulses?
+A: cochlea
+W: eardrum
+W: pinna
+W: Eustachian tube
+E: Sensory cells in the cochlea respond to vibrations.
+
+Q: The Eustachian tube connects the middle ear to the
+A: throat
+W: brain
+W: outer ear
+W: nose directly
+E: It equalises air pressure on both sides of the eardrum.
+
+Q: The outer flap of the ear that collects sound is the
+A: pinna
+W: cochlea
+W: ossicle
+W: eardrum
+E: The pinna channels sound into the ear canal.
+
+Q: The semicircular canals of the ear help in
+A: balance
+W: hearing high notes
+W: tasting food
+W: smelling
+E: Fluid movement in the canals detects head movements.
+
+Q: Taste buds are found mainly on the
+A: tongue
+W: lips
+W: nose
+W: teeth
+E: The tongue carries taste buds that detect sweet, salt, sour and bitter.
+
+Q: The sense organ for smell is the
+A: nose
+W: tongue
+W: skin
+W: ear
+E: Olfactory cells in the nasal lining detect chemicals in the air.
+
+Q: Which sense organ detects pressure, pain and temperature?
+A: skin
+W: tongue
+W: ear
+W: nose
+E: The skin contains many receptors for touch, pain, heat and cold.
+
+Q: Short-sighted people cannot clearly see
+A: distant objects
+W: near objects
+W: colours
+W: in bright light
+E: In short sight, images of far objects fall in front of the retina.
+
+Q: Night blindness is caused by lack of
+A: vitamin A
+W: vitamin C
+W: vitamin D
+W: iron
+E: Vitamin A is needed to make the pigment in rods.
+
+Q: Light is focused onto the retina mainly by the
+A: cornea and lens
+W: iris and pupil
+W: sclera and choroid
+W: optic nerve
+E: Both the cornea and the lens bend light rays.
+
+Q: The image formed on the retina is
+A: inverted and smaller
+W: upright and larger
+W: upright and smaller
+W: inverted and larger
+E: The brain interprets the inverted image the right way up.
+
+Q: The aqueous and vitreous humours of the eye
+A: keep the shape of the eyeball
+W: detect light
+W: produce tears
+W: move the eyeball
+E: These fluids hold the eye in shape and help refract light.
+
+Q: Which colour-blindness fact is correct?
+A: it is more common in males
+W: it is caused by a virus
+W: it affects only the ear
+W: it is cured with antibiotics
+E: The genes for red-green colour vision are on the X chromosome.
+
+@topic bio-ecological-factors
+
+Q: A thermometer in an ecological study measures
+A: temperature
+W: rainfall
+W: humidity
+W: wind speed
+E: Temperature is an important abiotic factor.
+
+Q: A rain gauge is used to measure
+A: rainfall
+W: wind direction
+W: humidity
+W: light intensity
+E: It collects rain so the amount can be measured.
+
+Q: Relative humidity of the air is measured with a
+A: hygrometer
+W: anemometer
+W: barometer
+W: rain gauge
+E: A hygrometer (wet and dry bulb) measures humidity.
+
+Q: Wind speed is measured with an
+A: anemometer
+W: hygrometer
+W: altimeter
+W: secchi disc
+E: An anemometer's cups spin faster in stronger wind.
+
+Q: The direction from which wind blows is shown by a
+A: wind vane
+W: anemometer
+W: rain gauge
+W: thermometer
+E: A wind vane points into the wind.
+
+Q: The transparency of water in a pond is measured with a
+A: Secchi disc
+W: hygrometer
+W: quadrat
+W: rain gauge
+E: The disc is lowered until it disappears from view.
+
+Q: Soil pH can be measured using
+A: a pH meter or universal indicator
+W: a barometer
+W: a hand lens
+W: a sweep net
+E: Universal indicator changes colour with acidity.
+
+Q: Small insects in grass are best collected with a
+A: sweep net
+W: quadrat
+W: Secchi disc
+W: rain gauge
+E: A sweep net is swung through the vegetation.
+
+Q: A pitfall trap is used to catch
+A: small crawling animals
+W: flying birds
+W: fish
+W: plants
+E: Animals walking on the ground fall into the buried container.
+
+Q: The Tullgren funnel is used to extract
+A: small animals from soil or leaf litter
+W: water from soil
+W: chlorophyll from leaves
+W: oxygen from water
+E: Heat from a lamp drives the animals down into a container.
+
+Q: Which is a biotic factor affecting a population?
+A: predators
+W: temperature
+W: rainfall
+W: soil pH
+E: Predators are living things.
+
+Q: Which of the following is an edaphic factor?
+A: soil texture
+W: light intensity
+W: rainfall
+W: wind
+E: Edaphic factors are features of the soil.
+
+Q: A terrestrial habitat is one that is
+A: on land
+W: in water
+W: in the air only
+W: inside another organism
+E: Terrestrial means land-based.
+
+Q: An estuary is where
+A: a river meets the sea
+W: two rivers meet inland
+W: a forest meets a desert
+W: a lake dries up
+E: Estuaries have a mixture of fresh and salt water.
+
+Q: Which habitat has the highest salt concentration?
+A: marine
+W: freshwater pond
+W: river
+W: rain forest soil
+E: Marine (sea) water is salty.
+
+Q: Organisms living in rocky shores are often exposed to
+A: drying out at low tide
+W: constant darkness
+W: freezing every day
+W: no oxygen
+E: As the tide goes out, they are uncovered and can dry out.
+
+Q: The number of individuals of a species per unit area is its
+A: population density
+W: biomass
+W: habitat
+W: niche
+E: Density = number of individuals ÷ area.
+
+Q: In the capture–recapture method, 40 snails are marked and released. Later 50 are caught, 10 of them marked. The estimated population is
+A: 200
+W: 100
+W: 90
+W: 500
+E: Population = (40 × 50) ÷ 10 = 200.
+
+Q: In a quadrat study, a plant is found in 8 out of 20 quadrats. Its frequency is
+A: 40%
+W: 8%
+W: 20%
+W: 80%
+E: Frequency = 8 ÷ 20 × 100 = 40%.
+
+Q: Which of these is a feature of tropical rain forest?
+A: heavy rainfall and tall, layered trees
+W: very little rainfall and cacti
+W: permanent snow
+W: short grass only
+E: Rain forests are hot and wet with dense, layered vegetation.
+
+Q: Savanna vegetation is mainly
+A: grassland with scattered trees
+W: dense forest
+W: desert with no plants
+W: swamp forest
+E: Northern Nigeria has savanna: grasses and scattered trees.
+
+Q: Which abiotic factor most affects the distribution of plants on a hillside?
+A: light and soil water
+W: number of herbivores only
+W: colour of flowers
+W: presence of birds
+E: Slopes differ in sunlight, drainage and soil moisture.
+
+Q: A line transect is used to study
+A: how organisms change across an area
+W: the weight of animals
+W: the age of trees
+W: water depth only
+E: Recording along a line shows changes across different conditions.
+
+Q: Mangrove swamps are typical of
+A: coastal areas with salty, waterlogged soil
+W: deserts
+W: high mountains
+W: dry savanna
+E: Mangroves grow in muddy coastal water in southern Nigeria.
+
+@topic bio-pollution
+
+Q: Oil spills in the Niger Delta mainly harm aquatic life by
+A: blocking oxygen and coating organisms
+W: adding food to the water
+W: increasing fish numbers
+W: cooling the water
+E: Oil forms a layer that cuts off oxygen and coats gills and feathers.
+
+Q: Acid rain is caused mainly by
+A: sulphur dioxide and nitrogen oxides
+W: oxygen
+W: water vapour only
+W: methane only
+E: These gases dissolve in rain to form acids.
+
+Q: Carbon monoxide is dangerous because it
+A: combines with haemoglobin and reduces oxygen transport
+W: makes bones weak
+W: causes skin cancer directly
+W: kills plants by freezing
+E: It binds strongly to haemoglobin, so less oxygen reaches the tissues.
+
+Q: The thinning of the ozone layer is linked to
+A: chlorofluorocarbons (CFCs)
+W: carbon dioxide only
+W: nitrogen gas
+W: water vapour
+E: CFCs from old fridges and aerosols destroy ozone.
+
+Q: The ozone layer protects living things from
+A: ultraviolet radiation
+W: radio waves
+W: heat from the soil
+W: rain
+E: Ozone absorbs harmful UV rays from the sun.
+
+Q: Which of the following is a biodegradable pollutant?
+A: food waste
+W: plastic bags
+W: glass bottles
+W: metal cans
+E: Microorganisms can break down food waste.
+
+Q: Sewage in rivers reduces oxygen because
+A: bacteria decomposing it use up the oxygen
+W: sewage produces oxygen
+W: it makes fish breathe faster
+W: it adds chlorophyll
+E: Decomposers in polluted water use dissolved oxygen.
+
+Q: Noise is measured in
+A: decibels
+W: hertz
+W: newtons
+W: joules
+E: Loudness of sound is measured in decibels (dB).
+
+Q: Which method reduces air pollution from vehicles?
+A: regular servicing of engines
+W: burning tyres
+W: using leaded petrol
+W: running generators indoors
+E: Well-serviced engines burn fuel more completely.
+
+Q: Pesticides that build up in food chains are dangerous mainly to
+A: top carnivores
+W: producers only
+W: decomposers only
+W: soil
+E: The concentration increases at each level (biomagnification).
+
+Q: Burning of refuse in open dumps mainly causes
+A: air pollution
+W: soil enrichment
+W: water purification
+W: noise reduction
+E: Smoke and harmful gases are released into the air.
+
+Q: Which of these is a major source of water pollution?
+A: industrial waste
+W: planting trees
+W: rain water
+W: sunlight
+E: Factories may release chemicals into rivers.
+
+Q: The smoke from cigarettes is harmful because it contains
+A: tar and nicotine
+W: pure oxygen
+W: vitamins
+W: glucose
+E: Tar causes lung disease and nicotine is addictive.
+
+Q: Eutrophication is caused by excess
+A: nitrates and phosphates
+W: oxygen
+W: salt
+W: sand
+E: Nutrients from fertiliser and sewage cause algal blooms.
+
+Q: Which effect does an algal bloom have on a pond?
+A: oxygen falls when the algae die and decay
+W: oxygen increases permanently
+W: fish numbers increase
+W: water becomes clearer
+E: Decomposers break down dead algae and use up oxygen.
+
+Q: Recycling helps to control pollution by
+A: reducing waste and saving resources
+W: burning more waste
+W: dumping more refuse
+W: increasing plastic use
+E: Reusing materials reduces rubbish and the need for new raw materials.
+
+Q: Lead poisoning in children can result from
+A: old lead-based paint
+W: fresh fruits
+W: clean water
+W: iodised salt
+E: Flaking lead paint can be swallowed or breathed in.
+
+Q: Which gas contributes most to the greenhouse effect from human activity?
+A: carbon dioxide
+W: oxygen
+W: nitrogen
+W: argon
+E: CO₂ from burning fuels traps heat.
+
+Q: A pollutant is any substance that
+A: harms the environment or living things
+W: helps plants grow
+W: is always natural
+W: has no effect
+E: Pollutants make the environment harmful or unpleasant.
+
+Q: Thermal pollution of rivers happens when factories release
+A: hot water
+W: cold water
+W: clean water
+W: ice
+E: Warm water holds less oxygen, harming aquatic life.
+
+Q: Which of these helps reduce soil pollution?
+A: proper disposal of refuse
+W: dumping used oil
+W: burying batteries in farms
+W: overusing pesticides
+E: Correct waste disposal keeps harmful chemicals out of soil.
+
+Q: Dust from cement factories mainly affects the
+A: respiratory system
+W: digestive system
+W: skeletal system
+W: reproductive system only
+E: Breathing in dust can damage the lungs.
+
+Q: An indicator organism is useful because it
+A: shows the level of pollution by its presence or absence
+W: removes all pollutants
+W: produces pollution
+W: grows only in clean labs
+E: Lichens, for example, disappear where air has much sulphur dioxide.
+
+Q: Lichens are used as indicators of
+A: air pollution
+W: soil fertility
+W: water depth
+W: rainfall
+E: Many lichens cannot survive high sulphur dioxide levels.
+
+@topic bio-blood
+
+Q: Red blood cells are produced in the
+A: bone marrow
+W: liver of adults
+W: kidney
+W: heart
+E: Red bone marrow makes red blood cells.
+
+Q: The main function of red blood cells is to
+A: carry oxygen
+W: fight infection
+W: clot blood
+W: carry urea only
+E: Haemoglobin in red cells carries oxygen.
+
+Q: Platelets are important for
+A: blood clotting
+W: carrying oxygen
+W: making antibodies
+W: digesting food
+E: Platelets help form clots at wounds.
+
+Q: Antibodies are produced by
+A: lymphocytes
+W: red blood cells
+W: platelets
+W: plasma proteins only
+E: Lymphocytes are white cells that make antibodies.
+
+Q: Phagocytes defend the body by
+A: engulfing and digesting germs
+W: carrying oxygen
+W: forming clots
+W: making hormones
+E: Phagocytes surround and destroy microorganisms.
+
+Q: Which substance is carried dissolved in plasma?
+A: glucose
+W: oxygen mainly
+W: red cells
+W: platelets
+E: Plasma carries digested food, hormones, urea and carbon dioxide.
+
+Q: A person with blood group A has
+A: antigen A on red cells and anti-B in plasma
+W: antigen B and anti-A
+W: no antigens
+W: both antigens
+E: Blood group A cells carry antigen A; plasma has anti-B antibodies.
+
+Q: Blood group O has
+A: no A or B antigens on the red cells
+W: both A and B antigens
+W: only antigen A
+W: only antigen B
+E: That is why group O can be given to all groups.
+
+Q: Immunity gained by having a disease and recovering is
+A: natural active immunity
+W: artificial passive immunity
+W: natural passive immunity
+W: artificial active immunity
+E: The body makes its own antibodies after infection.
+
+Q: Antibodies passed from mother to baby through breast milk give
+A: natural passive immunity
+W: artificial active immunity
+W: natural active immunity
+W: no immunity
+E: The baby receives ready-made antibodies.
+
+Q: Vaccination gives
+A: artificial active immunity
+W: natural passive immunity
+W: artificial passive immunity
+W: no immunity
+E: A vaccine makes the body produce its own antibodies.
+
+Q: The Rhesus factor is important in pregnancy when
+A: a Rh-negative mother carries a Rh-positive baby
+W: both parents are Rh-negative
+W: the mother is Rh-positive
+W: the baby has blood group O
+E: The mother may form antibodies that harm a later Rh-positive baby.
+
+Q: The protein that forms threads in a blood clot is
+A: fibrin
+W: haemoglobin
+W: insulin
+W: keratin
+E: Fibrinogen is converted to fibrin, which traps blood cells.
+
+Q: Haemophilia is a condition in which
+A: blood does not clot normally
+W: red cells are sickle-shaped
+W: blood sugar is high
+W: white cells are too many
+E: People with haemophilia lack a clotting factor.
+
+Q: Anaemia can be caused by a lack of
+A: iron
+W: iodine
+W: vitamin D
+W: fat
+E: Iron is needed to make haemoglobin.
+
+Q: The genotype of a person with sickle cell anaemia is
+A: SS
+W: AA
+W: AS
+W: AO
+E: Two copies of the sickle allele cause the disease.
+
+Q: A person with genotype AS is a
+A: carrier of the sickle cell trait
+W: sufferer of sickle cell anaemia
+W: person with no sickle allele
+W: haemophiliac
+E: AS people usually have no symptoms but can pass on S.
+
+Q: Two AS parents have a child. The chance the child is SS is
+A: 1 in 4
+W: 1 in 2
+W: 3 in 4
+W: zero
+E: AS × AS gives AA, AS, AS, SS: one in four is SS.
+
+Q: Lymph is returned to the blood through
+A: lymphatic vessels into veins
+W: arteries
+W: the kidneys
+W: the lungs
+E: Lymph drains into veins near the neck.
+
+Q: Lymph nodes help the body by
+A: filtering out germs
+W: making red blood cells
+W: pumping blood
+W: storing fat
+E: White cells in the nodes trap and destroy microorganisms.
+
+Q: Tissue fluid is formed from
+A: plasma that leaks out of capillaries
+W: red blood cells
+W: bile
+W: urine
+E: Fluid squeezes out of capillaries and bathes the cells.
+
+Q: Which blood component is the most numerous?
+A: red blood cells
+W: white blood cells
+W: platelets
+W: lymphocytes
+E: There are millions of red cells in each drop of blood.
+
+Q: A person with blood group B can safely receive blood from groups
+A: B and O
+W: A and AB
+W: AB only
+W: A only
+E: Group B has anti-A antibodies, so it can accept only B or O.
+
+Q: The yellow fluid part of blood makes up about
+A: 55% of blood
+W: 5% of blood
+W: 95% of blood
+W: 25% of blood
+E: Plasma is just over half of the blood volume.
+
+@topic bio-digestion
+
+Q: Digestion of protein begins in the
+A: stomach
+W: mouth
+W: large intestine
+W: oesophagus
+E: Pepsin in gastric juice begins protein digestion.
+
+Q: Bile is stored in the
+A: gall bladder
+W: liver
+W: pancreas
+W: stomach
+E: Bile is made in the liver and stored in the gall bladder.
+
+Q: Bile emulsifies fats. This means it
+A: breaks fat into tiny droplets
+W: digests fat into glycerol
+W: turns fat into protein
+W: absorbs fat
+E: Small droplets give lipase a larger surface to act on.
+
+Q: The wave-like muscle contractions that move food along the gut are called
+A: peristalsis
+W: emulsification
+W: absorption
+W: egestion
+E: Circular and longitudinal muscles squeeze food along.
+
+Q: Villi in the small intestine are adapted for
+A: absorption of digested food
+W: digestion of starch
+W: storing faeces
+W: making bile
+E: Villi give a huge surface area and are richly supplied with capillaries.
+
+Q: The main function of the large intestine is to
+A: absorb water
+W: digest protein
+W: produce bile
+W: absorb glucose
+E: Water is absorbed from undigested remains before egestion.
+
+Q: The removal of undigested food from the body is
+A: egestion
+W: excretion
+W: ingestion
+W: assimilation
+E: Egestion is passing out faeces.
+
+Q: The use of absorbed food by the body cells is called
+A: assimilation
+W: ingestion
+W: egestion
+W: digestion
+E: Cells use digested food for energy, growth and repair.
+
+Q: Which teeth are used for grinding food?
+A: molars
+W: incisors
+W: canines
+W: none of the teeth
+E: Molars have broad surfaces for grinding.
+
+Q: Which teeth are used for biting and cutting?
+A: incisors
+W: molars
+W: premolars
+W: canines only in herbivores
+E: The flat, sharp incisors bite off food.
+
+Q: Tooth decay is mainly caused by
+A: acid produced by bacteria from sugar
+W: too much calcium
+W: eating vegetables
+W: drinking water
+E: Bacteria in plaque turn sugar into acids that dissolve enamel.
+
+Q: The hardest substance in the body is
+A: enamel
+W: bone
+W: dentine
+W: cartilage
+E: Enamel covers the crown of the tooth.
+
+Q: Which food class provides the most energy per gram?
+A: fats
+W: proteins
+W: carbohydrates
+W: vitamins
+E: Fats give about twice as much energy per gram as carbohydrates.
+
+Q: Roughage in the diet helps to
+A: prevent constipation
+W: build muscles
+W: carry oxygen
+W: make hormones
+E: Fibre adds bulk and helps peristalsis.
+
+Q: A shortage of vitamin B1 (thiamine) causes
+A: beriberi
+W: rickets
+W: scurvy
+W: goitre
+E: Beriberi affects the nerves and muscles.
+
+Q: Hydrochloric acid in the stomach helps to
+A: kill bacteria and give pepsin the right pH
+W: digest starch
+W: emulsify fats
+W: absorb water
+E: The acid kills many germs and provides acidic conditions for pepsin.
+
+Q: Ruminants such as cows can digest cellulose because
+A: microorganisms in their stomach produce cellulase
+W: their teeth dissolve cellulose
+W: they swallow stones
+W: their liver makes cellulase
+E: Bacteria in the rumen break down cellulose.
+
+Q: The pancreas produces
+A: enzymes for digestion and the hormone insulin
+W: bile only
+W: saliva
+W: gastric juice
+E: The pancreas is both an enzyme gland and an endocrine gland.
+
+Q: Digested fats are absorbed into the
+A: lacteals of the villi
+W: blood capillaries only
+W: large intestine
+W: stomach wall
+E: Fatty acids and glycerol enter the lacteals (lymph vessels).
+
+Q: A balanced diet contains
+A: all food classes in the right amounts
+W: only carbohydrates
+W: only proteins
+W: as much fat as possible
+E: Carbohydrates, proteins, fats, vitamins, minerals, water and roughage are all needed.
+
+Q: The dental formula of an adult human shows a total of
+A: 32 teeth
+W: 20 teeth
+W: 28 teeth
+W: 36 teeth
+E: Adults have 32 permanent teeth.
+
+Q: Which part of the alimentary canal secretes the enzyme maltase?
+A: small intestine (ileum)
+W: stomach
+W: oesophagus
+W: large intestine
+E: Intestinal juice contains maltase, which turns maltose into glucose.
+
+Q: Food passes from the mouth to the stomach through the
+A: oesophagus
+W: trachea
+W: duodenum
+W: colon
+E: The oesophagus (gullet) carries food to the stomach.
+
+Q: Goitre is caused by a lack of
+A: iodine
+W: iron
+W: calcium
+W: vitamin A
+E: Iodine is needed to make the thyroid hormone.
+
+@topic bio-transport
+
+Q: The muscular wall of the left ventricle is thicker than that of the right because it
+A: pumps blood all round the body
+W: receives blood from the lungs
+W: holds more blood
+W: pumps blood only to the lungs
+E: The left ventricle must produce higher pressure for the systemic circulation.
+
+Q: Which valve prevents blood flowing back from the left ventricle into the left atrium?
+A: bicuspid (mitral) valve
+W: tricuspid valve
+W: pulmonary valve
+W: aortic valve
+E: The bicuspid valve sits between the left atrium and ventricle.
+
+Q: The largest artery in the body is the
+A: aorta
+W: pulmonary artery
+W: vena cava
+W: carotid artery
+E: The aorta carries oxygenated blood from the left ventricle.
+
+Q: The vena cava returns blood to the
+A: right atrium
+W: left atrium
+W: left ventricle
+W: lungs
+E: Deoxygenated blood from the body enters the right atrium.
+
+Q: Capillaries are adapted for exchange of materials because they
+A: have walls only one cell thick
+W: have thick muscular walls
+W: carry blood at high pressure
+W: have valves
+E: Thin walls allow quick diffusion between blood and tissues.
+
+Q: Humans have a double circulation. This means
+A: blood passes through the heart twice in one complete circuit
+W: there are two hearts
+W: blood flows in two directions at once
+W: only half the blood is pumped
+E: One circuit goes to the lungs and one to the body.
+
+Q: Which blood vessel carries blood rich in digested food from the intestine to the liver?
+A: hepatic portal vein
+W: hepatic artery
+W: renal vein
+W: aorta
+E: The hepatic portal vein links the gut to the liver.
+
+Q: The pulse felt at the wrist is caused by
+A: the stretching of an artery as blood is pumped
+W: the beating of veins
+W: muscles contracting in the arm
+W: breathing
+E: Each heartbeat sends a surge of blood along the arteries.
+
+Q: Transpiration helps the plant by
+A: pulling water and minerals up the stem
+W: making food
+W: storing water
+W: producing seeds
+E: Evaporation from leaves creates a pull on water in the xylem.
+
+Q: Which condition increases the rate of transpiration?
+A: windy weather
+W: high humidity
+W: darkness
+W: low temperature
+E: Wind removes water vapour near the leaf, speeding evaporation.
+
+Q: The instrument used to measure the rate of water uptake by a shoot is the
+A: potometer
+W: barometer
+W: manometer
+W: hygrometer
+E: A potometer measures how fast the shoot takes up water.
+
+Q: The movement of food substances in the phloem is called
+A: translocation
+W: transpiration
+W: osmosis
+W: guttation
+E: Sugars are translocated from leaves to growing and storage parts.
+
+Q: Root pressure pushes water
+A: up the xylem from the roots
+W: down the phloem
+W: out of the stomata
+W: into the soil
+E: Water entering roots by osmosis creates a pressure that pushes it upward.
+
+Q: Xylem vessels are strengthened by
+A: lignin
+W: cellulose only
+W: chitin
+W: starch
+E: Lignin makes xylem walls hard and waterproof.
+
+Q: Which blood vessels have valves?
+A: veins
+W: arteries
+W: capillaries
+W: the aorta
+E: Valves in veins stop blood flowing backwards.
+
+Q: The pacemaker of the heart is found in the
+A: wall of the right atrium
+W: left ventricle
+W: aorta
+W: pulmonary vein
+E: The sino-atrial node starts each heartbeat.
+
+Q: The blood vessel that supplies the heart muscle itself is the
+A: coronary artery
+W: pulmonary artery
+W: renal artery
+W: hepatic artery
+E: Blockage of a coronary artery can cause a heart attack.
+
+Q: High blood pressure can be reduced by
+A: regular exercise and less salt
+W: eating more fried food
+W: smoking
+W: avoiding all exercise
+E: Exercise and a low-salt diet help keep blood pressure normal.
+
+Q: Which part of the leaf controls water loss by transpiration?
+A: stomata
+W: cuticle only
+W: midrib
+W: petiole
+E: Guard cells close the stomata to reduce water loss.
+
+Q: Loss of water as liquid droplets from leaf margins is called
+A: guttation
+W: transpiration
+W: translocation
+W: plasmolysis
+E: Guttation happens when root pressure is high and air is humid.
+
+@topic bio-respiration
+
+Q: The word equation for aerobic respiration is
+A: glucose + oxygen → carbon dioxide + water + energy
+W: carbon dioxide + water → glucose + oxygen
+W: glucose → alcohol + carbon dioxide only
+W: oxygen + water → glucose
+E: Food is broken down with oxygen to release energy.
+
+Q: The energy released in respiration is stored in molecules of
+A: ATP
+W: DNA
+W: glucose only
+W: starch
+E: Adenosine triphosphate carries energy for cell processes.
+
+Q: Anaerobic respiration releases
+A: less energy than aerobic respiration
+W: more energy than aerobic respiration
+W: no energy
+W: oxygen
+E: Without oxygen, glucose is only partly broken down.
+
+Q: The build-up of lactic acid in muscles causes
+A: muscle fatigue and cramp
+W: stronger muscles
+W: more oxygen
+W: higher body temperature only
+E: Lactic acid causes tiredness until it is removed with oxygen.
+
+Q: The oxygen debt is
+A: the oxygen needed to break down lactic acid after exercise
+W: oxygen stored in muscles
+W: oxygen breathed out
+W: oxygen used by plants
+E: Deep breathing after exercise repays the debt.
+
+Q: Limewater turning milky shows the presence of
+A: carbon dioxide
+W: oxygen
+W: nitrogen
+W: water vapour
+E: Carbon dioxide reacts with limewater to form a white precipitate.
+
+Q: Respiration differs from breathing because respiration
+A: is a chemical process that releases energy in cells
+W: is the movement of air in and out
+W: happens only in the lungs
+W: needs light
+E: Breathing is ventilation; respiration is the release of energy from food.
+
+Q: The windpipe is also called the
+A: trachea
+W: oesophagus
+W: bronchus
+W: larynx
+E: The trachea carries air to the bronchi.
+
+Q: The trachea is kept open by
+A: rings of cartilage
+W: muscle only
+W: bone
+W: valves
+E: C-shaped cartilage rings stop it from collapsing.
+
+Q: Alveoli are adapted for gaseous exchange because they
+A: have thin, moist walls and a large surface area
+W: have thick muscular walls
+W: are dry
+W: have no blood supply
+E: These features allow fast diffusion of gases.
+
+Q: When we breathe in, the intercostal muscles
+A: contract and raise the ribs
+W: relax and lower the ribs
+W: stop working
+W: push air out
+E: The chest volume increases and air rushes in.
+
+Q: The respiratory quotient (RQ) of carbohydrate is
+A: 1.0
+W: 0.7
+W: 0.9
+W: 2.0
+E: RQ = CO₂ produced ÷ O₂ used; for glucose it equals 1.
+
+Q: Plants carry out respiration
+A: day and night
+W: only at night
+W: only in light
+W: never
+E: All living cells respire all the time.
+
+Q: Tiny pores in woody stems that allow gas exchange are
+A: lenticels
+W: stomata
+W: hydathodes
+W: root hairs
+E: Lenticels let air reach the living cells of bark.
+
+Q: Fermentation by yeast is used to make
+A: bread and alcohol
+W: yoghurt only
+W: cheese only
+W: vinegar only
+E: Yeast produces carbon dioxide and ethanol.
+
+Q: Which part of the respiratory system is the voice box?
+A: larynx
+W: pharynx
+W: trachea
+W: bronchiole
+E: The larynx contains the vocal cords.
+
+Q: Cilia in the trachea help to
+A: sweep mucus and dust away from the lungs
+W: absorb oxygen
+W: produce carbon dioxide
+W: digest food
+E: Beating cilia move trapped dust up to the throat.
+
+Q: Smoking damages the lungs partly because it
+A: destroys cilia and coats the airways with tar
+W: adds oxygen
+W: strengthens the alveoli
+W: increases surface area
+E: Without working cilia, mucus and dirt collect in the lungs.
+
+Q: Insects carry air directly to their tissues through
+A: tracheae
+W: lungs
+W: gills
+W: skin
+E: Air enters spiracles and travels through tiny tubes called tracheae.
+
+Q: Earthworms exchange gases through their
+A: moist skin
+W: lungs
+W: gills
+W: spiracles
+E: Their thin, moist skin allows gases to diffuse.
+
+Q: Which product of anaerobic respiration in yeast makes dough rise?
+A: carbon dioxide
+W: ethanol
+W: lactic acid
+W: oxygen
+E: Bubbles of carbon dioxide are trapped in the dough.
+
+@topic bio-excretion
+
+Q: Excretion is the removal of
+A: waste products of metabolism
+W: undigested food
+W: only water
+W: sweat only
+E: Excretion removes wastes made by cell processes.
+
+Q: Urine is carried from the kidney to the bladder by the
+A: ureter
+W: urethra
+W: renal vein
+W: renal artery
+E: Each kidney has one ureter.
+
+Q: Urine leaves the bladder through the
+A: urethra
+W: ureter
+W: renal artery
+W: Bowman's capsule
+E: The urethra carries urine out of the body.
+
+Q: Filtration of blood in the kidney takes place in the
+A: glomerulus and Bowman's capsule
+W: loop of Henle
+W: collecting duct
+W: ureter
+E: High pressure forces small molecules out of the glomerulus into the capsule.
+
+Q: Glucose is normally absent from urine because it is
+A: reabsorbed in the kidney tubules
+W: never filtered
+W: destroyed in the bladder
+W: changed into urea
+E: All the filtered glucose is taken back into the blood.
+
+Q: Glucose in urine is a sign of
+A: diabetes mellitus
+W: malaria
+W: anaemia
+W: goitre
+E: When blood sugar is very high, the kidneys cannot reabsorb all of it.
+
+Q: The hormone that controls the amount of water reabsorbed by the kidney is
+A: ADH (antidiuretic hormone)
+W: insulin
+W: adrenaline
+W: thyroxine
+E: ADH makes the tubules reabsorb more water.
+
+Q: On a very hot day, a person produces
+A: less, more concentrated urine
+W: more, dilute urine
+W: no urine at all
+W: urine full of glucose
+E: More water is lost as sweat, so the kidneys save water.
+
+Q: Urea is formed from the breakdown of excess
+A: amino acids
+W: fatty acids
+W: glucose
+W: vitamins
+E: The liver deaminates excess amino acids to form urea.
+
+Q: The removal of the amino group from amino acids is called
+A: deamination
+W: excretion
+W: filtration
+W: osmoregulation
+E: Deamination happens in the liver.
+
+Q: Which organ excretes bile pigments?
+A: liver
+W: kidney
+W: lungs
+W: skin
+E: Bile pigments from broken-down red cells are excreted in bile.
+
+Q: Plants get rid of oxygen produced in photosynthesis through the
+A: stomata
+W: roots only
+W: flowers
+W: seeds
+E: Excess oxygen diffuses out through stomata.
+
+Q: Some plants store waste substances in their
+A: leaves that fall off
+W: root hairs
+W: seeds only
+W: xylem only
+E: Wastes are stored in leaves and lost when the leaves fall.
+
+Q: The kidneys help control
+A: the water and salt balance of the body
+W: digestion of food
+W: blood clotting
+W: the heartbeat
+E: This control is called osmoregulation.
+
+Q: A kidney machine (dialysis) is used when
+A: the kidneys fail
+W: the lungs fail
+W: the heart is too fast
+W: the liver produces bile
+E: Dialysis removes urea and excess salts from the blood.
+
+Q: The blood vessel that carries blood to the kidney is the
+A: renal artery
+W: renal vein
+W: hepatic vein
+W: pulmonary artery
+E: The renal artery brings blood rich in urea.
+
+Q: Blood leaving the kidney in the renal vein contains less
+A: urea
+W: oxygen only
+W: red cells
+W: plasma proteins
+E: The kidney removes urea from the blood.
+
+Q: Which substance is too large to pass from the glomerulus into the capsule?
+A: plasma proteins
+W: water
+W: glucose
+W: urea
+E: Large proteins and blood cells stay in the blood.
+
+Q: Contractile vacuoles in freshwater protozoa are for
+A: removing excess water
+W: digesting food
+W: storing oxygen
+W: making proteins
+E: They pump out water that enters by osmosis.
+
+Q: The skin's sweat contains water, salts and a little
+A: urea
+W: glucose
+W: protein
+W: bile
+E: Small amounts of urea are lost in sweat.
+
+@topic bio-coordination
+
+Q: The central nervous system consists of the
+A: brain and spinal cord
+W: nerves and muscles
+W: eyes and ears
+W: heart and lungs
+E: The CNS processes information and coordinates responses.
+
+Q: Neurones that carry impulses from receptors to the CNS are
+A: sensory neurones
+W: motor neurones
+W: relay neurones
+W: effector neurones
+E: Sensory neurones bring information in.
+
+Q: Motor neurones carry impulses to
+A: effectors such as muscles and glands
+W: receptors
+W: the spinal cord only
+W: sense organs
+E: Motor neurones bring instructions out from the CNS.
+
+Q: The gap between two neurones is a
+A: synapse
+W: dendrite
+W: axon
+W: myelin sheath
+E: Chemicals cross the synapse to pass the impulse on.
+
+Q: The fatty layer around many axons that speeds up impulses is the
+A: myelin sheath
+W: cell wall
+W: synapse
+W: dendrite
+E: Myelin insulates the axon.
+
+Q: Which part of the brain controls heartbeat and breathing?
+A: medulla oblongata
+W: cerebrum
+W: cerebellum
+W: hypothalamus
+E: The medulla controls involuntary actions.
+
+Q: Thinking, memory and intelligence are controlled by the
+A: cerebrum
+W: cerebellum
+W: medulla
+W: spinal cord
+E: The cerebrum is the largest part of the brain.
+
+Q: Hormones are carried to target organs by the
+A: blood
+W: nerves
+W: lymph only
+W: air
+E: Endocrine glands secrete hormones directly into the blood.
+
+Q: Glands that release hormones directly into the blood are
+A: endocrine glands
+W: exocrine glands
+W: salivary glands
+W: sweat glands
+E: Endocrine glands are ductless.
+
+Q: Insulin is produced by the
+A: pancreas
+W: thyroid gland
+W: adrenal gland
+W: pituitary gland
+E: Cells in the islets of Langerhans make insulin.
+
+Q: Thyroxine controls
+A: the rate of metabolism
+W: blood clotting
+W: digestion of fat
+W: vision
+E: The thyroid hormone controls how fast cells use energy.
+
+Q: Adrenaline is produced by the
+A: adrenal glands
+W: pancreas
+W: thyroid
+W: ovaries
+E: The adrenal glands sit on top of the kidneys.
+
+Q: Which is a difference between nervous and hormonal coordination?
+A: nervous responses are faster
+W: hormones act faster
+W: nerves use blood
+W: hormones travel along neurones
+E: Nerve impulses act in milliseconds; hormones are slower but longer lasting.
+
+Q: Blinking when dust enters the eye is a
+A: reflex action
+W: voluntary action
+W: conditioned reflex only
+W: hormonal response
+E: It is automatic and protects the eye.
+
+Q: The pathway of a reflex action is called a
+A: reflex arc
+W: nerve net
+W: synapse
+W: hormone pathway
+E: Receptor → sensory neurone → relay neurone → motor neurone → effector.
+
+Q: Plant hormones that cause shoots to bend towards light are
+A: auxins
+W: insulins
+W: enzymes
+W: antibodies
+E: Auxins build up on the shaded side, making it grow faster.
+
+Q: The response of a plant to touch, as in tendrils, is
+A: thigmotropism
+W: phototropism
+W: geotropism
+W: hydrotropism
+E: Tendrils coil when they touch a support.
+
+Q: Roots growing towards water show
+A: hydrotropism
+W: phototropism
+W: thigmotropism
+W: chemotropism
+E: Hydrotropism is growth in response to water.
+
+Q: The hypothalamus is important for
+A: controlling body temperature
+W: digesting food
+W: producing bile
+W: filtering blood
+E: The hypothalamus detects blood temperature and triggers responses.
+
+Q: Which hormone raises blood sugar when it is low?
+A: glucagon
+W: insulin
+W: thyroxine
+W: ADH
+E: Glucagon causes the liver to release glucose.
+
+Q: Learning to ride a bicycle involves
+A: conditioned reflexes developed by practice
+W: simple reflex actions only
+W: hormones only
+W: no nervous system
+E: Repeated practice trains the nervous system.
+
+@topic bio-plant-reproduction
+
+Q: The male part of a flower is the
+A: stamen
+W: carpel
+W: sepal
+W: petal
+E: The stamen is made of the anther and filament.
+
+Q: The female part of a flower is the
+A: carpel (pistil)
+W: stamen
+W: sepal
+W: receptacle
+E: The carpel consists of stigma, style and ovary.
+
+Q: Brightly coloured, scented flowers are usually pollinated by
+A: insects
+W: wind
+W: water
+W: gravity
+E: Colour, scent and nectar attract insects.
+
+Q: Wind-pollinated flowers usually have
+A: light, dry pollen and feathery stigmas
+W: bright petals and nectar
+W: sticky heavy pollen
+W: strong scent
+E: Grasses and maize have features that suit wind pollination.
+
+Q: Self-pollination is the transfer of pollen
+A: to a stigma of the same flower or plant
+W: to a different plant of the same species
+W: by insects only
+W: to a different species
+E: Self-pollination happens within one plant.
+
+Q: After fertilisation, the ovule develops into the
+A: seed
+W: fruit
+W: flower
+W: petal
+E: The ovule becomes the seed; the ovary becomes the fruit.
+
+Q: Fruits such as Tridax and cotton are dispersed by
+A: wind
+W: animals eating them
+W: water
+W: explosion
+E: Hairs or parachutes help them float in the air.
+
+Q: Coconut fruits are dispersed by
+A: water
+W: wind
+W: explosion
+W: birds only
+E: The fibrous husk traps air so the fruit floats.
+
+Q: Fruits of beans and Crotalaria are dispersed by
+A: explosive (self) mechanism
+W: water
+W: wind only
+W: insects
+E: The dry pod splits suddenly and throws out the seeds.
+
+Q: Fruits with hooks that cling to animal fur are dispersed by
+A: animals
+W: water
+W: wind
+W: explosion
+E: Hooked fruits stick to fur and clothing.
+
+Q: The part of a seed that grows into the root is the
+A: radicle
+W: plumule
+W: cotyledon
+W: testa
+E: The radicle emerges first during germination.
+
+Q: The part of the seed that grows into the shoot is the
+A: plumule
+W: radicle
+W: micropyle
+W: hilum
+E: The plumule forms the first shoot.
+
+Q: Germination in which the cotyledons are carried above the soil is
+A: epigeal germination
+W: hypogeal germination
+W: vegetative propagation
+W: pollination
+E: In beans, the hypocotyl lengthens and lifts the cotyledons up.
+
+Q: Maize shows
+A: hypogeal germination
+W: epigeal germination
+W: no germination
+W: vivipary only
+E: The maize grain stays underground while the shoot grows.
+
+Q: The seed coat is called the
+A: testa
+W: hilum
+W: micropyle
+W: endosperm
+E: The testa protects the embryo.
+
+Q: Grafting is a method of
+A: vegetative propagation
+W: sexual reproduction
+W: pollination
+W: seed dispersal
+E: A shoot of one plant is joined to the rooted stem of another.
+
+Q: An advantage of vegetative propagation is that
+A: offspring are identical to the parent
+W: it produces new varieties
+W: it needs pollination
+W: it uses seeds
+E: Good qualities of the parent are kept.
+
+Q: The function of the nectar in flowers is to
+A: attract pollinating insects
+W: make seeds
+W: store water
+W: protect the ovary
+E: Insects feed on the sugary nectar and carry pollen.
+
+Q: The pollen tube grows down the style to reach the
+A: ovule
+W: anther
+W: sepal
+W: petal
+E: It carries the male nucleus to the egg in the ovule.
+
+Q: Which of the following is a false fruit?
+A: cashew
+W: tomato
+W: orange
+W: mango
+E: The fleshy part of cashew develops from the receptacle, not the ovary.
+
+Q: The ovary of a flower develops into the
+A: fruit
+W: seed
+W: testa
+W: embryo
+E: After fertilisation the ovary wall forms the fruit.
+
+Q: Which condition is needed for germination?
+A: water
+W: light
+W: soil
+W: fertiliser
+E: Seeds need water, oxygen and warmth.
+
+Q: Cross-pollination is an advantage because it
+A: increases variation
+W: keeps plants identical
+W: needs no agent
+W: reduces seed numbers
+E: Mixing genes from two parents produces variation.
+
+Q: The sweet potato is propagated using
+A: stem cuttings (vines)
+W: seeds only
+W: bulbs
+W: leaves only
+E: Pieces of vine are planted to grow new plants.
+
+@topic bio-animal-reproduction
+
+Q: The male gamete in animals is the
+A: sperm
+W: ovum
+W: zygote
+W: embryo
+E: Sperm cells are produced in the testes.
+
+Q: The female gamete is the
+A: ovum (egg)
+W: sperm
+W: zygote
+W: placenta
+E: Ova are produced in the ovaries.
+
+Q: The fusion of male and female gametes is
+A: fertilisation
+W: ovulation
+W: implantation
+W: menstruation
+E: Fertilisation forms a zygote.
+
+Q: The zygote divides to form an
+A: embryo
+W: ovary
+W: sperm
+W: placenta
+E: Repeated cell division turns the zygote into an embryo.
+
+Q: Implantation is the attachment of the embryo to the
+A: wall of the uterus
+W: ovary
+W: vagina
+W: oviduct
+E: The embryo sinks into the thick uterine lining.
+
+Q: The bag of fluid that protects the foetus is the
+A: amnion
+W: placenta
+W: umbilical cord
+W: cervix
+E: Amniotic fluid cushions the foetus.
+
+Q: Harmful substances such as alcohol can pass to the foetus through the
+A: placenta
+W: amnion only
+W: cervix
+W: vagina
+E: Many drugs cross the placenta and harm development.
+
+Q: The neck of the uterus is the
+A: cervix
+W: vagina
+W: oviduct
+W: ovary
+E: The cervix widens during birth.
+
+Q: Sperm are stored and matured in the
+A: epididymis
+W: urethra
+W: bladder
+W: prostate gland
+E: The epididymis is a coiled tube next to each testis.
+
+Q: The fluid that carries sperm is called
+A: semen
+W: urine
+W: plasma
+W: amniotic fluid
+E: Semen is sperm plus fluids from glands.
+
+Q: The period of development of a baby in the uterus is the
+A: gestation period
+W: menstrual cycle
+W: puberty
+W: ovulation
+E: Human gestation is about 40 weeks.
+
+Q: External fertilisation occurs in
+A: frogs
+W: humans
+W: birds
+W: goats
+E: Frogs release eggs and sperm into water.
+
+Q: The change from tadpole to frog is
+A: metamorphosis
+W: fertilisation
+W: implantation
+W: germination
+E: The tadpole changes form to become an adult.
+
+Q: Complete metamorphosis has the stages
+A: egg, larva, pupa, adult
+W: egg, nymph, adult
+W: egg, adult
+W: larva, nymph, adult
+E: Butterflies and mosquitoes show complete metamorphosis.
+
+Q: Incomplete metamorphosis, as in the cockroach, has the stages
+A: egg, nymph, adult
+W: egg, larva, pupa, adult
+W: egg, pupa, adult
+W: larva, adult
+E: Nymphs look like small wingless adults.
+
+Q: Animals that give birth to live young are described as
+A: viviparous
+W: oviparous
+W: ovoviviparous only
+W: asexual
+E: Most mammals are viviparous.
+
+Q: Asexual reproduction by budding occurs in
+A: Hydra
+W: frog
+W: human
+W: bird
+E: A bud grows out of the parent Hydra and breaks off.
+
+Q: Binary fission occurs in
+A: Amoeba
+W: Hydra
+W: frog
+W: earthworm
+E: Amoeba divides into two identical cells.
+
+Q: The female hormone that causes the uterine lining to thicken is
+A: oestrogen
+W: testosterone
+W: insulin
+W: adrenaline
+E: Oestrogen rebuilds the lining after menstruation.
+
+Q: Which structure carries the egg from the ovary to the uterus?
+A: oviduct (fallopian tube)
+W: vagina
+W: cervix
+W: urethra
+E: Fertilisation usually happens in the oviduct.
+
+Q: Earthworms are hermaphrodites. This means each worm
+A: has both male and female organs
+W: has no reproductive organs
+W: is male only
+W: is female only
+E: Hermaphrodites have both sexes in one body.
+
+@topic bio-reproduction-health
+
+Q: HIV attacks mainly the body's
+A: white blood cells
+W: red blood cells
+W: bones
+W: kidneys
+E: HIV destroys T-helper lymphocytes, weakening immunity.
+
+Q: Which of these is NOT a way HIV is spread?
+A: shaking hands
+W: unprotected sex
+W: sharing unsterilised needles
+W: from mother to child
+E: HIV is not passed on by casual contact.
+
+Q: Syphilis is caused by a
+A: bacterium
+W: virus
+W: fungus
+W: worm
+E: Syphilis is a bacterial STI treated with antibiotics.
+
+Q: Which method of family planning involves a device placed in the uterus?
+A: intrauterine device (IUD)
+W: condom
+W: pill
+W: rhythm method
+E: An IUD prevents implantation.
+
+Q: The contraceptive pill works mainly by
+A: preventing ovulation
+W: killing sperm in the testes
+W: blocking the urethra
+W: destroying the uterus
+E: Hormones in the pill stop eggs being released.
+
+Q: Abstinence is the most reliable way of preventing
+A: both pregnancy and STIs
+W: only malaria
+W: only tooth decay
+W: only anaemia
+E: Avoiding sex prevents both.
+
+Q: A normal menstrual cycle lasts about
+A: 28 days
+W: 7 days
+W: 14 days
+W: 40 days
+E: The cycle averages 28 days, though it varies.
+
+Q: Ovulation usually happens around
+A: day 14 of a 28-day cycle
+W: day 1
+W: day 28
+W: day 3
+E: An egg is released in the middle of the cycle.
+
+Q: Teenage pregnancy can be risky because
+A: the young mother's body may not be fully developed
+W: it always produces twins
+W: it causes malaria
+W: it improves health
+E: Young mothers face more complications in pregnancy and birth.
+
+Q: Screening for genotype before marriage helps to
+A: reduce the chances of children with sickle cell anaemia
+W: prevent malaria
+W: cure HIV
+W: prevent tooth decay
+E: Couples can understand the risk of having SS children.
+
+Q: Which of these is a sign of puberty in girls?
+A: beginning of menstruation
+W: deepening of the voice
+W: growth of a beard
+W: production of sperm
+E: Menstruation starts as the ovaries become active.
+
+Q: Which of these is a sign of puberty in boys?
+A: deepening of the voice
+W: menstruation
+W: widening of the hips
+W: development of breasts
+E: Testosterone causes the voice to deepen.
+
+Q: Non-identical twins form when
+A: two eggs are fertilised by two sperm
+W: one egg splits into two
+W: one sperm fertilises two eggs
+W: the placenta divides
+E: Fraternal twins come from two separate zygotes.
+
+Q: Antenatal care is important because it
+A: checks the health of mother and baby during pregnancy
+W: is only for after birth
+W: causes miscarriage
+W: replaces vaccination
+E: Regular checks find problems early.
+
+Q: A condom helps to prevent
+A: pregnancy and the spread of STIs
+W: malaria
+W: cholera
+W: typhoid
+E: It stops sperm and many germs passing between partners.
+
+Q: Which STI can be passed from an infected mother to her baby?
+A: HIV
+W: malaria
+W: cholera
+W: ringworm
+E: HIV can pass during pregnancy, birth or breastfeeding.
+
+Q: Infertility in men can be caused by
+A: a low sperm count
+W: too much vitamin C
+W: drinking water
+W: exercise
+E: Too few healthy sperm reduce the chance of fertilisation.
+
+Q: The hormone progesterone is produced mainly by the
+A: corpus luteum and placenta
+W: testes
+W: thyroid
+W: pancreas
+E: Progesterone maintains the uterine lining.
+
+Q: Breast milk is good for babies because it
+A: contains antibodies and the right nutrients
+W: has no nutrients
+W: causes infection
+W: is too fatty
+E: It protects against infection and is easily digested.
+
+Q: Personal hygiene during menstruation helps to
+A: prevent infection
+W: stop ovulation
+W: cause pregnancy
+W: cure STIs
+E: Clean pads and washing reduce the risk of infection.
+
+@topic bio-genetics
+
+Q: An organism with two identical alleles for a trait is
+A: homozygous
+W: heterozygous
+W: hybrid
+W: recessive only
+E: Homozygous means both alleles are the same, e.g. TT or tt.
+
+Q: An organism with genotype Tt is described as
+A: heterozygous
+W: homozygous dominant
+W: homozygous recessive
+W: pure-breeding
+E: It has two different alleles.
+
+Q: A recessive allele shows its effect only when
+A: two copies are present
+W: one copy is present
+W: it is with a dominant allele
+W: the organism is male
+E: The recessive trait appears in homozygous recessive individuals.
+
+Q: In a cross Tt × tt, the ratio of tall to dwarf offspring is
+A: 1 : 1
+W: 3 : 1
+W: 1 : 2 : 1
+W: all tall
+E: Offspring are Tt, Tt, tt, tt: half tall, half dwarf.
+
+Q: The genotypic ratio of the offspring of Tt × Tt is
+A: 1 TT : 2 Tt : 1 tt
+W: 3 TT : 1 tt
+W: 1 TT : 1 tt
+W: 2 TT : 2 tt
+E: A Punnett square gives TT, Tt, Tt, tt.
+
+Q: Chromosomes are made of
+A: DNA and protein
+W: starch
+W: fat only
+W: glucose
+E: DNA is wound around proteins to form chromosomes.
+
+Q: Human sex cells contain
+A: 23 chromosomes
+W: 46 chromosomes
+W: 44 chromosomes
+W: 92 chromosomes
+E: Gametes are haploid, with half the body-cell number.
+
+Q: The sex of a baby is determined by
+A: the sperm from the father
+W: the egg from the mother
+W: the mother's diet
+W: the time of birth
+E: Sperm carry either X or Y; eggs always carry X.
+
+Q: A female human has the sex chromosomes
+A: XX
+W: XY
+W: YY
+W: XO
+E: Females have two X chromosomes.
+
+Q: Mitosis produces cells that are
+A: genetically identical to the parent cell
+W: haploid sex cells
+W: genetically different
+W: without chromosomes
+E: Mitosis is used for growth and repair.
+
+Q: Meiosis is important because it
+A: halves the chromosome number in gametes
+W: doubles the chromosome number
+W: produces identical body cells
+W: repairs wounds
+E: Fertilisation then restores the full number.
+
+Q: Which of these is an example of discontinuous variation?
+A: blood group
+W: height
+W: weight
+W: skin colour shade
+E: Blood groups fall into clear separate categories.
+
+Q: Variation in height is described as continuous because
+A: there is a range of values without clear groups
+W: there are only two groups
+W: it is caused by one gene
+W: it never changes
+E: Height varies gradually between extremes.
+
+Q: A test cross is used to find out whether an organism showing the dominant trait is
+A: homozygous or heterozygous
+W: male or female
+W: old or young
+W: healthy or sick
+E: It is crossed with a homozygous recessive organism.
+
+Q: Inheritance of the ABO blood groups shows
+A: codominance
+W: complete dominance only
+W: sex linkage
+W: no inheritance
+E: A and B are codominant; both show in group AB.
+
+Q: A man with blood group O and a woman with blood group AB can have children with blood group
+A: A or B
+W: O only
+W: AB only
+W: O or AB
+E: The children receive O from the father and A or B from the mother: AO or BO.
+
+Q: Sex-linked traits such as haemophilia are carried on the
+A: X chromosome
+W: Y chromosome only
+W: autosomes only
+W: mitochondria
+E: Males have only one X, so they show these traits more often.
+
+Q: Which scientist worked out the double helix structure of DNA?
+A: Watson and Crick
+W: Darwin
+W: Mendel
+W: Pasteur
+E: Watson and Crick described the DNA double helix in 1953.
+
+Q: The application of genetics in improving crops and animals is called
+A: selective breeding
+W: pollination
+W: vaccination
+W: fermentation
+E: Farmers breed from the best individuals to improve yield.
+
+Q: Identical twins have the same
+A: genotype
+W: fingerprints always
+W: experiences
+W: diet
+E: They come from one zygote, so their genes are the same.
+
+@topic bio-evolution
+
+Q: Fossils are evidence for evolution because they
+A: show organisms that lived long ago and how they changed
+W: are found only today
+W: show no change
+W: are made of plastic
+E: Fossil records show changes in living things over time.
+
+Q: The theory of use and disuse was proposed by
+A: Lamarck
+W: Darwin
+W: Mendel
+W: Linnaeus
+E: Lamarck said organs that are used develop and are passed on.
+
+Q: Darwin's theory states that organisms best suited to their environment
+A: survive and reproduce more
+W: always die first
+W: never reproduce
+W: change their genes on purpose
+E: This is natural selection.
+
+Q: Which of these does Darwin's theory include?
+A: organisms produce more offspring than can survive
+W: acquired characteristics are inherited
+W: all organisms are identical
+W: there is no competition
+E: Overproduction leads to a struggle for existence.
+
+Q: Organs that have the same basic structure but different functions are
+A: homologous structures
+W: analogous structures
+W: vestigial organs
+W: fossils
+E: The pentadactyl limb is an example.
+
+Q: The wings of a bird and an insect are
+A: analogous structures
+W: homologous structures
+W: vestigial organs
+W: identical organs
+E: They do the same job but have different origins.
+
+Q: Vestigial organs are
+A: organs that have lost their function
+W: the most important organs
+W: organs found only in plants
+W: newly formed organs
+E: The human appendix is often given as an example.
+
+Q: Antibiotic resistance in bacteria is an example of
+A: natural selection
+W: Lamarckism
+W: hibernation
+W: photosynthesis
+E: Resistant bacteria survive and multiply.
+
+Q: Which is a source of variation that natural selection acts on?
+A: mutation
+W: vaccination
+W: photosynthesis
+W: excretion
+E: Mutations create new alleles.
+
+Q: The book "On the Origin of Species" was written by
+A: Charles Darwin
+W: Gregor Mendel
+W: Jean Lamarck
+W: Louis Pasteur
+E: Darwin published it in 1859.
+
+Q: Industrial melanism in moths shows that
+A: dark forms survived better on soot-covered trees
+W: moths choose their colour
+W: pollution makes moths larger
+W: birds prefer dark moths
+E: Dark moths were better camouflaged, so they survived.
+
+Q: Organisms of the same species can interbreed to produce
+A: fertile offspring
+W: sterile offspring only
+W: no offspring
+W: different species
+E: That is how a species is defined.
+
+Q: The giraffe's long neck, according to Lamarck, developed because
+A: giraffes stretched to reach leaves and passed this on
+W: giraffes with long necks survived better
+W: of mutation only
+W: of artificial selection
+E: Lamarck believed acquired characteristics were inherited.
+
+Q: Comparative anatomy as evidence of evolution involves
+A: comparing the structures of different organisms
+W: counting chromosomes only
+W: studying the weather
+W: measuring rainfall
+E: Similar structures suggest common ancestry.
+
+Q: The formation of a new species is called
+A: speciation
+W: mutation
+W: adaptation
+W: variation
+E: New species form when populations become isolated and change.
+
+Q: Geographical isolation can lead to
+A: new species forming
+W: all species dying out
+W: no change ever
+W: identical populations
+E: Separated groups adapt differently over time.
+
+Q: Selective breeding of cattle by farmers is
+A: artificial selection
+W: natural selection
+W: mutation
+W: Lamarckism
+E: Humans choose which animals breed.
+
+Q: The oldest fossils are usually found in
+A: the deepest rock layers
+W: the top soil layer
+W: rivers
+W: tree trunks
+E: Lower layers of sedimentary rock were laid down first.
+
+Q: A mutation is
+A: a change in the genetic material
+W: a change in diet
+W: a type of fossil
+W: a learned behaviour
+E: Mutations can be caused by radiation or chemicals.
+
+Q: Which of these organisms is considered a living fossil?
+A: coelacanth
+W: tilapia
+W: goat
+W: maize
+E: The coelacanth has changed little over millions of years.
+
+@topic bio-health
+
+Q: The female Anopheles mosquito transmits
+A: malaria
+W: yellow fever
+W: river blindness
+W: sleeping sickness
+E: It carries Plasmodium in its saliva.
+
+Q: The Aedes mosquito transmits
+A: yellow fever
+W: malaria
+W: cholera
+W: typhoid
+E: Aedes also spreads dengue fever.
+
+Q: Typhoid fever is spread mainly through
+A: contaminated food and water
+W: mosquito bites
+W: air droplets
+W: tsetse flies
+E: Typhoid bacteria are passed in faeces into food and water.
+
+Q: The best way to prevent cholera is to
+A: drink clean, treated water
+W: sleep under a net
+W: wear thick clothes
+W: avoid sunlight
+E: Cholera spreads in water contaminated by sewage.
+
+Q: Tuberculosis mainly affects the
+A: lungs
+W: kidneys
+W: eyes
+W: bones only
+E: TB bacteria are breathed in and damage the lungs.
+
+Q: Guinea worm infection is caught by
+A: drinking water containing infected water fleas
+W: mosquito bites
+W: eating raw meat only
+W: shaking hands
+E: Filtering or boiling drinking water prevents it.
+
+Q: Ascaris (roundworm) infection can be prevented by
+A: washing hands and food properly
+W: sleeping under a net
+W: vaccination against measles
+W: drinking alcohol
+E: Ascaris eggs are swallowed from dirty hands and food.
+
+Q: Tapeworm infection is caught from
+A: undercooked pork or beef
+W: mosquito bites
+W: drinking boiled water
+W: fresh fruits only
+E: Cysts in raw meat develop into tapeworms.
+
+Q: Diseases spread from one person to another are called
+A: communicable diseases
+W: deficiency diseases
+W: hereditary diseases
+W: degenerative diseases
+E: Communicable diseases are infectious.
+
+Q: Diabetes is an example of a
+A: non-communicable disease
+W: communicable disease
+W: viral disease
+W: bacterial disease
+E: Diabetes is not caught from others.
+
+Q: Which disease is prevented by the BCG vaccine?
+A: tuberculosis
+W: malaria
+W: cholera
+W: HIV
+E: BCG protects against TB.
+
+Q: Polio mainly affects the
+A: nervous system
+W: lungs
+W: skin
+W: liver
+E: The polio virus can cause paralysis.
+
+Q: The vector of sleeping sickness is the
+A: tsetse fly
+W: housefly
+W: Anopheles mosquito
+W: blackfly
+E: Tsetse flies carry Trypanosoma.
+
+Q: River blindness is transmitted by the
+A: blackfly (Simulium)
+W: tsetse fly
+W: Aedes mosquito
+W: housefly
+E: Blackflies breed in fast-flowing rivers.
+
+Q: Clearing bushes and draining stagnant water helps control
+A: mosquitoes
+W: blackflies only
+W: tapeworms
+W: lice
+E: Mosquito larvae develop in stagnant water.
+
+Q: Houseflies spread diseases such as cholera by
+A: carrying germs on their legs to food
+W: biting people
+W: breeding in clean water
+W: injecting saliva
+E: Flies walk on faeces and then on food.
+
+Q: Oral rehydration solution is used to treat
+A: dehydration from diarrhoea
+W: malaria fever
+W: tuberculosis
+W: ringworm
+E: Salt and sugar solution replaces lost water and salts.
+
+Q: Which of these is a deficiency disease?
+A: kwashiorkor
+W: malaria
+W: cholera
+W: measles
+E: It is caused by a lack of protein.
+
+Q: Regular exercise helps health by
+A: strengthening the heart and muscles
+W: weakening bones
+W: increasing obesity
+W: spreading disease
+E: Exercise improves fitness and reduces heart disease risk.
+
+Q: Drug abuse can lead to
+A: damage to organs and addiction
+W: better health
+W: stronger immunity
+W: improved memory
+E: Abused drugs harm the brain, liver and other organs.
+
+Q: Schistosomiasis (bilharzia) is caught by
+A: contact with water containing infected snails' larvae
+W: eating mangoes
+W: mosquito bites
+W: breathing dust
+E: Larvae from snails enter the skin in infected water.
+
+@topic bio-adaptation
+
+Q: Birds have hollow bones mainly to
+A: reduce their weight for flying
+W: store food
+W: make blood
+W: keep warm
+E: Light bones make flight easier.
+
+Q: The streamlined shape of fish helps them to
+A: move easily through water
+W: breathe air
+W: store fat
+W: climb trees
+E: A smooth, tapered body reduces water resistance.
+
+Q: Camels have thick fur on their backs to
+A: protect them from the heat of the sun
+W: keep them cold
+W: help them swim
+W: attract mates only
+E: The fur insulates against heat during the day.
+
+Q: Plants in dry areas often have
+A: thick cuticles and few stomata
+W: broad thin leaves
+W: many stomata
+W: no roots
+E: These reduce water loss.
+
+Q: Water lily leaves have stomata mainly on the
+A: upper surface
+W: lower surface
+W: roots
+W: stem only
+E: The lower surface rests on water, so gas exchange happens above.
+
+Q: Animals that live in burrows during the hot day and come out at night are
+A: nocturnal
+W: diurnal
+W: aquatic
+W: arboreal
+E: Nocturnal habits avoid daytime heat.
+
+Q: The long tongue of a chameleon is an adaptation for
+A: catching insects
+W: drinking water
+W: breathing
+W: climbing
+E: It shoots out to capture prey.
+
+Q: Hibernation is
+A: a period of inactivity during cold seasons
+W: moving to warmer places
+W: changing colour
+W: shedding leaves
+E: Some animals slow their body processes in winter.
+
+Q: Aestivation is a period of inactivity during
+A: hot, dry seasons
+W: cold winters
+W: night only
+W: rainy seasons only
+E: Lungfish and snails aestivate when water dries up.
+
+Q: Seasonal movement of animals from one place to another is
+A: migration
+W: hibernation
+W: camouflage
+W: aestivation
+E: Many birds migrate to find food and breeding sites.
+
+Q: Camouflage helps animals to
+A: blend with their surroundings
+W: digest food
+W: produce more young
+W: run faster
+E: Blending in protects them from predators or hides them from prey.
+
+Q: Game reserves such as Yankari help to
+A: conserve wildlife
+W: destroy forests
+W: increase hunting
+W: pollute rivers
+E: Protected areas preserve animals and plants.
+
+Q: Afforestation means
+A: planting trees where there were none
+W: cutting down forests
+W: burning bushes
+W: building cities
+E: Planting trees restores and expands forests.
+
+Q: An endangered species is one that
+A: is at risk of dying out
+W: is very common
+W: has many young
+W: lives only in zoos
+E: Its numbers have fallen very low.
+
+Q: Overgrazing by cattle can lead to
+A: soil erosion and desertification
+W: more forests
+W: richer soil
+W: more rainfall
+E: Removing the plant cover exposes soil to wind and rain.
+
+Q: Which of these is a reason for conserving natural resources?
+A: to meet the needs of future generations
+W: to cause extinction
+W: to increase pollution
+W: to waste water
+E: Conservation uses resources wisely so they last.
+
+Q: The thick layer of fat (blubber) in whales is for
+A: insulation and food storage
+W: digestion
+W: breathing
+W: making blood
+E: Blubber keeps the body warm in cold water.
+
+Q: Warning colours in poisonous animals help them because
+A: predators learn to avoid them
+W: they attract predators
+W: they help digestion
+W: they make the animal invisible
+E: Bright colours signal danger.
+
+Q: The webbed feet of ducks are an adaptation for
+A: swimming
+W: climbing trees
+W: digging
+W: flying faster
+E: Webbed feet push against water like paddles.
+
+Q: The sharp claws and canine teeth of lions are adaptations for
+A: catching and tearing prey
+W: grinding grass
+W: swimming
+W: climbing walls
+E: Carnivores need tools to kill and eat meat.
+
+@topic bio-excretion
+
+Q: The loop of Henle is mainly concerned with
+A: reabsorbing water and conserving it
+W: filtering blood cells
+W: making urea
+W: storing urine
+E: The loop creates conditions that let the kidney reabsorb water.
+
+Q: Which of these is NOT an excretory organ?
+A: stomach
+W: kidney
+W: lungs
+W: skin
+E: The stomach digests food; it does not remove metabolic wastes.
+
+Q: The bladder stores urine until it is
+A: passed out through the urethra
+W: filtered again
+W: changed into sweat
+W: absorbed into blood
+E: The bladder is a muscular bag that stores urine.
+
+Q: Kidney stones can form when
+A: salts crystallise in the kidney
+W: too much water is drunk
+W: blood sugar is low
+W: the liver makes bile
+E: Concentrated minerals may form hard stones.
+
+@topic bio-animal-reproduction
+
+Q: Sperm swim using their
+A: tail
+W: head
+W: middle piece only
+W: nucleus
+E: The tail (flagellum) moves the sperm towards the egg.
+
+Q: The middle piece of a sperm contains many mitochondria to
+A: release energy for swimming
+W: store food for the baby
+W: make hormones
+W: carry genes
+E: Swimming needs a lot of energy from respiration.
+
+Q: Birth begins when
+A: the muscles of the uterus contract strongly
+W: the placenta grows
+W: the egg is fertilised
+W: ovulation occurs
+E: Strong contractions push the baby out through the cervix and vagina.
+
+@topic bio-reproduction-health
+
+Q: Regular check-ups for STIs are important because
+A: some infections show no early symptoms
+W: STIs cure themselves
+W: they are caused by vitamins
+W: they only affect old people
+E: Early testing allows early treatment and prevents spread.
+
+Q: A Caesarean section is
+A: delivery of a baby through a cut in the abdomen
+W: a type of contraceptive
+W: a test for genotype
+W: a vaccine
+E: It is used when normal birth is unsafe.
+
+Q: Which practice helps reduce mother-to-child transmission of HIV?
+A: taking antiretroviral drugs during pregnancy
+W: avoiding antenatal care
+W: sharing needles
+W: eating more sugar
+E: Treatment greatly lowers the chance of passing on HIV.
+
+Q: Gonorrhoea can be treated with
+A: antibiotics
+W: antivirals only
+W: vitamins
+W: painkillers only
+E: It is a bacterial infection.
+
+@topic bio-evolution
+
+Q: Natural selection is sometimes described as
+A: survival of the fittest
+W: survival of the largest
+W: use and disuse
+W: random selection by humans
+E: The fittest are those best suited to their environment.
+
+Q: Which of these is NOT part of Darwin's theory?
+A: inheritance of acquired characteristics
+W: variation among offspring
+W: struggle for existence
+W: survival of the best adapted
+E: Inheritance of acquired characteristics is Lamarck's idea.
+
+Q: The human appendix is often described as
+A: a vestigial organ
+W: a homologous organ
+W: an analogous organ
+W: an excretory organ
+E: It has little or no function in modern humans.
+
+Q: Evidence from the similar early embryos of different vertebrates is called
+A: comparative embryology
+W: palaeontology
+W: taxonomy
+W: ecology
+E: Similar embryos suggest a shared ancestor.
+
+@topic bio-health
+
+Q: Malaria can be prevented by
+A: sleeping under insecticide-treated nets
+W: drinking more water
+W: avoiding vegetables
+W: wearing sunglasses
+E: Nets stop infected mosquitoes biting at night.
+
+Q: Measles can be prevented by
+A: vaccination
+W: antibiotics
+W: drinking boiled water only
+W: using mosquito nets
+E: The measles vaccine is part of routine childhood immunisation.
+
+Q: Ringworm is spread by
+A: contact with infected skin or objects
+W: mosquito bites
+W: eating raw fish
+W: drinking milk
+E: The fungus spreads through touch, combs and towels.
+
+@topic bio-adaptation
+
+Q: Leaf fall in dry season deciduous trees helps them to
+A: reduce water loss
+W: make more food
+W: attract pollinators
+W: grow taller
+E: Without leaves, little water is lost by transpiration.
+
+Q: Monkeys have long tails and gripping hands as adaptations for
+A: living in trees
+W: swimming
+W: burrowing
+W: flying
+E: These help them climb and balance in trees.
+
+Q: Which of these is a threat to wildlife in Nigeria?
+A: poaching and loss of habitat
+W: planting trees
+W: creating game reserves
+W: banning bush burning
+E: Hunting and clearing forests reduce animal populations.
+
+Q: Seed banks help conservation by
+A: storing seeds of plants for the future
+W: destroying old seeds
+W: selling all seeds abroad
+W: stopping germination forever
+E: Stored seeds can be used to replant species that are lost.

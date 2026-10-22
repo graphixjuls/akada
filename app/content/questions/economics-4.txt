@@ -1,0 +1,1764 @@
+@subject economics
+# Original exam-style practice questions (WASSCE / GCE objective format). Written for akada; not past questions.
+
+@topic eco-elasticity
+
+Q: Income elasticity of demand measures
+A: the responsiveness of demand to changes in income
+W: the responsiveness of supply to price
+W: the change in price over time
+W: the change in costs
+E: Normal goods have positive income elasticity.
+
+Q: Cross elasticity of demand between substitutes is
+A: positive
+W: negative
+W: zero
+W: infinite always
+E: A rise in one price raises demand for the other.
+
+Q: Cross elasticity of demand between complements is
+A: negative
+W: positive
+W: zero
+W: always 1
+E: A rise in one price reduces demand for the other.
+
+Q: Elasticity of supply is usually greater in the
+A: long run
+W: very short run
+W: market period
+W: same in all periods
+E: Firms have more time to adjust.
+
+Q: Price elasticity of demand is 0.5. Demand is
+A: inelastic
+W: elastic
+W: unitary
+W: perfectly elastic
+E: Less than 1.
+
+@topic eco-costs
+
+Q: Average variable cost is
+A: total variable cost ÷ output
+W: total fixed cost ÷ output
+W: total revenue ÷ output
+W: marginal cost × output
+E: AVC = TVC ÷ Q.
+
+Q: In the long run,
+A: all costs are variable
+W: all costs are fixed
+W: there are no costs
+W: only fixed costs exist
+E: Firms can change all inputs.
+
+@topic eco-markets
+
+Q: In perfect competition, the firm's demand curve is
+A: perfectly elastic (horizontal)
+W: downward sloping
+W: vertical
+W: upward sloping
+E: The firm is a price taker.
+
+Q: In perfect competition, products are
+A: homogeneous
+W: differentiated
+W: unique
+W: branded strongly
+E: All firms sell identical goods.
+
+Q: In perfect competition in the long run, firms earn
+A: normal profit
+W: supernormal profit
+W: losses always
+W: no revenue
+E: Entry removes supernormal profit.
+
+Q: A monopolist can earn supernormal profit in the long run because of
+A: barriers to entry
+W: free entry
+W: many sellers
+W: perfect knowledge
+E: Competitors cannot enter.
+
+Q: A natural monopoly arises when
+A: one firm can supply the whole market at lower cost than several firms
+W: there are many sellers
+W: entry is free
+W: the government bans all firms
+E: E.g. water supply networks.
+
+Q: A patent can create a monopoly because it
+A: gives exclusive rights to produce an invention
+W: allows anyone to copy
+W: reduces prices
+W: encourages entry
+E: It is a legal barrier.
+
+Q: In monopolistic competition, firms
+A: sell differentiated products
+W: sell identical products
+W: have no competitors
+W: are price takers
+E: E.g. restaurants and hairdressers.
+
+Q: Product differentiation is achieved through
+A: branding, packaging and advertising
+W: identical products
+W: price fixing only
+W: government control
+E: Firms make products appear different.
+
+Q: Oligopoly is a market with
+A: a few large sellers
+W: one seller
+W: many small sellers
+W: one buyer
+E: E.g. telecom companies in Nigeria.
+
+Q: A feature of oligopoly is
+A: interdependence among firms
+W: perfect knowledge and many sellers
+W: a single seller
+W: no competition
+E: Each firm considers rivals' reactions.
+
+Q: A cartel is
+A: an agreement among firms to fix prices or output
+W: a single firm
+W: a government agency
+W: a type of bank
+E: E.g. OPEC is often described as a cartel.
+
+Q: Duopoly is a market with
+A: two sellers
+W: one seller
+W: many sellers
+W: no sellers
+E: It is a form of oligopoly.
+
+Q: A monopsony exists when there is
+A: one buyer
+W: one seller
+W: two sellers
+W: many buyers
+E: E.g. a single employer in a town.
+
+Q: Price discrimination is possible when
+A: markets can be separated and have different elasticities
+W: there is perfect competition
+W: buyers can resell freely
+W: all buyers are identical
+E: E.g. different fares for students.
+
+Q: A monopolist's demand curve is
+A: the market demand curve, sloping downwards
+W: horizontal
+W: vertical
+W: upward sloping
+E: The monopolist is the industry.
+
+Q: For a monopolist, marginal revenue is
+A: less than price
+W: equal to price
+W: greater than price
+W: always zero
+E: Price must fall to sell more.
+
+Q: All firms maximise profit where
+A: marginal cost equals marginal revenue
+W: total cost is lowest
+W: average cost equals price always
+W: revenue is highest
+E: MC = MR.
+
+Q: A firm should shut down in the short run if price is below
+A: average variable cost
+W: average fixed cost
+W: marginal revenue only
+W: total revenue
+E: It cannot cover variable costs.
+
+Q: Perfect knowledge in perfect competition means
+A: buyers and sellers know all market prices
+W: firms hide prices
+W: only sellers know prices
+W: nobody knows prices
+E: No one can charge more.
+
+Q: Monopoly can be controlled by the government through
+A: price regulation and anti-monopoly laws
+W: giving it more patents
+W: banning competitors
+W: removing all regulation
+E: E.g. the FCCPC.
+
+Q: A disadvantage of monopoly is
+A: higher prices and restricted output
+W: lower prices
+W: more choice
+W: free entry
+E: Consumers may be exploited.
+
+Q: In monopolistic competition, firms in the long run earn
+A: normal profit
+W: supernormal profit always
+W: losses always
+W: no revenue
+E: Entry competes away extra profit.
+
+@topic eco-money
+
+Q: Barter is
+A: the exchange of goods for goods
+W: the use of money
+W: the use of cheques
+W: the use of credit cards
+E: It requires a double coincidence of wants.
+
+Q: A function of money is
+A: a store of value
+W: a source of rainfall
+W: a factor of production only
+W: a type of tax
+E: Money can be saved for later.
+
+Q: Money as a unit of account means it
+A: measures the value of goods
+W: is used to store goods
+W: is used for barter
+W: is a type of commodity only
+E: Prices are quoted in money.
+
+Q: Money as a standard of deferred payment means it
+A: allows debts to be paid in the future
+W: is used only today
+W: stores goods
+W: is a factor of production
+E: Loans are repaid in money.
+
+Q: Legal tender is money that
+A: must be accepted by law in settlement of debts
+W: can be refused by anyone
+W: is used only abroad
+W: is a type of cheque
+E: E.g. naira notes and coins.
+
+Q: Fiat money is money that
+A: has value because the government declares it legal tender
+W: is made of gold
+W: has intrinsic value
+W: is backed by silver
+E: Modern banknotes are fiat money.
+
+Q: Demand-pull inflation is caused by
+A: excess aggregate demand
+W: rising costs only
+W: falling demand
+W: lower wages
+E: Too much spending chases too few goods.
+
+Q: Hyperinflation is
+A: extremely rapid inflation
+W: falling prices
+W: stable prices
+W: mild inflation
+E: E.g. Zimbabwe in 2008.
+
+Q: Inflation benefits
+A: debtors
+W: creditors
+W: pensioners
+W: savers
+E: Debts are repaid in money of lower value.
+
+Q: Inflation can be controlled by
+A: reducing money supply and raising interest rates
+W: printing more money
+W: lowering taxes sharply
+W: increasing government spending greatly
+E: Contractionary policy reduces demand.
+
+Q: The consumer price index (CPI) measures
+A: changes in the general price level
+W: national income
+W: unemployment
+W: exports
+E: It is used to measure inflation.
+
+Q: If the price index rises from 100 to 112, the rate of inflation is
+A: 12%
+W: 112%
+W: 100%
+W: 1.12%
+E: (112 − 100) ÷ 100 × 100.
+
+Q: Deflation can lead to
+A: falling output and unemployment
+W: rising prices
+W: higher profits always
+W: lower unemployment
+E: Spending is postponed.
+
+Q: The quantity theory of money states that
+A: MV = PT
+W: P = MV only
+W: M = PT ÷ V only for banks
+W: MV = 0
+E: Fisher's equation.
+
+Q: The demand for money for day-to-day spending is the
+A: transactions motive
+W: speculative motive
+W: precautionary motive
+W: investment motive
+E: Keynes identified three motives.
+
+Q: Holding money for emergencies is the
+A: precautionary motive
+W: transactions motive
+W: speculative motive
+W: profit motive
+E: It covers unforeseen expenses.
+
+Q: Holding money to take advantage of changes in bond prices is the
+A: speculative motive
+W: transactions motive
+W: precautionary motive
+W: consumption motive
+E: It depends on interest rates.
+
+Q: The value of money falls when
+A: the general price level rises
+W: the general price level falls
+W: interest rates are high
+W: output increases
+E: Money buys less.
+
+Q: Gresham's law states that
+A: bad money drives good money out of circulation
+W: good money drives out bad
+W: money has no value
+W: inflation is always good
+E: People hoard the better coins.
+
+Q: Durability as a quality of money means it
+A: should last long without wearing out
+W: should be heavy
+W: should be scarce only
+W: should be easily destroyed
+E: Paper notes wear out; coins last longer.
+
+Q: Portability as a quality of money means it
+A: should be easy to carry
+W: should be heavy
+W: should be large
+W: should be hidden
+E: High value in small size.
+
+@topic eco-banks
+
+Q: A function of the Central Bank of Nigeria is
+A: controlling the money supply
+W: accepting deposits from the public
+W: giving loans to individuals
+W: selling insurance
+E: It conducts monetary policy.
+
+Q: Open market operations involve
+A: buying and selling government securities
+W: printing money only
+W: closing banks
+W: fixing all prices
+E: Selling securities reduces money supply.
+
+Q: The cash reserve ratio is
+A: the proportion of deposits banks must keep with the Central Bank
+W: the interest rate on loans
+W: the exchange rate
+W: the tax rate
+E: Raising it reduces lending.
+
+Q: The monetary policy rate (MPR) is
+A: the Central Bank's benchmark interest rate
+W: the tax rate
+W: the inflation rate
+W: the exchange rate
+E: It influences other interest rates.
+
+Q: Raising the monetary policy rate tends to
+A: reduce borrowing and spending
+W: increase borrowing
+W: increase inflation
+W: reduce savings
+E: Credit becomes more expensive.
+
+Q: Commercial banks create credit through
+A: lending out a portion of deposits
+W: printing money
+W: collecting taxes
+W: buying shares only
+E: Loans become new deposits.
+
+Q: If the cash reserve ratio is 10% and a bank receives a deposit of ₦1,000, the maximum credit that can be created in the banking system is
+A: ₦10,000
+W: ₦1,000
+W: ₦100
+W: ₦9,000
+E: Money multiplier = 1 ÷ 0.1 = 10.
+
+Q: A fixed deposit account
+A: earns interest for a fixed period
+W: allows cheques
+W: pays no interest
+W: can be withdrawn anytime without notice
+E: Higher interest compensates for the lock-in.
+
+Q: Merchant (investment) banks mainly
+A: provide medium and long-term finance to businesses
+W: serve only individuals
+W: print money
+W: collect taxes
+E: They also underwrite share issues.
+
+Q: Development banks provide
+A: long-term finance for development projects
+W: only short-term loans
+W: insurance
+W: postal services
+E: E.g. Bank of Industry.
+
+Q: The money market deals in
+A: short-term funds
+W: long-term shares
+W: real estate
+W: goods
+E: E.g. treasury bills.
+
+Q: Insurance companies are part of the
+A: financial system
+W: agricultural sector
+W: mining sector
+W: manufacturing sector
+E: They mobilise savings.
+
+Q: The Nigerian Exchange (stock exchange) helps the economy by
+A: mobilising long-term capital
+W: printing money
+W: controlling inflation directly
+W: collecting taxes
+E: Firms raise funds by selling shares.
+
+Q: Mortgage institutions provide loans for
+A: housing
+W: food
+W: school fees
+W: cars only
+E: E.g. Federal Mortgage Bank.
+
+Q: Microfinance banks serve mainly
+A: low-income earners and small businesses
+W: large corporations
+W: governments
+W: foreign banks
+E: They provide small loans.
+
+Q: The Nigeria Deposit Insurance Corporation protects
+A: bank depositors
+W: insurance companies
+W: borrowers
+W: the stock exchange
+E: It insures deposits.
+
+Q: A function of commercial banks is to
+A: accept deposits and give loans
+W: issue currency
+W: control monetary policy
+W: act as banker to government
+E: These are core functions.
+
+Q: The Central Bank is banker to the government because it
+A: keeps government accounts and manages its debt
+W: lends to individuals
+W: sells insurance
+W: runs schools
+E: It also advises government.
+
+Q: Moral suasion by the Central Bank means
+A: persuading banks to follow its policies
+W: forcing banks by law
+W: closing banks
+W: printing money
+E: It is an informal tool.
+
+Q: Selective credit control means
+A: directing credit to particular sectors
+W: stopping all credit
+W: giving credit to everyone equally
+W: printing money
+E: E.g. favouring agriculture.
+
+Q: A bank's liquidity ratio is
+A: the proportion of liquid assets to deposits
+W: the profit rate
+W: the number of branches
+W: the interest rate
+E: It ensures banks can pay depositors.
+
+Q: Bank consolidation in Nigeria in 2005 required banks to raise their minimum capital to
+A: ₦25 billion
+W: ₦2 billion
+W: ₦250 billion
+W: ₦500 million
+E: It reduced the number of banks through mergers.
+
+Q: A pension fund is a
+A: financial institution that invests contributions for retirement
+W: commercial bank
+W: type of tax
+W: stock exchange
+E: Regulated by PenCom in Nigeria.
+
+Q: A discount house deals mainly in
+A: short-term government securities
+W: long-term mortgages
+W: insurance
+W: farm produce
+E: It operates in the money market.
+
+@topic eco-national-income
+
+Q: The expenditure method of national income adds
+A: consumption, investment, government spending and net exports
+W: all incomes
+W: all outputs only
+W: taxes only
+E: Y = C + I + G + (X − M).
+
+Q: The output (product) method measures
+A: the value added by each sector
+W: total spending
+W: total income
+W: only exports
+E: It avoids double counting.
+
+Q: Double counting occurs when
+A: the value of intermediate goods is counted more than once
+W: income is counted once
+W: exports are ignored
+W: taxes are excluded
+E: Only final goods or value added should be counted.
+
+Q: Transfer payments are excluded from national income because
+A: they are not payments for productive services
+W: they are too large
+W: they are taxes
+W: they are exports
+E: E.g. pensions and grants.
+
+Q: Real national income is national income adjusted for
+A: inflation
+W: population
+W: taxes
+W: exports
+E: It removes the effect of price changes.
+
+Q: National income is ₦50 billion and population is 10 million. Per capita income is
+A: ₦5,000
+W: ₦500
+W: ₦50,000
+W: ₦5 million
+E: 50,000,000,000 ÷ 10,000,000.
+
+Q: A limitation of per capita income as a measure of welfare is that it
+A: does not show income distribution
+W: is easy to calculate
+W: uses population
+W: is always accurate
+E: A few rich people can raise the average.
+
+Q: The circular flow of income shows
+A: flows of income and spending between households and firms
+W: flows of rivers
+W: flows of goods only abroad
+W: government elections
+E: Injections and withdrawals affect it.
+
+@topic eco-industry
+
+Q: Industrialisation means
+A: the development of manufacturing industries
+W: the growth of agriculture only
+W: the closing of factories
+W: the export of crude oil only
+E: It transforms the economy.
+
+Q: An industry is
+A: a group of firms producing similar products
+W: a single firm
+W: a type of tax
+W: a bank
+E: E.g. the textile industry.
+
+Q: A firm is
+A: a single business unit
+W: a group of industries
+W: a government ministry
+W: a market
+E: Several firms form an industry.
+
+Q: A footloose industry is one that
+A: can be located almost anywhere
+W: must be near raw materials
+W: must be near the sea
+W: cannot move
+E: E.g. electronics assembly.
+
+Q: Industries using bulky raw materials that lose weight in processing tend to locate
+A: near the source of raw materials
+W: near the market
+W: anywhere
+W: abroad
+E: E.g. cement and sugar.
+
+Q: Industries producing perishable or fragile goods tend to locate
+A: near the market
+W: near raw materials
+W: in the desert
+W: abroad
+E: E.g. bakeries.
+
+Q: Government policy influences industrial location through
+A: incentives such as tax holidays
+W: banning all industries
+W: raising rents everywhere
+W: closing roads
+E: E.g. export processing zones.
+
+Q: External economies of scale arise from
+A: the growth of the whole industry in an area
+W: the growth of one firm
+W: bulk buying by one firm
+W: one firm's managers
+E: E.g. skilled labour pools.
+
+Q: Diseconomies of scale occur when
+A: a firm grows too large and average costs rise
+W: average costs fall
+W: a firm is small
+W: output falls
+E: Management becomes difficult.
+
+Q: A technical economy of scale is
+A: the use of large, efficient machines
+W: bulk buying
+W: cheaper loans
+W: advertising
+E: Large firms afford better technology.
+
+Q: A financial economy of scale is
+A: easier and cheaper borrowing for large firms
+W: using large machines
+W: bulk buying
+W: risk-bearing
+E: Banks trust large firms.
+
+Q: A marketing economy of scale is
+A: bulk buying and selling
+W: cheap loans
+W: large machines
+W: research only
+E: Large firms get discounts.
+
+Q: Import substitution industries produce
+A: goods locally that were previously imported
+W: only exports
+W: only raw materials
+W: only services
+E: E.g. assembly plants.
+
+Q: Export promotion strategy aims to
+A: produce goods for sale abroad
+W: stop exports
+W: import more goods
+W: reduce production
+E: E.g. export processing zones.
+
+Q: A problem of industrialisation in Nigeria is
+A: inadequate power supply
+W: excess electricity
+W: too many skilled workers
+W: very low costs
+E: Firms rely on generators.
+
+Q: Small-scale industries help the economy by
+A: creating employment
+W: increasing unemployment
+W: reducing output
+W: closing markets
+E: They use local resources.
+
+Q: Industrial estates provide
+A: infrastructure for industries in one area
+W: farmland
+W: schools only
+W: homes only
+E: E.g. Ikeja Industrial Estate.
+
+Q: An advantage of industrialisation is
+A: increased employment and output
+W: more pollution only
+W: rural poverty
+W: dependence on imports
+E: It diversifies the economy.
+
+Q: A disadvantage of industrialisation is
+A: environmental pollution
+W: more jobs
+W: higher output
+W: technological progress
+E: Factories release waste.
+
+Q: Localisation of industry has the disadvantage of
+A: congestion and pollution
+W: skilled labour supply
+W: ancillary firms
+W: shared facilities
+E: Overcrowding raises costs.
+
+Q: Agro-allied industries use
+A: agricultural raw materials
+W: crude oil only
+W: steel only
+W: imported plastics only
+E: E.g. flour mills and textile mills.
+
+Q: The Export Processing Zones Authority (NEPZA) promotes
+A: export-oriented industries
+W: agriculture only
+W: banking
+W: tourism only
+E: Firms get incentives.
+
+Q: Industrial policy aims to
+A: guide the growth and structure of industries
+W: close all factories
+W: ban foreign investment
+W: stop exports
+E: It sets priorities.
+
+Q: The Dangote cement plants are examples of
+A: large-scale industries
+W: cottage industries
+W: tertiary services
+W: extractive farms
+E: They produce large volumes.
+
+@topic eco-unemployment
+
+Q: Unemployment means
+A: people willing and able to work cannot find jobs
+W: people refusing to work
+W: children not working
+W: retired people
+E: It is a waste of resources.
+
+Q: Cyclical unemployment is caused by
+A: a fall in aggregate demand during a recession
+W: seasons
+W: workers changing jobs
+W: technology only
+E: It follows the trade cycle.
+
+Q: Technological unemployment occurs when
+A: machines replace workers
+W: workers change jobs
+W: seasons change
+W: demand rises
+E: E.g. automation.
+
+Q: Residual unemployment affects
+A: people who are unemployable due to disability or other reasons
+W: farm workers
+W: graduates only
+W: civil servants
+E: It is a small group.
+
+Q: Voluntary unemployment occurs when
+A: people choose not to work at current wages
+W: there are no jobs
+W: machines replace workers
+W: seasons change
+E: They are not seeking work.
+
+Q: Underemployment means
+A: working below one's capacity or skills
+W: having no work at all
+W: working too much
+W: being retired
+E: E.g. a graduate working as a messenger.
+
+Q: Graduate unemployment in Nigeria is partly caused by
+A: mismatch between skills and available jobs
+W: too few graduates
+W: too many factories
+W: low population
+E: Education may not meet labour needs.
+
+Q: An effect of unemployment is
+A: increased crime and poverty
+W: higher output
+W: higher tax revenue
+W: lower poverty
+E: Idle people may turn to crime.
+
+Q: The unemployment rate is calculated as
+A: unemployed ÷ labour force × 100
+W: employed ÷ population
+W: population ÷ unemployed
+W: labour force × unemployed
+E: It shows the proportion out of work.
+
+Q: A labour force of 50 million with 10 million unemployed gives an unemployment rate of
+A: 20%
+W: 10%
+W: 50%
+W: 5%
+E: 10 ÷ 50 × 100.
+
+Q: Full employment means
+A: everyone willing to work has a job, apart from frictional unemployment
+W: everyone works, including children
+W: there is no labour force
+W: unemployment is 100%
+E: Some frictional unemployment always exists.
+
+Q: Skills acquisition programmes reduce
+A: unemployment
+W: employment
+W: output
+W: income
+E: People become employable or self-employed.
+
+Q: Expansionary fiscal policy reduces unemployment by
+A: increasing government spending
+W: reducing government spending
+W: raising taxes
+W: reducing money supply
+E: It raises demand.
+
+Q: Wages are determined in a free market by
+A: the demand for and supply of labour
+W: the government alone
+W: the weather
+W: the employers alone
+E: Equilibrium wage clears the market.
+
+Q: Collective bargaining is
+A: negotiation between trade unions and employers
+W: workers striking without talks
+W: government fixing wages
+W: individual negotiation only
+E: It sets wages and conditions.
+
+Q: A strike is
+A: workers stopping work to press demands
+W: workers working harder
+W: employers closing a factory
+W: government fixing prices
+E: It is a trade union weapon.
+
+Q: A lockout is
+A: an employer closing the workplace to pressure workers
+W: workers stopping work
+W: workers working overtime
+W: government ban on unions
+E: It is an employer's weapon.
+
+Q: The Nigeria Labour Congress (NLC) is
+A: the central body of trade unions in Nigeria
+W: an employers' association
+W: a government ministry
+W: a bank
+E: It represents workers.
+
+Q: A minimum wage is
+A: the lowest wage employers can legally pay
+W: the highest wage
+W: the average wage
+W: a type of tax
+E: It protects low-paid workers.
+
+Q: Labour turnover refers to
+A: the rate at which workers leave and are replaced
+W: total output
+W: wages paid
+W: strikes per year
+E: High turnover raises costs.
+
+Q: Mobility of labour can reduce
+A: structural unemployment
+W: employment
+W: wages
+W: output
+E: Workers move to where jobs are.
+
+Q: The N-Power programme was introduced to
+A: provide jobs and skills for young Nigerians
+W: build refineries
+W: export cocoa
+W: regulate banks
+E: It was launched in 2016.
+
+Q: Real wages are
+A: money wages adjusted for inflation
+W: wages in foreign currency
+W: wages before tax only
+W: overtime pay
+E: They show purchasing power.
+
+Q: Disguised unemployment is common in
+A: agriculture in developing countries
+W: high-tech industries
+W: banks
+W: universities
+E: Extra workers add nothing to output.
+
+@topic eco-petroleum
+
+Q: Nigeria's first oil export took place in
+A: 1958
+W: 1945
+W: 1970
+W: 1999
+E: Two years after the Oloibiri discovery.
+
+Q: NNPC was established in
+A: 1977
+W: 1956
+W: 1960
+W: 1999
+E: It merged NNOC with the Ministry of Petroleum Resources.
+
+Q: Upstream activities in the oil industry include
+A: exploration and production
+W: refining and marketing
+W: retail of petrol
+W: transport of products only
+E: They involve finding and extracting oil.
+
+Q: Downstream activities include
+A: refining, distribution and marketing
+W: exploration
+W: drilling
+W: seismic surveys
+E: They bring products to consumers.
+
+Q: The Petroleum Industry Act was signed into law in
+A: 2021
+W: 2001
+W: 1977
+W: 1960
+E: It restructured the oil sector.
+
+Q: The Nigerian Upstream Petroleum Regulatory Commission (NUPRC) was created by the
+A: Petroleum Industry Act 2021
+W: Land Use Act
+W: Constitution of 1979
+W: Electoral Act
+E: It replaced the DPR in upstream regulation.
+
+Q: Oil revenue has contributed to Nigeria's economy by
+A: providing foreign exchange and government revenue
+W: increasing agricultural exports only
+W: reducing imports of all goods
+W: ending unemployment
+E: It dominates exports.
+
+Q: A negative effect of oil on the Nigerian economy is
+A: neglect of agriculture
+W: more foreign exchange
+W: higher revenue
+W: infrastructure development
+E: Farming declined.
+
+Q: The "Dutch disease" refers to
+A: decline of other sectors due to a resource boom
+W: a disease of cows
+W: inflation in the Netherlands only
+W: oil pollution
+E: Currency appreciation hurts other exports.
+
+Q: Oil price fluctuations affect Nigeria because
+A: government revenue depends heavily on oil
+W: Nigeria produces no oil
+W: oil prices never change
+W: Nigeria exports mostly cocoa
+E: Budgets are based on oil prices.
+
+Q: Gas flaring wastes
+A: natural gas and pollutes the environment
+W: crude oil only
+W: water
+W: electricity
+E: Associated gas is burnt.
+
+Q: The Niger Delta Development Commission (NDDC) was set up to
+A: develop the oil-producing areas
+W: refine oil
+W: export gas
+W: regulate banks
+E: It was established in 2000.
+
+Q: The derivation principle in revenue allocation gives
+A: a share of revenue to the states producing the resource
+W: equal revenue to all states
+W: all revenue to the federal government
+W: no revenue to states
+E: Currently at least 13% for oil.
+
+Q: Nigeria's refineries are located at
+A: Port Harcourt, Warri and Kaduna
+W: Lagos and Ibadan
+W: Kano and Jos
+W: Abuja and Enugu
+E: The Dangote refinery is in Lagos (Lekki).
+
+Q: Petrol subsidy means
+A: the government paying part of the cost of petrol
+W: a tax on petrol
+W: a ban on petrol
+W: the export of petrol
+E: It keeps pump prices low.
+
+Q: A problem of the petroleum industry in Nigeria is
+A: pipeline vandalism and oil theft
+W: too little oil
+W: no foreign investment ever
+W: too many working refineries
+E: It reduces output.
+
+Q: Liquefied natural gas is exported from
+A: Bonny
+W: Kano
+W: Jos
+W: Sokoto
+E: Nigeria LNG operates at Bonny Island.
+
+Q: Nigeria joined OPEC in
+A: 1971
+W: 1960
+W: 1977
+W: 1990
+E: OPEC sets production quotas.
+
+Q: OPEC's main aim is to
+A: coordinate petroleum policies of member countries
+W: regulate banks
+W: control farming
+W: promote tourism
+E: It aims for stable oil prices.
+
+Q: Joint venture arrangements in Nigeria's oil industry involve
+A: the government partnering with foreign oil companies
+W: farmers and banks
+W: schools and churches
+W: only Nigerian firms
+E: Costs and output are shared.
+
+Q: Production sharing contracts mean
+A: the oil company bears costs and shares output with government
+W: the government bears all costs
+W: no oil is shared
+W: farmers share oil
+E: Common in deep-water fields.
+
+Q: Diversification away from oil can be achieved by
+A: developing agriculture, manufacturing and services
+W: producing more oil only
+W: banning agriculture
+W: importing all goods
+E: It reduces vulnerability.
+
+Q: The Excess Crude Account was created to
+A: save oil revenue above the budget benchmark price
+W: spend all oil revenue
+W: pay subsidies only
+W: fund elections
+E: It acts as a buffer.
+
+Q: The Nigeria Sovereign Investment Authority manages
+A: savings from oil revenue for future generations and stabilisation
+W: oil refineries
+W: petrol stations
+W: banks
+E: It was established in 2011.
+
+@topic eco-bop
+
+Q: The current account records
+A: trade in goods, services and income transfers
+W: only capital flows
+W: only loans
+W: only gold
+E: It includes visible and invisible trade.
+
+Q: The capital account records
+A: flows of investment and loans
+W: trade in goods only
+W: services only
+W: tourism only
+E: E.g. foreign direct investment.
+
+Q: Visible trade is trade in
+A: goods
+W: services
+W: ideas
+W: labour only
+E: E.g. crude oil exports.
+
+Q: Invisible trade includes
+A: shipping, insurance, banking and tourism
+W: crude oil
+W: cocoa
+W: cars
+E: These are services.
+
+Q: A balance of trade surplus means
+A: visible exports exceed visible imports
+W: visible imports exceed exports
+W: exports equal zero
+W: no trade
+E: It is favourable.
+
+Q: A balance of payments deficit means
+A: payments to other countries exceed receipts
+W: receipts exceed payments
+W: payments equal receipts
+W: no trade
+E: It must be financed.
+
+Q: Devaluation can correct a deficit by
+A: making exports cheaper and imports dearer
+W: making exports dearer
+W: making imports cheaper
+W: banning all exports
+E: Exports rise and imports fall.
+
+Q: Exchange control means
+A: government restricting access to foreign currency
+W: free exchange of currency
+W: no foreign exchange
+W: printing foreign money
+E: It reduces imports.
+
+Q: Import restrictions such as quotas and tariffs can
+A: reduce a balance of payments deficit
+W: increase the deficit
+W: have no effect
+W: increase imports
+E: Fewer imports reduce payments.
+
+Q: Foreign direct investment is recorded in the
+A: capital (financial) account
+W: current account
+W: trade account only
+W: invisible account
+E: It is a capital inflow.
+
+Q: Remittances from Nigerians abroad are recorded in the
+A: current account (transfers)
+W: capital account
+W: visible trade
+W: official reserves only
+E: They are current transfers.
+
+Q: The balance of payments always balances in an accounting sense because
+A: deficits are financed by reserves or borrowing
+W: exports always equal imports
+W: there is no trade
+W: governments ban deficits
+E: Official financing balances the accounts.
+
+Q: An exchange rate is
+A: the price of one currency in terms of another
+W: the interest rate
+W: the inflation rate
+W: the tax rate
+E: E.g. naira per dollar.
+
+Q: A floating exchange rate is determined by
+A: demand and supply of the currency
+W: the government only
+W: gold only
+W: the IMF
+E: It changes with market forces.
+
+Q: A fixed exchange rate is
+A: set by the government or central bank
+W: determined by the market
+W: always zero
+W: changed daily by traders
+E: The central bank defends it.
+
+Q: Depreciation of the naira means
+A: the naira loses value against other currencies
+W: the naira gains value
+W: the naira is fixed
+W: the naira is abolished
+E: More naira are needed for a dollar.
+
+Q: Appreciation of a currency makes imports
+A: cheaper
+W: dearer
+W: impossible
+W: unaffected
+E: The currency buys more foreign goods.
+
+Q: Causes of a balance of payments deficit include
+A: heavy dependence on imports
+W: high exports
+W: low imports
+W: high foreign investment
+E: Payments exceed receipts.
+
+Q: Expenditure-reducing policies to correct a deficit include
+A: raising taxes and interest rates
+W: increasing government spending
+W: lowering taxes
+W: printing money
+E: They reduce demand for imports.
+
+Q: Expenditure-switching policies to correct a deficit include
+A: devaluation and tariffs
+W: increasing all imports
+W: reducing exports
+W: lowering tariffs
+E: They switch demand to local goods.
+
+Q: Foreign reserves are used to
+A: finance balance of payments deficits and stabilise the currency
+W: pay civil servants only
+W: build roads only
+W: fund elections
+E: They are held by the central bank.
+
+Q: The J-curve effect describes how a devaluation
+A: may worsen the balance of trade before it improves
+W: always improves trade immediately
+W: has no effect
+W: always worsens trade permanently
+E: Demand takes time to respond.
+
+Q: The Marshall-Lerner condition states that devaluation improves the trade balance if
+A: the sum of export and import demand elasticities exceeds 1
+W: elasticities are zero
+W: imports are inelastic and exports are inelastic
+W: there is no trade
+E: Demand must be elastic enough.
+
+Q: Capital flight occurs when
+A: money leaves a country rapidly due to fear or instability
+W: foreign capital enters
+W: aircraft are exported
+W: exports rise
+E: It worsens the capital account.
+
+@topic eco-public-finance
+
+Q: Public finance deals with
+A: government revenue and expenditure
+W: household budgets only
+W: company profits only
+W: bank loans only
+E: It includes taxation and borrowing.
+
+Q: A direct tax is
+A: paid directly to the government by the person on whom it is levied
+W: a tax on goods
+W: shifted to others easily
+W: a tariff only
+E: E.g. income tax.
+
+Q: An indirect tax is
+A: a tax on goods and services
+W: a tax on income
+W: a tax on profits
+W: a tax on property only
+E: E.g. VAT.
+
+Q: Value Added Tax (VAT) in Nigeria is currently
+A: 7.5%
+W: 5%
+W: 15%
+W: 25%
+E: It was raised from 5% in 2020.
+
+Q: A regressive tax is one that
+A: takes a higher proportion of income from the poor
+W: takes more from the rich
+W: takes the same proportion from all
+W: is not paid by anyone
+E: Indirect taxes are often regressive.
+
+Q: A proportional tax is one that
+A: takes the same percentage of income from everyone
+W: increases with income
+W: decreases with income
+W: is a fixed amount
+E: E.g. a flat rate tax.
+
+Q: The canon of certainty states that a tax should be
+A: clear about how much, when and how to pay
+W: very high
+W: hidden
+W: unpredictable
+E: Adam Smith's canons.
+
+Q: The canon of convenience means a tax should be
+A: collected at a time and in a manner convenient to the taxpayer
+W: collected at any time
+W: very expensive to collect
+W: hidden from taxpayers
+E: E.g. PAYE deductions.
+
+Q: The canon of economy means a tax should
+A: cost little to collect
+W: cost a lot to collect
+W: be very high
+W: be paid in goods
+E: Collection costs should be low.
+
+Q: The canon of equity means a tax should be
+A: based on ability to pay
+W: the same amount for all
+W: paid only by the poor
+W: paid only by companies
+E: It promotes fairness.
+
+Q: Tax evasion is
+A: illegally avoiding payment of tax
+W: legally reducing tax
+W: paying tax early
+W: overpaying tax
+E: It is a crime.
+
+Q: Tax avoidance is
+A: legally reducing tax liability
+W: illegally refusing to pay
+W: bribing tax officials
+W: hiding income
+E: E.g. using allowances.
+
+Q: Capital expenditure by government includes
+A: building roads and hospitals
+W: paying salaries
+W: buying stationery
+W: paying pensions
+E: It creates assets.
+
+Q: Recurrent expenditure includes
+A: salaries and maintenance costs
+W: building dams
+W: constructing schools
+W: buying land
+E: It recurs every year.
+
+Q: A balanced budget is one in which
+A: revenue equals expenditure
+W: revenue exceeds expenditure
+W: expenditure exceeds revenue
+W: there is no budget
+E: Neither surplus nor deficit.
+
+Q: A budget surplus occurs when
+A: revenue exceeds expenditure
+W: expenditure exceeds revenue
+W: revenue equals expenditure
+W: there is no revenue
+E: It may reduce inflation.
+
+Q: Fiscal policy involves the use of
+A: taxation and government spending
+W: interest rates only
+W: money supply only
+W: exchange rates only
+E: It is run by the government.
+
+Q: Public debt is
+A: money owed by the government
+W: money owed by individuals
+W: money owed by banks to customers
+W: profits of companies
+E: It may be internal or external.
+
+Q: External debt is
+A: money owed to foreign lenders
+W: money owed to citizens
+W: tax arrears
+W: savings
+E: E.g. loans from the World Bank.
+
+Q: Debt servicing means
+A: paying interest and principal on debts
+W: borrowing more
+W: cancelling debts
+W: printing money
+E: It uses government revenue.
+
+Q: Revenue allocation in Nigeria shares federation revenue among
+A: federal, state and local governments
+W: banks
+W: companies
+W: foreign countries
+E: The Revenue Mobilisation Allocation and Fiscal Commission advises on it.
+
+Q: Company income tax is levied on
+A: the profits of companies
+W: salaries of workers
+W: goods imported
+W: land only
+E: It is a direct tax.
+
+Q: Excise duty is a tax on
+A: goods produced within the country
+W: imports
+W: exports only
+W: incomes
+E: E.g. on beer and cigarettes.
+
+Q: An advantage of indirect taxes is that they
+A: are difficult to evade
+W: are progressive
+W: take more from the rich always
+W: are paid only once a year
+E: They are included in prices.
+
+@topic eco-trade
+
+Q: International trade arises mainly because
+A: countries have different resources and costs of production
+W: all countries produce the same goods
+W: there is no demand
+W: governments forbid local production
+E: Specialisation brings gains.
+
+Q: Absolute advantage means a country
+A: can produce a good with fewer resources than another
+W: produces nothing
+W: has higher costs
+W: cannot trade
+E: Adam Smith's idea.
+
+Q: Comparative advantage means a country should specialise in the good
+A: with the lowest opportunity cost
+W: with the highest cost
+W: it cannot produce
+W: imported most
+E: Ricardo's theory.
+
+Q: A gain from international trade is
+A: wider variety of goods for consumers
+W: fewer goods
+W: higher prices always
+W: less specialisation
+E: Consumers get more choice.
+
+Q: Protectionism means
+A: restricting imports to protect local industries
+W: free trade
+W: increasing all imports
+W: removing tariffs
+E: E.g. tariffs and quotas.
+
+Q: The infant industry argument for protection says
+A: new industries need protection until they can compete
+W: old industries need no protection
+W: all imports should be free
+W: industries should close
+E: They need time to grow.
+
+Q: A quota is
+A: a limit on the quantity of imports
+W: a tax on imports
+W: a ban on all trade
+W: a subsidy to exporters
+E: It restricts volume.
+
+Q: Free trade means
+A: trade without government restrictions
+W: trade with many restrictions
+W: no trade at all
+W: trade only within a country
+E: No tariffs or quotas.
+
+Q: Terms of trade are favourable when
+A: export prices rise relative to import prices
+W: import prices rise relative to export prices
+W: export prices fall
+W: there is no trade
+E: More imports for each export.
+
+Q: The terms of trade index is calculated as
+A: index of export prices ÷ index of import prices × 100
+W: imports ÷ exports
+W: exports × imports
+W: export volume ÷ import volume
+E: Above 100 is favourable.
+
+Q: If the export price index is 120 and the import price index is 100, the terms of trade index is
+A: 120
+W: 83
+W: 100
+W: 220
+E: 120 ÷ 100 × 100.
+
+Q: A disadvantage of international trade is
+A: dependence on other countries
+W: wider choice
+W: specialisation
+W: lower prices
+E: Supply may be disrupted.
+
+Q: Dumping is
+A: selling goods abroad below cost or home price
+W: buying goods at high prices
+W: banning imports
+W: storing goods
+E: It harms local producers.
+
+Q: The World Trade Organization was established in
+A: 1995
+W: 1945
+W: 1975
+W: 2005
+E: It replaced GATT.
+
+Q: The African Continental Free Trade Area (AfCFTA) aims to
+A: create a single market across Africa
+W: ban trade in Africa
+W: create a single African army
+W: replace all African currencies with the dollar
+E: Trading began in 2021.
+
+Q: A trade embargo is
+A: a ban on trade with a particular country
+W: a tax on imports
+W: a subsidy
+W: a quota
+E: It is often used as a sanction.
+
+Q: Specialisation in international trade leads to
+A: increased world output
+W: reduced world output
+W: no change in output
+W: higher costs always
+E: Resources are used efficiently.
+
+Q: A country with a comparative advantage in cocoa should
+A: specialise in and export cocoa
+W: import cocoa
+W: stop producing cocoa
+W: ban cocoa exports
+E: It gains by exchanging cocoa for other goods.
+
+Q: Export subsidies are given to
+A: make exports cheaper abroad
+W: reduce exports
+W: increase imports
+W: stop production
+E: They help exporters compete.
+
+Q: Countertrade is
+A: exchanging goods directly between countries without money
+W: buying with credit cards
+W: banking services
+W: trade within one country
+E: It is a form of barter.
+
+Q: Entrepôt trade is
+A: importing goods and re-exporting them
+W: exporting raw goods only
+W: trading only services
+W: producing for home use
+E: E.g. Singapore and Dubai.
+
+Q: Customs union members
+A: remove trade barriers among themselves and share a common external tariff
+W: have no trade
+W: use different tariffs against outsiders
+W: ban trade among members
+E: E.g. the ECOWAS Common External Tariff.
+
+@topic eco-development
+
+Q: Economic growth means
+A: an increase in a country's real output over time
+W: a fall in output
+W: rising prices only
+W: a fall in population
+E: It is measured by GDP growth.
+
+Q: Economic development includes growth plus
+A: improvements in living standards and structure of the economy
+W: higher inflation
+W: more unemployment
+W: lower education
+E: It is broader than growth.
+
+Q: The Human Development Index combines
+A: life expectancy, education and income per head
+W: inflation and unemployment
+W: exports and imports
+W: taxes and spending
+E: It is published by the UNDP.
+
+Q: A characteristic of developing countries is
+A: high dependence on primary production
+W: high industrialisation
+W: low population growth
+W: high income per head
+E: E.g. agriculture and mining.
+
+Q: A vicious circle of poverty means
+A: low income leads to low savings, low investment and low income again
+W: high income leads to more income
+W: poverty ends automatically
+W: savings are always high
+E: It traps poor economies.
+
+Q: Development planning is
+A: government setting goals and strategies for the economy
+W: allowing the market to decide everything
+W: banning investment
+W: reducing all spending
+E: Nigeria has had several development plans.
+
+Q: Nigeria's First National Development Plan covered the period
+A: 1962–1968
+W: 1975–1980
+W: 1990–1995
+W: 2000–2005
+E: It followed independence.
+
+Q: The World Bank mainly provides
+A: long-term loans for development projects
+W: short-term loans for balance of payments only
+W: free money to everyone
+W: currency printing
+E: Its full name is the International Bank for Reconstruction and Development.
+
+Q: The African Development Bank has its headquarters in
+A: Abidjan
+W: Lagos
+W: Nairobi
+W: Addis Ababa
+E: It finances projects in Africa.
+
+Q: The African Union has its headquarters in
+A: Addis Ababa
+W: Lagos
+W: Abuja
+W: Cairo
+E: It replaced the OAU in 2002.
+
+Q: The United Nations Conference on Trade and Development (UNCTAD) promotes
+A: the trade and development interests of developing countries
+W: military alliances
+W: football
+W: nuclear power
+E: It was set up in 1964.
+
+Q: Foreign aid can help development by
+A: providing capital and technical assistance
+W: increasing poverty
+W: stopping growth
+W: reducing investment
+E: It fills savings gaps.
+
+Q: A disadvantage of foreign aid is that it
+A: may come with conditions that limit policy choices
+W: always helps
+W: has no conditions
+W: increases independence
+E: Tied aid restricts use.
+
+Q: Infrastructure such as roads and power promotes development by
+A: reducing the cost of production and transport
+W: increasing costs
+W: reducing output
+W: discouraging investment
+E: It supports economic activity.
+
+Q: The Millennium Development Goals were replaced by the
+A: Sustainable Development Goals (SDGs)
+W: Vision 2020
+W: SAP
+W: NEEDS
+E: The SDGs run to 2030.
+
+Q: The Structural Adjustment Programme (SAP) was introduced in Nigeria in
+A: 1986
+W: 1976
+W: 1999
+W: 2010
+E: It aimed to restructure the economy.
+
+Q: NEEDS (National Economic Empowerment and Development Strategy) was launched in
+A: 2004
+W: 1986
+W: 1962
+W: 2020
+E: It focused on growth and poverty reduction.
+
+Q: Human capital development refers to
+A: improving people's education, skills and health
+W: building factories
+W: buying machines
+W: printing money
+E: Skilled people raise productivity.
+
+Q: Appropriate technology is technology that
+A: suits the resources and needs of a country
+W: is always the most expensive
+W: replaces all workers
+W: is imported only
+E: E.g. labour-intensive methods.
+
+Q: A dual economy has
+A: a modern sector alongside a traditional sector
+W: only a modern sector
+W: only agriculture
+W: two currencies
+E: Common in developing countries.
+
+Q: ECOWAS aims to
+A: promote economic integration in West Africa
+W: create one army
+W: ban trade
+W: run elections
+E: It works for a common market.
+
+Q: The IMF provides
+A: short-term financial support for balance of payments problems
+W: long-term project loans only
+W: free food aid
+W: military support
+E: It also advises on policy.
+
+Q: The Paris Club is
+A: a group of creditor countries
+W: a football club
+W: a trade union
+W: a type of bank in Nigeria
+E: Nigeria settled its Paris Club debt in 2006.
+
+Q: Economic Community of West African States has its headquarters in
+A: Abuja
+W: Accra
+W: Dakar
+W: Lagos
+E: The Commission is in Abuja.
