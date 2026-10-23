@@ -33,8 +33,8 @@ export interface AppData {
   bookmarks: string[];
   mocks: { at: number; total: number }[];
   activeExam: ExamState | null;
-  /** installHintDismissed: the web "add to home screen" tip was closed. */
-  settings: { theme: ThemeSetting; installHintDismissed?: boolean };
+  /** installHintDismissed: the web "add to home screen" tip was closed. sounds: answer sounds, on unless turned off. */
+  settings: { theme: ThemeSetting; installHintDismissed?: boolean; sounds?: boolean };
 }
 
 export const initialData: AppData = {
@@ -75,6 +75,7 @@ interface Store {
   setExam: (exam: ExamState | null) => void;
   finishExam: (total: number) => void;
   setTheme: (theme: ThemeSetting) => void;
+  setSounds: (on: boolean) => void;
 }
 
 const Ctx = createContext<Store | null>(null);
@@ -119,6 +120,7 @@ export function AppStoreProvider({ children }: { children: ReactNode }) {
     setExam: exam => update(d => ({ ...d, activeExam: exam })),
     finishExam: total => update(d => ({ ...d, mocks: [...d.mocks, { at: Date.now(), total }] })),
     setTheme: theme => update(d => ({ ...d, settings: { ...d.settings, theme } })),
+    setSounds: on => update(d => ({ ...d, settings: { ...d.settings, sounds: on } })),
   }), [data, hydrated, update]);
 
   return <Ctx.Provider value={store}>{children}</Ctx.Provider>;

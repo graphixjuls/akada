@@ -55,7 +55,7 @@ export default function Profile() {
       {desktop && (
         <Card>
           <AkadaText variant="labelLarge">Theme</AkadaText>
-          <Row gap={space[8]}>{themes.map(([v, l]) => <Chip key={v} label={l} selected={data.settings.theme === v} onPress={() => setTheme(v)} grow />)}</Row>
+          <Row gap={space[8]}>{themes.map(([v, l]) => <Chip key={v} label={l} kind="radio" selected={data.settings.theme === v} onPress={() => setTheme(v)} grow />)}</Row>
           <AkadaText variant="bodySmall" color="textSecondary">System follows your device’s setting.</AkadaText>
         </Card>
       )}

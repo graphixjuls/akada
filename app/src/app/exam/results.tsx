@@ -57,7 +57,7 @@ export default function Results() {
         </Card>
       </Stack>
       <Row align="stretch">
-        {[[formatClock(used), 'Time used'], [`${r.counts.answered}/${r.counts.total}`, 'Answered'], [String(r.wrongIds.length), 'Wrong']].map(([v, l]) => <Card key={l} style={{ flex: 1 }} gap={space[4]}><AkadaText variant="h3">{v}</AkadaText><AkadaText variant="bodySmall" color="textSecondary">{l}</AkadaText></Card>)}
+        {[[formatClock(used), 'Time used'], [`${r.counts.answered}/${r.counts.total}`, 'Answered'], [String(r.wrongIds.length), 'Wrong']].map(([v, l]) => <Card key={l} style={{ flex: 1 }} gap={space[4]}><AkadaText variant="h3" heading={false}>{v}</AkadaText><AkadaText variant="bodySmall" color="textSecondary">{l}</AkadaText></Card>)}
       </Row>
       {weakest && weakest.score < 100 && (
         <Card tone="warningContainer" gap={space[8]}>

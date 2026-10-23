@@ -27,7 +27,7 @@ export function LogoMark({ size = 40, inverse }: { size?: number; inverse?: bool
 /** The wordmark is always lowercase, in Poppins SemiBold. */
 export function Wordmark({ size = 24, onPrimary }: { size?: number; onPrimary?: boolean }) {
   return (
-    <AkadaText variant="h2" color={onPrimary ? 'textOnPrimary' : 'textPrimary'} style={{ fontFamily: 'Poppins_600SemiBold', fontSize: size, lineHeight: size * 1.3, letterSpacing: -0.01 * size }}>
+    <AkadaText variant="h2" heading={false} color={onPrimary ? 'textOnPrimary' : 'textPrimary'} style={{ fontFamily: 'Poppins_600SemiBold', fontSize: size, lineHeight: size * 1.3, letterSpacing: -0.01 * size }}>
       akada
     </AkadaText>
   );

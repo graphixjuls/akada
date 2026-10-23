@@ -10,11 +10,13 @@ import { AnswerOption } from '@/components/Exam';
 import { Dialog, EmptyState, useToast } from '@/components/Feedback';
 import { IconButton } from '@/components/IconButton';
 import { Card, Row, Screen, Stack } from '@/components/Layout';
+import { FadeIn, Reaction } from '@/components/Motion';
 import { ProgressBar } from '@/components/Progress';
 import { pickQuestions, questionsFor, topicsFor } from '@/data/bank';
 import { subjectMeta } from '@/data/subjectMeta';
 import type { Question } from '@/data/types';
 import { initialPractice, optionState, practiceReducer } from '@/logic/practice';
+import { useSound } from '@/logic/sound';
 import { useStore } from '@/store/AppStore';
 import { useLayout } from '@/theme/responsive';
 import { space, useTheme } from '@/theme/theme';
@@ -41,6 +43,12 @@ export default function Session() {
   const [startedAt] = useState(() => Date.now());
   const q = questions[s.index];
   const { wide } = useLayout();
+  const sound = useSound();
+  const check = () => {
+    if (!q || s.selected === null) return;
+    sound(s.selected === q.answerIndex ? 'correct' : 'wrong');
+    dispatch({ type: 'check', answerIndex: q.answerIndex });
+  };
 
   // Computers: A–D (or 1–4) choose an answer, Enter checks it and then moves on.
   const isLast = s.index === questions.length - 1;
@@ -53,13 +61,13 @@ export default function Session() {
       if (pick >= 0 && !s.checked) { e.preventDefault(); dispatch({ type: 'select', option: pick }); }
       else if (k === 'enter') {
         e.preventDefault();
-        if (!s.checked && s.selected !== null) dispatch({ type: 'check', answerIndex: q.answerIndex });
+        if (!s.checked && s.selected !== null) check();
         else if (s.checked && !isLast) dispatch({ type: 'next' });
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [q, s.checked, s.selected, isLast, leaving]);
+  });
 
   if (!q) return <Screen><EmptyState emoji="pencil" title="No questions here yet" body="There are no questions for this topic yet." action={<Button label="Go back" variant="ghost" onPress={() => router.back()} />} /></Screen>;
 
@@ -79,7 +87,7 @@ export default function Session() {
   return (
     <Screen width="focus" footer={
       !s.checked
-        ? <Button label="Check answer" disabled={s.selected === null} onPress={() => dispatch({ type: 'check', answerIndex: q.answerIndex })} block />
+        ? <Button label="Check answer" disabled={s.selected === null} onPress={check} block />
         : <Button label={isLast ? 'See results' : 'Next question'} onPress={() => (isLast ? finish() : dispatch({ type: 'next' }))} block />
     }>
       <Row>
@@ -92,17 +100,29 @@ export default function Session() {
         <Row><SubjectTag label={topic ? `${m.name} · ${topic.name}` : m.name} color={m.color} /><View style={{ flex: 1 }} />{topic && <AkadaText variant="labelSmall" color="textSecondary">{topic.level}</AkadaText>}</Row>
         <AkadaText variant="question" accessibilityRole="header">{q.text}</AkadaText>
         <Stack gap={space[12]}>
-          {q.options.map((o, i) => <AnswerOption key={i} letter={'ABCD'[i]} text={o} state={optionState(s, i, q.answerIndex)} disabled={s.checked} onPress={() => dispatch({ type: 'select', option: i })} />)}
+          {q.options.map((o, i) => {
+            const state = optionState(s, i, q.answerIndex);
+            return (
+              <Reaction key={`${q.id}-${i}`} trigger={state === 'Correct' || state === 'Wrong'} kind={state === 'Wrong' ? 'shake' : 'pop'}>
+                <AnswerOption letter={'ABCD'[i]} text={o} state={state} chosen={s.selected === i} disabled={s.checked} onPress={() => dispatch({ type: 'select', option: i })} />
+              </Reaction>
+            );
+          })}
         </Stack>
         {params.first && s.index === 0 && !s.checked && (
           <Card tone="primaryContainer"><Row><AkadaIcon icon={LightbulbIcon} /><AkadaText variant="bodyMedium" style={{ flex: 1 }}>Tip: tap an answer, then tap Check answer. You’ll see if you’re right and why, straight away.</AkadaText></Row></Card>
         )}
+        {/* Always rendered, so screen readers announce the result when it appears (Android and web). */}
+        <View aria-live="polite">
         {s.checked && (
-          <Card tone={correct ? 'successContainer' : 'errorContainer'} gap={space[8]}>
-            <Row gap={space[8]}><AkadaIcon icon={correct ? CheckCircleIcon : XCircleIcon} active color={correct ? c.success : c.error} /><AkadaText variant="labelLarge">{correct ? 'Correct! Well done.' : `Not quite. The answer is ${'ABCD'[q.answerIndex]}.`}</AkadaText></Row>
-            <AkadaText variant="bodyMedium" color="textSecondary">{q.explanation}</AkadaText>
-          </Card>
+          <FadeIn key={q.id}>
+            <Card tone={correct ? 'successContainer' : 'errorContainer'} gap={space[8]}>
+              <Row gap={space[8]}><AkadaIcon icon={correct ? CheckCircleIcon : XCircleIcon} active color={correct ? c.success : c.error} /><AkadaText variant="labelLarge">{correct ? 'Correct! Well done.' : `Not quite. The answer is ${'ABCD'[q.answerIndex]}.`}</AkadaText></Row>
+              <AkadaText variant="bodyMedium" color="textSecondary">{q.explanation}</AkadaText>
+            </Card>
+          </FadeIn>
         )}
+        </View>
       </Stack>
       {wide && Platform.OS === 'web' && <AkadaText variant="bodySmall" color="textTertiary">Keys: A–D to choose · Enter to check · Enter again for the next question</AkadaText>}
       <Dialog visible={leaving} title="Leave practice?" body="Your answers so far are saved. You can pick up this topic later." primaryLabel="Keep practising" onPrimary={() => setLeaving(false)} secondaryLabel="Leave" onSecondary={() => { setLeaving(false); save(); router.back(); }} />

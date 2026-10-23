@@ -33,9 +33,9 @@ export default function Review() {
       <Row><IconButton icon={ArrowLeftIcon} label="Back" onPress={() => router.back()} /><AkadaText variant="h2">Review answers</AkadaText></Row>
       {counts && (
         <Row gap={space[8]}>
-          <Chip label={`All ${counts.all}`} selected={filter === 'all'} onPress={() => setFilter('all')} />
-          <Chip label={`Wrong ${counts.wrong}`} selected={filter === 'wrong'} onPress={() => setFilter('wrong')} />
-          <Chip label={`Flagged ${counts.flagged}`} selected={filter === 'flagged'} onPress={() => setFilter('flagged')} />
+          <Chip label={`All ${counts.all}`} kind="radio" selected={filter === 'all'} onPress={() => setFilter('all')} />
+          <Chip label={`Wrong ${counts.wrong}`} kind="radio" selected={filter === 'wrong'} onPress={() => setFilter('wrong')} />
+          <Chip label={`Flagged ${counts.flagged}`} kind="radio" selected={filter === 'flagged'} onPress={() => setFilter('flagged')} />
         </Row>
       )}
       {shown.length === 0 && (

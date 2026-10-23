@@ -3,7 +3,7 @@
     "name": "Akada",
     "slug": "akada",
     "scheme": "akada",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -12,7 +12,7 @@
     },
     "android": {
       "package": "com.akada.practice",
-      "versionCode": 3,
+      "versionCode": 4,
       "adaptiveIcon": {
         "backgroundColor": "#1570E6",
         "foregroundImage": "./assets/android-icon-foreground.png",

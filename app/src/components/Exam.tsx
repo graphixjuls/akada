@@ -8,7 +8,8 @@ import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';
 
 /** Letter A–D + answer text, full-row tap. Correct/Wrong always pair colour with an icon. */
-export function AnswerOption({ letter, text, state, onPress, disabled }: { letter: string; text: string; state: OptionState; onPress?: () => void; disabled?: boolean }) {
+/** `chosen` is what the student picked; after checking, the correct option shows Correct even when it was not chosen. */
+export function AnswerOption({ letter, text, state, onPress, disabled, chosen }: { letter: string; text: string; state: OptionState; onPress?: () => void; disabled?: boolean; chosen?: boolean }) {
   const { c } = useTheme();
   const look = {
     Default: { bg: c.bgSurface, border: c.borderDefault, badge: c.bgSunken, badgeText: c.textSecondary },
@@ -21,7 +22,8 @@ export function AnswerOption({ letter, text, state, onPress, disabled }: { lette
       onPress={onPress}
       disabled={disabled}
       accessibilityRole="radio"
-      accessibilityState={{ selected: state !== 'Default', disabled }}
+      aria-checked={chosen ?? state !== 'Default'}
+      aria-disabled={disabled}
       accessibilityLabel={`${letter}. ${text}${state === 'Correct' ? ', correct answer' : state === 'Wrong' ? ', wrong' : ''}`}
       style={{ minHeight: 56, flexDirection: 'row', alignItems: 'center', gap: space[12], padding: space[12], borderRadius: radius.md, borderWidth: state === 'Default' ? 1 : 2, borderColor: look.border, backgroundColor: look.bg }}
     >

@@ -29,7 +29,7 @@ export default function Progress() {
       <Screen tab>
         <AkadaText variant="h1">Your progress</AkadaText>
         <Photo source={images.signup} height={220} />
-        <Stack style={{ alignItems: 'center' }}>
+        <Stack gap={space[8]} style={{ alignItems: 'center' }}>
           <AkadaText variant="h2" align="center">No progress yet</AkadaText>
           <AkadaText variant="bodyMedium" color="textSecondary" align="center">Answer your first questions and your stats, weak topics and streak will show up here.</AkadaText>
         </Stack>
@@ -61,7 +61,7 @@ export default function Progress() {
     <Screen tab>
       <Stack gap={space[4]}><AkadaText variant="h1">Your progress</AkadaText><AkadaText variant="bodyMedium" color="textSecondary">All time · on {THIS_DEVICE}</AkadaText></Stack>
       <Grid columns={desktop ? 4 : 2}>
-        {stats.map(([v, l, e]) => <Card key={l} style={{ flex: 1 }} gap={space[8]}><Emoji name={e} size={32} /><AkadaText variant="h2">{v}</AkadaText><AkadaText variant="bodySmall" color="textSecondary">{l}</AkadaText></Card>)}
+        {stats.map(([v, l, e]) => <Card key={l} style={{ flex: 1 }} gap={space[8]}><Emoji name={e} size={32} /><AkadaText variant="h2" heading={false}>{v}</AkadaText><AkadaText variant="bodySmall" color="textSecondary">{l}</AkadaText></Card>)}
       </Grid>
       <Grid columns={pair} gap={space[24]}>
       <Stack gap={space[12]}>

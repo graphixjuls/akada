@@ -25,6 +25,8 @@ To update, download the newer APK from the Releases page and install it over the
 - **Timed mock tests:** any of your subjects, 20 random questions each, scored as percentages.
 - **Progress:** streaks, accuracy by subject, weak topics and bookmarks.
 - **Light and dark themes.**
+- **Gentle feedback:** subtle animations and short, quiet sounds (you can turn sounds off). Animations switch off when your device asks for reduced motion.
+- **Screen reader support:** works with TalkBack on Android and with screen readers on the web.
 
 Everything is stored on your phone. Akada sends nothing anywhere.
 

@@ -23,7 +23,7 @@ export function BottomNav({ state, navigateToTab, insets }: BottomTabBarProps) {
         if (!tab) return null;
         const active = state.index === i;
         return (
-          <Pressable key={route.key} onPress={() => navigateToTab(route.key)} accessibilityRole="tab" accessibilityState={{ selected: active }} accessibilityLabel={tab.label} style={{ flex: 1, alignItems: 'center', gap: space[4], minHeight: 52 }}>
+          <Pressable key={route.key} onPress={() => navigateToTab(route.key)} accessibilityRole="tab" aria-selected={active} accessibilityLabel={tab.label} style={{ flex: 1, alignItems: 'center', gap: space[4], minHeight: 52 }}>
             <View style={{ width: 56, height: 32, borderRadius: radius.full, alignItems: 'center', justifyContent: 'center', backgroundColor: active ? c.primaryContainer : 'transparent' }}>
               <AkadaIcon icon={tab.icon} active={active} color={active ? c.primary : c.textSecondary} />
             </View>

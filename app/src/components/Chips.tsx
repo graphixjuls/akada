@@ -5,13 +5,14 @@ import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';
 
 /** Filter / choice chip, 48 tall (touch target). Selected = ink fill. */
-export function Chip({ label, selected, onPress, grow }: { label: string; selected?: boolean; onPress?: () => void; grow?: boolean }) {
+/** `kind` tells screen readers how the chip behaves: one of many (radio) or any number (checkbox, the default). */
+export function Chip({ label, selected, onPress, grow, kind = 'checkbox' }: { label: string; selected?: boolean; onPress?: () => void; grow?: boolean; kind?: 'checkbox' | 'radio' }) {
   const { c } = useTheme();
   return (
     <Pressable
       onPress={onPress}
-      accessibilityRole="button"
-      accessibilityState={{ selected }}
+      accessibilityRole={kind}
+      aria-checked={!!selected}
       style={({ pressed }) => ({ minHeight: 48, paddingHorizontal: space[16], borderRadius: radius.full, alignItems: 'center', justifyContent: 'center', backgroundColor: selected ? c.bgInverse : c.bgSurface, borderWidth: 1, borderColor: selected ? c.bgInverse : c.borderDefault, opacity: pressed ? 0.85 : 1, flexGrow: grow ? 1 : 0 })}
     >
       <AkadaText variant="labelMedium" style={{ color: selected ? c.textInverse : c.textSecondary }}>{label}</AkadaText>

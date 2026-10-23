@@ -42,12 +42,12 @@ export function DepartmentCard({ title, description, image, selected, onPress }:
     <Pressable
       onPress={onPress}
       accessibilityRole="radio"
-      accessibilityState={{ selected }}
+      aria-checked={selected}
       style={{ flexDirection: 'row', alignItems: 'center', gap: space[16], padding: space[12], borderRadius: radius.lg, borderWidth: selected ? 2 : 1, borderColor: selected ? c.primary : c.borderDefault, backgroundColor: selected ? c.primaryContainer : c.bgSurface }}
     >
       <Image source={image} style={{ width: 80, height: 80, borderRadius: radius.md, backgroundColor: c.bgSunken }} accessible={false} />
       <View style={{ flex: 1, gap: space[4] }}>
-        <AkadaText variant="h3">{title}</AkadaText>
+        <AkadaText variant="h3" heading={false}>{title}</AkadaText>
         <AkadaText variant="bodySmall" color="textSecondary">{description}</AkadaText>
       </View>
       {selected

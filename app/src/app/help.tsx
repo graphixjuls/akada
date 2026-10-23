@@ -17,7 +17,9 @@ const FAQ: [string, string][] = [
   ['How does practice work?', 'Pick a subject, then a topic, or start a quick practice. You get 10 questions at a time. Check each answer to see if it’s right and read the explanation. Questions you haven’t answered yet come first.'],
   ['How do mock tests work?', `Choose which of your subjects to include. Each one gets ${MOCK_FORMAT.questionsPerSubject} random questions and about ${MOCK_FORMAT.secondsPerQuestion} seconds per question. The timer keeps running if you leave, and the test submits itself when time runs out.`],
   ['Can I change my subjects?', 'Yes, as many times as you like. Go to Profile, then My subjects, then Change. No subject is compulsory.'],
-  ['Do I need the internet?', 'No. All the questions are inside Akada, so practice and mock tests work offline.'],
+  ['Can I turn the sounds off?', 'Yes. Go to Profile, then Settings, then Sounds, and choose Off. Mock tests are always silent.'],
+  ['Does Akada work with a screen reader?', 'Yes. Akada works with TalkBack on Android and with screen readers on the web. Answers, choices and results are read out, and screen titles are headings you can jump between.'],
+  ['Do I need the internet?','No. All the questions are inside Akada, so practice and mock tests work offline.'],
   ['Where is my progress saved?', `Only on ${THIS_DEVICE}. There’s no account, so your progress doesn’t move to another phone or browser. Reset progress in Profile deletes it.`],
   ['Is this the real exam?', 'No. These are original practice questions built around common SS1 to SS3 topics. Always check your school’s scheme of work.'],
 ];

@@ -71,6 +71,33 @@ describe('returning student', () => {
     expect(screen.getByRole('button', { name: 'Next question' })).toBeTruthy();
   });
 
+  it('tells screen readers which answer is chosen and announces the result', async () => {
+    await renderRouter(APP, { initialUrl: '/practice/session?subject=chemistry&topic=chm-bonding' });
+    await screen.findByText('Check answer');
+    const q = questionsFor('chemistry', 'chm-bonding').find(x => screen.queryByText(x.text))!;
+    const wrong = (q.answerIndex + 1) % 4;
+    await fireEvent.press(screen.getByLabelText(`${'ABCD'[wrong]}. ${q.options[wrong]}`));
+    expect(screen.getByRole('radio', { checked: true })).toBeTruthy();
+    await fireEvent.press(screen.getByRole('button', { name: 'Check answer' }));
+    const result = await screen.findByText(`Not quite. The answer is ${'ABCD'[q.answerIndex]}.`);
+    // The result sits inside a polite live region, so it is read out when it appears.
+    let node = result.parent;
+    while (node && node.props['aria-live'] !== 'polite') node = node.parent;
+    expect(node).toBeTruthy();
+  });
+
+  it('marks screen titles as headings', async () => {
+    await renderRouter(APP, { initialUrl: '/practice' });
+    expect(await screen.findByRole('heading', { name: 'Practice' })).toBeTruthy();
+  });
+
+  it('offers a Sounds setting as a radio choice', async () => {
+    await renderRouter(APP, { initialUrl: '/settings' });
+    await screen.findByText('Sounds');
+    await fireEvent.press(screen.getByRole('radio', { name: 'Off' }));
+    expect(screen.getByRole('radio', { name: 'Off', checked: true })).toBeTruthy();
+  });
+
   it('starts a mock test with a running timer', async () => {
     await renderRouter(APP, { initialUrl: '/mock' });
     await fireEvent.press(await screen.findByText('Start test'));

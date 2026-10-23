@@ -27,7 +27,7 @@ function Stat({ emoji, value, label, progress }: { emoji: EmojiName; value: stri
   return (
     <Card style={{ flex: 1 }} gap={space[8]}>
       <Emoji name={emoji} size={40} />
-      <AkadaText variant="h2">{value}</AkadaText>
+      <AkadaText variant="h2" heading={false}>{value}</AkadaText>
       {progress !== undefined && <ProgressBar value={progress} />}
       <AkadaText variant="bodySmall" color="textSecondary">{label}</AkadaText>
     </Card>

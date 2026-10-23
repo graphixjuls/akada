@@ -94,8 +94,9 @@ function Slides() {
         onScroll={e => setIndex(Math.round(e.nativeEvent.contentOffset.x / width))}
         scrollEventThrottle={32}
         getItemLayout={(_, i) => ({ length: width, offset: width * i, index: i })}
-        renderItem={({ item }) => (
-          <View style={{ width, paddingHorizontal: space[20], gap: space[24] }}>
+        renderItem={({ item, index: i }) => (
+          // Only the slide on screen is read out; Next moves screen readers to the following one.
+          <View style={{ width, paddingHorizontal: space[20], gap: space[24] }} aria-hidden={i !== index}>
             <Photo source={item.image} height={Math.max(220, height * 0.42)} />
             <View style={{ gap: space[12] }}>
               <AkadaText variant="h1" align="center">{item.title}</AkadaText>

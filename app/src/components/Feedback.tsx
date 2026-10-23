@@ -7,6 +7,7 @@ import { AkadaIcon } from './AkadaIcon';
 import { AkadaText } from './AkadaText';
 import { Button } from './Button';
 import { Emoji, type EmojiName } from './Emoji';
+import { FadeIn } from './Motion';
 
 /** Centered confirmation on a bg/scrim overlay. One Primary + one Ghost. */
 export function Dialog({ visible, title, body, primaryLabel, onPrimary, secondaryLabel, onSecondary }: { visible: boolean; title: string; body: string; primaryLabel: string; onPrimary: () => void; secondaryLabel: string; onSecondary: () => void }) {
@@ -48,15 +49,18 @@ export function ToastProvider({ children }: { children: ReactNode }) {
     error: { bg: c.errorContainer, fg: c.error, icon: WarningCircleIcon },
     info: { bg: c.primaryContainer, fg: c.primary, icon: InfoIcon },
   }[toast.type];
+  // The live region is always present so screen readers announce each new message.
   return (
     <ToastCtx.Provider value={show}>
       {children}
-      {toast && look && (
-        <View pointerEvents="none" accessibilityLiveRegion="polite" style={[{ position: 'absolute', left: space[20], right: space[20], maxWidth: 480, marginHorizontal: 'auto', bottom: insets.bottom + 140, flexDirection: 'row', alignItems: 'center', gap: space[12], padding: space[12], borderRadius: radius.lg, backgroundColor: look.bg }, shadow.floating]}>
-          <AkadaIcon icon={look.icon} color={look.fg} />
-          <AkadaText variant="labelMedium" style={{ flex: 1 }}>{toast.message}</AkadaText>
-        </View>
-      )}
+      <View pointerEvents="none" aria-live="polite" style={{ position: 'absolute', left: space[20], right: space[20], maxWidth: 480, marginHorizontal: 'auto', bottom: insets.bottom + 140 }}>
+        {toast && look && (
+          <FadeIn key={`${toast.message}-${toast.type}`} style={[{ flexDirection: 'row', alignItems: 'center', gap: space[12], padding: space[12], borderRadius: radius.lg, backgroundColor: look.bg }, shadow.floating]}>
+            <AkadaIcon icon={look.icon} color={look.fg} />
+            <AkadaText variant="labelMedium" style={{ flex: 1 }}>{toast.message}</AkadaText>
+          </FadeIn>
+        )}
+      </View>
     </ToastCtx.Provider>
   );
 }
@@ -76,14 +80,16 @@ export function Banner({ title, body }: { title?: string; body: string }) {
   );
 }
 
-/** Empty state: emoji, title, one sentence, optional action. */
+/** Empty state: emoji, title, one sentence, optional action. 32 between the emoji and the text, 8 between title and sentence. */
 export function EmptyState({ emoji, title, body, action }: { emoji: EmojiName; title: string; body: string; action?: ReactNode }) {
   return (
-    <View style={{ alignItems: 'center', gap: space[8], paddingVertical: space[32] }}>
+    <View style={{ alignItems: 'center', gap: space[32], paddingVertical: space[32] }}>
       <Emoji name={emoji} size={72} />
-      <AkadaText variant="h2" align="center">{title}</AkadaText>
-      <AkadaText variant="bodyMedium" color="textSecondary" align="center">{body}</AkadaText>
-      {action && <View style={{ alignSelf: 'center', marginTop: space[8] }}>{action}</View>}
+      <View style={{ alignItems: 'center', gap: space[8] }}>
+        <AkadaText variant="h2" align="center">{title}</AkadaText>
+        <AkadaText variant="bodyMedium" color="textSecondary" align="center">{body}</AkadaText>
+        {action && <View style={{ alignSelf: 'center', marginTop: space[8] }}>{action}</View>}
+      </View>
     </View>
   );
 }

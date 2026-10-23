@@ -14,7 +14,7 @@ export function SubjectCard({ title, subtitle, color, emoji, progress, status, o
         <Emoji name={emoji} size={32} />
       </View>
       <View style={{ gap: space[4] }}>
-        <AkadaText variant="h3" numberOfLines={1}>{title}</AkadaText>
+        <AkadaText variant="h3" heading={false} numberOfLines={1}>{title}</AkadaText>
         <AkadaText variant="bodySmall" color="textSecondary" numberOfLines={2}>{subtitle}</AkadaText>
       </View>
       <ProgressBar value={progress} color={sc.strong} height={6} />

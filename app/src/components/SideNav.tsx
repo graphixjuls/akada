@@ -53,7 +53,7 @@ export function SideNav({ rail }: { rail?: boolean }) {
             key={key}
             onPress={() => router.navigate(HREF[key])}
             accessibilityRole="tab"
-            accessibilityState={{ selected: on }}
+            aria-selected={on}
             accessibilityLabel={tab.label}
             style={({ pressed, hovered }: { pressed: boolean; hovered?: boolean }) => (rail
               ? { alignItems: 'center', gap: space[4], minHeight: 52, width: 72, opacity: pressed ? 0.85 : 1 }

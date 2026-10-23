@@ -24,7 +24,7 @@ export default function ExamDate() {
       <TextField label="Exam date" value={date} onChangeText={setDate} placeholder="e.g. 15 Apr 2027" icon={CalendarBlankIcon} helper="Check your school timetable for the date. You can skip this for now." />
       <Stack gap={space[12]}>
         <AkadaText variant="labelMedium">Daily goal</AkadaText>
-        <Wrap>{GOALS.map(x => <Chip key={x.min} label={x.label} selected={goal === x.min} onPress={() => setGoal(x.min)} />)}</Wrap>
+        <Wrap>{GOALS.map(x => <Chip key={x.min} label={x.label} kind="radio" selected={goal === x.min} onPress={() => setGoal(x.min)} />)}</Wrap>
         <AkadaText variant="bodySmall" color="textSecondary">About {g.q} questions a day.</AkadaText>
       </Stack>
     </Screen>

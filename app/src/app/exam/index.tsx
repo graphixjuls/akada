@@ -88,7 +88,7 @@ export default function Exam() {
     const name = subjectMeta(sid).name;
     if (first < 0) return null;
     const short = name.replace(' Language', '').replace('Further Mathematics', 'Further Maths');
-    return <View key={sid}><Chip label={desktop ? name : short} selected={sid === q.subjectId} onPress={() => goto(first)} /></View>;
+    return <View key={sid}><Chip label={desktop ? name : short} kind="radio" selected={sid === q.subjectId} onPress={() => goto(first)} /></View>;
   });
   const summary = (
     <Stack gap={space[4]} style={{ flex: 1 }}>
